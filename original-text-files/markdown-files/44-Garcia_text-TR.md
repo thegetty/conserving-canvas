@@ -1,0 +1,83 @@
+label: "44”
+
+title: A Method for Remounting Lined Paintings Using Beva 371 Film
+
+subtitle:
+
+contributor:
+
+-   first_name: Elizabeth
+
+> last_name: Court
+>
+> title: Chief Conservator of Paintings (retired)
+>
+> affiliation: Balboa Art Conservation Center
+
+-   first_name: Alexis
+
+> last_name: Miller
+>
+> title: Head Conservator of Paintings
+>
+> affiliation: Balboa Art Conservation Center
+
+-   first_name: Bianca
+
+> last_name: García
+>
+> title: Assistant Conservator of Paintings
+>
+> affiliation: Balboa Art Conservation Center
+
+keywords:
+
+abstract: This poster describes the evolution and current technique of the procedure employed in remounting lined paintings at the Balboa Art Conservation Center (BACC). BACC has been performing structural treatments, including the lining of canvases, since its establishment in 1975. As lining practices have changed and evolved over the years, so have the approaches to reattachment and retensioning of paintings on stretchers at BACC. Starting with the technique of wax lining and the attachment of lining canvases and original tacking edges to the stretcher using adhesive all around the edges, the center has moved to a system of reattaching lined canvases to their stretchers using Beva since the early 1980s. The adhesive provides more even, constant tension all around the edges, as opposed to the individual points of stress that occur when using the traditional method of restretching and attachment with tacks or staples only. The BACC method also minimizes any stress on the original canvas by attaching and tensioning the lining canvas before the original tacking margins are gently folded back and secured into place.
+
+short_title: A Method for Remounting Lined Paintings Using Beva 371 Film
+
+# \<A-head\> Introduction
+
+The Balboa Art Conservation Center (BACC) has been performing structural treatments on canvas paintings, including linings, since its establishment in 1975. When Beva 371 replaced wax resin as the most frequently used lining adhesive starting in the early 1980s, it was first used in much the same way that wax had been: the adhesive was applied to the edges of the lining fabric and used it to adhere the edges of the lining and the original tacking edges to the stretcher. However, material and handling differences between wax resin and Beva 371 presented problems from the start. Beva 371 does not allow the original tacking edges to slide over the lining as it is bent around the stretcher, as wax does when heated, leading to stress on the tacking edges. A face-down remounting procedure that evolved and has been used at BACC since approximately 1985 addresses these issues, creates even tension around all sides of the painting (eliminating anchor points created by tacks or staples), and protects the original tacking margins from stress and splitting.
+
+# \<A-head\> Preparation Steps
+
+Certain tasks precede the lining itself.
+
+-   Any tears in the original tacking edges or splitting along the turnover edges are mended or reinforced before lining, for example with Japanese tissue.
+
+-   In preparing the lining fabric, the adhesive is applied to the lining precisely within the picture area, preferably approximately 1/16 inch smaller on all sides; it does not extend onto where the tacking edges will lie. The adhesive used for lining has no bearing on this remounting technique.
+
+-   The placement of the lined painting on the stretcher is determined and marked before proceeding. This can be accomplished with strategic pinpricks from the front connected with lines drawn on the reverse of the lining. The lining fabric is then precreased along these lines.
+
+-   The lining fabric is cut at the corners so that it does not impede keying or expanding the stretcher.
+
+# \<A-head\> The Process
+
+Lining is a six-step process.
+
+1.  Prepare the stretcher by adhering Beva 371 film cut to the depth of the stretcher. There should be adhesive around the perimeter of the stretcher ([**fig. 44.1**](fig-44-1)).
+
+2.  The lined painting is placed face down on a flat surface. The lining canvas is precreased at the fold-over edge ([**fig. 44.2**](fig-44-2)) to both help guide the conservator in the placement of the stretcher and to avoid the effect commonly known as TV screening (named for televisions’ original old slightly rounded cathode-ray tube displays). The stretcher is put in place and adjusted as needed to accommodate the size of the painting.
+
+3.  The tacking margins of the lining canvas are secured to the stretcher with pushpins on the back of the stretcher ([**fig. 44.3**](fig-44-3)). There should be no excessive pulling or tensioning of the lining fabric; the goal is to simply hold the canvas in place.
+
+4.  Using a tacking iron, heat the tacking margins of the lining to activate the Beva 371 film and secure the painting to the stretcher ([**fig. 44.4**](fig-44-4)). The fabric is pulled taut with hand strength, working around the four sides, making sure that the lining fabric has properly adhered to the stretcher.
+
+5.  At this point the stretcher can be gently expanded to properly tension the painting. The original tacking margins of the painting will stick out ([**fig. 44.5**](fig-44-5)).
+
+6.  The original tacking margins can now be folded down and secured with the preferred method, for example, tacks or staples ([**fig. 44.6**](fig-44-6)).
+
+# \<A-head\> Advantages of the System
+
+The BACC system has a number of advantages.
+
+-   The plane of the painting is established by laying it face down on a flat surface. The conservator is not applying force (unevenly) to pull it flat. Canvas pliers or excessive pulling is not required.
+
+-   Attachment of the lining canvas to the entire edges of the stretcher with Beva 371 film provides even tension when the stretcher is opened out, as opposed to individual points of stress when using tacks or staples.
+
+-   Beva 371 has good shear strength and will not slip when the lining canvas is tensioned.
+
+-   The stress of proper tensioning of the lined painting on the stretcher is carried primarily by the lining canvas, while the original canvas—and especially the fragile tacking edges—are not pulled.
+
+-   After they are gently folded down, the tacking margins need not be adhered to the lining overall, making reversal of the lining in the future, if needed, easier and less stressful to the original canvas.

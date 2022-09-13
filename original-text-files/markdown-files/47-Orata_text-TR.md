@@ -1,0 +1,57 @@
+label: "47"
+
+title: A System to Keep Paintings on Canvas at a Constant Tension during Conservation Treatment
+
+subtitle:
+
+contributor:
+
+-   first_name: Luigi
+
+> last_name: Orata
+>
+> title: Professor of Structural Conservation Treatment.
+>
+> affiliation: Academies of Fine Arts, Bologna; Brera, Milan; and Naples
+
+keywords: constant tension, double strip lining, stretcher, structural conservation
+
+abstract: This paper focuses on the issue of tension variation on canvas paintings during conservation treatment. The solution proposed has been developed through the observation of several cases encountered during many years of professional activity. It aims at keeping the painting in a constant tension during structural conservation phases, thus minimizing potential damage on the canvas.
+
+short_title: A System to Keep Paintings at Constant Tension during Treatment
+
+# 
+
+# \<A-head\> Introduction
+
+When a painting on canvas is removed from its stretcher, it usually undergoes a tension variation. In most cases it will be restretched, using added tacking edges, on a temporary stretcher for structural treatment (for example, consolidation of the paint and ground layers or for lining). During this operation, the painting is put under tension and stretched. When the work is finished, the canvas is detached again (another contraction) to be definitively stretched on the final stretcher (another stretching). These repeated movements cause mechanical stresses in the painting that affect its different layers: the canvas as well as ground and paint layers and these can result in real structural microtraumas.
+
+The problem has previously been highlighted, for instance by V. R. Mehra and Sergio Taiti.[^1] Both restorers, despite coming from different restoration traditions and schools of thought, dedicated particular attention to the study of a method for maintaining constant tension during the treatment of a painting, specifically so as to avoid problems created by relaxation and contraction of the canvas. Mehra set up a well-known system with three stretchers in which, after the painting is removed from its stretcher, it is immediately tensioned on an interim stretcher by means of a nonwoven fabric. After the consolidation phase (or after lining, in the final phase), the system obtained is dismantled and then the painting is remounted on the definitive stretcher. A possible solution, shared during his lessons, consisted of remounting the painting from the interim stretcher to a larger, definitive stretcher. The latter is positioned on the back, and the canvas is secured directly from the front, along the original edges, with metal staples. Naturally, Mehra was aware that this practice was not always feasible, especially in the presence of an original stretcher or dimensional restrictions (for example, due to a frame or reinstallation in an architectural niche).
+
+In parallel, Taiti, well aware of the stresses and movements occurring in a painting undergoing consolidation with animal glue in an aqueous solution (following the traditional techniques of Florentine glue-paste lining), figured out how to mount the painting on a larger interim stretcher. He employed strips of kraft paper, later replaced by polyester canvas as the use of different materials evolved, and thus maintained tension until the eventual lining. He was also developing ideas on the final step, although, unfortunately, these were never brought to fruition due to his premature death.
+
+The sensitivity of approach demonstrated by these two important figures for numerous aspects of restoration was greatly influential as it spurred the desire to continue delving into what is a delicate and often undervalued theme.
+
+# \<A-head\> A Versatile System
+
+My experience in the field of structural conservation of canvas paintings has allowed me to test and use a system[^2] to mitigate the problem of variation in tension of canvases undergoing restoration, with significant results. This innovation aims to maintain the painting under a constant tension during all of the phases of treatment and to transfer the degree of tension that is initially established for the temporary stretcher to the definitive one, thereby avoiding the potentially damaging “accordion” effect.
+
+The system is extremely versatile in that it is applicable to paintings undergoing either only consolidation or a full lining, and hinges on the use of specially designed perimeter strips. Each strip is composed of two polyester canvas layers: the first, a lightweight polyester that comes in contact with the original painting (Origam 254, 18 g/m^2^), and the second, a heavier polyester (Trevira C.S. Ispra, 130 g/m^2^). Each is frayed[^3] for about 10 mm along the longer edge. The individual strips, thus prepared, are then paired in a staggered manner, longitudinally, with Beva film between them. They are then inserted in a vacuum envelope, and the adhesive is reactivated by heating it to 80°C, a measure aimed at ensuring a particularly solid bond[^4] ([**fig. 47.1**](fig-47-1)).
+
+Once the painting is detached from the original stretcher, and after the back has been cleaned, it is possible to apply these double strips to the back of the original canvas (inside the fold-over marks from the original stretcher at a distance suited to the specific painting) with pressure (best if generated with vacuum suction, for a better and more even bond) and heat, but only up to the minimal temperature for Beva reactivation (65°C), to provide for better reversibility. This means the double strip adheres to the original canvas less aggressively, while the bond between the two strips is stronger.
+
+Afterward, the original canvas is stretched on the temporary stretcher using the plane of the table to provide support for the canvas as the double-layer perimeter strips are secured to the temporary stretcher ([**fig. 47.2**](fig-47-2)). After structural conservation treatment, the temporary stretcher and canvas are again laid face down on a flat surface. The definitive stretcher is then positioned on the back, within the width of the temporary stretcher, aligned with the fold-over marks on the original canvas. The first of the two layers of the added tacking margin (the heavier, outside one) is cut free from the temporary stretcher and fixed to the definitive one with steel staples, thus not allowing the canvas to contract (**[figs. 47.3](fig-47-3), [47.4](fig-47-4)**). Only after having secured the entire perimeter is the second layer of the strip cut free from the working stretcher and fixed to the definitive one ([**fig. 47.5**](fig-47-5)).
+
+This sequence avoids variations in tension as, during the shift to the final stretcher, a bond is always maintained with the temporary stretcher. The initial tension is constant and can be transferred to the definitive stretcher.
+
+For further study, the system could be tested on different models while carrying out measurements in order to give some scientific weight to the method described. This would provide numerical values and objective data to support the use of this simple technical innovation.
+
+# \<A-head\> Notes
+
+[^1]: Sergio Taiti was head restorer of the structural conservation of canvas paintings at the Opificio delle Pietre Dure (OPD) from the 1940s to 1987, the year of his death.
+
+[^2]: The first use of this system was in 2002 on the painting that was the subject my diploma thesis: Bartolomeo Bimbi, *Le zucche dei monaci di Monteoliveto,* 1714, oil on canvas, 202 x 144 cm.
+
+[^3]: The aim of the fraying is to lessen the abruptness of the differential created by the thermal-hygrometric exchange between front and back of the original canvas.
+
+[^4]: Alternatively, different adhesives, canvases, or adhesion methods can be used, taking into consideration the adhesive strength that is optimal with respect to the characteristics of the painting.

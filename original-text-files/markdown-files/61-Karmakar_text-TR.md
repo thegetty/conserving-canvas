@@ -1,0 +1,95 @@
+label: "61"
+
+title: Termite Attack in a Humid Climate: How to Deal with Damaged Canvases
+
+subtitle: The Conservation of \*The Delhi Durbar (1903)\*: A Case Study
+
+contributor:
+
+-   first_name: Dibakar
+
+> last_name: Karmakar
+>
+> title: Restoration Assistant
+>
+> affiliation: Victoria Memorial Hall, Kolkata
+
+-   first_name: Baishakhi
+
+> last_name: Mallick
+>
+> title: Restoration Assistant
+>
+> affiliation: Victoria Memorial Hall
+
+keywords:
+
+abstract: This case study discusses the extent of damage caused by termite attack on a large iconic oil painting: *The Delhi Durbar (1903)*, by Roderick Dempster MacKenzie (1865–1941) from the collection of Victoria Memorial Hall, Kolkata. The monumental painting (340 x 544 cm), is painted on a single piece of linen canvas. It had suffered structural damage in the past that was treated by adding strip-linings, patches, and local repairs for tears. These older, local repairs were failing, and furthermore, termite damage was also present along one vertical stretcher member. The tropical climatic zone of Kolkata places artworks at high risk of biodeterioration. It is impossible to fully prevent the development of termite colonies inside century-old buildings like Victoria Memorial Hall. The large scale of the painting and its condition presented a considerable conservation challenge. This poster presents step by step how the VMH conservation team repaired the damaged canvas with minimum interference.
+
+short_title: Termite Attack in a Humid Climate
+
+# \<A-head\> Introduction
+
+Victoria Memorial Hall, in Kolkata, India, holds a vast collection of important historical artifacts and documents from the British Colonial period (eighteenth and nineteenth centuries) and houses one of the largest collections of Western oil paintings in India. One of the museum[’]{dir="rtl"}s major galleries is the Royal Gallery, which displays the large-scale painting *The State Entry into Delhi by Lord and Lady Curzon, Delhi Durbar (1903)* by Roderick Dempster MacKenzie (1865–1941) ([**fig. 61.1**](fig-61-1)). The conservation of this painting is of paramount importance to the museum and its staff.
+
+A longstanding collaboration among experts in the structural conservation of paintings and the museum’s conservation department has been ongoing since the 1990s. The Calcutta Tercentenary Trust project (1990–2002) allowed a team of British, European, and American visiting conservators to instruct Indian colleagues in current lining practices applicable to Kolkata’s climate. More recent training of members of the conservation team of the museum through the Indian Conservation Fellowship Program has paved the way for a more updated approach. These international collaborations and supports allowed the museum conservation team to devise a treatment plan suitable for this large-scale canvas painting.
+
+# \<A-head\> Historical Background of \**Delhi Durbar 1903\**
+
+The term *durbar* was used in Mughal India to refer to a meeting of the ruler[’]{dir="rtl"}s court or council; it was adopted by the British to refer to a ceremonial gathering that demonstrated loyalty to the crown.[^1] The painting that is the subject of the case study depicts the second such occasion; a previous Durbar was held in 1877 to proclaim Queen Victoria Empress of India. Following Victoria[’]{dir="rtl"}s death in 1901, the 1903 Durbar marked the declaration of Edward VII and Queen Alexandra as Emperor and Empress of India. Though the royal couple did not attend the ceremony, they were represented by Edward[’]{dir="rtl"}s brother, the Duke of Connaught, seen riding on the second elephant in the scene.
+
+The viceroy, Lord Curzon, commissioned the Anglo-American artist Roderick MacKenzie (1865–1941) to paint the ceremonial procession. Lord Curzon is depicted seated on the elephant leading the procession in the painting. The entire event culminated in a grand coronation ball attended only by the highest-ranking guests and overseen by Lord Curzon and the stunning Lady Curzon in her glittering jewels and regal peacock gown.
+
+After this first painting, MacKenzie subsequently painted the same scene on a slightly smaller scale. The latter painting is now in the collection of the Bristol Museum and Art Gallery in the UK.
+
+# \<A-head\> Conservation of *Delhi Durbar 1903*
+
+In 2016, during a survey of the museum’s holdings, it was discovered that the magnificent and historically important painting *Delhi Durbar 1903* (the second largest painting in the museum’s collection at 340 x 544 cm), had developed a termite channel vertically on the back between the stretcher and canvas. The high humidity of a tropical climatic zone like Kolkata places artworks at high risk of biodeterioration. It is impossible to fully prevent the development of a termite colony inside a century-old building like Victoria Memorial Hall, particularly as it is surrounded by fifty-seven acres of gardens. Despite regular monitoring and our other efforts, we could not prevent termite attacks on our precious collections.
+
+Nonetheless, this type of loss was an eye opener, and action was taken immediately to eliminate the living elements, followed by necessary conservation treatment. The assignment to conserve such a historically important painting was both an honor and ~~a~~ challenge. As conservators, we were grateful for the opportunity.
+
+## \<A-head\> Condition
+
+The condition of the painting from the front side was generally good. There was termite damage in a few particular places on the front where the termite channel had developed from the back; a few holes were visible and loose dust had accumulated on the surface of the paint layer. It is relevant to mention here that the painting had been treated just a decade before to remove of altered varnish layer and for necessary conservation.
+
+When we took up the assignment, we noticed that the actual problem lay at a location beyond our reach unless the painting were to be removed from its stretcher, as the termite channel had reached the top of the painting in between the painting and the stretcher crossbar. Assessment of the extent of the damage due to termite attack was impossible without removing the obstruction of the stretcher. Accordingly, after surface cleaning and application of facing on the areas of loss, a decision was made to lay the painting on the floor to remove the stretcher.
+
+As this is the second-largest painting in Victoria Memorial’s collection, handling and transportation itself requires proper planning. To lessen the huge gravitational force on the canvas, which is basically attached to the stretcher by rusted nails, specialized and professional handling was needed. The painting was first covered with Tyvek and cotton tape. Thereafter, a bed was prepared on the floor of the Royal Gallery, ensuring a flat, safe surface. The plan was then discussed again with everyone involved. Finally, the action of moving the painting started, and it was successfully laid on the prepared bed.
+
+## \<A-head\> Findings and Observations
+
+After removing the tape and Tyvek, removal of the stretcher was initiated. Within a couple of days, the stretcher had been removed and separated from the painting. Then the extent of damage could be observed from the back side ([**fig. 61.2**](fig-61-2)). One positive about the stretcher was that hardwood had been used to construct it; this prevented the termites from chewing into the wood, so only a mud channel had developed on the stretcher surface ([**fig. 61.3**](fig-61-3)). But due to the organic nature of the canvas, the termites had eaten away the canvas cloth up to the ground layer, where the channel developed.
+
+It was also noticed that at the time of previous conservation activity, extra unpainted edge areas had been removed and original painted portions were used as fold-over edges and nailed through to attach the canvas to the stretcher. Therefore, the exact dimensions of the painting at the time of execution are unknown.
+
+The remains of a very old lining canvas were found under the stretcher bars. No adhesive was noted that would have attached this canvas to the reverse of the original; it could be peeled off without effort. This full, additional lining might have been removed sometime in the past. It was cut at the intersection of the stretcher, leaving the remains behind. This was evidence that the stretcher had not been removed during the past treatment, of which there is no documented evidence.
+
+Numerous patches (also undocumented) had been applied to the reverse of the canvas to provide support for tears and holes. These were attached using an animal glue as a binder, and the glue had degraded, resulting in a weak bond. The evidence of these past treatments indicated that the termite attack had occurred in the more distant past. .
+
+## \<A-head\> Treatment
+
+Once the condition was assessed, a treatment proposal was prepared that included strip-lining. For preparation of the strip-lining, requisite conservation steps like flattening the edges of the canvas, removing the old patches, and manual cleaning of the surface of the canvas were undertaken. In order to clean the canvas, at the outset dusting and cleaning was done with a vacuum cleaner. Gently rubbing ground eraser powder on the reverse of the original canvas delivered a good result in removing the dirt from the back.
+
+Manual cleaning with scalpels was also done to remove the old patches and their residual dry adhesive ([**fig. 61.4**](fig-61-4)). It was decided not to remove the vertical patches in one go, as it was observed that they held the original canvas together. The termite damage had eaten away at the original support, effectively splitting the canvas into two almost independent sections. Had the vertical patches been removed all at once, it could have made it difficult or impossible to exactly align the two halves of the painting. Therefore, the patches around the perimeter of the support were removed first, leaving the central ones intact. Then the strip-lining of Beva 371 and sailcloth was applied to the perimeter.
+
+An experiment of overlapping the sailcloth on every corner was done, where cloth from both sides was merged in order to maintain equal thickness and tension in each corner. This prevented problems when re-stretching the canvas to its stretcher. Once the perimeter was stabilized with the strip-lining, the old patches in the center of the support could be removed. In this way, the potential alignment problem was avoided, and the damage to the center could be handled. The old patches could be removed manually very easily. Manual cleaning of dried adhesives revealed when removing was also carried out.
+
+In some places, where termites had ingested the canvas fiber entirely, a layer of splintered cotton wool fiber with Beva 371 binder and thin synthetic cloth was applied to maintain an equal level with nearby areas. The termite-damaged area was repaired sufficiently by applying two larger vertical patches and four smaller ones. The same adhesive and patch material was used for all support additions. After completion of all additions, the whole strip-lining was executed successfully ([**fig. 61.5**](fig-61-5)).
+
+The second phase of conservation started with necessary cleaning and repairing of the stretcher by removing the nails, followed by applying a loose-lining and then restretching the painting. In line with our decision to apply the loose-lining, a market survey was carried out to find a wide, starch-free cloth. Ultimately, a cloth fitting our requirements was found at Burra Bazar Cotton Street, in Kolkata. One vertical seam was necessary to get the required dimension, and then the loose lining was completed.
+
+Following the loose lining the original canvas was restretched. To protect the edges of the painted area of fold-over edges, a strip of acid-free cardboard the same width as stretcher was placed as a buffer between the tacks and the paint surface before executing the nailing. This buffer material will help to keep the outer frame from abrading the original painted portion at the fold-over edge. The back side of the painting was also given a Tyvek cover to avoid further accumulation of dust and dirt.
+
+After the painting was put back against the wall, a few interferences that occurred during the structural repair due to loss of the old filler were refilled successfully. The conservation of the painting was completed with required reintegration and varnish matching locally (see [**fig. 61.1**](fig-61-1)).
+
+# \<A-head\> Conclusion
+
+The foremost priority of attending to the structural repair of the painting *Delhi Durbar 1903* was to make it stable. We have successfully resolved that issue. The assignment was very special to us, as the infrastructure actually required for handling such a magnificent painting was not available, but we successfully overcame those issues with our limited resources and practical experience. In the meantime, the Royal Gallery of Victoria Memorial Hall was renovated and has reopened to the public after two decades. We are happy to see *Delhi Durbar* on display again at the Royal Gallery.
+
+# \<A-head\> Acknowledgements
+
+We are thankful to our secretary and curator for the opportunity to do the conservation and for giving the utmost priority to this job and providing all kinds of help on an urgent basis. We were honored to get be able to present our case study at the Conserving Canvas Symposium in 2019. A very special thanks to Yale University and Getty Foundation for extending support to attend the symposium.
+
+# \<A-head\> Notes
+
+[^1]: See <https://www.britannica.com/topic/durbar>.

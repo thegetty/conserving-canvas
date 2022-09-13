@@ -1,0 +1,77 @@
+label: "55"
+
+title: Conservation and Restoration of \*The Crucifixion,\* an Eighteenth-Century Canvas Painting
+
+subtitle: Challenges of Large-Scale Lining, Complicated Tear Repair, and Verification of Authorship
+
+contributor:
+
+-   first_name: Katarzyna
+
+> last_name: Dobrzańska
+>
+> title:
+>
+> affiliation: Jan Matejko Academy of Fine Arts, Kraków, Poland
+
+-   first_name: Magdalena
+
+> last_name: Lentowicz
+>
+> title:
+>
+> affiliation: Jan Matejko Academy of Fine Arts
+
+keywords: canvas painting, painting conservation, eighteenth-century art, Polish art
+
+abstract: This paper describes the conservation treatment performed on a large-scale eighteenth-century canvas painting from the collection of the Museum of the John Paul II Catholic University of Lublin, Poland. The conservation and accompanying research was executed at Jana Matejko Academy of Fine Arts in Kraków. The former altar painting, depicting the crucifixion based on the composition of Coup de Lance by Rubens, had been subjected to numerous unprofessional repair attempts, resulting in its extremely poor and fragile condition. The large scale of the object influenced the decisions made during the conservation process. The damages were fully addressed during an extended, multistep treatment, which included removal of the overpainting, repair of canvas tears, relining, and reconstruction of the incomplete composition. Additionally, research into the authorship of the painting, which was attributed to the Polish painter Jan Bogumił Plersch (1732–1817) was conducted in an attempt to verify the historical sources.
+
+short_title: Conservation and Restoration of \*The Crucifixion\*
+
+# \<A-head\> Background
+
+The painting entitled *The Crucifixion* originates from the neoclassical parish church of Saint Mary Magdalene in Serniki, a village in Eastern Poland. The church, designed by the architect Jakub Fontana, was funded by Eustachy Potocki (1720–1768), a Polish magnate ({{Gombin 2009}}\|, 123). Formerly a main altar painting*, The Crucifixion* was attributed by local tradition to Jan Bogumił Plersch (1732–1817), one of the most important Polish painters active during the rule of Stanisław August Poniatowski (1732–1798), the last king of Poland ({{Król-Kaczorowska 1981}}). The painting depicts Christ on the cross with figures surrounding him, and was modeled after the composition of *Coup de Lance*, which was painted in 1620 for the Convent of the Friars Minor in Antwerp by Peter Paul Rubens. Rubens’s composition was reproduced in a popular graphic print by Boetius à Bolswert. The print itself was not based on the painting but on a later drawing prepared in Rubens’s studio ({{Art Institute of Chicago n.d.}}).[^1] This print appears to have served as a direct inspiration for the author of the Serniki painting.
+
+*The Crucifixion* was painted with oil paint on a primed linen canvas that was sewn together from two main and four additional smaller pieces. It was once mounted on a traditional wooden stretcher, which no longer existed at the time of the conservation. Due to the painting’s rapidly declining condition, many damaging alterations, and extensive overpaintings done throughout its history ([**fig. 55.1**](fig-55-1)), the painting was removed from permanent display in the main altar during the second half of the twentieth century ({{Brykowski 1975\|, 239}}). It was then kept in a storage room, where it was subjected to further decay, waiting for a future conservation treatment.
+
+As the project of conserving and restoring *The Crucifixion* exceeded the capabilities of a small parish, in 2014 the painting was handed over to the collection of the Museum of the John Paul II Catholic University of Lublin. It then became the subject matter of a joint master’s thesis executed at the Faculty of Conservation and Restoration of Works of Art at the Jan Matejko Academy of Fine Arts in Cracow from 2015 to 2017 ({{Dobrzańska and Lentowicz 2017}}).
+
+# \<A-head\> Condition and Treatment Goals
+
+The condition of the painting, which spent many years in the attic of a church, can be described as extremely poor ([**fig. 55.2**](fig-55-2)). Many unprofessional conservation attempts contributed to the dismal state of the artwork. The original support was lined to a linen canvas with a starch-based adhesive. The lining was almost completely detached from the painting. Underneath the lining, an attempt of strip lining was discovered; it had been done using a very coarse canvas and with a thick layer of rigid gluten glue and chalk gesso serving as an adhesive.
+
+There were also numerous stratified fabric patches ([**fig. 55.3**](fig-55-3), top), attached with beeswax to the back of the original canvas, which was also almost entirely covered with a black impregnating substance (most probably various oil paints and bitumen) (see [**fig. 55.2**](fig-55-2)). In addition, the canvas support was torn in many places, and its parts were roughly sewn together with twine, pierced through the front of the painting and all its layers ([**fig. 55.3**](fig-55-3), bottom). The original paint and ground layers had poor adhesion to the canvas support, which resulted in many losses. The painting had been overpainted several times with thick layers of oil paint. The whole structure was rigid yet fragile, and seriously deformed.
+
+The main goal of the conservation was to remove all harmful transformations. This was essential in order to recover the original painting. It should be noted that none of the alterations carried any historical or artistic value. The major overpainting was done around 1945–46. After that, due to the painting’s bad condition, it was displayed only occasionally. All of the other repairs could only be interpreted as rather makeshift attempts at stabilizing the painting’s structure, and they undoubtedly were not executed by a professional.
+
+# \<A-head\> Treatment Plan
+
+The treatment plan called for the removal of the old lining and patches, the cleaning of the back of the canvas, consolidation of the paint layer, flattening of deformations, removal of overpainting, and filling and reintegration of losses. Due to the condition of the painting and the severity of the damages, each step took several weeks or months to complete.
+
+The stage of addressing the consequences of the structural damage of the canvas support proved to be a particularly challenging part of the process, as the integrity of the material was almost completely lost. The most serious tear ran diagonally; it measured 2 meters in total and was amateurishly sewn together with twine ([**fig. 55.3**](fig-55-3), bottom). When the twine weakly holding the torn parts of the canvas was removed, it became clear that it was impossible to reassemble the pieces correctly without causing a great deformation. The diagonal tear reached about two-thirds the height of the whole painting, creating two almost separate “branches” of canvas, which became unevenly distorted after being subjected to changes in humidity: the gap between the parts reached 2.5 cm. However, the mutual edge of the torn parts was still identifiable.
+
+It would have been possible to maintain the existing arrangement by adhering the torn pieces together with the addition of the necessary inlay. However, the consequent distortion of the composition would have been so significant that this option was not pursued.
+
+# \<A-head\> Treatment Steps
+
+To gradually change the structure of the canvas support without causing stress to the already fragile paint layer, it was very gently subjected to higher humidity levels. The problematic areas of the canvas were moistened with blotters and relaxed, which enabled structural corrections. Single linen threads were temporarily adhered with Vinavil NPC to the edges of the torn parts to form a loose bridging, and the structure was secured with locally placed weights. The whole procedure was repeated several times, with the temporary bridging “braces” being reapplied in order to form a tighter join ({{Rouba 2000\|, 65}}). With such a large-scale tear, it was impossible to reconstruct the course of the original weave pattern completely by using a thread-by-thread approach. Nonetheless, the final results were still satisfactory; the remaining gap was not larger than 4 mm. The torn parts of the canvas were glued together with Vinavil NPC, matching their mutual edge, and this procedure did not cause any structural deformations. Only small inlays were inserted in places where the tear edge was destroyed and not possible to reweave. The repaired tears were secured from the back with Beva Tex.
+
+The next challenging step of the structural conservation of the canvas support was to apply a new lining in order to stabilize and secure the original canvas, which could no longer withstand its own weight. It was decided to make it a fully reversible lining using high-quality linen canvas and 65 µm Beva 371 Film. Because of the dimensions of the painting, the process was carried out in phases. The adhesive film was placed on the lining canvas impregnated earlier with a solution of Vinavil NPC. The lining canvas was placed on the back of the painting and ironed with hand irons to create the initial bond.
+
+The whole structure was then transferred to a heated suction table, where the lining was performed in three stages. As the size of the object was much larger than the dimensions of the suction table, it was treated in three separate sections with the remaining length of the painting secured on a roller. A modified version of a vacuum envelope was used during this process. The painting was placed face down, as the original canvas support was sewn from parts with protruding stitches. In this way, the danger of deepening distortions trailing the course of stitches was minimized. The whole process in its essence did not differ from a standard lining procedure. However, the dimensions of the painting required that additional thought be put into the handling of the object. The stability of the painting was ensured by mounting it on a specially designed constant tension metal stretcher. The stretcher was designed and made by Henryk Arendarski, using a patented construction method.[^2]
+
+It was decided that the conservation of *The Crucifixion* should be finalized with a complete and reversible reconstruction of the composition executed on the basis of the graphic print by Boetius à Bolswert. Without retouching, the overwhelming number of losses made the composition almost illegible to a viewer (see [**fig. 55.4**](fig-55-4)). Although this process could not be described as one strictly following the rule of minimal intervention, we believe it was the only chance for *The Crucifixion* to regain its aesthetic value ([**fig. 55.5**](fig-55-5)). As the painting will become part of a museum collection, thorough information about the conservation process will be provided with its exhibition.
+
+# \<A-head\> Verification of Authorship
+
+Research concerning the verification of the authorship was conducted simultaneously with the conservation process. Because of the poor condition of the original paint layer (see [**fig. 55.4**](fig-55-4)), it was almost impossible to perform a comparative, formal, or stylistic analysis with any other of Plersch’s paintings. No archival documents concerning the creation of the painting have survived, nor have any signatures or inscriptions been found. Extensive research and field studies were conducted, together with a comparative analysis of samples obtained from other paintings by Plersch done using scanning electron microscopy–energy dispersive X-ray (SEM-EDX). The chemical and physical examinations indicate that the ground composition in *The Crucifixion* is similar to another painting originating from the same church: *The Visitation of the Blessed Virgin Mary*, painted and signed by Plersch in 1760. Although the study remained inconclusive, it has allowed formation of a hypothesis for further investigation, which is being performed by Katarzyna Dobrzańska as a part of her postgraduate research at the Doctoral School of Jan Matejko Academy of Fine Arts in Cracow.
+
+# \<A-head\> Conclusion
+
+The conservation of large-scale paintings comes with its unique challenges. Many logistical matters require consideration, such as the handling of the object, the configuration of the workspace, and accessibility to certain areas of the artwork. Even basic treatments and procedures when performed on a large-scale object are unusually prolonged. Every aspect of addressing the consequences of structural damages to the canvas support required additional preparation. The conservation and restoration treatment of *The Crucifixion* was a challenging process; however, it laid the foundation for future research. The structural conservation of the canvas support, performed by two students at the beginning of their careers, was a valuable experience and an inspiration for future development.
+
+# \<A-head\> Notes
+
+[^1]: See <https://www.artic.edu/artworks/181067/the-crucifixion-coup-de-lance>.
+
+[^2]: See <http://arendarski.com.pl/>.

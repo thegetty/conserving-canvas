@@ -1,0 +1,161 @@
+label: "13"
+
+title: Lining as a Last Resort for a Large-Format Canvas Painting of the Early Nineteenth Century
+
+subtitle:
+
+contributor:
+
+-   first_name: Julia
+
+last_name: Brandt
+
+title:
+
+affiliation: Bayerisches Landesamt für Denkmalpflege
+
+-   first_name: Carina
+
+last_name: Volbracht
+
+title: Freelance Conservator, Munich, Germany
+
+affiliation:
+
+abstract: Over the past decades, lining of paintings has become more and more an *ultima ratio* measure in conservation practice. In case of the painting *Das Jüngste Gericht* (*The* *Last Judgment*) by Engelbert Zimmermann, assessment showed that only a lining would provide a sustainable treatment. Due to a previous treatment, the support was extremely brittle and had several large tears. The aim of the conservation treatment was to stabilize the support while preserving the original stretching system. To regain stability of the support and readability of the depiction, the heavily distorted support was remodeled, the tears were partially closed, and the painting was lined using the mist-lining technique. Where the original canvas was no longer fixed to the stretcher, the lining canvas was introduced between the support and the stretcher. After lining, the original and the lining canvas were both fixed to the stretcher. In areas where the original stretching system was still intact the lining canvas was fixed a few millimetres inside the stretcher. The treatment has made the depiction readable again and improved the overall impression of the painting without neglecting its history.
+
+short_title: Lining as a Last Resort for a Large-Format Canvas
+
+# \<A-head\> Introduction
+
+After the influential talks by Vishwa Mehra and Westby Percival-Prescott at the 1974 Comparative Lining Techniques conference in Greenwich, the dangers of lining became clear to everyone. Lining came to be understood more and more as a massive, largely irreversible intervention in the structure of the painting. The dangers of treatments involving heat and moisture to alter the original surface were pointed out by Mehra. Similarly, Percival‑Prescott described the lining cycle as leading to constant material loss ({{Percival-Prescott 2003b}}). In addition, lined paintings often appear rigid and flat.
+
+As a consequence, part of the conservation world started to further develop lining techniques and do research on the mechanic behavior of canvases to diminish these adverse effects. In contrast, Percival-Prescott himself went as far as to postulate a need for a lining moratorium. A large part of the community, especially in German-speaking countries adopted this approach and turned away from lining in favor of developing new methods. The most influential of these methods is probably the thread-by-thread tear-mending propagated by Winfried Heiber ({{Heiber 2003}}).
+
+Today in Germany, the preferred methods for structural treatments are various forms of strip-lining and tear-mending, and it is a common goal to avoid lining altogether. Nonetheless, at the museum where Julia Brandt did her pre-career internship, she was trained to execute several lining techniques. Penetrating lining techniques were sometimes seen as a time-saving option, as they combined several steps in one, such as stabilizing the support and adhering and flattening the paint layers. Cold linings and nap-bond methods were seen as a good way to make paintings save for travel.
+
+Later in our academic training, lining was taught as a historic technique, and the negative effects were clearly pointed out. During our training at the Technical University of Munich (TU München) we were taught not to perform a technique just because we know it best, but to look at every artwork individually. We were always asked to search for the method that involved the least intervention and least impact on the original substance. We found that this approach challenges you to further develop existing techniques and to invent new ones so that the practical part of the field also grows into an academic discipline.
+
+In most cases, even when paintings at first sight seem beyond recovery, local treatments can offer sufficient and sympathetic solutions. In our last year at university, however, we were presented with a severely damaged painting—it was basically torn in half ([**fig. 13.1**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-1)). While we first discussed the possibility of local treatments, it became clear during the investigation that the painting technique and the chosen canvas were probably the main causes for the observed damage. At the same time, the painting didn’t show any signs of previous treatment, which led to intensive discussions on how far we could intervene with the original substance.
+
+# \<A-head\> The Painter Engelbert Zimmermann and His Totentanz Cycle 
+
+The painting *The Last Judgment* is the central piece of Engelbert Zimmermann’s Totentanz (danse macabre) series, which is owned by the Stadtmuseum Wasserburg am Inn, a small community museum in eastern Bavaria. The large-format painting, which dates from the beginning of the nineteenth century, had several horizontal tears, one of which divided the support in half (see [**fig. 13.1**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-1)). The series was created in 1839 for the mortuary hall of the Wasserburg cemetery and is based on a model by Hans Holbein the Younger. His series Imagines Mortis (Images of Death)—does not show the dance of Death with his victims as was customary in the Middle Ages, but rather individual, self-contained scenes accompanied by interpretative verses and Bible quotations ({{Wunderlich 2010}}). The Totentanz from Wasserburg is considered one of the few remaining monumental cycles of this kind from the first half of the nineteenth century ({{Sörries 1998\|, 276}}).
+
+Zimmermann was born in Wasserburg in 1807, the son of a carpenter. He was enrolled in figure drawing at the Munich Art Academy in 1827, but nothing is recorded about his further career and very few paintings by him are known. The mortuary hall was built in 1830 as part of the expansion and renovation of the Wasserburg cemetery, and a few years later Zimmermann was commissioned to furnish it. The cycle he created consists of six rectangular paintings (135 x 85 cm), and a central painting depicting the Last Judgment (225 x 130 cm).[^1] Initially, a cycle of eighteen paintings was planned. In a declaration from August 24 of the same year, however, the number was reduced by half (and in the end, only seven seem to have been executed); the free wall surfaces were to be filled with aphorisms.
+
+Zimmermann states in the declaration that he wanted to paint the paintings “for the sake of better durability \[with\] oil paints on metal sheets.” But in the end all seven paintings were executed on canvas. The painter added the corresponding quotations from the Bible directly on the plaster under the small paintings. For the central *Last Judgment*, the text appears at the bottom of the canvas. The Bible quotations and aphorisms are taken from an 1832 edition of Holbein’s Imagines Mortis with texts by Joseph Schlothenhauer, a professor at the Munich Art Academy ({{Von Perger 2013\|, 201–3}}). Seen from the entrance of the hall, the four small paintings depicting Death dancing with different individuals hung to the left and right: On the left the child and the bride, on the right the couple and the old man. At the front wall, in a semicircular niche, hung *The* *Last Judgment* flanked by *Expulsion from Paradise* on the left and *Skeletons Playing Music* on the right.
+
+The paintings were individually photographed in 1919 and published in the illustrated magazine *Das Bayerland*. These are the only known photographs of the cycle in their original arrangement in the mortuary hall. During the course of the hall’s renovation in 1924, the Zimmermann cycle was taken down and moved to the attic of the mortuary hall, and the aphorisms were overpainted. After a publication by Otto Kögl, who pointed out the importance and quality of Zimmerman’s Totentanz, the Stadtmuseum Wasserburg took the cycle into its collection in 1940 and exhibited it for some time.[^2]
+
+Possibly in the 1960s, but at the latest in the 1980s, the cycle was placed in storage at the museum.[^3] In 1998, two of the small-format paintings (*Skeletons Playing Music* and *Death and the Old Man*) were shown in the exhibition *Tanz der Toten—Todestanz: Der monumentale Totentanz im deutschsprachigen Raum* in the Museum für Sepulkralkultur in Kassel, Germany ({{Sörries 1998\|, 41}}). The museum had requested a loan of the whole cycle, but the other paintings were too damaged to be exhibited.
+
+In 2013, the painting was offered to the chair of Conservation-Restoration to be treated by students, as the museum did not have the funds to pay for the restoration. By this point, it had not been accessible to the public for several decades.
+
+# \<A-head\> An Unusual Support with an Unusual Damage—Technological Investigations
+
+The weave of the textile support of *The* *Last Judgment* resembles a weft rib but actually is a plain weave. The weft rib effect is created by the use of a much thicker thread for every second weft ([**fig. 13.2**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-2)). This fabric structure can be found in all paintings of the Totentanz. The canvas is made of jute and flax. Engelbert Zimmermann possibly opted for this type of fabric with its riblike weave because he wanted to create an effect similar to a so-called tapestry painting: “\[A\] technique which aims at the imitation of woven tapestries by painting. One uses a riblike material corresponding to the texture of the real tapestries and paints on it with water, tempera or oil paints diluted with turpentine, after one has traced the drawing beforehand or applied it with a charcoal pencil.”[^4]
+
+A few samples were taken to learn more about the painting technique. In the cross section a layer of binding media between the canvas and the ground was clearly visible. Fourier-transform infrared spectroscopy (FTIR) analysis[^5] of a microprobe of the ground and binding media layer suggested that shellac was used to prepare the canvas and that the preparation contained chalk. The thin ground layer was applied after embedding the canvas with shellac, and the painting was then painted thin and lean, without varnish coating. As is usual for tapestry painting, this allowed the striking fabric structure to remain clearly visible. The support was nailed frontally to the wooden strainer without a tacking margin. The frame (which did not have a rabbet) was nailed on top such that the support is sandwiched between the strainer and the frame.
+
+The shellac probably led to an increased oxidation of the already thin warp threads, which had broken in numerous places under the weight of the textile. Horizontal tears pervaded the painting, and this damage phenomenon can also be observed on the other paintings of the cycle. It was probably further increased by the high temperatures in the attic where the paintings were stored (temperatures up to 40°C were recorded). The resin becomes soft at higher temperatures, so the support loses its stiffness and begins to sag. This caused the canvas in the larger central painting to detach from the strainer, especially in the lower half, as the canvas ripped around the nails, which allowed the lower half of the painting to droop. At normal room temperature, the fabric was hard and brittle and had completely lost its textile character. The condition considerably impaired the readability of the representation.
+
+The painting was found in this state in 2012, when the museum’s inventory was updated. A conservator who was called to see if the painting could be rescued determined that the support was so completely stiff and brittle that it was impossible to bring the canvas back to its original shape without causing further damage (see [**fig. 13.1**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-1)). He decided to wait for the warmer temperatures of summer to loosen the stiffness, before turning the painting onto its side to slightly reduce the strong deformations. The measure was successful up to a point, but it was unclear how to go about further stabilizing the support and reaffixing it to the strainer ([**fig. 13.3**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-3)).
+
+# \<A-head\> The Bigger Picture—Setting Goals and Assessing Limitations
+
+After taking a closer look at the support of this painting and the other paintings from the cycle, we came to the conclusion that the drastic damage was primarily caused by technical factors inherent to the work and less to external influences. Even if it would not be part of our project, we would need to find a method that would be easily applicable to all seven of the paintings. We were told by the museum that they did not have any storage space other than the one in the attic, which had very high temperatures in summer and very low, almost freezing conditions in winter. Additionally, the difficult financial situation common to many small, community museums implied the need for a low-cost solution; otherwise, it would be very unlikely that the rest of the cycle could ever be restored. Keeping all of this in mind, we also hoped that a neater appearance would perhaps grant the large (and therefore more vulnerable) central painting a spot in the collection, which would mean better storage conditions. Hence our preliminary goal was to make the depiction readable again and to stabilize the support.
+
+As the painting had never undergone any major restoration treatment in the past, we wanted to keep the impact on the original substance as minimal as possible, and that meant retaining the original stretching system. Due to the nature of the support, thread-by-thread tear-mending, or even patches, would not have provided a long-term solution. We were afraid that the thin, brittle vertical threads would just break in other places if we did not reinforce the support as a whole. After looking at all the options and taking into account the sparse financial resources, lining seemed to be the only option.
+
+The concept envisaged remodeling the deformed canvas, securing the tears, and then lining the painting. This last step was essential to stabilizing the support and relieving the strain on the warp threads. Where the stretching system had already failed, the lining canvas would need to be pushed between the strainer and the original canvas and tensioned together with the painting. In areas with an intact stretching system, the lining canvas would be adhered just a few millimeters inside the strainer. Both the securing of the tears and the lining should be reversible, and it should also be possible to remove the lining without opening the tears. The aim of the treatment was not a perfectly smooth surface but rather a condition that would make both the depiction and the history of the painting visible.
+
+# \<A-head\> Finding a Solution—Developing a Method
+
+From the first-aid measure taken in the attic in 2012, it was known that the rigid canvas and the paint layer would become more flexible under the influence of heat, but using a hot spatula and moisture did not lead to a satisfactory result. We decided to try heating a larger part of the surface, but it still did not work as well as we had hoped. As the FTIR analysis suggested shellac had been used to prepare the canvas, we conducted some microtests with ethanol, which resulted in a swelling of the resin layer. Given these indications, we decided to use ethanol-drenched cardboard along with a Gore‑Tex membrane under the painting, and an infrared lamp as heat source from above, while the painting was fixed to a Lascaux stretching frame.
+
+The following requirements were formulated for securing tears:
+
+-   The adhesive should be easily reversible and yet withstand shear and tensile forces. It should adhere to the shellac-soaked backside and not be alcohol-based, to prevent the resinous layer from dissolving.
+
+-   The fabric should be thin but also dimensionally stable in order to bring the tears together and keep them in plane. Patches should not become apparent in the paint layer or in the lining.
+
+Stabiltex was chosen because it is very thin and at the same time stable. This fabric was made of pure polyester and was used in textile conservation for a long time, although it is no longer available.[^6]
+
+The following requirements were formulated for the lining:
+
+-   The lining fabric should be thin and yet stable, to enable it to reduce the tensile load on the warp threads.
+
+-   It should be flexible enough to adapt to the likely remaining deformations in the canvas.
+
+-   The fabric should be available in the format of the painting and, ideally, have a plain weave.
+
+For lining, both cotton and linen were considered at first. The greater dimensional stability of linen was the decisive factor for preferring it over the cheaper cotton.
+
+The requirements for the lining adhesive were the same as those for the patch adhesive, with some additions:
+
+-   In addition, it should be possible to apply it over a large area.
+
+-   A sprayable medium was considered advantageous to reduce the amount of adhesive used.
+
+-   The health and environmental risks posed by the solvent should be kept as low as possible.
+
+-   Finally, given the limited financial resources and the size of the painting, the adhesive (as well as the fabric) needed to be affordable.
+
+A selection of natural and synthetic adhesives was tested for these requirements: Beva 371 Film (thin), Lascaux 360 HV and 498 HV acrylic adhesives in different proportions, Plextol D 540[^7] and Dispersion K 360[^8] mixed in different proportions, and Plexigum PQ 611[^9] in Shellsol D 40 were tested as adhesives for patches and lining. The Beva 371 film was rejected due to its thickness and the resulting low flexibility. Producing a thinner film from Beva Gel was considered to pose a serious health risk due to the necessary solvent. The Lascaux acrylic adhesives and the Plextol mixtures gave the same results. As the Lascaux products are more expensive, we decided to use a mixture of Plextol D 540 and Dispersion K 360 in a 7:3 ratio. The mixture was taken from literature on mist-lining ({{Seymour and Van Och 2005}}).
+
+Plexigum PQ 611 fulfilled to a large extent all requirements, but it is more difficult to process on large surfaces than Plextol D 540. It was therefore chosen for the patches, and Plextol D 540 in mixture with Dispersion K 360 for the lining. The different solubility of Plextol D 540 and Plexigum PQ 611 make it possible to remove the lining without removing the patches from the tears.
+
+# \<A-head\> From Theory to Practice
+
+After consolidating and cleaning the paint layer, we started to put the support back into plane. Where the stretching system had already failed, the loose edges of the painting were clamped between two wood blocks upholstered with felt, which had a piece of polyester strap attached to them. These straps were fixed to a Lascaux stretcher ([**fig. 13.4**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-4)). An isopropanol compress—consisting of a Melinex film with isopropanol-soaked blotting cardboard and a Gore-Tex fleece—were put under the jacked-up painting. While the alcohol vapors acted on the painting from below the surface was heated with an infrared lamp for five minutes. An infrared measuring device showed that the surface of the painting heated up to approximately 40°C–45°C during this period. The stretcher allowed us to stretch the remodeled parts little by little while keeping them under tension.
+
+Once the tension relaxed, after a couple of days, we softened the support and paint layer using the above-described method and restretched the heavily deformed and buckled parts of the painting again. Large waves were carefully modeled into plane by hand. These steps were performed over the course of several weeks. When the heaviest deformations were leveled, a substructure was built under the painting to allow the use of sandbags to press down on the reformed support. In the end we were able to close the horizontal tear by using Trekkers.
+
+The painting was then turned over, and smaller deformations were worked over from the back with heat and weighted down with sandbags. Some tears in the lower half of the painting could not be joined together without causing new deformations, because the canvas was warped and could not be re-formed due to its brittleness.
+
+## \<B-head\> *Securing of the Tears*
+
+The Stabiltex was laid out on a siliconized paper and Plexigum PQ 611 40% in Shellsol D 40 was applied with a spatula. After the adhesive had dried, the fabric was cut into strips individually for each tear and ironed on with a heated spatula at approximately 50°C ([**fig. 13.5**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-5)).
+
+## \<B-head\> *Lining*
+
+A thin, bleached canvas by Nordmeyer & Kortmann was used as lining canvas. The adhesives used were Plextol D 540 and Dispersion K 360 in a ratio of 7:3. The Plextol mixture was sprayed onto the lining canvas with a compressed air gun at 3 mbar and allowed to dry. The result was an adhesive fluff that allows superficial bonding to the original canvas without penetrating it. The adhesive has a very low peeling force, which allows easy removal of the lining canvas. This procedure corresponds to mist-lining ({{Seymour and Van Och 2005}}). Using calculations from preliminary testing, one liter of adhesive was needed to line the painting.
+
+The prepared lining canvas was pushed from the right side between the stretcher and the support and then ironed onto the back at a temperature of approximately 45°C. In the curved segment at the top, the lining canvas was fixed with staples onto a strip of acid-free cardboard that became an intermediate layer on the inside of the stretcher ([**fig. 13.6**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-6)).
+
+The lining canvas had been cut to size so that it protruded where the original stretching system was no longer in place. The protruding canvas could then be folded over to the front in order to border and stabilize the support at the edges and to provide a new surface for stretching. Suede leather was put under the nails. Jute threads were inserted into the remaining tears and ironed onto the adhesive of the lining canvas. Finally, the missing areas were filled in and retouched.
+
+# \<A-head\> Conclusion
+
+In *The Last Judgment*’s final state, the depiction is visible again, and further damage to the painting has been prevented ([**fig. 13.7**](file:///Users/RBarth/Desktop/Finalized%20files-Conserving-Canvas--72122-to%20prep%20for%20TR/13-Brandt/fig-13-7)). At the same time, the history of the painting and its technological peculiarities remain visible as some re-shapeable deformations were left. The tears were visually pushed back using restrained retouching. Despite the extensive intervention in the structure of the painting, it fits well into the cycle without making the other six less damaged, unrestored paintings look inferior.
+
+The lining of a painting always represents a massive—often irreversible—intervention. However, the example of *The Last Judgement* shows that, in rare cases, a lining can be the only way to save a painting from further decay. In this case, lining did not mean abandoning the original stretching system and pressing the support as flat as a board. Even a more careful intervention with respect for the much-cited *Alterswert* (age value) can achieve the desired success.
+
+It should not go unmentioned that the restoration has made it possible to display *The Last Judgment* for the first time since the 1980s. Before the restoration, we had been told that it was a “restoration for storage,” as there was no room in the small museum for a permanent presentation of the cycle. However, the extensive restoration and the aesthetically satisfying result led to the main painting (at least) now being on display in the museum—which also means better storage conditions.
+
+We revisited the painting in 2019 and found it in good condition, with the lining still in place. The only drawback we could observe so far is that the lining canvas does not seem to adhere well to the Plexigum PQ 611–coated Stabiltex. As a result, some of the tears have opened slightly, and dirt may fall in. So far, this does not seem to be destabilizing the lining. We plan to revisit the painting on a regular basis to see how the restoration stands up to time and climate.
+
+# \<A-head\> Acknowledgments
+
+We would like to thank the Stadtmuseum Wasserburg am Inn for its cooperation and the opportunity to work on its collection. We also want to thank our professor, Erwin Emmerling, and our supervisors, Dr. Catharina Blänsdorf and Cornelia Saffarian, at TU München for technical advice and logistics. Last but not least, we would like to express our gratitude to the Advisory Committee of the Conserving Canvas Symposium for selecting our paper and organizing the conference, and to the Getty Foundation for their financial support.
+
+# \<A-head\> Notes
+
+[^1]: According to the *Kostenvoranschlag* (estimate) from June 23, 1838, kept in the Wasserburg City Archives, Zimmermann was also commissioned to paint the walls.
+
+[^2]: Matthias Haupt, “Denkmalgeschützte Aussegnungshalle im Altstadtfriedhof im Hag, Sanierung durch Stadt Wasserburg a. Inn, Grunddaten zur Baugeschichte, Archivrecherche, Baugeschichtsforschungen des Stadtarchivs Wasserburg” (unpublished material, 2009). City Archives of Wasserburg, BBFO127.
+
+[^3]: Director Sonja Fehler, Stadtmuseums Wasserburg, to Catharina Blänsdorf, TU München, email, October 22, 2013.
+
+[^4]: *Meyers Großes Konversations-Lexikon* (1907), vol. 8, 70.
+
+[^5]: FTIR analysis performed by Dr. Thorsten Allscher at the Institut für Buch- und Handschriftenrestaurierung (IBR) at the Bayerische Staatsbibliothek.
+
+[^6]: “Formerly produced by Swiss Silk Bolting Cloth Manufacturing Co, Zurich. Stabiltex is a trademark for a sheer, lightweight, open weave, polyester fabric. Stabiltex was used as a support backing for covering fragile textiles and as an alternative to silk crepeline. As of 2004, the production of Stabiltex has been discontinued. An alternate product, Tetex TR was supplied as a replacement, but it was discontinued in 2009.” Source: <http://cameo.mfa.org/wiki/Stabiltex>. The Stabiltex we used was given to us by a colleague who still had some in stock.
+
+[^7]: “Finely dispersed, aqueous emulsion of a methacrylic acid ester-/acrylic acid ester-copolymer. The emulsion contains an anionic emulsifier system and is free from film forming auxiliary agents, solvents and plasticizers.” Source: <http://www.kremer-pigmente.com/media/pdf/76202e.pdf>. The product is no longer produced but is still commercially available through Kremer Pigmente.
+
+[^8]: Formerly named Plextol D 360 (consisting of n-butyl methacrylate and methyl acrylate). Kremer sells a substitute under the name Dispersion K 360 without giving specifications about the chemical composition other then it being a “aqueous dispersion of a thermoplastic acrylic polymer”: https://shop.kremerpigments.com/us/shop/mediums-binders-glues/76101-dispersion-k-360.html. However, it has a lower pH than Plextol D 360, and according to FTIR measurements it consists of poly butyl acrylate, polynitrile, and phthalate, thus containing a softener. See {{Reuber 2010\|, 36}}. The products we used were bought from Kremer Pigmente.
+
+[^9]: Plexigum PQ 611 is an isobutyl methacrylate and officially named Degalan PQ 611 since 1999. Both names refer to the same material. Until 2009 it was produced by Röhm & Haas, a company that now is part of Evonic Industries, which continued the production until 2019. It is currently produced by Röhm (not Röhm & Haas), a company that was part of Evonik Industries until August 2019 but is now independent. Since 2009 it is produced through continuous direct polymerization (CDP), making additives unnecessary. However, Kremer still sells the product under the name Plexigum PQ 611. The reason is unknown. This information was provided by Mona Konietzny by mail in May 2020. Mona had contact to staff from Evonik Industries. The product we used was from the university's stock and labelled Plexigum PQ 611, bought from Kremer Pigmente at an unknown date.
