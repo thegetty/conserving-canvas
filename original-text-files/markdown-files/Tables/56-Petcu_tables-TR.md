@@ -1,4 +1,4 @@
-Table 57.1. ATR-FTIR results of the analysis of canvas thread samples from 16 banners and 1 interstitial canvas.
+Table 56.1. ATR-FTIR results of the analysis of canvas thread samples from 16 banners and 1 interstitial canvas.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------
   Materials added to fibers of banner and epitaph fabric                                                                      
@@ -38,7 +38,7 @@ Table 57.1. ATR-FTIR results of the analysis of canvas thread samples from 16 ba
 
 *Note:* FTIR was done by Cristina Carșote.
 
-Table 57.2. Adhesive and consolidant formulas tested on double-sided painted banners and epitaphs dating from the eighteenth and nineteenth centuries.
+Table 56.2. Adhesive and consolidant formulas tested on double-sided painted banners and epitaphs dating from the eighteenth and nineteenth centuries.
 
 +----------------------------------------------+-----+---------------------+-----------------------+-----------------------+------------------------------------------------+----------------------------------+------------------------------------------------+-----------------------+
 | Compounds for adhesive/consolidant solutions |     | Solution (% or w/w) | Solvent 1/w for 100 g | Solvent 2/w for 100 g | Prewetting of the surface prior to application | Readhesion of loose paint flakes | Impregnation,stabilization of decohesive paint | Electric conductivity |
@@ -78,7 +78,7 @@ Table 57.2. Adhesive and consolidant formulas tested on double-sided painted ban
 
 Abbreviations: BAC = butyl acetate; CNC = cellulose nanocrystals; DIW = deionized water; IMS = industrial methylated spirits; IP = isopropanol
 
-Table 57.3. Painted double-sided banners and epitaphs in the study.
+Table 56.3. Painted double-sided banners and epitaphs in the study.
 
 +-----+------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+--------------------------------------------------------+----------------------------------------+---------------------+------------------------------------------------------------------------------------------------------------------------------------+
 |     |                  | Face A                                                                                                                                                                                                    | Face B                                                                                                                                                                                                                                   | Dimensions     | Lappets/streamers                                      | Date/\                                 | Canvas weave count\ | Horizontal wooden suspension pole (*drug)*                                                                                         |

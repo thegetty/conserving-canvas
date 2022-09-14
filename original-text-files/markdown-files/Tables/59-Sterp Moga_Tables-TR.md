@@ -1,4 +1,4 @@
-Table 60.1. Variables of the tension of the different threads by means of several types of magnets.
+Table 59.1. Variables of the tension of the different threads by means of several types of magnets.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   Type of canvas         Magnet grade   Size\         Clamping force\   Maximum operating temperature (°C)   Initial force\   Force after 24 hours (kG)   N
@@ -43,7 +43,7 @@ Table 60.1. Variables of the tension of the different threads by means of severa
 
 \*The approximate maximum force between two magnets when they are in direct contact.
 
-Table 60.2. Tension measurements of traditional and magnet interventions, before and after RH oscillations.
+Table 59.2. Tension measurements of traditional and magnet interventions, before and after RH oscillations.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                                     Tension before intervention\   Tension after traditional intervention\   Tension of traditional intervention after RH oscillations\*\   Tension after intervention with N45^†^ magnets\   Tension of intervention with N45 magnets^†^ after RH oscillations\*\

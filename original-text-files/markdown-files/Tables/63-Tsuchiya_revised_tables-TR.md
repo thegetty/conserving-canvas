@@ -1,4 +1,4 @@
-Table 64.1. Cl concentration of a blotting paper after it was used for desalination process of *Prologue “Thinking in a Black Field”* (right side).
+Table 63.1. Cl concentration of a blotting paper after it was used for desalination process of *Prologue “Thinking in a Black Field”* (right side).
 
   ------------------------------------------------------------------------------------------
   **Measurement points (ppm)**   **1st**   **2nd**   **3rd**   **4th**   **5th**   **6th**
@@ -10,7 +10,7 @@ Table 64.1. Cl concentration of a blotting paper after it was used for desalinat
   Point 3                        \>627     376       151       66        58        \<30
   ------------------------------------------------------------------------------------------
 
-Table 64.2. Change and rate of change in dimensions of *Prologue “Thinking in a Black Field”* (right side).
+Table 63.2. Change and rate of change in dimensions of *Prologue “Thinking in a Black Field”* (right side).
 
 <table>
 <colgroup>
@@ -140,7 +140,7 @@ Table 64.2. Change and rate of change in dimensions of *Prologue “Thinking in 
 
 ^†^1 hour after drying by exchanging blotting paper three times
 
-Table 64.3. Change and rate of change in dimensions of *Prologue “Thinking in a Black Field”* (left side).
+Table 63.3. Change and rate of change in dimensions of *Prologue “Thinking in a Black Field”* (left side).
 
 <table style="width:100%;">
 <colgroup>

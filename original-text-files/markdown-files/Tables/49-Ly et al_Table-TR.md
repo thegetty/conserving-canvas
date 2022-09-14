@@ -1,4 +1,4 @@
-Table 50.1. Weight increases for Single vs. Double Layer application trials.
+Table 49.1. Weight increases for Single vs. Double Layer application trials.
 
   ----------------------------------------------------------------------------------------------------------------------------------------
   **Single-Layer experiment\                 **Double-Layer experiment\                                                                 

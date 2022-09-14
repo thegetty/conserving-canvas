@@ -1,4 +1,4 @@
-Table 63.1. Summary of results of analyses of 53 commercially primed canvases using ATR‑FTIR and optical microscopy.
+Table 62.1. Summary of results of analyses of 53 commercially primed canvases using ATR‑FTIR and optical microscopy.
 
 +---------------------+-------+-----------------------------------------+-------+----------------+-------+-------------+-------+
 | **Binder**          | **%** | **Pigments and fillers**                | **%** | **Fiber type** | **%** | **Weave**   | **%** |
@@ -24,7 +24,7 @@ Table 63.1. Summary of results of analyses of 53 commercially primed canvases us
 | PVA-styrene         | 2.0   | Other                                   | 15.9  |                |       |             |       |
 +---------------------+-------+-----------------------------------------+-------+----------------+-------+-------------+-------+
 
-Table 63.2. Glass transition temperatures (Tg) of common monomers and copolymers used in coatings.
+Table 62.2. Glass transition temperatures (Tg) of common monomers and copolymers used in coatings.
 
 +-----------------------+------+---------------------------+-------+---------------+------+
 | “Soft” monomers       | Tg\  | “Hard” monomers           | Tg\   | Copolymers    | Tg\  |

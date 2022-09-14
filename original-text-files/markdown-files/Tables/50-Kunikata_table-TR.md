@@ -1,4 +1,4 @@
-Table 51.1. Wax-resin recipes used in experiments.
+Table 50.1. Wax-resin recipes used in experiments.
 
   -------------------------------------------------------------------------------------------------------------------------
   **Sample**   **Wax**              **Quantity\   **Resin**      **Quantity\   **Other**              **Quantity\   

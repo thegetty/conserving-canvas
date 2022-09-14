@@ -22,4 +22,4 @@
 | **Flattening/relaxing on the vacuum hot table** | After each humidification process described above, the painting was placed on the vacuum hot table under 1/2 "Hg pressure for 45 minutes at a temperature of 45°C–54°C; then cooled and held flat under weights for 24 hours. |                                                                                                                    |
 +-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
-Table 55.1. Relaxation of cupping and quilting—treatment steps.
+Table 54.1. Relaxation of cupping and quilting—treatment steps.

@@ -1,4 +1,4 @@
-Table 36.1. Number of paintings with previous structural interventions by century and treatment type.
+Table 35.1. Number of paintings with previous structural interventions by century and treatment type.
 
   ----------------------------------------------------------------------------------------------------------------------------
                                        **16th century**   **17th century**   **18th century**   **19th century**   **Total**
@@ -24,7 +24,7 @@ Table 36.1. Number of paintings with previous structural interventions by centur
 
 a\. One 17th century and one 19th century painting had both lining and reinforcing patches.
 
-Table 36.2. Number of paintings consolidated from the back by type of adhesive used and type of preparation layer.
+Table 35.2. Number of paintings consolidated from the back by type of adhesive used and type of preparation layer.
 
   ----------------------------------------------------------------------------------------------------------------
   **Preparation layer**   **Adhesive**                                                          
@@ -38,7 +38,7 @@ Table 36.2. Number of paintings consolidated from the back by type of adhesive u
   **Total paintings**     **15**          **7**               **2**         **14**              **3**
   ----------------------------------------------------------------------------------------------------------------
 
-Table 36.3. Number of paintings that received the different types of structural interventions carried out in the past and in 2016–2017 by painting production date
+Table 35.3. Number of paintings that received the different types of structural interventions carried out in the past and in 2016–2017 by painting production date
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            **16th century**                                   **17th century**               **18th century**               **19th century**               **Total**                   
