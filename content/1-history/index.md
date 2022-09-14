@@ -1,7 +1,7 @@
 ---
-epub: false
-title: Catalogue
-layout: table-of-contents
-presentation: grid
-order: 100
+label: "I"
+title: "History, Principles, and Theory"
+layout: "table-of-contents"
+presentation: "list"
+order: 9
 ---
