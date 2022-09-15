@@ -1,7 +1,8 @@
 ---
 layout: table-of-contents
-search: false
 title: Contents
+search: false
+toc: false
 presentation: list
 order: 5
 ---

@@ -1,0 +1,207 @@
+label: "39"
+
+title: Wax-Resin Extraction on a Late Georges Braque Still Life
+
+subtitle:
+
+contributor:
+
+-   first_name: Desirae
+
+> last_name: Dijkema
+>
+> title: Assistant Paintings Conservator
+>
+> affiliation: The Menil Collection
+
+-   first_name: Bradford
+
+> last_name: Epley
+>
+> title: Chief Conservator
+>
+> affiliation: The Menil Collection
+
+keywords:
+
+abstract: In 2018, the Conservation Department of the Menil Collection performed a novel wax-extraction treatment utilizing Evolon CR on *Pitcher, Candlestick, and Black Fish* (1943) by Georges Braque. The treatment was preceded by extensive wax-resin extraction trials; multiple methods of extraction were tested, focusing on the variable contributions of heat, suction, solvent selection, and the capillary action of an Evolon CR substrate. Based upon optimized parameters determined in the preliminary trials, the wax-resin extraction treatment on the painting was performed on a suction table, utilizing xylenes-saturated Evolon CR against the back of the canvas, ShellSol OMS–saturated Evolon CR against the face, and two cycles of suction and heat. Visually, the canvas regained weave distinction and a variety of surface that is inherent to the way that paint conforms to fabric. Spectrophotometry readings taken before and after wax extraction show a perceivable lightening of the ground. After treatment, the weight of the canvas had decreased by 14%.
+
+short_title: Wax-Resin Extraction on a Braque Still Life
+
+# \<A-head\> Introduction
+
+“Why subject it to this rack-like torture? . . . Restorers are amazing. They have transformed my guitar into a tambourine.” So said Georges Braque to John Richardson after viewing one of his still lifes that had been wax-resin lined. He completed the sentiment with a tap of his brush on the painting’s taut surface ({{Richardson 2004\|, 533}}).
+
+In 2016, the Conservation Department at the Menil Collection began a long-anticipated cleaning of Georges Braque’s 1943 painting *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*). The painting had been treated in 1961 by Caroline Keck, receiving a “superficial cleaning,” wax-resin lining, and a poly butyl methacrylate varnish.[^1] The motivation for lining was largely preventative. In a letter in the painting’s file, Keck explains that “the result of the rolling and its mishandling has caused cracks to develop, some easily seen with the eye in the yellow area, others developing definitely in the structure but visible under magnification only at this stage…this is an important moment to treat the painting, to prevent any serious damage and even loss of surface as these cracks go further.”[^2] The painting was likely rolled twice in 1940, when Braque travelled to the south of France and then back to Paris at the beginning of World War II ({{Danchev 2006}}).
+
+That Braque sought variation in his final surfaces is effectively demonstrated by Favero, Mysak, and Khandekar in their technical study of twenty-one paintings from 1928 to 1944. Braque achieved a variety of textural effects by mixing sand, fine gravel, and quartz into his grounds or using combs and sculptors’ tools to scrape through wet paint ({{Favero, Mysak, and Khandekar 2013}}). He created more delicate variations of surface by mixing varnish or beeswax into the paint or by selectively varnishing certain passages. Richardson describes his practice of applying a varnish to certain passages, sometimes according to a viewer’s expectations of an object’s reflectance (as in his paintings of the 1920s and ’30s, where shiny objects such as a glass vase received a glossy finish while matte objects such as a lemon received nothing), or sometimes in deliberately playful ways that go against a viewer’s expectations by rendering inherently shiny objects matte ({{Richardson 2004\|, 533}}).
+
+In *Pitcher,* the cleaning revealed that Braque manipulated the final surface sheen with two black paints—one that is velvety matte and one that is glossy—to establish subtle contrasts across the surface.[^3] For instance, a fish featured in the foreground is almost entirely painted in matte black paint except for two small reveals around its eye and gills where Braque left underlying glossy paint in reserve, creating a shiny iris and gleaming gill line ([**fig. 39.1**](fig-39-1)).
+
+In addition to creating variable gloss and matteness, Braque manipulated the texture of *Pitcher’s* surface. Fine sgraffito marks outline the lemons, and medium to wide gouges create detail in the background, indicating that Braque used a variety of tools to establish a variable surface with tactile characteristics. In certain passages, grooves unite with precise paint application, merging the textural and the visual: two gouges extend upward from a cherry in the foreground, revealing dark underlying paint and beginning its stem; after approximately 1 centimeter, a fine stroke of brown paint fills them in and completes the stem’s length.
+
+At some unknown date prior to Keck’s 1961 treatment, the painting had also received a bleached shellac coating.[^4] Though it is unclear who applied the shellac coating, two reasons make it highly unlikely to have been Braque: his dislike of overall varnishes for their unifying effect on sheen, and the areas of retouching underneath the shellac layer that were discovered during the cleaning. These had been incorrectly applied to grooves in the paint that were misinterpreted as abrasions; there are multiple examples of similar, nonretouched grooves throughout the composition. During the lining process, the shellac had softened and deformed from exposure to heat and pressure, resulting in a tangled network of ridges and valleys that imparted an artificial texture across the surface. Visible both under magnification and to the naked eye, the compromised shellac scattered light and hindered legibility of subtle brushstrokes and sgraffiti.
+
+Given Braque’s practices regarding his differentiated paint surfaces, the rationale for the 2016 cleaning was twofold: to reduce the compromised shellac and to restore the surface’s original, varied sheen and texture by removing the varnish layers and their unifying gloss. The decision to pursue a lining reversal and wax-resin extraction was motivated in part by the possibility of enhancing reflective and textural gains revealed by the cleaning, as well as by the artist’s aforementioned dislike of what he perceived as an artificial planarity and stiffness imposed by linings.
+
+# \<A-head\> Treatment Trials 
+
+The wax extraction on the painting was preceded by forty-eight test trials performed on strips of the lining canvas, which was removed from the painting mechanically by peeling it back at a low angle. Examination of the canvas fibers after removal of the lining revealed that they were in good condition and had not been shaved prior to lining. Of the trials, the first twenty-eight were more exploratory in nature, while the final twenty were more controlled, as the most important treatment parameters emerged. The lining canvas strips were subjected to different conditions exploring multiple variables, including solvent location in relation to the bulk of the wax-resin mixture (whether the solvent was introduced from the back or from both front and back), the type of solvent, the solvent delivery system (brush-applied, gelled, or by fabric), the wicking layers (number of layers, type of material used, and frequency of change out during treatment), the temperature, and the use of suction. Initially, gels were used as a solvent delivery system, after the methods published by Bettina Landgrebe and Gunnar Heydenreich ({{Landgrebe 1988}}; {{Heydenreich 1994}}). However, relatively early on, it became clear that Evolon CR could deliver solvent as effectively as a gel, while minimizing preparation and simultaneously acting as a means for absorption.
+
+A general setup of the trials from the Willard suction table surface upward was as follows: heat and/or suction provided by a vacuum hot table, one to three wicking layers (Evolon CR, paper towels, or linen), an “acting” solvent layer (sheet of Evolon CR or gel containing a solvent with a high chemical affinity for the wax resin), the lining canvas strip face up,[^5] and in some trials a low-polarity “superficial” solvent applied by brush or Evolon CR to the face. Evolon CR is a nonwoven textile composed of polyester and polyamide microfilaments that can absorb up to four times its weight in water and slightly more than that in hydrocarbon solvents.[^6] The acting solvent layer is meant to promote dissolution of the wax resin, while the superficial solvent encourages movement of deeply impregnated wax resin out of the lining canvas and into the wicking layers below.
+
+Exploring a few trials in detail illustrates some key takeaways that ultimately informed the treatment parameters on the painting. The time-consuming nature of the trials made it difficult to do extensive investigations of all variables. Trials included here offer empirical findings and observations. Moving forward, performing a greater number of trials per single variable will be necessary in order to form conclusions that are statistically relevant.
+
+Efficacy of wax resin removal was evaluated based on the appearance and feel of the lining canvas strips and their percentage of weight loss after treatment. In order to establish the maximum amount of wax resin that could be extracted, small sections of lining canvas were individually weighed, and then each was immersed in one of the range of solvents being considered for use (xylenes, ShellSol OMS, hexamethyldisiloxane, and octamethylcyclotetrasiloxane) for approximately forty-eight hours, after which it was removed from the solvent, allowed to dry, and reweighed. This demonstrated that the maximum amount of wax resin that could be extracted was around 30% of the weight of the coupon. The most successful solvents, xylenes and ShellSol Odorless Mineral Spirits (OMS), resulted in 31% and 32%, respectively.
+
+Trials that involved application of solvent to the face resulted in the supplest canvas feel and the best final appearance—clarity of weave, saturation, evenness of wax-resin removal—with comparable results regarding weight loss percentage. In a set of eight trials, four involving superficial solvents and four without, all of those involving superficial solvents resulted in the supplest canvas feel and most improved clarity of canvas weave. While it was clear that the application of solvent to the face would not necessarily result in a higher percentage of weight loss (taken as a measure of efficacy of wax-resin removal), the visual and tactile characteristics were deemed more improved in the lining canvases that had received superficial solvent than in those that had not.
+
+Using xylenes as the acting solvent consistently dissolved more wax-resin mixture than did ShellSol OMS. Trials with xylenes in the acting solvent layer resulted in good clarity of weave with no visible wax-resin residue, a supple canvas feel, and higher weight-loss percentages. Trials with ShellSol OMS in the acting solvent layer resulted in visible wax-resin residues, lower weight-loss percentages, and a blanched final appearance, likely resulting from incomplete dissolution of residual wax-resin.
+
+Halfway through the trials it became clear that the downward draw of the wax-resin mixture into the Evolon CR via capillary pressure is significantly stronger than any contribution from the downward draw of air by the suction table. In trials with and without suction, both trials resulted in good clarity of canvas weave, no visible wax-resin residue, a supple canvas feel, and comparable losses in weight. However, it was important to use the suction table anyway, for two reasons: as a means of ensuring close conformity between the lining canvas strip and the Evolon CR, and as a means to evacuate solvents and avoid a solvent-package effect. In trials without suction, droplets of solvent were visible pooling on the underside of the Dartek covering the stack, which we deemed a nonviable method for the eventual treatment of the painting.
+
+Consistently more wax resin was extracted when the trials involved heat. The strong capillary effect of the Evolon CR raised the possibility that extraction utilizing the solvent might be possible at room temperature. Trials performed at approximately room temperature resulted in a slightly improved clarity of canvas weave on the back of the strip, but an increased obfuscation of weave and darkening on the front. The canvas remained stiff after treatment and underwent minimal weight loss.
+
+Using a larger volume of acting solvent results in a higher percentage of weight loss in the lining canvas strip. In a set of four trials—two involving an acting solvent layer of twice the weight of the Evolon CR and two involving three times the weight of the Evolon CR—trials involving the larger volume of solvent resulted in the highest percentage of weight loss.
+
+When it came time to design the treatment methodology for the painting, several parameters had become clear from the trials. A low-polarity superficial solvent, xylenes as the acting solvent, suction for solvent evaporation and conformity, and heat would result in the highest percentage of weight loss and the best final feel and appearance of the canvas. In spite of the success of trials involving higher volumes of solvent, we decided to load the Evolon CR with twice its weight in solvent (rather than three times), because of the relatively finer weave of the painting’s canvas.[^7] Other parameters were less certain, such as whether to change out the wicking layer once or twice, and whether one or two rounds of extraction should be performed. Ultimately, we decided to change out the wicking layer once in order to minimize handling and to determine whether a second round was necessary after seeing the results of the first round.
+
+# \<A-head\> Treatment
+
+Broadly speaking, the treatment involved applying Evolon CR that had been saturated with ShellSol OMS to the face and Evolon CR that had been saturated with xylenes to the back while placing the entire stack under heat and suction. As in the trials, the volume of solvent in the Evolon CR was determined by weight. In order to load the Evolon CR with solvent, a sheet of the material was weighed, rolled, and folded and placed in a clean, empty metal paint container. Double its weight in solvent was added, and the container was sealed and left overnight. The painting was weighed before and after treatment by placing it on a rigid board and subtracting the weight of the board alone from the weight of the two together. Spectrophotometric measurements were taken before and after treatment.
+
+The treatment occurred in two rounds, each comprising three stages. For all rounds, the Evolon CR was applied as single sheets cut larger than the size of the painting.
+
+In the first stage:
+
+-   A cross section of the material stack from the Willard table upward is as follows: Hollytex to prevent adhesion to the lining table; a dry sheet of Evolon CR as a wicking layer; Evolon CR saturated with twice its weight in xylenes (the equivalent of 100 mL); the painting face up; and Dartek.
+
+-   The table temperature was set to cycle between 39ºC and 51ºC, though the temperature at the painting’s surface consistently registered 2ºC–3ºC lower when checked with an infrared thermometer.
+
+-   With suction set to 2 mbar, the painting was left in this stack configuration for 15 minutes.
+
+During the second stage:
+
+-   The Dartek was temporarily removed, Evolon CR with twice its weight in OMS (the equivalent of 120 mL), was placed over the front, and the Dartek was replaced.
+
+-   The table temperature’s cycle remained the same (39ºC–51ºC), and the painting’s surface continued to measure 2ºC–3ºC lower.
+
+-   The suction was increased to 7 mbar, and then the painting was left for 20 minutes.
+
+-   After 20 minutes, the wicking Evolon CR was replaced with a new, dry sheet, the Dartek was put back in place, and the stack was left for another 20 minutes.
+
+During the last stage:
+
+-   The Dartek and Evolon CR on the face were removed.
+
+-   The heat was turned off, but the suction was left at 7 mbar.
+
+-   The painting was left to desaturate and cool for 30–50 minutes.
+
+Wax-resin residues were clearly visible on the back of the canvas after the first round, so all three stages were repeated for a second round.
+
+# \<A-head\> Treatment Results and Discussion
+
+When considering the treatment results, there are a variety of aspects to consider, including the aesthetics of the pictorial layer, the planarity of the support, the appearance of the back of the canvas, the percentage of weight loss, and color change. The wax-resin extraction resulted in relatively subtle changes to the pictorial layer. The colors in the face of the painting were not significantly altered, but there was a clearly perceptible lightening of the ground visible on the tacking margins. The painting does not have areas of exposed ground within the design, as do many of Braque's pictures, so the impact of this brightening upon the overall color harmony of the composition is less noticeable than it would be if the ground was a defining element. There was no perceivable change to the painting’s varying sheens of matte and glossy black paints ([**fig. 39.2**](fig-39-2); compare to [**fig. 39.1**](fig-39-1)).
+
+The planarity of the canvas is now visibly more congruent with the age of the paint layer, as it no longer has the rigid tautness it did before. Six horizontal cracks spanning the painting’s width are more prominent, resulting in subtle planar distortions that are visible in the final stretching ([**fig. 39.3**](fig-39-3)). These cracks likely relate to when it was rolled during Braque’s evacuation from Paris at the outset of World War II; their return make visible an aspect of the painting’s history that was previously masked by the lining’s flatness. In addition to evidencing history, this return of dimensionality restores a relationship between paint and support that is more in keeping with Braque’s governing thoughts about the artistic process. Favero et al. have eloquently summarized these using an example described by the artist: “For Braque, color was inextricably bound to material and texture: ‘Dip two white cloths, but of different material, into the same dye; their color will be different’” ({{Favero, Mysak, and Khandekar, 2013\|, 99}}).[^8] Restoring the pliancy of the linen that had formerly been restricted by the wax resin creates an interaction between color and support that was previously absent.
+
+In addition to an improved clarity of weave, a number of previously invisible marks became apparent on the back of the canvas after the saturating effect of the wax resin was removed ([**figs. 39.4**](fig-39-4) and [**39.5**](fig-39-5)). There are areas where the ground has seeped through the canvas ([**fig. 39.6**](fig-39-6)), and several dark marks, some of which follow contours of an underlying figural composition.
+
+Several areas of lighter canvas appeared on the back, including six horizontal lines, corresponding with cracks on the front, and a few larger forms, coinciding with areas of thin paint application. It seems likely that these, and other intermittent light areas, are areas of blanched wax or wax resin left in the canvas interstices. Some of these light areas have fine white deposits; Fourier transform infrared (FTIR) analysis of a sample from one deposit closely matches the reference spectra for wax.[^9] Current analysis is inconclusive regarding the presence of a resin such as dammar, Ketone Resin N, or Zonarez B-85, which were common components in the Kecks’ wax-resin mixtures.[^10] Analysis of the white deposits with gas-chromatography mass-spectrometry is forthcoming. UV photos taken of the back of the canvas after wax-extraction show a faint fluorescence in these areas, suggesting the presence of wax or wax-resin residues ([**fig. 39.7**](fig-39-7)). The blanching may be related to the higher evaporation rate of solvents at an air interface, such as a comparatively open pathway of a crack versus a solid paint film ({{Hansen 1970}}).
+
+UV photos were taken of all eight Evolon CR sheets used during treatment as a way of visualizing the wax-resin’s location after extraction. The sheets on the face showed almost no wax-resin absorption, save for residues on the tacking margins and turnover edges. The acting solvent layers show an even distribution of wax resin, as do the dry wicking layers placed underneath for the first half of the treatment rounds. The wicking layer that was placed underneath the acting solvent layer for the second half of the treatment rounds shows an uneven distribution and minimal absorption of wax resin. Comparison with the front of the painting indicates that the distribution of wax resin in the wicking layer corresponds to cracks and thin paint layers. As mentioned, the pattern of UV-fluorescent and blanched material suggests that these areas retained wax throughout each treatment round. It seems likely the wax resin was not removed entirely because a higher solvent evaporation rate inhibited sustained dissolution.
+
+The weight of the canvas decreased by 14%, a percentage significantly lower than the weight changes that were achieved during the most successful trials, which were consistently over 30%.[^11] The percentage difference between the trials and the painting does not necessarily mean less wax resin was removed, however, because—when compared to the lining canvas strips—the wax resin contributed less to the weight of the painting due to the paint and ground layers.
+
+Spectrophotometry measurements were taken from fifteen locations in total: 3 from the ground on the tacking margins and twelve from areas within the face of the painting. The measurements of the ground on the tacking margins confirmed quantitatively what is apparent visually: the color of the ground became lighter and warmer.[^12] The ΔE~76~ of an average of three measurements taken from the ground is 4.12 ± 0.41, the L\* increased by 3.71 ±0.37 toward white, the a\* increased by 0.537 ± 0.12 toward red, and the b\* increased by 1.71 ±0.20 toward yellow. It is likely the reduction in wax resin increased scattering, resulting in a brighter color ({{Rees Jones 1990}}).
+
+Following the wax-resin extraction, the tacking margins received an edge-lining with linen and Beva 371 film. During restretching, some consolidation was necessary along the turnover edges, and it was possible to use sturgeon glue, indicating the possibility of treatment with aqueous methods. The painting will receive a rigid backing board and will be reframed and glazed.
+
+# \<A-head\> Moving Forward
+
+There are several avenues that deserve further research. The time at which the wicking layer is changed out should be reconsidered. The wicking layer that was in place for the *first* half of each treatment round appears to have absorbed an amount of wax resin that is comparable to the xylenes-saturated sheet. The wicking layer that was in place for the *second* half of each round appears to have absorbed the least amount of wax resin. Perhaps the xylenes-saturated sheet above the wicking layer became too saturated with wax resin by this point in the treatment to allow further absorption below it. Or perhaps there was not enough solvent in the system to encourage movement of the wax resin into the Evolon CR. Understanding the timeline of wax-resin absorption better could help to bring about more efficient future treatments.
+
+Exactly what was extracted needs to be identified. Does what was removed correspond with the components of the wax-resin mixture? Have certain materials been preferentially removed? Are there differences between the composition of the material present on the Evolon CR on the back and that on the front? Analysis is pending on extractions from the Evolon CR sheets used during treatment.
+
+It is worth exploring whether there are alternative hydrocarbon solvents that would be equally effective. As evidenced by the solvent-immersion test, ShellSol OMS actually extracted a similar amount of wax resin by weight to xylenes (32% compared to 31%). Clearly, it had an affinity for the wax-resin mixture, but it takes longer to work. Solvents with similar properties should be explored, perhaps ShellSol D38.
+
+Weight loss per surface area should be measured instead of weight change percentages, as Gunnar Heydenreich did in his 1994 wax-resin extraction treatment ({{Heydenreich 1994\|, 25}}). This will more easily allow for comparison of wax-resin loss across samples of varying weights and sizes. The impact of a higher solvent volume on the amount of wax resin extracted should be explored with more trials. Perhaps using a higher volume with a shorter treatment duration could optimize the amount of wax resin extracted while minimizing solvent and heat exposure.
+
+We need to better understand what is causing the blanching around cracks and areas of thin paint. Is it related to incomplete wax-resin removal, a higher rate of solvent evaporation, or a combination?
+
+# \<A-head\> Conclusion
+
+Wax-resin linings have a mixed legacy—they partially address physics at the expense of certain aesthetics. Qualities like saturation and color harmony are sacrificed for a planarity free from distortions that can impair legibility. Though wax-resin impregnation has been shown to improve tensile properties ({{Hedley 1975}}) and increase protection against changes in humidity for short exposure times ({{Young and Ackroyd 2001}}), it has also been shown to increase contraction forces resulting from long exposures to high humidity ({{Andersen et al. 2014}}).
+
+Its impact on color change is similarly contradictory. Wax-resin linings affect color saturation to varying degrees, dependent upon the presence of sizing, pigment type, medium type, layer thickness, and hiding power ({{Nieder, Hendricks, and Burnstock 2011\|, 98}}; {{Froment 2019\|, 439}}). Bomford and Staniforth have demonstrated that wax-resin impregnation has a significant impact on the color of canvas of varying weights as well as grounds of differing compositions, particularly those that are underbound, but whether such a change is visible in the painting is dependent on the degree to which the canvas or ground plays a visible role in the composition ({{Bomford and Staniforth 1981}}). Though recent studies have indicated that certain artists chose to have their paintings lined very early in a painting’s life or even during the painting process ({{Hackney 2004b}}), it is clear from Richardson’s writings that Braque preferred a surface in which the variable qualities of stretched canvas are visible.
+
+A treatment such as this one is not undertaken lightly. In terms of solvent amounts and their potential effects on paint films, the treatment is not dissimilar to the process of cleaning. Above all, the words of the artist offer direction. Without its lining, *Pitcher, Candlestick, and Black Fish* presents a planarity that is more congruent with its age and honors its history. Furthermore, reduction of the wax-resin adhesive allows physical response to environmental fluctuations. Perhaps most importantly, it restores the relationship of the canvas’s materiality and paint layers to one more in keeping with Braque’s artistic practice. When considering Braque’s statements about the interconnectedness of those two elements at the start of treatment, the question became why continue to subject it to this racklike torture?
+
+# \<A-head\> Acknowledgments
+
+The authors thank Corina E. Rogge for her technical analysis and guidance, Adam Neese for the extensive technical imaging of the painting, Anne Schmid for her exhaustive literature review of wax-resin reversals and extractions, Christina McLean for her assistance during treatment, Katrina Rush for sharing her treatment knowledge of other works by Braque, Rebecca Rabinow for her curatorial insight regarding Braque’s working practice and provenance research, the Yale University Art Gallery for hosting the Conserving Canvas Symposium and coordinating the publication of these postprints, and the Getty Foundation for promoting the exchange of knowledge through funding the Conserving Canvas project.
+
+# \<A-head\> Appendix A: Materials and Suppliers
+
+DMF-0.65, hexamethyldisiloxane, a linear silicone solvent (not to be confused with dimethylformamide) that is completely volatile. Average viscosity 0.65 cst at 25°C. Shepard Bros., Inc.: [http://www.shepardbros.com/](about:blank)
+
+CSF-4 octamethylcyclotetrasiloxane, cyclic silicone solvent that is completely volatile at flash point: 59°C, Shepard Bros., Inc.: [http://www.shepardbros.com/](about:blank)
+
+Dartek F-101, cast nylon film (nylon 6,6). Distributor: TALAS: http://www.talasonline.com
+
+Digital Bench Toploading Balance (for lining canvas strips): APX-153, Apex Series Balances, Denver Instrument, (discontinued)
+
+Digital bench scale (for painting): CPWplus 35, Adam Equipment, <https://www.globalindustrial.com/p/adam-bench-weighing-scale-75lb>
+
+Evolon CR, nonwoven fabric composed of polyester and nylon microfilaments, https://deffner-johann.de/en/evolonr-cr-on-roll-102-cm-x-10-m.html
+
+Hollytex, made from acid-free, fine, nonwoven, spun-bonded 100% polyester. Distributor: TALAS, 330 Morgan Avenue, Brooklyn, NY 11211. [http://www.talasonline.com](about:blank)
+
+Infrared thermometer: Etekcity Lasergrip 774 Noncontact Digital Laser \\ Temperature Gun.
+
+ShellSol Odorless Mineral Spirits, distributed by Conservation Support Systems, Santa Barbara, CA. 800-482-6299. https://conservationsupportsystems.com/main
+
+Sigma Aldrich Xylenes, ≥98.5% xylenes, ethylbenzene basis. https://www.sigmaaldrich.com/US/en/product/sigald/247642
+
+Spectrophotometer: Konica Minolta CM 700d, 8 mm aperture, SCI (specular component included)/SCE (specular component excluded). https://sensing.konicaminolta.us/us/products/cm-700d-spectrophotometer/" https://sensing.konicaminolta.us/us/products/cm-700d-spectrophotometer/
+
+# \<A-head\> Appendix B: Trial Procedure
+
+All trials involved the following procedure with adjustments for specific variables:
+
+-   The material stacks were covered with Dartek and cycled between 50ºC and 63ºC for 70 minutes at 2 to 7 mbar suction.
+
+-   Halfway through, the wicking layer was replaced with a new, dry sheet of Evolon CR.
+
+-   The entire process was repeated for a second round.
+
+-   The weight of the lining canvas strip was measured before and after rounds 1 and 2, and percentage weight loss was calculated by dividing the difference of a lining canvas strip’s weight from before round 1 and after round 2 by the initial weight of the lining canvas strip and then multiplying by 100. (Lining canvas strips were allowed to de-saturate through evaporation for at least two days before weight measurements after round 2.)
+
+-   Evolon CR was loaded with solvent by weight: first the weight of the Evolon CR sheet was measured, and then it was multiplied by two or three to determine the solvent weight. Solvent was added dropwise to the Evolon CR and sealed in a glass jar for two to twenty-four hours before the beginning of a trial.
+
+# \<A-head\> Notes
+
+[^1]: It is assumed that “superficial cleaning” refers to dirt removal. Keck’s treatment report says the painting was varnished but does not say with what. At the time they were treating *Pitcher*, the Kecks were also treating a Picasso from the de Menils, which *is* documented as receiving a poly butyl methacrylate lining in the same treatment report as Braque’s *Pitcher* (Caroline Keck, letter in the conservation file, March 13, 1961). Sample T 703 s14 taken from a scraping in the varnish atop a yellow band in the background near the top center exhibited a spectrum, that, through spectral subtraction, indicated that a butyl methacrylate-containing species could be present. Attenuated total reflectance (ATR) Fourier transform infrared (FTIR) spectra were collected by C. E. Rogge using a Lumos FTIR microscope equipped with a motorized germanium ATR crystal with a 100 μm tip (Bruker). The spectra are an average of 64 scans at 4 cm^−1^ spectral resolution, and an ATR correction was automatically applied by the Opus 7.0 instrument control and data collection software.
+
+[^2]: Caroline Keck, letter to Mrs. De Menil in the conservation file, February 9, 1961.
+
+[^3]: The painting was surface cleaned with saliva, the poly butyl methacrylate coating was removed with ShellSol A100 and cotton swabs, and the bleached shellac coating was removed with a sequential application of isopropanol and 2,2,4 trimethyl pentane (iso-octane) applied with cotton swabs or a brush while working underneath the microscope.
+
+[^4]: FTIR data taken by C. E. Rogge, using the same instrumental parameters as in note 1. Photographs of the varnished painting taken under ultraviolet illumination showed a coating with a blue-green fluorescence, rather than the characteristic orange fluorescence typically associated with shellac. Chemical bleaching destroys the compounds responsible for the orange fluorescence. See {{Sutherland 2010}}.
+
+[^5]: The face was defined as the side that had the least amount of wax resin.
+
+[^6]: Evolon CR belongs to a line of fabrics made by Freudenberg that have a wide variety of uses, including anti-mite bedding, cleaning cloths, sound absorption, and sun protection. Evolon CR was developed by Deffner and Johann, a conservation materials and tools supplier in Germany, in discussion with the manufacturer specifically for use in conservation. It is PVC-free and produced without solvents or binders. See “Evolon CR,” Deffner & Johann, accessed June 26, 2010, <https://deffner-johann.de/en/evolonr-cr-on-roll-102-cm-x-10-m.html>. Freudenberg Performance Materials, “Key Benefits of Evolon Technology,” <https://evolon.freudenberg-pm.com/evolon_technology/key-benefits>, accessed April 12, 2022.
+
+[^7]: Other variables considered include the introduction of the superficial solvent as free solvent brushed over the surface or introduced by means of saturated Evolon CR; both produced similarly successful results. In practice, the saturated Evolon sheets proved a more reliable way of delivering a known amount of solvent uniformly across the surface and eliminating the variable pressure and delivery volumes associated with brush application. It should be noted, however, that the use of Evolon CR prevents observation of the paint surface during treatment.
+
+[^8]: Favero et al. translated Braque as quoted in an interview with Dora Vallier, “Braque: La Peinture et nous: Propos de l’artiste recueillis par Dora Vallier.” *Cahiers d’art,* no. 1 (1954): 16–22.
+
+[^9]: FTIR data were collected by C. E. Rogge on June 23, 2020, with the same instrumental parameters given in note 1.
+
+[^10]: Corina Rogge, FTIR spectroscopy results, June 23, 2020: “The background absorbance in the 1100-900 cm^−1^ range is higher in this portion of the sample suggesting additional materials are present, but the low amounts, weak signal and lack of characteristic peaks preclude identification.”
+
+[^11]: Percentage of weight loss was calculated by dividing the difference of the painting’s weight before and after treatment by its weight before treatment and multiplying by 100.
+
+[^12]: Only the results from the measurements on the tacking margins are included here, as three measurements were taken, which permits calculation of standard deviation. The difference perceptible to the human eye has been a subject of debate in the literature since the 1980s. Some authors suggest that one CIELAB unit (1ΔE\*) corresponds to the smallest difference that is perceivable to the naked eye, while other authors suggest it is between one and two units, and others above two. For purposes of comparison with other research, a ΔE\* of 1 was defined as the perceptible limit in this paper. See {{Froment 2019\|, 140}}.

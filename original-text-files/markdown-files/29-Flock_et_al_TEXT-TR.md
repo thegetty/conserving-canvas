@@ -1,0 +1,290 @@
+label: "29"
+
+title: The Thread-by-Thread Tear-Mending Method
+
+subtitle: New Insights into the Choice of Adhesives and Their Application
+
+contributor:
+
+\- first_name: Hannah
+
+> last_name: Flock
+>
+> title: Scientific Associate, Conservation of Paintings, Sculpture and Modern Art
+>
+> affiliation: Cologne Institute of Conservation Sciences (CICS), Technische Hochschule Köln, Cologne, Germany
+
+\- first_name: Petra
+
+> last_name: Demuth
+>
+> title: Technical Lecturer, Conservation of Paintings, Sculpture and Modern Art
+>
+> affiliation: Cologne Institute of Conservation Sciences (CICS), Technische Hochschule Köln, Cologne, Germany
+
+\- first_name: Stefan
+
+> last_name: Diebels
+>
+> title: Head, Chair of Applied Mechanics (LTM)
+>
+> affiliation: Saarland University, Saarbrücken, Germany
+
+\- first_name: Elisabeth
+
+> last_name: Jägers
+>
+> title: Head, Department of Natural Sciences (retired)
+>
+> affiliation: Cologne Institute of Conservation Sciences (CICS), Technische Hochschule Köln, Cologne, Germany
+
+keywords: thread-by-thread tear mending, single thread bonding technique, adhesive application
+
+abstract: Tears and cuts in textile painting supports are often closed with thread-by-thread mending, to reconstruct the mechanical properties and visual appearance. Selected results of tests on adhesives for single-thread bonding in cellulosic fabrics are summarized. The data presented is based on uniaxial tensile tests of bonded canvas strips. The investigation also covers different bonding techniques. Under the wide range of adhesives tested, the most promising types are shown, taking the requirement profile into account. The classic recipe of Winfried Heiber, a mixture of sturgeon glue and wheat-starch paste, as well as dispersions based on PVA and EVA were evaluated. In particular, the reinforcement with cellulose fibers is addressed: investigations about the influence of fiber length of selected commercial Arbocel products, in a mixture with sturgeon glue solution, were carried out. In addition, a new heating device for a controlled application of adhesives based on animal glues is presented.
+
+short title: The Thread-by-Thread Tear-Mending Method
+
+# 
+
+# \<A-head\> Introduction
+
+This contribution from the 2019 Conserving Canvas symposium gives insight into the selection and application of adhesives for the thread-by-thread tear mending method to close tears and cuts in textile supports of canvas paintings. A more accurate term for this method is *single-thread bonding technique.*[^1]
+
+## \<B-head\> *Single-Thread Bonding Technique*
+
+The single-thread bonding technology has become well established as a minimally invasive alternative for the treatment of local damages in the canvas, in contrast to the application of patches or the lining of paintings. The aim of the method is to restore the mechanical properties and the optical appearance while preserving the inherent properties of the original textile canvas support. Different bonding techniques are used, depending on the damage patterns that form distinct fracture patterns, as shown schematically in [**fig. 29.1**](fig-29-1).
+
+In the case of cuts or very brittle canvas supports, straight fracture edges often occur, occasionally without any local deformations or gaps. Butt joints are the only option for these fracture phenomena since no overlapping of the thread ends can be achieved. Such bonds are weaker than overlapping joints due to their mechanical force transmission. Therefore, individual supplementary bridging threads are often applied onto the back of the canvas.
+
+In contrast, overlapping often occurs with “younger,” more “flexible” in the sense of movable, pliable and stretchable canvases: stretched and frayed thread ends enable overlapping joints. In these cases, the thread ends can be arranged one above the other without level displacements, comparable to a scarf joint. The intermingling of the individual fibers of both thread ends while overlapping is ideal: it improves mechanical anchoring, optimizes force transmission and leads to most reliable bonds with less tendency to creep.[^2]
+
+The general motivation and procedure, up to the presentation of the individual bonding steps using a stereo microscope and fine instruments, are described in detail elsewhere.[^3]
+
+Depending on the bonding technique and state of degradation, different adhesives are suitable. To achieve the best possible bonding, the adhesive application method must be chosen wisely and individually for each painting.
+
+## \<B-head\> *Adhesive Requirements*
+
+The general profile of requirements for adhesives used in tear mending is very complex and appears to be somewhat contradictory.[^4] In particular, the different adhesion properties of adhesives for fabrics based on cellulosic fibers (e.g., linen, cotton) and fabrics produced from synthetic fibers (e.g., polyester, polyamide) need to be taken into account. Other individual surface properties caused by, for example, impregnation from former linings or glue residues due to removed patches, also influence the adhesion. However, the general criteria for an ideal adhesive can be summarized as follows:
+
+-   The aim is to achieve, with a minimal dosage of adhesive, a high level of adhesive strength.
+
+-   The adhesive must completely wet the fibers of the thread ends despite the small amount used.
+
+-   The bond should have a strength[^5] similar to that of the surrounding thread material. If the bond strength is too high, there is the risk that in the event of mechanical impact the mending will not open, but rather new fractures in the intact fabric adjacent to the joined tear will occur.
+
+-   The aim is a “mechanical balance” in relation to the canvas properties: The bond should be strong enough to withstand the “normal” tension distribution and maintain the “flexibility” of the threads within the canvas. The stiffness of the bond should be similar to that of the original canvas.[^6]
+
+-   Comparatively high glass transition temperatures are desirable in order to avoid creep at room temperature under continuous load.
+
+-   It is preferable to use adhesives with a neutral pH value in order to prevent acid-induced degradation of the original fibers.
+
+-   A suitable, comparatively high viscosity is needed to avoid the adhesive drifting into the threads. In addition, the highest possible solid contents of the adhesives is sought in order to achieve reliable bonds.
+
+-   Suitable working properties are necessary, in particular an appropriate open and drying time, so that the adhesive “sets” neither too slowly nor too quickly.
+
+-   The option to re-open of the bond and the reworkability with water are preferred.
+
+-   In this context, there is also the need for compatibility with subsequent treatments, for example, filling and retouching.
+
+-   Generally, good optical properties are aimed for, such as no gloss or darkening. A mended tear with single thread bonds should almost be invisible to the naked eye.[^7]
+
+-   Last but not least, good long-term aging behavior is mandatory.
+
+# \<A-head\> Adhesive Testing
+
+Preliminary successive test series by Hannah Flock[^8] showed the following important findings regarding the general evaluation and further experimental setups.
+
+1.  It should be emphasized that, contrary to frequent publications, thread-by-thread mending cannot be scaled to forecast bond strengths. Initial systematic investigations have already shown that the properties of intact textile structures cannot be easily estimated by simple size scaling, due to their complex structure. Particularly with regard to the establishment of possible correlations between fiber, thread, and fabric structures (uni- as well as biaxial), caution is advisable.[^9] Furthermore, strengths of single-thread bonds cannot be easily scaled to estimate, for example, longer tears. Here, it would be necessary to examine the possibilities and limits of scaling correlations first, in order to draw conclusions from tested samples about the painting’s behavior. Ultimately, possible correction factors can be determined and named only in this way. Hence, no conclusions may (yet) be drawn between mended single threads and canvas strips or mended canvas strips of different widths. Unfortunately, it is often found in literature that bond strengths are scaled up, but this provides no reliable conclusions.[^10]
+
+2.  Furthermore, only multiple single-thread bonds in canvas specimens should be evaluated. References can be made only to the behavior of the fabric structure, when the single-thread bonding technique is used in canvas samples. All previous results of uniaxially testing single bonded threads allow only the relative comparison of the adhesives with each other in this specific setup. Therefore, the results must be interpreted with caution. Even though they offer credible tendencies as valuable guidance, no reliable data about the tensile strength of mended tears and cuts with multiple bonded threads in canvas paintings has been presented.
+
+3.  Uniaxial tensile tests on canvas strips are comparatively easy to carry out and allow one to make an initial assessment. However, there is usually biaxial tensile stress in the stretched painting. First uniaxial and biaxial short-term tests are suitable for depicting extreme values of the bonds with regard to maximum tensile force and elongation, and thus to draw first general comparisons among adhesives or bonding techniques. Ultimately, however, there is a deviating long-term load in a permanently stretched painting. Only by testing the bonds in the biaxial long-term structure,[^11] can the durability and reliability of the bonds be observed, as well as, for example, the extent to which bonds exhibit (disadvantageous) viscous creep tendencies.
+
+4.  In general, material tests should have a strong practical relevance, from which recommendations for treatments and materials can be derived. Consequently, the evaluation of materials and measures should be linked as closely as possible to the subsequent application. This results in the need to test single-thread bonding not only in biaxial long-term tests but ideally also in the coated fabric composite, that is in the closest possible approximation to different painting conditions.
+
+For these reasons, uni- and biaxial short-term tests were carried out on uncoated and coated linen fabrics (new, unaged quality). In addition, biaxial long-term tests on larger specimens of coated fabrics with different bonds were carried out.[^12]
+
+For better comprehensibility, a selection of tested adhesives is presented on the basis of the uniaxial tensile tests carried out on strips of one type of uncoated linen canvas.
+
+## \<B-head\> *Adhesive Selection*
+
+This paper focuses on adhesives for canvases made from cellulosic flax fibers. Previous investigations into different adhesives have taken place, in particular on the basis of bonded single threads which have been uniaxially tensile tested, for example, modifications of sturgeon glue, dispersions based on acrylates, polyvinyl acetates (PVA) or ethylene vinyl acetates (EVA), hot melt adhesives or epoxy resins were tested.[^13] It should be noted that not all of these material groups are equally suitable and that the properties also differ within the groups, depending on the specific adhesive and its individual composition.
+
+The following four water-based adhesives are some of the most promising on the basis of the successive test series by Hannah Flock (for recipes, see [**table 29.1**](table-29-1)):
+
+-   A pH-neutral EVA dispersion from the company Lineco (also marketed under the names Pel and Arcare with the same composition), was modified with cellulose ether solution (with gel-like consistency) for improved re-solubility and optimized viscosity for wetting and penetration during bonding as well as a certain associated stiffening.
+
+```{=html}
+<!-- -->
+```
+-   The PVA dispersion Mowilith DHS S1, which performed best among the various PVA dispersions tested,[^14] was also modified by the addition of cellulose ether solution (with gel-like consistency).
+
+-   For the classic “Heiber recipe,” the sturgeon glue-wheat starch paste-mixture, precooked wheat starch was used, because it has a more uniform quality due to industrial pre-gelatinization.
+
+-   A mixture of sturgeon glue and Arbocel cellulose fibers, which consist of pure, lignin-free cellulose.
+
+## \<B-head\> *Experimental Setup* 
+
+These four adhesives have been repeatedly tested over the past years.[^15] The adhesives were examined in the four different bonding situations shown in [**fig. 29.1**](fig-29-1):
+
+-   Butt joint mending (BJ)
+
+-   Butt joint with additional bridging thread (BJ+BR)
+
+-   Overlap joint mending (OV)
+
+-   Overlapped thread ends with intermingling of the fibers (OV+IN).
+
+The uniaxially tested fabric strips were 12 threads wide, and each thread was mended individually. A comparatively large, reproducible overlap of 1 mm was selected for the test series. For butt joints, the two thread ends were positioned without any visible gap, as close as possible, for bonding. A uniform adhesive volume per thread (0.6 µm adhesive droplet) was used for bonding using a microdosage device. The bridging threads were coated with Beva 371 (25 µm film thickness) and attached after bonding by sealing, 10 mm to the left and 10 mm to the right of the bond, with no contact to the actual bond point in the middle. For the bridging threads, weft threads of the chosen test canvas were used. More material details can be seen in [**table 29.2**](table-29-2).[^16]
+
+# \<A-head\> Evaluation of Single-Thread Bonds
+
+To illustrate the tendencies, all figures show only the average maximum tensile forces (F~max~) as the result of uniaxial short-term testing until bond failure. These results are suitable for indicating a maximum strength as part of a general *relative adhesive comparison*: in general, all types of tests are dependent on the parameters selected, so that absolute measured values must always be embedded in the context of the respective tests and their details, while relative comparisons of adhesives and bonding techniques also reveal transferable tendencies.
+
+However, it has to be considered that in reality, the resulting stresses[^17] and strains are crucial. Moreover, a suitable bond is characterized not only by the highest possible maximum tensile forces (in the short-term test): the viscous, time-dependent material properties of canvas paintings and single-thread bonds, even with much lower long-term exposure, are ultimately decisive.
+
+## \<B-head\> *Inherent Scatters*
+
+Since the test series have been repeated several times over the last years, two average measured F~max~ values are shown in [**fig. 29.2**](fig-29-2). For each of the different adhesives and bonding techniques, the lowest and highest F~max~ mean values from all test series up to 2019 are presented. The order does not correspond to any chronological sequence. Although the exact same test setup and experimental design (test specimen preparation, testing,[^18] and evaluation) were always followed, and at least ten to twenty test specimens of one type were tested each time, the average mean values are hardly reproducible due to scattering results.
+
+Because **fig. 29.2** shows overall low and high average measured values, standard deviations as absolute scatter measures in the diagrams were omitted. Instead, [**fig. 29.3**](fig-29-3) shows the relative coefficients of variation corresponding to **fig. 29.2**. The variation coefficients of F~max~ lie within a range of approximately 6%–30% (in one case almost 40%), which corresponds to quite a large range of individual measured values from which the mean value is derived. In comparison, the variation coefficient of intact canvas samples shows a value of only approximately 6%, which probably results from variations in the natural fiber and the canvas production. Therefore, bonding causes the scattering of the measured values of all adhesives tested.
+
+Extensive investigations into this problem made clear that the scattering is to be regarded as inherent in the technology: irrespective of the greatest possible standardization of the substrate to be bonded, there are always unknown differences in the individual sectional structure, geometry, length, torsion and porosity of fibers and threads. All these aspects result in different wetting, penetration and formation of the adhesive joint and its interphases as well as in different mechanical behavior under tensile testing, even with a standardized quantity and application of the adhesive. Thread-by-thread mends inevitably scatter in their bond strengths. In practice, conservators must therefore always consider both the best case and the worst case, since the strengths of single-thread bonds can differ.[^19]
+
+## \<B-head\> *Bonding Technique Evaluation*
+
+To aid the clarity of the figure scaling, the intact references without bonds are not shown in [**fig. 29.2**](fig-29-2): the F~max~ of the intact canvas strips was approximately 270 N on arithmetic mean.[^20] The average F~max~ of the bonded joints, using the four different adhesives in different joining situations, is always less than the strength of the intact canvas.
+
+Regarding the different types of bonding, a successive increase can be noted for all adhesives from butt joints to butt joints with bridging threads to simple overlapping joints and to overlapping joints with intermingled fibers of the thread ends. The enlargement of the bonding surface and mechanical anchoring result in an improved force transmission and thus higher maximum strengths.
+
+Hence, overlapping bonds are more reliable than butt joint bonds and should therefore be preferred in principle. In case of overlap joints, care should be taken to ensure good mechanical anchoring and intermingling of the fibers of the two thread ends. Simply joining the thread ends on top of each other leads to a weaker bond. The minimum overlap is considered to be approximately 0.5 mm.[^21] Shorter overlaps should be regarded and treated as butt joints. If possible, butt joints should be secured and stabilized with additional bridging threads. This also ensures a gentler tear opening in the event of adhesive failure.
+
+## \<B-head\> Adhesive Evaluation
+
+Butt joints without an overlap are the most challenging bonds, due to lower tensile strengths. In the past, these cases were frequently bonded with epoxy resins, which are rigid, irreversible and sometimes become brittle due to ageing. Today, more suitable adhesives have been found. However, the Heiber’s “classic mixture” of sturgeon glue and wheat starch paste is not suitable for this bonding technique,[^22] as is shown in [**fig. 29.4**](fig-29-4), which represents a simplified section of data from [**fig. 29.2**](fig-29-2). Particularly high bond strengths on butt joints could be achieved with the mixture of sturgeon glue and cellulose fibers. At the same time, this adhesive mixture is also less suitable for overlapping-intermingled bonding techniques, since the bonds quickly turn out to be too strong. The condition of the painting or canvas must always be taken into account: very brittle, degraded fabrics may also be too weak for the application of this adhesive mixture in butt joint technology. In such cases, it may be advisable to switch to the pH-neutral EVA dispersion Lineco with cellulose ether additive (cellulose fibers can also be added here, for additional reinforcement and minimization of creep tendencies).[^23]
+
+The stabilization of butt joints by using bridging threads applied to the back can be recommended due to the significant increase in the average bond strength as well as slower opening in the event of adhesive failure. It is important to point out that the mechanical requirements for bridging threads are completely different to the ones for single-thread bonding: adhesives used for thread-by-thread mending would be too stiff and “inflexible” in terms of a low ductility for bridging threads. Such bridges can become detached or, in the worst case, cause out-of-plane deformations. Bridging threads should function as a “flexible” additional force transmission line and support the stronger, actual bond. The main force transmission should take place in the bonded original thread material. The bridging threads should serve only as an additional transmission line through shear force interaction, and not be explicitly chosen to be stiffening or similar through the choice of material. Ideally, this requires a rather soft, stretchable adhesive that can react in a compensating manner to movements of the textile support. Good adhesion with comparatively weak cohesion under high elongations, as in the case of thermoplastic reactivation of Beva 371 film (25 µm film in the test series), is ideal. As an alternative, the liquid pH neutral EVA dispersion Evacon-R (with optional addition of methyl-cellulose ether) could be considered for very rigid fabric structures. Dried Evacon-R films are less stretchable in comparison and are resoluble in water in terms of reversibility.[^24] Acrylic dispersions might also be an option, though they are known to be unsuitable for single-thread bonding[^25] due to their comparatively soft and extensible properties.[^26]
+
+Wherever possible, the fibers of the thread ends should be intermingled in overlapping bonding to achieve a larger bonding surface, improved mechanical anchoring, and optimized force transmission. As far as the final adhesive selection is concerned, the painting and fabric requirements are decisive: in practice, the Heiber recipe sturgeon glue–wheat starch paste mixture has become established for overlapping-intermingled bonding. With this classic adhesive, more degraded fabrics can also be bonded, while the cellulose-ether modified dispersions Lineco and Mowilith DHS S1 may allow also higher bond strengths for more stable fabric conditions.
+
+On some fabrics, strong darkening or gloss formation can occur when using the mixture of sturgeon glue and wheat starch paste. The presented synthetic resin dispersions modified with methyl-cellulose ether may help in these cases. Under especially high stresses or higher temperatures, the homopolymeric PVA dispersion Mowilith DHS S1 might be preferred to the copolymeric EVA dispersion Lineco due to expected lower creep tendencies.[^27] The sturgeon glue-cellulose fiber-adhesive tested is unsuitable for overlapping-intermingled bonding as it can result in a bond strength that is too high, especially in aged and degraded canvases. Furthermore, a reduction in the amount of adhesive to counter this problem is problematic, as complete wetting of the thread adherends is essential for reliable bonding. Modifications of the adhesive formulation of sturgeon glue-cellulose fiber-adhesives, by reducing the sturgeon glue concentration and/or changing the fiber type, also proved not to be suitable for overlapping-intermingled bonding.[^28]
+
+## \<B-head\> *Adhesive Modification*
+
+The mixture of sturgeon glue and Arbocel fibers is a comparatively new adhesive that can compete even with presumably strong epoxy resins.[^29] Arbocel cellulose fibers are high-purity industrial products and are available in various lengths and thicknesses. This quality and standardization has many advantages over individually cut linen fibers. In the presented tests, Arbocel BWW 40 with a fiber length of 200 µm was used. Flock also investigated the question of whether shorter or longer fibers, or a mix, could also be suitable as fillers to improve embedding and force transmission properties, using canvas strips with butt joints for uniaxial short-term testing.[^30] The basic recipe of a 25% sturgeon glue solution and added cellulose fibers (20:1 by weight) was tested.
+
+The results show the weakest bond strengths when using very short (Arbocel BC 600-30, average length 40 µm) and, especially, very long fiber types (Arbocel BC 200, average length 300 µm), as can be seen in [**fig. 29.5**](fig-29-5).[^31] Therefore, these types are less suitable as adhesive fillers for achieving high bond strengths in butt joints. The sturgeon glue mixtures with pure Arbocel types of medium fiber lengths (B 00, B 800, BWW 40) are quite comparable with regard to the achieved bond strengths and averaged total strains of the test specimens.[^32] The fiber length of 200 µm (Arbocel BWW 40) should be highlighted, as it seems to enable an ideal compromise in embedding and force transmission. The mixture has been in regular use at CICS since 2014 for butt joints in textile painting supports and has proven itself as an alternative to epoxy resins, especially for cuts.
+
+The investigated fiber blends show a similar mechanical behavior to the original recipe only with fibers of type BWW 40: for this purpose, 1:1 mixtures (by weight) of Arbocel BWW 40 with a type of shorter fiber length were produced. The differences in the test results due to mixing with the types BC 600-30 (40 µm), B 00 (120 µm) and B 800 (130 µm) were marginal.[^33] The different recipes, whether the pure fiber types of medium length or the other mixtures mentioned, show slightly different viscosities. Thus, in individual cases, depending on the required processing properties, it is possible to use one of these alternatives instead of the proven type Arbocel BWW 40.
+
+# \<A-head\> Adhesive Application 
+
+The choice of a suitable application method has a particularly high influence on the reliable and constant quality of bonds, as well as the reduction of the scattering of the bonding qualities in the case of sturgeon glue-cellulose fiber-mixtures. The successful application of, especially, those adhesive mixtures containing fibers is directly linked to the correct application. Therefore, use of the newly developed Consolidation Pen Winnie is recommended as an application method for sturgeon glue-cellulose fiber-adhesives ([**fig. 29.6**](29-6)). The Consolidation Pen Winnie was used for standardized adhesive application of 0.6 µl droplets in the tests to examine the influence of different cellulose fiber lengths.
+
+The standardized application of small adhesive droplets of comparable volume, especially for adhesives that are applied warmer than room temperature, is typically a great challenge. This is especially true for the sturgeon glue-cellulose fiber-mixture since the uniform fiber distribution in the adhesive droplet presents an additional difficulty. For example, an initial test series in 2015 produced highly inhomogeneous results without any conclusive reference to the properties of the different Arbocel types. In the course of the error analysis, it became clear that the previous application by means of a microdosage device[^34] caused excessive fluctuations in the fiber content and therefore had to be optimized. After numerous preliminary tests and extensive product development, a heat-able sleeve for a mini-syringe with a low-binding pipette tip was developed by Star Tec Products, which enables the dosing of finest adhesive droplets of constant volume and homogeneous adhesive composition with regard to fiber distribution.[^35]
+
+## \<A-head\> The Consolidation Pen Winnie
+
+The Consolidation Pen Winnie, named after the pioneer of thread-by-thread mending, Winfried Heiber, is a heat sleeve in which aqueous adhesive solutions can be heated in a special syringe. The temperature of the heating sleeve (which contains the heating element) can be regulated with the control unit, as shown in [**fig. 29.6**](fig-29-6).[^36] The heatable adhesive application device allows for precise and fast application of even highly concentrated animal glue solutions, including, for example, 20–30% solid content sturgeon glue and mixtures with wheat starch paste or Arbocel cellulose fibers. The great advantage is that despite heating, the adhesive concentration in the syringe does not change. The Consolidation Pen Winnie can be comfortably operated with one hand without any appreciable effort, as shown in [**fig. 29.7**](fig-29-7).
+
+The highlight that makes the Winnie a precision instrument is the selected low-binding pipette tip: its special conical shape ensures fine dosing. The transparent plastic nozzle made of polypropylene ensures a controllable material discharge at the approximately 0.8 mm diameter opening. This special low-binding tip, inert and coming from pipetting “long sticky molecules” in microbiology,[^37] is indispensable for the application of finest droplets of highly viscous adhesive solutions, as the comparison with numerous cannulas and other pipette tips showed. The syringe and pipette tip are connected with a silicone tube. This simple connection provides sufficient tightness and stability for safe removal of the entire adhesive syringe from the heating sleeve. At the same time, quick assembly and disassembly is ensured.
+
+The entire adhesive application takes place directly at the damaged area under the stereo microscope.[^38] This is accompanied by a more relaxed and rapid bonding process. The adhesive is transferred from the tip of the pipette to the thread ends with a polystyrene strip or a Weston probe (see [**fig. 29.7**](fig-29-7)). In some cases, for example, with particularly large thread diameters, the adhesive can be dripped or placed directly onto the thread ends with the pipette tip. The adhesive flow, and thus the droplet size at the pipette tip, can be regulated by the pressure on the syringe plunger and, to a certain degree, by temperature control. The incorporation of the adhesive between the fibers with fine instruments remains indispensable in case of closing tears and cuts in canvas supports.
+
+The Consolidation Pen Winnie was initially developed for single-thread bonding to close tears and cuts in canvas supports.[^39] Consequently, it is equally suitable for bonding processes when it comes to fabric inserts[^40] for canvas supports. Further investigations will show to what extent the new adhesive application method with the Winnie will influence the future choice of adhesive for single-thread bonding. The Winnie system opens the possibility that gelatin might be considered for the first time as an adhesive for tear mending: possibly suitable gelatin types are still to be tested.[^41] Up to now, the low gel temperature of sturgeon glue was indispensable for the traditional application method in practical conservation, the transfer of the adhesive from a small glass jar outside the painting with the head of an insect pin. This application technique has many disadvantages and can now be avoided in the future.
+
+# \<A-head\> Conclusion
+
+Depending on the state of degradation and fracture pattern of a canvas, different bonding techniques and adhesives will be suitable for the thread-by-thread tear mending technique to close tears and cuts. The bond strengths of butt joints are significantly weaker than the ones with overlapping joints. In the case of overlapping thread ends, intermingling of the fibers is recommended to generate particularly high bonding qualities.
+
+In a comprehensive series of tests, four adhesives proved to be particularly suitable for common cellulose-based textile supports. The mixture of sturgeon glue and wheat starch paste as well as the two synthetic resin dispersions, pH neutral adhesive Lineco (EVA) and Mowilith (PVA), both modified with Methocel A4C cellulose ether, are suitable for overlapping-intermingled bonding. The two modified dispersion adhesives are also suitable for butt joint bonding. For high tensile strength of butt joints, the mixture of sturgeon glue with cellulose fibers (specifically Arbocel BWW 40), is recommended. Furthermore, butt joints should be additionally stabilized with bridging threads. For bridging threads, other adhesives than for tear mending should be used: especially suitable is Beva 371 (25 µm film).
+
+Single-thread bonds are subject to technical and material immanent scatterings, which must be taken into account. To reduce the fluctuation range of the bond qualities, a suitable method of applying the adhesives is essential. For the warmed sturgeon glue mixtures, especially the modification with cellulose fibers, the Consolidation Pen Winnie is highly recommended.
+
+# \<A-head\> Acknowledgments
+
+The investigation into adhesives for thread-by-thread tear mending and suitable testing systematics was subject to the cooperative doctoral project of Dr.-Ing. Hannah Flock M.A., scientific associate at the Cologne Institute of Conservation Sciences (CICS), together with the Chair of Applied Mechanics (LTM) at Saarland University. The doctorate was supervised at LTM by Prof. Dr.-Ing. Stefan Diebels and at CICS by Prof. Dr. Elisabeth Jägers. In addition, Prof. Dr. Wulff Possart from the Chair of Adhesion and Interphases in Polymers at Saarland University was also involved as scientific attendant. Dipl.-Rest. Petra Demuth accompanied the project as mentor and expert. Special thanks goes to Volker and Eva Koch of Star Tec Products. Their great cooperation and technical input made the invention of the Consolidation Pen Winnie possible. We would like to thank everyone involved for their support, and in particular the Studienstiftung des Deutschen Volkes (German Academic Scholarship Foundation) for its individual sponsorship and financial support of the doctorate.
+
+# \<A-head\> Notes
+
+[^1]: Details about the general technique were described by Winfried Heiber, the pioneer of the thread-by-thread tear mending method ({{Heiber 1996}}; {{Heiber 2003}}; {{Heiber et al. 2012}}).
+
+[^2]: Compare with statements by Christina Young published in context of the 2003 Alternatives to Lining Conference ({{Young 2003\|, 55–56}}), as well as {{Flock 2014}}, {{Flock et al. 2021b}}, {{Flock 2020}}, and {{Flock et al. 2022}}.
+
+[^3]: The publications of Winfried Heiber are basic information sources about the general technique of single thread bonding: see, for example, {{Heiber 1996}}, {{Heiber 2003}}, and {{Heiber et al. 2012}}. Individual essential aspects and more recent developments have been summarized by Petra Demuth ({{Demuth 2020}}). Details of the bonding procedure can be found in publications by Hannah Flock ({{Flock 2020\|, 23–28}} and {{Flock et al. 2022\|, 173–80}}).
+
+[^4]: Several authors have described adhesive criteria, including {{Flock 2014\|, 25–33}}, {{Reuber 2010\|, 17–20}}, {{Young 2003\|, 56}}, {{Flock 2020\|, 45–49}} and {{Flock et al. 2022\|, 182–86}}.
+
+[^5]: It is often stated as a rule of thumb that the adhesive should have a lower cohesion than the original fabric to prevent further damage, so that the bonded joint opens instead of new defects forming. However, this requirement must be specified to the effect that the resulting bond must have a lower cohesion than the surrounding material. This is of great relevance, as the adhesive behavior in the joint sometimes differs greatly from the pure adhesive material (compare to {{Flock 2014, 134–35}}). Thus, for example, both increased and reduced, of previously assumed, bond strengths can occur (based on the pure adhesive properties). Adhesive and cohesive behavior are therefore to be understood and considered as mutually influencing (compare to {{Flock 2020, 46–47}}).
+
+[^6]: Especially regarding the often hygroscopic behavior of fabric, the bond achieved should have a certain tolerance to stress changes caused by climatic changes as well as transports of artworks or the like. The bonded area ideally accompanies the fabric’s movements instead of promoting local tension differences and thus markings. Hygroscopic adhesive properties are therefore often preferred. In this context, the rather fuzzy term of *required flexibility* is often used. It would certainly be desirable that the adhesive joint behaves in the sense of spontaneous, completely reversible shape change (elasticity, comparable to an ideal constant spring). However, a certain flexibility in the sense of adaptive behavior, which can have viscous or even plastic-ductile components within certain limits, is sometimes sufficient. Slight viscous creep tendencies of adhesives, which are similar to those of the original fabric, are therefore not necessarily a disadvantage, as long as the transfer of force through the bond can be guaranteed and no deformations or the like result. Brittle properties should be avoided. Elastic or “flexible” automatically leads to the need for suitable stiffness, that is, the corresponding resistance to (elastic) deformation: the adhesive joint should not be too soft or stretchy and should be able to transfer stresses without deformation. At the same time, overly rigid bonds should be avoided. Here in particular, the idea of the ideal adhesive material, which is sometimes perceived as contradictory, becomes clear. However, there is not so much a contradiction as a very specific, individual ideal that depends on the object, and is thus a hardly achievable mechanical property profile (compare to {{Flock 2020\|, 47–48}}).
+
+[^7]: This means that, for example, the optical density, light refraction, transparency, translucency, or even opacity, and degree of gloss of the bonded area ideally correspond to the individual optical surface properties of the surrounding fabric.
+
+[^8]: Compare to {{Flock 2014}}, {{Flock et al. 2019}}, {{Flock et al. 2021a}}, and {{Flock et al. 2021b}}.
+
+[^9]: For more details on scale effects, see, for example, {{Flock 2020\|, 51, 55}}, {{Flock et al. 2021a}}, {{Flock et al. 2021b}}, and {{Flock 2014\|, 130–39}}.
+
+[^10]: This problem has already been published ({{Flock 2014}}); a more recent article in English describes the facts in the context of inevitable scattering results in bonding qualities ({{Flock et al. 2021a}}).
+
+[^11]: Only in the biaxial long-term test, the durability of the bonds for the practical application can be conclusively tested, and a potentially disadvantageous creep behavior of the bonded joints be understood with sufficient test duration. A new type of creep test under constant load was designed for this purpose: the test setup enables the imitation of tensioned painting structures, testing of high sample numbers as well as a quantifiable evaluation of the bond behavior. For this purpose, a tensile frame was developed that allows constant biaxial tensile loading of the samples; digital image correlation (DIC) is used for local and global strain evaluation of the bonded area and the entire sample. In addition to serial testing, the developed long-term test setup also allows optional test extensions, for example, to include different tear geometries or external climatic influences. More details on the biaxial long-term test setup can be found in {{Flock 2020\|, 73–77, 124–29, 399–416, 445–49}}.
+
+[^12]: The results are published in the dissertation of Hannah Flock, “Einzelfadenverklebung in der Gemälderestaurierung: Klebstoffe, Prüfsystematik und Ergebnisse” (Single-Thread Bonding in Painting Conservation: Adhesives, Testing Systematics and Results), see {{Flock 2020}}. The collaborative PhD project was located at the Chair of Applied Mechanics (LTM) at Saarland University, Saarbrücken, and the Cologne Institute of Conservation Sciences (CICS) at TH Köln, Cologne. The project was supervised by Prof. Dr.-Ing. Stefan Diebels (LTM) and Prof. Dr. Elisabeth Jägers (CICS). Defense of the dissertation, May 7, 2020 (summa cum laude). An English translation of the dissertation thesis is in preparation.
+
+[^13]: The results of previous test series have been published in different places: sources such as {{Reuber 2010}}, {{Demuth et al. 2011}}, and {{Flock 2020}} feature references to other publications.
+
+[^14]: Among the PVA dispersions considered, Mowilith DHS S1 showed satisfactory film properties, particularly homogeneous adhesive properties, and very good processing characteristics. It formed the most reliable bonds (compare to {{Flock 2014}} and {{Flock 2020b}}).
+
+[^15]: Detailed information on the chosen setup has been published previously ({{Flock 2014}}; {{Flock 2020b}}). The details of the experimental design are therefore omitted from this section. Valuable advice for future test series, the experimental design and all the details, can be found at {{Flock 2020}}.
+
+[^16]: Precise information on the materials and equipment used, as well as precise, illustrated instructions for the manufacture of bridging threads can be followed in detail ({{Flock 2014\|, A.4–A.5}} and {{Flock 2020\|, 436}}). The Beva 371 film was applied only on the single threads, not as a continuous layer. This idea refers to Winfried Heiber’s technique *Geweberasterhaftung* (fabric grid bonding): the melting of the thin adhesive film with a hot air gun leads to adhesive-free interstices and an accumulation of adhesive on the surface of the threads ({{Heiber 1987\|, 72–76}} and {{Heiber 1999\|, 362–63}}).
+
+[^17]: The specification of tensions for textile painting supports is problematic: values given in conservation literature usually cannot be compared or generally transferred. The cross sections of the painting’s layers are not known, therefore, a substitute “line-stress,” related to the fabric’s width (N/m), is often given. However, this value is given regardless of the individual structure; for example, details about the weave and fabric, type and homogeneity of the upper layers, or interaction of the layers, are not taken into account. Furthermore, with fabrics there are also concrete uncertainties when using the stress term, due to the “open-pored” structure: the fibers, which are made up from individual fibrils, are twisted together to form the threads. The threads, depending on the type of weave, interact at binding points (friction), or leave free interstices. In fact, there is no continuum, either in the individual thread, or in the fabric. Strictly speaking, no tension as stress can be defined. Hence, the approximation of the fabric as a continuous layer represents a high degree of abstraction. For this reason, also in textile technology and testing, the calculation of cross-sectional stresses (N/mm²) is uncommon. Instead, the maximum tensile forces (N) or the width-related maximum tensile force (N/m) are often used (compare to {{Flock 2020\|, 34}} and {{Flock et al. 2022\|, 199}}). However, such absolute values must always be embedded in the context of their details and cannot be used for simple comparisons of different sources, as is unfortunately still done (see, for example, {{Michalski 2022\|, 230–31}}). The authors would like to distance themselves explicitly from such compilations.
+
+[^18]: The testing parameters of all mended samples as well as of intact reference samples were as follows: clamping length 100 mm, minor pre-load of 0.1 N with 5 mm/min, and test speed rate of 20 mm/min (compare to {{Flock et al. 2021b}}). Important note: in later tests a more suitable, increased pre-load of 1 N was implemented ({{Flock 2020\|, 62–63}}).
+
+[^19]: For more detail about investigations of inherent scatters see {{Flock et al. 2021a}}.
+
+[^20]: The tested reference canvas strips were each 12 threads wide or approximately 12.5 mm fabric width. Although a certain scaling effect can be seen for intact fabrics ({{Flock 2014\|, 84}}), it should not be concluded that 270 N per 12.5 mm leads to a maximum load capacity of \~21,600 N/m. Nevertheless, it is clear that even 270 N/m is a value to which many canvas paintings are probably not permanently exposed.
+
+[^21]: The minimum overlap of 0.5 mm is according to Winfried Heiber ({{Heiber 1996\|, 132–33}}): as a rule of thumb, the longer the overlap, the better for reliable bonding. In practice, the minimum overlap also depends on the thread structure, such as the shape and number of individual fibers and the thread thickness.
+
+[^22]: The mixture of sturgeon glue and wheat starch paste is also unsuitable for simple overlapping joints, due to the sensitivity of the bonds to shear stress: here, the bonds open abruptly and completely in case of failure. The adhesive mixture is only suitable for overlapping-intermingled joints. In addition, no attempt should be made to compensate for the inadequate properties of butt joints with this mixture, for example, by applying additional bridging threads: the adhesive must not be used in these cases ({{Flock 2020\|, 142, 184}}).
+
+[^23]: Tested recipe: mixture of EVA dispersion with methyl-cellulose ether solution (Lineco + Methocel A4C 5% in water, 9:1 by weight) plus cellulose fibers (Arbocel BWW 40), 20:1 by weight (compare to {{Flock 2020\|, 94, 150–51}}).
+
+[^24]: According to Fourier-transform infrared spectroscopy (FTIR) analyses by Elisabeth Jägers, the copolymeric EVA dispersion Evacon-R has a much higher proportion of ethylene, which acts as an internal plasticizer. Therefore, Evacon-R is much more stretchable and softer than pH-neutral adhesive Lineco (the product could be identified in the spectrum as an EVA dispersion, but its much lower proportion of ethylene could be the reason it is incorrectly identified as a homopolymeric PVA dispersion on the container bottle ({{Flock 2014\|, 28–29, A.3.2}}).
+
+[^25]: These results were presented at the 2011 Canadian Conservation Institute symposium “Adhesives and Consolidants for Conservation: Research and Applications” ({{Demuth et al. 2011}}).
+
+[^26]: See {{Flock 2014\|, 52–56, 130–32};} compare to {{Flock et al. 2021b}}.
+
+[^27]: Due to ethylene as internal plasticizer: see note 24.
+
+[^28]: Different formulations of the mixture did not solve the problem of damaged thread adherends after breakage of overlapping-intermingled bonds ({{Flock 2020\|, 147–48}}).
+
+[^29]: Butt joints with the two-component epoxy UHU Plus Schnellfest had less tensile strength in comparison and also showed an increased scatter range of the bonding qualities. Epoxy resins are therefore not to be preferred for conventional linen fabrics. Presumably, the poor processing properties lead to lower bond strengths by comparison, unlike what would be expected from these high-strength adhesives ({{Flock 2020\|, 97, 153–55}}).
+
+[^30]: This topic is described in detail in {{Flock et al. 2019}} and thus is briefly summarized here.
+
+[^31]: Arbocel fibers were considered as midlength fibers with 120–200 µm: a minimum length of 40 µm and a maximum of 300 µm were investigated. However, this does not directly indicate what the critical lower and upper fiber length limits are.
+
+[^32]: The coefficients of variation (CV of F~max~) slightly differ between approximately 15% and 21% ({{Flock et al. 2019\|, 122}}).
+
+[^33]: Regarding average bond strengths, total strains of the test specimens, and variation coefficients: see {{Flock et al. 2019\|, 122}}.
+
+[^34]: Done by measuring 0.6 µl per thread with a fine pipette and reproducing the droplet volume with a microdosing device. See {{Flock 2014\|, 308–21}} for details on device, materials, and procedure for adhesive dosing.
+
+[^35]: See {{Flock et al. 2019}} and {{Demuth and Flock 2019}}. For a summary in English, refer to <https://www.th-koeln.de/mam/downloads/deutsch/hochschule/fakultaeten/kulturwissenschaften/_englisch_.pdf>, pp. 6–10 (accessed April 26, 2022).
+
+[^36]: The Consolidation Pen Winnie comes with two sizes of syringes (0.5 ml and 1 ml): the maximum internal temperature is approximately 63°C–68°C. The precise fit of the reusable syringe allows optimal heat transfer. Syringes with a diameter of up to about 6.5 mm can be inserted. The use of a particularly short syringe is extremely handy, with a maximum length of approximately 11 cm including plunger. The flow and droplet formation of the adhesive solution are caused by the extremely low pressure of the syringe plunger. All the individual parts described, for example, syringes, low-binding pipette tips, and silicone tube, are included in the Winnie starter kit.
+
+[^37]: Compare to information from Sorenson TM BioScience Inc.: <http://www.sorbio.com/index.php/low-binding-polymer> (accessed April 26, 2022).
+
+[^38]: Working under the stereo microscope is indispensable to be able to implement the single-thread bonding technique with the required precision and to achieve excellent bonding qualities (compare to {{Flock et al. 2022\|, 173}}).
+
+[^39]: The Consolidation Pen Winnie enables controlled adhesive application under a stereo microscope as well as with the naked eye: the field of application thus ranges from single thread bonding to, for example, consolidation of paint layers. Another possible application is for filling of losses in paint layers. Classic animal glue-chalk-filling material as well as methyl-cellulose ether-chalk-filling material can be applied to close the defects.
+
+[^40]: For the application of inserts using the single-thread bonding technique, see also {{Flock 2020\|, 27–28}}, and {{Flock et al. 2022\|, 178–79}}.
+
+[^41]: Exemplarily, Flock considered mixtures of one type of gelatin: a gelatin typically used in other contexts of conservation practice was included in the adhesive selection (Gelita Imagel 185 Bloom, inert photographic gelatin, pH 5), to be specifically compared with sturgeon glue. The selected gelatin type showed significantly lower bond strengths and increased scattering ranges when mixed with wheat starch paste and cellulose fibers, and therefore cannot be preferred. Due to the large number of different gelatins, however, this cannot be understood as generally representative. A more suitable type of gelatin could therefore still be found for alternative use in single-thread bonding ({{Flock 2020\|, 85–86, 145–46}}).
