@@ -9,6 +9,7 @@ outputs:
 ---
 
 {{ publication.description.full }}
+
 ## Citation Information
 
 ### Chicago
