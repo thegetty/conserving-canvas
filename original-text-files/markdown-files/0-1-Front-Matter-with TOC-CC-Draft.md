@@ -40,7 +40,7 @@ Any others excluded? Check log and with Danielle
 
 © Government of Canada, Canadian Conservation Institute (this is for the Hagan / Daly Hartin, Michalski, and Hagan / and Nadeau contributions—note all of these here)
 
-First edition, 20213
+First edition, 2023
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at github.com/thegetty/conservingcanvas, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
