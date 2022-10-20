@@ -2445,7 +2445,7 @@ figure_list:
     label: "Figure 63.5"
     src:
     caption: "The XRF calibration curve of chloride (CI) levels in the cotton cloth."
-    credit: Image: "Image credit TK"
+    credit: "Image: Image credit TK"
 
   - id: "fig-63-6"
     label: "Figure 63.6"
