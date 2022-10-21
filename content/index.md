@@ -7,3 +7,4 @@ permalink: index.html
 toc: false
 image:
 ---
+{{ publication.description.full }}
