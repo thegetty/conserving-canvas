@@ -239,7 +239,7 @@ figure_list:
     credit: "Image: Camille Polkownik"
 
   - id: "fig-4-9"
-    src: "figures/fig-4-9.png"
+    src: "figures/fig-4-9.jpg"
     zoom: true
     label: "Figure 4.9"
     caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 x 92 cm (28 3/4 x 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking light picture taken before the treatment in 1980. (b) Current state of the painting photographed in normal light."
@@ -909,43 +909,43 @@ figure_list:
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-20-1"
-    src: "figures/fig-20-1.jpg"
-    zoom: true
+    # src: "figures/fig-20-1.jpg"
+    # zoom: true
     label: "Figure 20.1"
     caption: "Vishwa Mehra’s low-pressure suction table showing plenum, plenum openings and polyurethane foam pad on surface. At the end of the table is a mock-up of the nested three stretcher system."
     credit: "Image: Jim Coddington"
 
   - id: "fig-20-2"
-    src: "figures/fig-20-2.jpg"
-    zoom: true
+    # src: "figures/fig-20-2.jpg"
+    # zoom: true
     label: "Figure 20.2"
     caption: "Gerry Hedley, Alan Phenix, and Vicky Leanse (in 1983) dosing a synthetic lining adhesive with solvent prior to executing a test lining on a Mehra-designed suction table."
     credit: "Image: Jim Coddington"
 
   - id: "fig-20-3"
-    src: "figures/fig-20-3.jpg"
-    zoom: true
+    # src: "figures/fig-20-3.jpg"
+    # zoom: true
     label: "Figure 20.3"
     caption: "Bent Hacke’s heated suction table design. 1. Table frame. 2. Electric heating coils. 3. Aluminum egg crate support. 4. Perforated aluminum sheet. 5. Moistened felt/lining fabric. 6. Working stretcher. 7. Painting. 8. Suction port. 9, 10. Temperature and pressure gauges. 11. Clips for mounting working stretcher to table frame."
     credit: "Source: [[Hacke 1978]]"
 
   - id: "fig-20-4"
-    src: "figures/fig-20-4.jpg"
-    zoom: true
+    # src: "figures/fig-20-4.jpg"
+    # zoom: true
     label: "Figure 20.4"
     caption: "A painting under pressure on Hacke’s suction table. The painting is loomed onto an expandable aluminum-and-wood stretcher. A moistened cloth is placed underneath the painting to facilitate correction of paint film distortions as the painting and cloth are dried together under pressure."
     credit: "Image: Image: credit TK"
 
   - id: "fig-20-5"
-    src: "figures/fig-20-5.jpg"
-    zoom: true
+    # src: "figures/fig-20-5.jpg"
+    # zoom: true
     label: "Figure 20.5"
     caption: "A cross section of the Willard low-pressure conservation table showing airflow and the humidification/dehumidification circulation design."
     credit: "Source: [[Reeve 1984]]"
 
   - id: "fig-20-6"
-    src: "figures/fig-20-6.jpg"
-    zoom: true
+    # src: "figures/fig-20-6.jpg"
+    # zoom: true
     label: "Figure 20.6"
     caption: "Schematic drawing of Maxwell heated suction table. The base is an aluminum plate with heating elements (red) attached to the lower surface. On the upper surface are aluminum channels that alternate between intake (I) and exhaust (E) flows. The flow of air is illustrated as it moves from the intake to the exhaust through a staggered array of holes in each channel. Above this is a layer of heat exchanger, shown separately on the right, and on top is a perforated aluminum sheet (not shown)."
     credit: "Image: Jim Coddington"
@@ -1966,7 +1966,7 @@ figure_list:
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-8"
-    src: "figures/fig-40-8.jpg"
+    src: "figures/fig-40-8.png"
     zoom: true
     label: "Figure 40.8"
     caption: "Cupping height from five minutes to twenty-one years. Left graph shows growth over time for treatments in slack paintings. Right graph shows single data points for treatments in taut paintings that were keyed out twenty years ago. Gray region indicates heights that are noticeable under normal 30-degree lighting."

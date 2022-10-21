@@ -4,7 +4,7 @@ description: Quire publication cover page
 layout: base.11ty.js
 ---
 
-{% assign coverImage = image || publication.promo_image %}
+{% assign coverImage = image %}
 {% assign imagePath = config.params.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
@@ -24,7 +24,11 @@ layout: base.11ty.js
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
       <div class="contributor">
         <span class="visually-hidden">Contributors:&nbsp;</span>
-        <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+        {% if publication.contributor_as_it_appears %}
+          <em>{{ publication.contributor_as_it_appears }}</em>
+        {% else %}
+          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+        {% endif %}
       </div>
     </div>
   </div>

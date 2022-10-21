@@ -23,6 +23,7 @@ module.exports = {
         layout: data.layout,
         object: data.object,
         order: data.order,
+        classes: data.pageClasses,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
@@ -138,9 +139,8 @@ module.exports = {
    * Contributors with a `pages` property containing data about the pages they contributed to
    */
   publicationContributors: ({ collections, config, publication }) => {
-    const { contributor, contributor_as_it_appears } = publication
+    const { contributor } = publication
     if (!collections.all) return
-    if (contributor_as_it_appears) return contributor_as_it_appears
     return contributor
       .map((item) => {
         const { pic } = item
