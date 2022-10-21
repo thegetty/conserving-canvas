@@ -407,8 +407,9 @@ figure_list:
     credit: "Image: Kate Seymour"
 
   - id: "fig-9-4"
-    src: "figures/fig-9-4.jpg"
-    zoom: true
+    poster: "figures/fig-9-4.jpg"
+    media_type: vimeo
+    media_id: 762363049/f22edb5063
     label: "Figure 9.4"
     caption: "Video clip showing the Mist-Lining process."
     credit: "Video: SRAL"
