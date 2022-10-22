@@ -1,14 +1,14 @@
 ---
 title: About
 layout: page
-class: backmatter
 order: 800
-toc: false
 outputs:
   - html
 ---
 
 {{ publication.description.full }}
+
+{% backmatter %}
 
 ## Citation Information
 
@@ -98,3 +98,5 @@ Library of Congress Cataloging-in-Publication Data
 Front cover: *Title*, date (detail, plate/fig. 00)
 Back cover: *Title*, date (detail, plate/fig. 00)
 Title page: *Title*, date (detail, plate/fig. 00)
+
+{% endbackmatter %}
