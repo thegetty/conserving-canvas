@@ -1,0 +1,65 @@
+:root {
+  /* https://coolors.co/2b1d0b-b35c00-fbb041-f6f3f6-d3c5d3 */
+  /* These colors also being used in content/_assets/styles/variables.scss */
+  --bright-orange: #fbb041;
+  --accent-color: #b35c00;
+  --dark-brown: #2b1d0b;
+  --white: #fff;
+  --pale-lavendar: #f6f3f6;
+  --lavendar: #d3c5d3;
+}
+
+/* GENERAL
+============================================================================= */
+/*  Progress Bar */
+.quire-progress-bar {
+  display: none;
+}
+
+/* COVER
+============================================================================= */
+/* Cover Background Image */
+.quire-cover__overlay {
+  background-position-y: 80%;
+}
+/* Cover Title Area */
+.hero-body .container.is-fluid {
+  background: transparent;
+  left: auto;
+  margin-right: 0;
+  padding-left: 30px;
+  padding-right: 60px;
+  padding-top: 0;
+  right: 0;
+}
+/* Cover Title */
+.quire-cover__hero .title {
+  color: var(--bright-orange);
+  font-size: 5rem;
+}
+/* Cover Contributor */
+.quire-cover__hero .contributor {
+  font-size: 1.2rem;
+  text-align: right;
+  text-transform: uppercase;
+}
+.quire-cover__hero .contributor em {
+  font-style: normal;
+}
+/* Cover More Arrow */
+.quire-cover__more .hero-more {
+  background: var(--bright-orange);
+}
+.quire-cover__more .hero-more svg {
+  fill: var(--dark-brown);
+}
+/* Cover Page Background */
+.quire:not(.no-js) .quire__primary main.quire-cover {
+  background-color: var(--dark-brown);
+}
+/* Cover Descriptive Text */
+.quire-cover .quire-page__content .container.is-fluid .content {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 1.1em;
+}

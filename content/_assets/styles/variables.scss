@@ -6,15 +6,15 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #b35c00;
 $content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$secondary-background-color: #f6f3f6; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
 
 // Declare the navbar color style: normal/accent
-$navbar: normal;
+$navbar: accent;
 
 
 
@@ -41,8 +41,8 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 352px;
 
-$quire-menu-color: $off-black;
-$quire-menu-text-color: $white;
+$quire-menu-color: #2b1d0b;
+$quire-menu-text-color: #d3c5d3;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
@@ -104,9 +104,9 @@ $navbar-height: 3rem;
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
-$quire-navbar-color: null;
+$quire-navbar-color: $quire-menu-color;
 $quire-navbar-hover-color: null;
-$quire-navbar-text-color: null;
+$quire-navbar-text-color: $quire-menu-text-color;
 
 @if $navbar == accent {
   // Accent Navbar

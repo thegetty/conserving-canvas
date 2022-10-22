@@ -5,6 +5,7 @@ layout: cover
 menu: false
 permalink: index.html
 toc: false
-image:
+image: figures/cover.jpg
 ---
+
 {{ publication.description.full }}
