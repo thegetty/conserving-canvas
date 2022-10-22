@@ -63,3 +63,23 @@
   color: var(--white);
   font-size: 1.1em;
 }
+
+/* MENU
+============================================================================= */
+/* Make key menu items white */
+/* Book Title */
+.quire-menu__header h4.quire-menu__header__title {
+  color: var(--white);
+  font-size: 1.7rem;
+}
+/* Current Page */
+.quire-menu .page-item .page-item a.active,
+.quire-menu .section-item .page-item a.active {
+  border-left-color: var(--white);
+  color: var(--white) !important;
+}
+/* Headings for Downloads and Citations */
+.quire-menu__formats h6 {
+  border-bottom-color: var(--white);
+  color: var(--white);
+}
