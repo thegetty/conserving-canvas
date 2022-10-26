@@ -665,7 +665,10 @@ figure_list:
     caption: "Room housing large paintings in the Kunsthistorisches Museum’s central storage, installed in 2011."
     credit: "Image: © KHM Museumsverband"
 
-  - id: "14.2 "
+  - id: "fig-14-2"
+    src: "figures/fig-14-2.jpg"
+    zoom: true
+    label: "Figure 14.2"
     caption: "Titian (Italian, ca. 1488–1576), *Ecce Homo*, 1543. Oil on canvas, 242 x 361 cm (95 1/3 x 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the eighteenth-century lining canvas were repaired."
     credit: "Image: © KHM Museumsverband"
 
@@ -3047,7 +3050,9 @@ figure_list:
     caption: "Cross-sectional SEM-EDX elemental distribution of zinc and corresponding ATR-FTIR spectra with highlighted metal carboxylate band from surfaces of (a) Claessens oil-primed linen, and (b) Artfix oil-primed linen."
     credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
-  - id: "63.1"
+  - id: "fig-63-1"
+    src: "figures/fig-63-1.jpg"
+    zoom: true
     label: "Figure 63.1"
     caption: "The tsunami that attacked Tohoku in March 2011."
     credit: "Image: Image credit TK"
