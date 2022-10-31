@@ -708,28 +708,28 @@ figure_list:
     src: "figures/fig-15-2.png"
     zoom: true
     label: "Figure 15.2"
-    caption: "Measured weft strain distribution in one quadrant of a 30 cm^2^ stretched canvas (red: 5.5 μm/mm)."
+    caption: "Measured weft strain distribution in one quadrant of a 30 c<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-3"
     src: "figures/fig-15-3.png"
     zoom: true
     label: "Figure 15.3"
-    caption: "Modeled weft strain distribution in one quadrant of a 30 cm^2^ stretched canvas (red: 5.5 μm/mm)."
+    caption: "Modeled weft strain distribution in one quadrant of a 30 c<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.png"
     zoom: true
     label: "Figure 15.4"
-    caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 cm^2^ central region of a 30 cm^2^ canvas)."
+    caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 c<sup>2</sup> central region of a 30 c<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-5"
     src: "figures/fig-15-5.png"
     zoom: true
     label: "Figure 15.5"
-    caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 cm^2^ central region of a 30 cm^2^ canvas)."
+    caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 c<sup>2</sup> central region of a 30 c<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-6"
@@ -879,7 +879,7 @@ figure_list:
     src: "figures/fig-18-6.jpg"
     zoom: true
     label: "Figure 18.6"
-    caption: "Participants in the Applications of Traditional and Modern Lining Methods Workshop*,* June 2019, at the Faculty of Fine Arts at the Complutense University of Madrid."
+    caption: "Participants in the Applications of Traditional and Modern Lining Methods Workshop, June 2019, at the Faculty of Fine Arts at the Complutense University of Madrid."
     credit: "Image: Julia Betancor"
 
   - id: "fig-19-1"
@@ -1204,7 +1204,7 @@ figure_list:
     src: "figures/fig-26-4.jpg"
     zoom: true
     label: "Figure 26.4"
-    caption: "*Saint Paul* painting: 12 x 11 threads/cm^2^."
+    caption: "*Saint Paul* painting: 12 x 11 threads/c<sup>2</sup>."
     credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
 
   - id: "fig-26-5"
@@ -1261,7 +1261,7 @@ figure_list:
     src: "figures/fig-27-4.png"
     zoom: true
     label: "Figure 27.4"
-    caption: "Percentage increase in storage modulus (E') measured at 30% RH and 25°C resulting from the application of 9 g/m^2^ of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
+    caption: "Percentage increase in storage modulus (E') measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
     credit: "Image: Alexandra Bridarolli"
 
   - id: "fig-27-5"
@@ -1673,7 +1673,7 @@ figure_list:
     src: "figures/fig-35-1.jpg"
     zoom: true
     label: "Figure 35.1"
-    caption: "Anne-Louis Girodet Trioson (French, 1767–1824), *The Death of Camille*, 1785*.* Oil on canvas, 113 x 146 cm (44 1/2 x 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
+    caption: "Anne-Louis Girodet Trioson (French, 1767–1824), *The Death of Camille*, 1785. Oil on canvas, 113 x 146 cm (44 1/2 x 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
     credit: "Image: C2RMF, J. Requilé"
 
   - id: "fig-35-2"
@@ -2412,7 +2412,7 @@ figure_list:
     src: "figures/fig-49-5.png"
     zoom: true
     label: "Figure 49.5"
-    caption: "Increase in surface area (m^2^/g) analyzed through BET."
+    caption: "Increase in surface area (<sup>2</sup>/g) analyzed through BET."
     credit: "Image: Julianna Ly and Tracy Liu"
 
   - id: "fig-49-6-a"
@@ -2450,14 +2450,14 @@ figure_list:
     src: "figures/fig-50-3.png"
     zoom: true
     label: "Figure 50.3"
-    caption: "Materials for wax-resin adhesive: FTIR spectrum measurement of test samples (1800 cm^−1^ to 1600 cm^−1^)."
+    caption: "Materials for wax-resin adhesive: FTIR spectrum measurement of test samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>)."
     credit: "Image: Saki Kunikata"
 
   - id: "fig-50-4"
     src: "figures/fig-50-4.png"
     zoom: true
     label: "Figure 50.4"
-    caption: "FTIR spectrum measurement of wax-resin samples A–E samples (1800 cm^−1^ to 1600 cm^−1^). "
+    caption: "FTIR spectrum measurement of wax-resin samples A–E samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>). "
     credit: "Image: Saki Kunikata"
 
   - id: "fig-51-1-a"
