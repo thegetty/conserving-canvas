@@ -134,18 +134,14 @@ figure_list:
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "table-3-1"
-    caption: "Mehra and Hacke treatment prescriptions (“Requirements for a proper relining”)."
     credit: "© Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-1.html"
     media_type: table
-    label: "Table 3.1"
 
   - id: "table-3-2"
-    caption: "Scharff treatment principles."
     credit: "© Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-2.html"
     media_type: table
-    label: "Table 3.2"
 
   - id: "fig-3-2"
     src: "figures/fig-3-2.jpg"
@@ -258,11 +254,9 @@ figure_list:
     credit: "Image: Courtauld Institute of Art"
 
   - id: "table-4-1"
-    caption: "Paintings examined by expert panel in July 2019."
     credit: "Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
     src: "tables/table-4-1.html"
     media_type: table
-    label: "Table 4.1"
 
   - id: "fig-5-1"
     src: "figures/fig-5-1.jpg"
@@ -528,18 +522,14 @@ figure_list:
     credit: "Image: Barbara Lavorini and Luigi Orata"
 
   - id: "table-11-1"
-    caption: "Tensile test performed on different adhesives used to join strips of canvas one inch wide."
     credit: "Image: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-1.html"
     media_type: table
-    label: "Table 11.1"
 
   - id: "table-11-2"
-    caption: "Test results for different resin mixtures performed to determine reactivation temperature and evaluate bond and reversibility."
     credit: "Image: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-2.html"
     media_type: table
-    label: "Table 11.2"
 
   - id: "fig-11-5"
     src: "figures/fig-11-5.jpg"
@@ -764,18 +754,14 @@ figure_list:
     credit: "Image: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
 
   - id: "table-16-1"
-    caption: "Standards for tensile strength measurements."
     credit: "Theresa A. Bräunig"
     src: "tables/table-16-1.html"
     media_type: table
-    label: "Table 16.1"
 
   - id: "table-16-2"
-    caption: "Standard protocol for the tensile strength measurement of yarn at zero length."
     credit: "Theresa A. Bräunig"
     src: "tables/table-16-2.html"
     media_type: table
-    label: "Table 16.2"
 
   - id: "fig-16-2"
     src: "figures/fig-16-2.png"
@@ -799,11 +785,9 @@ figure_list:
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
-    caption: "The six case study paintings and their historical lining recipes (SAAM 1–6)."
     credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-1.html"
     media_type: table
-    label: "Table 17.1"
 
   - id: "fig-17-1"
     src: "figures/fig-17-1.png"
@@ -820,18 +804,14 @@ figure_list:
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "table-17-2"
-    caption: "Wax and resin ingredients confirmed with GC/MSD to be present in the six case study paintings and recreated lining recipes."
     credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-2.html"
     media_type: table
-    label: "Table 17.2"
 
   - id: "table-17-3"
-    caption: "Resin ingredients confirmed with Py-GC/MSD to be present in three of the case study paintings and three recreated lining recipes."
     credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-3.html"
     media_type: table
-    label: "Table 17.3"
 
   - id: "fig-17-3"
     src: "figures/fig-17-3.png"
@@ -865,11 +845,9 @@ figure_list:
     label: "Figure 18.2c"
 
   - id: "table-18-1"
-    caption: "Components of recipes from documents and analytical studies."
     credit: "Image: Julia Betancor"
     src: "tables/table-18-1.html"
     media_type: table
-    label: "Table 18.1"
 
   - id: "fig-18-3"
     src: "figures/fig-18-3.jpg"
@@ -989,18 +967,14 @@ figure_list:
     credit: "Image: Jim Coddington"
 
   - id: "table-21-1"
-    caption: "Mehra’s eight requirements for lining canvas paintings."
     credit: "Cecil Krarup Andersen"
     src: "tables/table-21-1.html"
     media_type: table
-    label: "Table 21.1"
 
   - id: "table-21-2"
-    caption: "Eight lining risk factors and example ratings."
     credit: "Cecil Krarup Andersen"
     src: "tables/table-21-2.html"
     media_type: table
-    label: "Table 21.2"
 
   - id: "fig-21-1"
     src: "figures/fig-21-1.png"
@@ -1260,11 +1234,9 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-1"
-    caption: "Results of tensile tests performed on degraded cotton samples treated with the three solutions of nanocellulose-based consolidants and information on samples."
     credit: "Alexandra Bridarolli"
     src: "tables/table-27-1.html"
     media_type: table
-    label: "Table 27.1"
 
   - id: "fig-27-2"
     src: "figures/fig-27-2.png"
@@ -1281,11 +1253,9 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-2"
-    caption: "Variations in storage modulus E' (stiffness) between 20% and 80% RH calculated using values at equilibration (end plateau)."
     credit: "Alexandra Bridarolli"
     src: "tables/table-27-2.html"
     media_type: table
-    label: "Table 27.2"
 
   - id: "fig-27-4"
     src: "figures/fig-27-4.png"
@@ -1358,18 +1328,14 @@ figure_list:
     credit: "Image: Hannah Flock, 2019"
 
   - id: "table-29-1"
-    caption: "Selected adhesives and recipes."
     credit: "Hannah Flock"
     src: "tables/table-29-1.html"
     media_type: table
-    label: "Table 29.1"
 
   - id: "table-29-2"
-    caption: "Material details and manufacturers."
     credit: "Hannah Flock"
     src: "tables/table-29-2.html"
     media_type: table
-    label: "Table 29.2"
 
   - id: "fig-29-2"
     src: "figures/fig-29-2.png"
@@ -1699,11 +1665,9 @@ figure_list:
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
-    caption: "Number of paintings with previous structural interventions by century and treatment type."
     credit: "Dominique Martos-Levif"
     src: "tables/table-35-1.html"
     media_type: table
-    label: "Table 35.1"
 
   - id: "fig-35-1"
     src: "figures/fig-35-1.jpg"
@@ -1727,18 +1691,14 @@ figure_list:
     credit: "Image: C2RMF, P. Salinson"
 
   - id: "table-35-2"
-    caption: "Number of paintings consolidated from the back by type of adhesive used and type of preparation layer."
     credit: "Dominique Martos-Levif"
     src: "tables/table-35-2.html"
     media_type: table
-    label: "Table 35.2"
 
   - id: "table-35-3"
-    caption: "Number of paintings that received the different types of structural interventions carried out in the past and in 2016–2017 by painting production date."
     credit: "Dominique Martos-Levif"
     src: "tables/table-35-3.html"
     media_type: table
-    label: "Table 35.3"
 
   - id: "fig-35-4"
     src: "figures/fig-35-4.jpg"
@@ -1998,11 +1958,9 @@ figure_list:
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "table-40-1"
-    caption: "Summary of treatment results."
     credit: "Mary Piper Hough and Stefan W. Michalski"
     src: "tables/table-40-1.html"
     media_type: table
-    label: "Table 40.1"
 
   - id: "fig-40-6"
     src: "figures/fig-40-6.jpg"
@@ -2417,11 +2375,9 @@ figure_list:
     credit: "Images: Julianna Ly and Tracy Liu"
 
   - id: "table-49-1"
-    caption: "Weight increases for Single vs. Double Layer application trials."
     credit: "Julianna Ly"
     src: "tables/table-49-1.html"
     media_type: table
-    label: "Table 49.1"
 
   - id: "fig-49-3"
     src: "figures/fig-49-3.png"
@@ -2479,11 +2435,9 @@ figure_list:
     credit: "Image: Saki Kunikata"
 
   - id: "table-50-1"
-    caption: "Wax-resin recipes used in experiments."
     credit: "Saki Kunikata"
     src: "tables/table-50-1.html"
     media_type: table
-    label: "Table 50.1"
 
   - id: "fig-50-2"
     src: "figures/fig-50-2.png"
@@ -2574,25 +2528,19 @@ figure_list:
     label: "Figure 51.1m"
 
   - id: "table-51-1"
-    caption: "Materials tested."
     credit: "Courtesy of the research team"
     src: "tables/table-51-1.html"
     media_type: table
-    label: "Table 51.1"
 
   - id: "table-51-2"
-    caption: "Glue-paste mixtures."
     credit: "Courtesy of the research team"
-    src: "tables/table-50-2.html"
+    src: "tables/table-51-2.html"
     media_type: table
-    label: "Table 51.2"
 
   - id: "table-51-3"
-    caption: "Adhesion peel tests."
     credit: "Courtesy of the research team"
     src: "tables/table-51-3.html"
     media_type: table
-    label: "Table 51.3"
 
   - id: "fig-51-2-a"
     src: "figures/fig-51-2-a.png"
@@ -2745,11 +2693,9 @@ figure_list:
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "table-54-1"
-    caption: "Relaxation of cupping and quilting—treatment steps."
     credit: "Marie-Hélène Nadeau"
     src: "tables/table-54-1.html"
     media_type: table
-    label: "Table 54.1"
 
   - id: "fig-54-2"
     src: "figures/fig-54-2.jpg"
@@ -2815,11 +2761,9 @@ figure_list:
     credit: "Images: Filip A. Petcu"
 
   - id: "table-56-1"
-    caption: "ATR-FTIR results of the analysis of canvas thread samples from 16 banners and 1 interstitial canvas."
     credit: "Filip A. Petcu"
     src: "tables/table-56-1.html"
     media_type: table
-    label: "Table 56.1"
 
   - id: "fig-56-2"
     src: "figures/fig-56-2.png"
@@ -2829,18 +2773,14 @@ figure_list:
     credit: "Images: (a) Filip A. Petcu; (b) Oana Buriac"
 
   - id: "table-56-2"
-    caption: "Adhesive and consolidant formulas tested on double-sided painted banners and epitaphs dating from the eighteenth and nineteenth centuries."
     credit: "Filip A. Petcu"
     src: "tables/table-56-2.html"
     media_type: table
-    label: "Table 56.2"
 
   - id: "table-56-3"
-    caption: "Painted double-sided banners and epitaphs in the study."
     credit: "Filip A. Petcu"
     src: "tables/table-56-3.html"
     media_type: table
-    label: "Table 56.3"
 
   - id: "fig-56-3"
     src: "figures/fig-56-3.jpg"
@@ -2932,18 +2872,14 @@ figure_list:
     credit: "Image: Emanuel Sterp Moga"
 
   - id: "table-59-1"
-    caption: "Variables of the tension of the different threads by means of several types of magnets."
     credit: "Emanuel Sterp Moga"
     src: "tables/table-59-1.html"
     media_type: table
-    label: "Table 59.1"
 
   - id: "table-59-2"
-    caption: "Tension measurements of traditional and magnet interventions, before and after RH oscillations."
     credit: "Emanuel Sterp Moga"
     src: "tables/table-59-2.html"
     media_type: table
-    label: "Table 59.2"
 
   - id: "fig-59-3"
     src: "figures/fig-59-3.jpg"
@@ -3140,3 +3076,23 @@ figure_list:
     label: "Figure 63.13"
     caption: "Graph of CI concentration change of a blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
     credit: "Image: Image credit TK"
+
+  - id: "table-62-1"
+    src: "tables/table-62-1.html"
+    media_type: table
+
+  - id: "table-62-2"
+    src: "tables/table-62-2.html"
+    media_type: table
+
+  - id: "table-63-1"
+    src: "tables/table-63-1.html"
+    media_type: table
+
+  - id: "table-63-2"
+    src: "tables/table-63-2.html"
+    media_type: table
+
+  - id: "table-63-3"
+    src: "tables/table-63-3.html"
+    media_type: table

@@ -110,3 +110,76 @@
   border-bottom-color: var(--white);
   color: var(--white);
 }
+
+/* TABLES
+============================================================================= */
+/* Style tables as they appear on the page */
+.q-figure.q-figure--table {
+  border-width: 0;
+  padding: 0;
+}
+.quire-page__content .container .content table,
+.quire-page__content .container .content table th,
+.quire-page__content .container .content table td {
+  border: 1px solid var(--dark-brown);
+  border-collapse: collapse;
+}
+.quire-page__content .container .content table {
+  margin: 0;
+}
+.quire-page__content .container .content table caption {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content table ul {
+  list-style: initial;
+  padding-left: 1.25em;
+}
+.quire-page__content .container .content table ul li::before {
+  content: none;
+}
+.quire-page__content .content .table-key {
+  margin-top: .5em;
+  font-size: .875em;
+}
+.quire-page__content .content .table-key p {
+  margin-bottom: .5em;
+}
+.quire-page__content .content .table-key dl {
+  display: grid;
+  grid-template-columns: 1.5rem auto;
+  row-gap: .25rem;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: .5em;
+}
+.quire-page__content .content .table-key dl dt {
+  font-weight: bold;
+}
+.quire-page__content .content .table-key dl dt,
+.quire-page__content .content .table-key dl dd {
+  margin-bottom: 0;
+}
+table a,
+.table-key a {
+  color: inherit;
+  border-bottom: 1px dotted var(--accent-color);
+}
+/* Fix an issue caused by too generalized selector for img elements */
+.q-lightbox-slides__element table img {
+  position: initial;
+  transform: none;
+}
+/* Add some margin in cases where a table figure contains multiple tables */
+.quire-page__content .container .content table + table,
+.q-lightbox-slides__element--table table + table {
+  margin-top: 1rem;
+}
+/* Adjust look of table captions */
+.quire-page__content .container .content table caption strong {
+  font-weight: normal;
+}
+.quire-page__content .container .content table caption strong:first-of-type {
+  color: var(--accent-color);
+  font-weight: bold;
+}
