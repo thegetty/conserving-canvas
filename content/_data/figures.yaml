@@ -2176,7 +2176,7 @@ figure_list:
     src: "figures/fig-46-1-a.jpg"
     zoom: true
     label: "Figure 46.1a"
-    caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 x 360 cm (189 x 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ({De los Rios y Rojas and Socorro 1977}). (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 x 360 cm (189 x 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ([[De los Rios y Rojas and Socorro 1977]]). (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     credit: "Images: (a and b) [[De los Rios y Rojas and Socorro 1977]] (TK credit, might change), (c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-1-b"
