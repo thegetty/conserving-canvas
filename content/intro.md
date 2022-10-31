@@ -29,7 +29,7 @@ None of this would have been possible without the support of a large network of 
 ## Notes
 {% endbackmatter %}
 
-[^1]: The postprints were published as [[Villers 2003b]].
+[^1]: The postprints were published as {% cite 'Villers 2003b' %}.
 
 [^2]: Many of these effects changed the appearance of the paintings. These changes to the structure, topography, and other attributes of the painting have been described in various ways in the conservation literature. Most importantly, though, a consensus emerged that these changes compromised the aesthetic integrity of the painting, bringing aesthetic discussions of the surfaces of paintings to the fore as well as discussion of technical matters.
 
