@@ -100,9 +100,13 @@
   font-size: 1.7rem;
 }
 /* Current Page */
+.quire-menu .page-item a.active,
+.quire-menu .section-item a.active,
 .quire-menu .page-item .page-item a.active,
-.quire-menu .section-item .page-item a.active {
-  border-left-color: var(--white);
+.quire-menu .section-item .page-item a.active,
+.quire-menu .page-item a.active *,
+.quire-menu .section-item a.active * {
+  border-left-color: var(--white) !important;
   color: var(--white) !important;
 }
 /* Headings for Downloads and Citations */
@@ -126,14 +130,27 @@
 }
 .quire-page__content .container .content table {
   margin: 0;
+  line-height: 1.5;
 }
 .quire-page__content .container .content table caption {
   font-size: 1rem;
   margin-bottom: 1rem;
 }
-.quire-page__content .container .content table ul {
+.quire-page__content .container .content table p {
+  margin-bottom: .25em;
+  line-height: 1.5;
+}
+.quire-page__content .container .content table ul,
+.quire-page__content .container .content table ol {
   list-style: initial;
-  padding-left: 1.25em;
+  padding-left: 0;
+  margin-left: .5em;
+  margin-top: 0;
+  margin-bottom: .5em;
+}
+.quire-page__content .container .content table ul li,
+.quire-page__content .container .content table ol li {
+  margin-bottom: 0;
 }
 .quire-page__content .container .content table ul li::before {
   content: none;
@@ -141,9 +158,10 @@
 .quire-page__content .content .table-key {
   margin-top: .5em;
   font-size: .875em;
+  line-height: 1.5;
 }
 .quire-page__content .content .table-key p {
-  margin-bottom: .5em;
+  margin-bottom: .25em;
 }
 .quire-page__content .content .table-key dl {
   display: grid;
@@ -182,4 +200,8 @@ table a,
 .quire-page__content .container .content table caption strong:first-of-type {
   color: var(--accent-color);
   font-weight: bold;
+}
+/* Set units to rem so size maintains even when table text is scaled */
+.content figure .q-figure__caption {
+  font-size: .75rem;
 }
