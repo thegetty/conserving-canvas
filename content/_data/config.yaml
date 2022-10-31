@@ -35,6 +35,6 @@ params:
   tocType: full
 
 bibliography:
-  displayOnPage: true
+  displayOnPage: false
   displayShort: true
   heading: Bibliography
