@@ -1,12 +1,17 @@
+//
+// CUSTOMIZED FILE -- Conserving Canvas
+// Will return the ID as provided and in plain text if the reference
+// doesn't match one in references.yaml
+//
 const chalkFactory = require('~lib/chalk')
 const { renderOneLine, stripIndent } = require('~lib/common-tags')
 
 const { warn } = chalkFactory('shortcodes:cite')
 
 /**
- *  @todo Remove reliance on `this.page` in context. 
+ *  @todo Remove reliance on `this.page` in context.
  *  This was a workaround, and we should reassess how this component provides citations data to the in-page bibliograph.
- * 
+ *
  *  This shortcode adds a linked Author Date citation reference to the text,
  *  and a hover pop-up with the full citation text.
  *
@@ -79,17 +84,21 @@ module.exports = function(eleventyConfig, { page }) {
         return entry.id.localeCompare(id, locales, options) === 0
       })
 
-      return entry
-        ? { ...entry, short: entry.short || entry.id }
-        : warn(stripIndent`
+      if (entry) {
+        return { ...entry, short: entry.short || entry.id }
+      } else {
+        warn(stripIndent`
             references entry not found ${page.inputPath}
               cite id '${id}' does not match an entry in the project references data
           `)
+
+        return
+      }
     }
 
     const citation = findCitationReference(id)
 
-    if (!citation) return
+    if (!citation) return id
 
     // ensure that the page citations object exists
     if (!page.citations) page.citations = {}
