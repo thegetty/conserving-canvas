@@ -1265,11 +1265,9 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-3"
-    # src: "tables/table-27-3.jpg"
-    # zoom: true
-    label: "Table 27.3"
-    caption: "Summary of properties, advantages, and characteristics of the nanocellulose-based consolidants for canvas reinforcement as identified from the chemico-physico-mechanical studies carried out in the framework of the Nanorestart project."
-    credit: "Image: Alexandra Bridarolli"
+    src: "tables/table-27-3.html"
+    media_type: table
+    credit: "Alexandra Bridarolli"
 
   - id: "fig-28-1"
     src: "figures/fig-28-1.jpg"
