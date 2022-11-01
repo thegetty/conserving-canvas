@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE -- Conserving Canvas
+// Added optional group figure caption that is fed from shortcode and
+// displayed under all the figures in the group
+//
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
@@ -12,8 +17,9 @@ const { warn } = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
+  const figureCaption = eleventyConfig.getFilter('figureCaption')
 
-  return async function (columns, ids=[]) {
+  return async function (columns, ids=[], caption) {
     columns = parseInt(columns)
 
     /**
@@ -45,9 +51,13 @@ module.exports = function (eleventyConfig, { page }) {
       figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
 
+    const captionElement = caption ? figureCaption({ caption }) : ''
+    const groupCaptionClass = caption ? 'q-figure--group-caption' : ''
+
     return html`
-      <figure class="q-figure q-figure--group">
+      <figure class="q-figure q-figure--group ${groupCaptionClass}">
         ${figureTags.join('\n')}
+        ${captionElement}
       </figure>
     `
 }

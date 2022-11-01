@@ -34,6 +34,10 @@
   --white: #fff;
   --pale-lavendar: #f6f3f6;
   --lavendar: #d3c5d3;
+
+  /* This is otherwise black by default, which can lead to issues:
+  https://github.com/thegetty/conserving-canvas/issues/40 */
+  --atlas-background: transparent;
 }
 
 /* GENERAL
