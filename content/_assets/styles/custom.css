@@ -63,6 +63,16 @@
   display: none;
 }
 
+/* Remove custom list markers */
+.quire-page__content .container .content ul {
+  list-style: initial;
+  list-style: "◆";
+}
+.quire-page__content .container .content ul li::before {
+  content: '';
+}
+
+
 /* COVER
 ============================================================================= */
 /* Cover Background Image */
