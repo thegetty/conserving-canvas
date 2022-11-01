@@ -1264,10 +1264,10 @@ figure_list:
     caption: "Percentage increase in storage modulus (E') measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
     credit: "Image: Alexandra Bridarolli"
 
-  - id: "fig-27-5"
-    # src: "figures/fig-27-5.jpg"
+  - id: "table-27-3"
+    # src: "tables/table-27-3.jpg"
     # zoom: true
-    label: "Figure 27.5"
+    label: "Table 27.3"
     caption: "Summary of properties, advantages, and characteristics of the nanocellulose-based consolidants for canvas reinforcement as identified from the chemico-physico-mechanical studies carried out in the framework of the Nanorestart project."
     credit: "Image: Alexandra Bridarolli"
 
