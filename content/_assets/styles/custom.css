@@ -40,6 +40,22 @@
   --atlas-background: transparent;
 }
 
+/* SPECIALS
+============================================================================= */
+#paper-50-formula {
+  text-align: center;
+  font-size: .875rem;
+  margin-bottom: 1rem;
+}
+#paper-50-formula p:first-child {
+  margin-bottom: 0;
+}
+#paper-50-formula p:last-child {
+  border-top: 1px solid currentColor;
+  width: fit-content;
+  margin: 0 auto;
+}
+
 /* GENERAL
 ============================================================================= */
 /*  Progress Bar */
