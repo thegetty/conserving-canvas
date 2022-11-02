@@ -21,4 +21,4 @@ The Getty Conservation Institute (GCI) is pleased to sponsor this publication as
 
 We are grateful to the volume editors, Ian McClure, Jim Coddington, and Cynthia Schwarz, for their tireless efforts in preparing the manuscript. In Getty Publications, Kara Kirk, Karen Levine, Nola Butler, Greg Albers, and Clare Davis provided invaluable assistance. We thank the book team in Publications—Greg Albers, Rachel Barth, Danielle Brink, Erin Dunigan, and Molly McGeehan—for helping to prepare and shape the final publication. Finally, we are grateful to Leslie Tilley and Dianne Woo for providing careful, thorough editing. The proceedings of *Conserving Canvas* represent a renewed openness in the field to a variety of structural interventions, and we thank all our contributors for engaging in productive debates that keep the field moving forward.
 
-{% contributors context=pageContributors format='name-title-block' align='left' %}
+{% contributors context=pageContributors format='name-title-block' align='right' %}

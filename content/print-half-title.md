@@ -1,10 +1,11 @@
 ---
 layout: base.11ty.js
 order: 2
-outputs: 
+outputs:
   - epub
   - pdf
 toc: false
+menu: false
 ---
 <div class="half-title-page">
   {% if publication.title %}

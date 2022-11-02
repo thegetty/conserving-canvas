@@ -3,8 +3,9 @@ title: Cover
 order: 1
 layout: cover
 menu: false
-permalink: index.html
 toc: false
+outputs:
+  - html
 image: figures/cover.jpg
 ---
 
