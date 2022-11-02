@@ -40,6 +40,13 @@
   --atlas-background: transparent;
 }
 
+/* UTILITY CLASSES
+============================================================================= */
+
+.no-break-container {
+  break-inside: avoid;
+}
+
 /* SPECIALS
 ============================================================================= */
 /* Mathematical Formula */
@@ -127,13 +134,15 @@
 .quire-page__content .container .content ul li::before {
   content: '';
 }
-
 /* Adjust various list margins */
 .content ul {
   margin-left: 1.5rem;
 }
 .quire-page__content .container .content li ul li {
   margin-bottom: .5em;
+}
+.quire-page__content .container .content ul.quire-contributors-list {
+  list-style-type: none;
 }
 
 /* COVER
@@ -297,4 +306,252 @@ table a,
 /* Set units to rem so size maintains even when table text is scaled */
 .content figure .q-figure__caption {
   font-size: .75rem;
+}
+
+/* COPYRIGHT & ABOUT
+============================================================================= */
+/* Columns */
+#print-copyright.quire-page .quire-page__content {
+  column-count: 2;
+  column-gap: .1875in;
+  max-width: 100%;
+  margin: 0;
+}
+/* Header */
+#print-copyright.quire-page .quire-page__header {
+  display: none;
+}
+/* Copyright Block */
+.quire-page__content .container .content .quire-copyright {
+  padding-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Publisher */
+.quire-page__content .container .content .publisher p:first-child {
+  margin-bottom: 0;
+}
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .project-team ul * {
+  margin: 0;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: "";
+}
+/* Don't add border to SVG icons link */
+.quire-page__content .content a.quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.quire-copyright__icon__link:hover {
+  border-bottom-width: 0 !important;
+}
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+  list-style-type: none;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+
+/* FINE PRINT
+============================================================================= */
+.quire-page__content .container .content figure .q-figure__caption,
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .container .content .quire-page__content__references dl,
+#print-copyright .quire-page__content .container .content {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+.quire-page__content .container .content figure .q-figure__caption {
+  font-family: "Noto Serif", serif;
+}
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .content .quire-page__content__references dl {
+  margin-bottom: .375rem;
+}
+.quire-page__content .container .content .footnotes li p {
+  margin-bottom: 0;
+}
+
+/* PDF
+============================================================================= */
+@media print {
+  /* Fix font size on sub-section items */
+  .quire-contents-list .menu-list .section-item ol a {
+    font-size: 8.5pt;
+    line-height: 1.6;
+  }
+  /* Fix page breaks within biblios */
+  .quire-page__content__references dt {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .quire-page__content .content .quire-page__content__references dl dd {
+    margin-bottom: 0;
+  }
+  /* Add TOC dotted leaders back in since Prince supports them */
+  .quire-contents-list .page-item a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page);
+  }
+  .quire-contents-list .page-item.frontmatter-page a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
+  /* Style half title and title pages */
+  .half-title-page,
+  .title-page {
+    height: auto;
+    page: no-footer;
+  }
+  .title-page {
+    break-before: right;
+  }
+  .title-page {
+    padding-top: 2.25in;
+    padding-left: 0;
+    padding-right: .25in;
+  }
+  .half-title-page {
+    padding-right: .25in;
+  }
+  .title-page .title-tp .title-large {
+    display: block;
+  }
+  .title-page .contributor {
+    max-width: 4.5in;
+    float: right;
+    clear: both;
+  }
+  .title-page .publisher {
+    right: 0.375in;
+  }
+  /* Headers */
+  .quire-page__header:not(.hero__image) {
+    page-break-before: always;
+  }
+  /* .quire-page__header.hero__image {
+    display: none;
+  } */
+  /* TOCs */
+  .quire-contents-list {
+    padding: 0;
+  }
+  .quire-contents-list .menu-list {
+    font-size: 1em;
+  }
+  /* Add margins for consistent spacing */
+  .quire-page__content .container .content p,
+  .quire-page__content .container .content ul {
+    margin-bottom: 1em;
+  }
+  /* Fallback to standard list CSS */
+  /* .quire-page__content .container .content ul:not(.bio) {
+    list-style-type: disc;
+  }
+  .quire-page__content .container .content .cip-data ul,
+  .quire-page__content .container .content ul.quire-contributors-list {
+    list-style-type: none;
+  }
+  .quire-page__content .container .content ul li::before {
+    content: none;
+  } */
+  /* Make Intro 2 column in PDF */
+  #intro.quire-page .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  /* Links */
+  .q-figure__modal-link {
+    border-bottom-width: 0;
+  }
+  .q-figure__label.q-figure__label--below .q-figure__modal-link {
+    line-height: 0;
+  }
+  /* Fix figure label positioning */
+  .q-figure__label {
+    line-height: 0;
+  }
+  /* Fix figure group layout */
+  /* .q-figure.q-figure--group.quire-grid-2,
+  .q-figure.q-figure--group.quire-grid-3 {
+    text-align: left;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure {
+    width: calc((100% - 2rem) / 2);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure:nth-child(2n) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure {
+    width: calc((100% - 3rem) / 3);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure:nth-child(3n) {
+    margin-right: 0;
+  } */
+
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("_assets/images/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 28%;
+  }
+  /* Image adjustments for print */
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  .q-figure.pdf-break-after {
+    break-after: always;
+    page-break-after: always;
+  }
+
+  .pdf-heading-only .quire-page__content {
+    display: none;
+  }
+
+  .q-figure.q-figure--table {
+    column-span: all;
+    -prince-float: top;
+  }
+
+  .quire-page__abstract .container .content {
+    padding-bottom: 0;
+  }
+  .quire-page__abstract .container::after {
+    font-size: .5rem;
+  }
+
 }
