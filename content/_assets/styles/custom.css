@@ -42,6 +42,7 @@
 
 /* SPECIALS
 ============================================================================= */
+/* Mathematical Formula */
 #paper-50-formula {
   text-align: center;
   font-size: .875rem;
@@ -56,6 +57,62 @@
   margin: 0 auto;
 }
 
+/* Plain Blockquote (no ornament) */
+.quire-page__content .container .content blockquote.blockquote-plain {
+  padding-left: 0;
+}
+.quire-page__content .container .content blockquote.blockquote-plain p:first-child::before {
+  content: '';
+}
+
+/* Illustrated List (Papers 44 and 63) */
+/* counters markup from https://www.joshwcomeau.com/css/styling-ordered-lists-with-css-counters/ */
+@media screen {
+  .quire-page__content .content .illustrated-list ol {
+    list-style: none;
+    counter-reset: steps;
+    margin-left: 0;
+  }
+  .quire-page__content .content .illustrated-list ol li {
+    display: grid;
+    grid-template-columns: 5% 50% 40%;
+    grid-gap: 2.5%;
+    border-top: 1px solid currentColor;
+    margin-left: 0;
+    margin-bottom: 2rem;
+    counter-increment: steps;
+  }
+  .quire-page__content .content .illustrated-list ol li:before {
+    content: counter(steps) ".";
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  .quire-page__content .content .illustrated-list ol li .q-figure {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    border-width: 0;
+    padding: 0;
+    grid-column-start: 3;
+  }
+  .quire-page__content .content .illustrated-list ol li p {
+    margin-top: 1rem;
+  }
+  .quire-page__content .container .content #table-63-1 table caption {
+    font-size: .75rem;
+  }
+}
+@media screen and (max-width:600px) {
+  .quire-page__content .content .illustrated-list ol li {
+    grid-template-columns: 10% 90%;
+    grid-gap:0;
+  }
+  .quire-page__content .content .illustrated-list ol li p,
+  .quire-page__content .content .illustrated-list ol li .q-figure {
+    grid-column-start: 2;
+  }
+}
+
+
 /* GENERAL
 ============================================================================= */
 /*  Progress Bar */
@@ -66,12 +123,18 @@
 /* Remove custom list markers */
 .quire-page__content .container .content ul {
   list-style: initial;
-  list-style: "◆";
 }
 .quire-page__content .container .content ul li::before {
   content: '';
 }
 
+/* Adjust various list margins */
+.content ul {
+  margin-left: 1.5rem;
+}
+.quire-page__content .container .content li ul li {
+  margin-bottom: .5em;
+}
 
 /* COVER
 ============================================================================= */
