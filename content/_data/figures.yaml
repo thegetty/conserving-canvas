@@ -134,12 +134,12 @@ figure_list:
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "table-3-1"
-    credit: "© Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-1.html"
     media_type: table
 
   - id: "table-3-2"
-    credit: "© Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-2.html"
     media_type: table
 
@@ -254,7 +254,7 @@ figure_list:
     credit: "Image: Courtauld Institute of Art"
 
   - id: "table-4-1"
-    credit: "Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
+    credit: "Table: Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
     src: "tables/table-4-1.html"
     media_type: table
 
@@ -522,12 +522,12 @@ figure_list:
     credit: "Image: Barbara Lavorini and Luigi Orata"
 
   - id: "table-11-1"
-    credit: "Image: Barbara Lavorini and Luigi Orata"
+    credit: "Table: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-1.html"
     media_type: table
 
   - id: "table-11-2"
-    credit: "Image: Barbara Lavorini and Luigi Orata"
+    credit: "Table: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-2.html"
     media_type: table
 
@@ -754,12 +754,12 @@ figure_list:
     credit: "Image: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
 
   - id: "table-16-1"
-    credit: "Theresa A. Bräunig"
+    credit: "Table: Theresa A. Bräunig"
     src: "tables/table-16-1.html"
     media_type: table
 
   - id: "table-16-2"
-    credit: "Theresa A. Bräunig"
+    credit: "Table: Theresa A. Bräunig"
     src: "tables/table-16-2.html"
     media_type: table
 
@@ -785,7 +785,7 @@ figure_list:
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
-    credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-1.html"
     media_type: table
 
@@ -804,12 +804,12 @@ figure_list:
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "table-17-2"
-    credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-2.html"
     media_type: table
 
   - id: "table-17-3"
-    credit: "Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-3.html"
     media_type: table
 
@@ -845,7 +845,7 @@ figure_list:
     label: "Figure 18.2c"
 
   - id: "table-18-1"
-    credit: "Image: Julia Betancor"
+    credit: "Table: Julia Betancor"
     src: "tables/table-18-1.html"
     media_type: table
 
@@ -967,12 +967,12 @@ figure_list:
     credit: "Image: Jim Coddington"
 
   - id: "table-21-1"
-    credit: "Cecil Krarup Andersen"
+    credit: "Table: Cecil Krarup Andersen"
     src: "tables/table-21-1.html"
     media_type: table
 
   - id: "table-21-2"
-    credit: "Cecil Krarup Andersen"
+    credit: "Table: Cecil Krarup Andersen"
     src: "tables/table-21-2.html"
     media_type: table
 
@@ -1234,7 +1234,7 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-1"
-    credit: "Alexandra Bridarolli"
+    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-1.html"
     media_type: table
 
@@ -1253,7 +1253,7 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-2"
-    credit: "Alexandra Bridarolli"
+    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-2.html"
     media_type: table
 
@@ -1267,7 +1267,7 @@ figure_list:
   - id: "table-27-3"
     src: "tables/table-27-3.html"
     media_type: table
-    credit: "Alexandra Bridarolli"
+    credit: "Table: Alexandra Bridarolli"
 
   - id: "fig-28-1"
     src: "figures/fig-28-1.jpg"
@@ -1326,12 +1326,12 @@ figure_list:
     credit: "Image: Hannah Flock, 2019"
 
   - id: "table-29-1"
-    credit: "Hannah Flock"
+    credit: "Table: Hannah Flock"
     src: "tables/table-29-1.html"
     media_type: table
 
   - id: "table-29-2"
-    credit: "Hannah Flock"
+    credit: "Table: Hannah Flock"
     src: "tables/table-29-2.html"
     media_type: table
 
@@ -1663,7 +1663,7 @@ figure_list:
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
-    credit: "Dominique Martos-Levif"
+    credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-1.html"
     media_type: table
 
@@ -1689,12 +1689,12 @@ figure_list:
     credit: "Image: C2RMF, P. Salinson"
 
   - id: "table-35-2"
-    credit: "Dominique Martos-Levif"
+    credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-2.html"
     media_type: table
 
   - id: "table-35-3"
-    credit: "Dominique Martos-Levif"
+    credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-3.html"
     media_type: table
 
@@ -1956,7 +1956,7 @@ figure_list:
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "table-40-1"
-    credit: "Mary Piper Hough and Stefan W. Michalski"
+    credit: "Table: Mary Piper Hough and Stefan W. Michalski"
     src: "tables/table-40-1.html"
     media_type: table
 
@@ -2373,7 +2373,7 @@ figure_list:
     credit: "Images: Julianna Ly and Tracy Liu"
 
   - id: "table-49-1"
-    credit: "Julianna Ly"
+    credit: "Table: Julianna Ly"
     src: "tables/table-49-1.html"
     media_type: table
 
@@ -2433,7 +2433,7 @@ figure_list:
     credit: "Image: Saki Kunikata"
 
   - id: "table-50-1"
-    credit: "Saki Kunikata"
+    credit: "Table: Saki Kunikata"
     src: "tables/table-50-1.html"
     media_type: table
 
@@ -2466,17 +2466,17 @@ figure_list:
     credit: "Courtesy of the research team"
 
   - id: "table-51-1"
-    credit: "Courtesy of the research team"
+    credit: "Table: Courtesy of the research team"
     src: "tables/table-51-1.html"
     media_type: table
 
   - id: "table-51-2"
-    credit: "Courtesy of the research team"
+    credit: "Table: Courtesy of the research team"
     src: "tables/table-51-2.html"
     media_type: table
 
   - id: "table-51-3"
-    credit: "Courtesy of the research team"
+    credit: "Table: Courtesy of the research team"
     src: "tables/table-51-3.html"
     media_type: table
 
@@ -2596,7 +2596,7 @@ figure_list:
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "table-54-1"
-    credit: "Marie-Hélène Nadeau"
+    credit: "Table: Marie-Hélène Nadeau"
     src: "tables/table-54-1.html"
     media_type: table
 
@@ -2664,7 +2664,7 @@ figure_list:
     credit: "Images: Filip A. Petcu"
 
   - id: "table-56-1"
-    credit: "Filip A. Petcu"
+    credit: "Table: Filip A. Petcu"
     src: "tables/table-56-1.html"
     media_type: table
 
@@ -2676,12 +2676,12 @@ figure_list:
     credit: "Images: (a) Filip A. Petcu; (b) Oana Buriac"
 
   - id: "table-56-2"
-    credit: "Filip A. Petcu"
+    credit: "Table: Filip A. Petcu"
     src: "tables/table-56-2.html"
     media_type: table
 
   - id: "table-56-3"
-    credit: "Filip A. Petcu"
+    credit: "Table: Filip A. Petcu"
     src: "tables/table-56-3.html"
     media_type: table
 
@@ -2775,12 +2775,12 @@ figure_list:
     credit: "Image: Emanuel Sterp Moga"
 
   - id: "table-59-1"
-    credit: "Emanuel Sterp Moga"
+    credit: "Table: Emanuel Sterp Moga"
     src: "tables/table-59-1.html"
     media_type: table
 
   - id: "table-59-2"
-    credit: "Emanuel Sterp Moga"
+    credit: "Table: Emanuel Sterp Moga"
     src: "tables/table-59-2.html"
     media_type: table
 
