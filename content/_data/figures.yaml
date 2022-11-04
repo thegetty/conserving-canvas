@@ -2904,79 +2904,37 @@ figure_list:
     credit: "Image: Image credit TK"
 
   - id: "fig-63-3"
-    src: "figures/fig-63-3.jpg"
+    src: "figures/fig-63-3.png"
     zoom: true
     label: "Figure 63.3"
-    caption: "Applying water to a life-size mock-up."
+    caption: "The XRF calibration curve of chloride (CI) levels in the cotton cloth."
     credit: "Image: Image credit TK"
 
   - id: "fig-63-4"
     src: "figures/fig-63-4.jpg"
     zoom: true
     label: "Figure 63.4"
-    caption: "Images of chloride water solutions with cotton cloth samples."
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-5"
-    src: "figures/fig-63-5.png"
-    zoom: true
-    label: "Figure 63.5"
-    caption: "The XRF calibration curve of chloride (CI) levels in the cotton cloth."
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-6"
-    src: "figures/fig-63-6.jpg"
-    zoom: true
-    label: "Figure 63.6"
-    caption: "Masayoshi Nameki (Japanese, 1909–2004), *Prologue “Thinking in a Black Field,”* TK date. Acrylic on canvas, diptych, TK dims cm per panel. Front."
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-7"
-    src: "figures/fig-63-7.jpg"
-    zoom: true
-    label: "Figure 63.7"
-    caption: "Back side of *Prologue.*"
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-8"
-    src: "figures/fig-63-8.jpg"
-    zoom: true
-    label: "Figure 63.8"
     caption: "Water mixed with ethyl alcohol was sprayed onto the back of the canvas to apply moisture to the entire surface."
     credit: "Image: Image credit TK"
 
-  - id: "fig-63-9"
-    src: "figures/fig-63-9.jpg"
+  - id: "fig-63-5"
+    src: "figures/fig-63-5.jpg"
     zoom: true
-    label: "Figure 63.9"
+    label: "Figure 63.5"
     caption: "The entire surface was covered with dampened blotting paper and left for 8 minutes."
     credit: "Image: Image credit TK"
 
-  - id: "fig-63-10"
-    src: "figures/fig-63-10.jpg"
+  - id: "fig-63-6"
+    src: "figures/fig-63-6.png"
     zoom: true
-    label: "Figure 63.10"
-    caption: "A highly absorbent resin sheet was placed over the blotting paper for 2 minutes to soak up the grime and salt absorbed by the blotting paper."
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-11"
-    src: "figures/fig-63-11.jpg"
-    zoom: true
-    label: "Figure 63.11"
+    label: "Figure 63.6"
     caption: "The salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
     credit: "Image: Image credit TK"
 
-  - id: "fig-63-12"
-    src: "figures/fig-63-12.png"
+  - id: "fig-63-7"
+    src: "figures/fig-63-7.png"
     zoom: true
-    label: "Figure 63.12"
-    caption: "The salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
-    credit: "Image: Image credit TK"
-
-  - id: "fig-63-13"
-    src: "figures/fig-63-13.png"
-    zoom: true
-    label: "Figure 63.13"
+    label: "Figure 63.7"
     caption: "Graph of CI concentration change of a blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
     credit: "Image: Image credit TK"
 
