@@ -1,4 +1,4 @@
-baseURL: 'http://localhost:8080'
+baseURL: 'https://first-pages--conserving-canvas.netlify.app'
 
 title: Quire Starter
 languageCode: en-us
