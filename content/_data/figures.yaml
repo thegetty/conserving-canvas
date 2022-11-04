@@ -102,7 +102,7 @@ figure_list:
     src: "figures/fig-2-5.png"
     zoom: true
     label: "Figure 2.5"
-    caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T~ref~* = 20°C. (c) Experimental shift factor values recorded versus temperature."
+    caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. (c) Experimental shift factor values recorded versus temperature."
     Credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-6"
@@ -123,7 +123,7 @@ figure_list:
     src: "figures/fig-2-8.png"
     zoom: true
     label: "Figure 2.8"
-    caption: "Failure strain master curves for two titanium white artists paint films at *T~ref~* = 20°C: (a) Golden acrylic, (b) Winsor & Newton oil."
+    caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C: (a) Golden acrylic, (b) Winsor & Newton oil."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-3-1"
@@ -774,14 +774,14 @@ figure_list:
     src: "figures/fig-16-3.png"
     zoom: true
     label: "Figure 16.3"
-    caption: "(a) Diameter normalized maximum tensile strengths (*ƒ~H~*) of the measured samples, average of 10 measurements. (b) Limited viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
+    caption: "(a) Diameter normalized maximum tensile strengths (*ƒ<sub>H</sub>*) of the measured samples, average of 10 measurements. (b) Limited viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
     credit: "Image: Theresa A. Bräunig"
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.png"
     zoom: true
     label: "Figure 16.4"
-    caption: "Correlation of the diameter-normalized maximum tensile strength (*f~H~*) with the limited viscosity number (GVZ) of the measured samples."
+    caption: "Correlation of the diameter-normalized maximum tensile strength (*f<sub>H</sub>*) with the limited viscosity number (GVZ) of the measured samples."
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
@@ -800,7 +800,7 @@ figure_list:
     src: "figures/fig-17-2.png"
     zoom: true
     label: "Figure 17.2"
-    caption: "Total ion chromatograms (TICs) for the *Oak Trees* lining recipe as shown in GC/MSD (top) and Py-GC/MSD (bottom). *Oak Trees* was lined in 1983 with “1.5 p. Multiwax 445, 1.5 p. beeswax, 1 p. Zonarez B-85 resin” to fiberglass. In GC/MSD, microcrystalline wax was not detected (lack of even-numbered hydrocarbon peaks), and Zonarez B-85 was also not detected. In Py-GC/MSD, peaks span from C~8~H~18~ to C~35~H~72~, indicating the presence of both Multiwax 445 and beeswax; additionally, Zonarez B-85 was detected at 136 m/z, 272 m/z, and 408 m/z."
+    caption: "Total ion chromatograms (TICs) for the *Oak Trees* lining recipe as shown in GC/MSD (top) and Py-GC/MSD (bottom). *Oak Trees* was lined in 1983 with “1.5 p. Multiwax 445, 1.5 p. beeswax, 1 p. Zonarez B-85 resin” to fiberglass. In GC/MSD, microcrystalline wax was not detected (lack of even-numbered hydrocarbon peaks), and Zonarez B-85 was also not detected. In Py-GC/MSD, peaks span from C<sub>8</sub>H<sub>8</sub> to C<sub>35</sub>H<sub>72</sub>, indicating the presence of both Multiwax 445 and beeswax; additionally, Zonarez B-85 was detected at 136 m/z, 272 m/z, and 408 m/z."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "table-17-2"
@@ -1339,28 +1339,28 @@ figure_list:
     src: "figures/fig-29-2.png"
     zoom: true
     label: "Figure 29.2"
-    caption: "Maximum tensile forces (F~max~ N) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
+    caption: "Maximum tensile forces (F<sub>max</sub> N) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-3"
     src: "figures/fig-29-3.png"
     zoom: true
     label: "Figure 29.3"
-    caption: "Coefficients of variation (CV of F~max~ %) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
+    caption: "Coefficients of variation (CV of F<sub>max</sub> %) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-4"
     src: "figures/fig-29-4.png"
     zoom: true
     label: "Figure 29.4"
-    caption: "Butt joints with different adhesives: F~max~ (N) of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
+    caption: "Butt joints with different adhesives: F<sub>max</sub> (N) of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-5"
     src: "figures/fig-29-5.png"
     zoom: true
     label: "Figure 29.5"
-    caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F~max~ (N) of uniaxially tested canvas strips with bonds."
+    caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> (N) of uniaxially tested canvas strips with bonds."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-6"
