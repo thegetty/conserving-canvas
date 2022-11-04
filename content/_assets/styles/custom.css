@@ -64,10 +64,13 @@
   margin: 0 auto;
 }
 
-/* Plain Blockquote (no ornament) */
-.quire-page__content .container .content blockquote.blockquote-plain {
-  padding-left: 0;
+.quire-page__content .content blockquote {
+  font-style: normal;
 }
+.quire-page__content .content blockquote em {
+  font-style: italic;
+}
+/* Plain Blockquote (no ornament) */
 .quire-page__content .container .content blockquote.blockquote-plain p:first-child::before {
   content: '';
 }
@@ -437,7 +440,7 @@ table a,
     display: block;
   }
   .title-page .contributor {
-    max-width: 4.5in;
+    max-width: 5.5in;
     float: right;
     clear: both;
   }
@@ -514,6 +517,10 @@ table a,
   }
   .quire-page__abstract .container::after {
     font-size: .5rem;
+  }
+  /* Hide keywords list in print */
+  .quire-page__abstract .keywords-list {
+    display: none;
   }
   /* Make pages with `class: backmatter` be 2 columns*/
   .quire-page.backmatter .quire-page__content {

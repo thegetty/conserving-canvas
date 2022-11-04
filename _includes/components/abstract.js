@@ -15,7 +15,7 @@ module.exports = function(eleventyConfig) {
 
     const keywordsElement = keywords
       ? html`
-         <p><span class="keywords-heading">KEYWORDS:</span> ${markdownify(keywords)}</p>
+         <p class="keywords-list"><span class="keywords-heading">KEYWORDS:</span> ${markdownify(keywords)}</p>
       `
       : ''
 
