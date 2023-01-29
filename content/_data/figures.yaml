@@ -4,21 +4,21 @@ figure_list:
     src: "figures/fig-0-1.jpg"
     zoom: true
     label: "Figure 0.1"
-    caption: "Presenters delivered papers over the course of four days. Pictured here, from left to right: Dale Kronkright, Brad Epley, Desirae Dijkema, Mary Piper Hough, Stefan Michalski, Mary Gridley, and Yujin Kim."
+    caption: "Presenters delivered papers over the course of four days. Seated, from left: Dale Kronkright, Brad Epley, Desirae Dijkema, Mary Piper Hough, Stefan Michalski, Mary Gridley, and Yujin Kim."
     credit: "Image: Mikkel Scharff"
 
   - id: "fig-0-2"
     src: "figures/fig-0-2.jpg"
     zoom: true
     label: "Figure 0.2"
-    caption: "The Yale Art Gallery filled with hundreds of attendees from around the world."
+    caption: "The Yale Art Gallery auditorium was filled with hundreds of attendees from around the world."
     credit: "Image: Mikkel Scharff"
 
   - id: "fig-0-3"
     src: "figures/fig-0-3.jpg"
     zoom: true
     label: "Figure 0.3"
-    caption: "Conference participants took part in “sandbox sessions” led by experts giving practical demonstrations. Here, author Helena Loermans leads a workshop on reconstructing historic fabric weave patterns."
+    caption: "Conference participants took part in “sandbox sessions” led by experts giving practical demonstrations. Here, author Helena Loermans leads a workshop on reconstructing historical fabric weave patterns."
     credit: "Image: Mikkel Scharff"
 
   - id: "fig-1-1"
@@ -32,21 +32,21 @@ figure_list:
     src: "figures/fig-1-2.png"
     zoom: true
     label: "Figure 1.2"
-    caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (from [[Daly Hartin et al. 2011]])."
+    caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (Daly Hartin et al. 2011)."
     credit: "Image: Debra Daly Hartin, Eric Hagan, Stefan Michalski, and Mylène Choquette"
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.png"
     zoom: true
     label: "Figure 1.3"
-    caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (from [[Young and Hibberd 1999]])."
+    caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (Young and Hibberd 1999)."
     credit: "Image: Christina R. T. Young and Roger D. Hibberd"
 
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
     zoom: true
     label: "Figure 1.4"
-    caption: "Julius Caesar Ibbetson, *Smugglers on the Irish Coast*, 1808. Oil paint on canvas, 54.6 x 85.1 cm (21 1/2 x 32 in.). Glue-lined oil painting, possibly including megilp chosen by the artist for its fluidity ([[Ibbetson 1803]]). The raking light reveals flattened impasto and weave emphasis from glue lining."
+    caption: "Julius Caesar Ibbetson, *Smugglers on the Irish Coast*, 1808. Oil paint on canvas, 54.6 x 85.1 cm (21 1/2 x 32 in.). Glue-lined oil painting, possibly including megilp chosen by the artist for its fluidity (Ibbetson 1803). The raking light reveals flattened impasto and weave emphasis from glue lining."
     credit: "Image: Tate"
 
   - id: "fig-1-5"
@@ -60,14 +60,14 @@ figure_list:
     src: "figures/fig-1-6.png"
     zoom: true
     label: "Figure 1.6"
-    caption: "Plot of molar mass distribution. A new canvas on the right with a very high range of molecular weights compared with two samples of a J. M. W. Turner loose-lining canvas (painting dated 1846). The peaks (modes) for the Turner canvas are at much less molar mass and there is a greater spread of molar masses than for the new canvas, indicating that the long cellulose molecules have been cleaved at many points. Also, the darker exposed parts are more degraded than the lighter parts behind the stretcher. Canvas samples analyzed at BOKU Vienna during the EU MEMORI project ([[Jeong et al. 2013]])."
+    caption: "Plot of molar mass distribution. A new canvas on the right with a range of very high molecular weights compared with two samples of a J. M. W. Turner loose-lining canvas (painting dated 1846). The peaks (modes) for the Turner canvas are at much less molar mass and there is a greater spread of molar masses than for the new canvas, indicating that the long cellulose molecules have been cleaved at many points. Also, the darker exposed parts are more degraded than the lighter parts behind the stretcher. Canvas samples analyzed at BOKU Vienna during the EU MEMORI project (Jeong et al. 2013)."
     credit: "Image: Myung-Joon Jeong, Manuel Becker, Antje Potthast, Susana López-Aparicio, and Stephen Hackney"
 
   - id: "fig-1-7"
     src: "figures/fig-1-7.jpg"
     zoom: true
     label: "Figure 1.7"
-    caption: "Two separate studies show that below 0.5–1.0 air exchanges per day, the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases ([[Thickett et al. 2007]]). (b) Various narrow painting frames and cases ([[Grøntoft et al. 2011]]). See [[Hackney 2016]]."
+    caption: "Two separate studies showing that below 0.5–1.0 air exchanges per day, the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases (Thickett et al. 2007). (b) Various narrow painting frames and cases (Grøntoft et al. 2011). See Hackney 2016."
     credit: "Image: Stephen Hackney"
 
   - id: "fig-2-1"
