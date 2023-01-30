@@ -74,14 +74,14 @@ figure_list:
     src: "figures/fig-2-1.png"
     zoom: true
     label: "Figure 2.1"
-    caption: "Stress-strain curves for a titanium white artists’ oil paint at different strain rates and temperatures in uniaxial tension."
+    caption: "Stress-strain curves for a titanium white artists oil paint at different strain rates and temperatures in uniaxial tension."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.png"
     zoom: true
     label: "Figure 2.2"
-    caption: "Tensile test data for a nine-year-old sample of Winsor & Newton Foundation White at 20°C, 50% RH, and a rate of at 2100 μe/sec."
+    caption: "Tensile test data for a nine-year-old sample of Winsor & Newton Foundation White at 20°C, 50% RH, and a rate of 2100 μe/sec."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-3"
@@ -123,7 +123,7 @@ figure_list:
     src: "figures/fig-2-8.png"
     zoom: true
     label: "Figure 2.8"
-    caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C: (a) Golden acrylic, (b) Winsor & Newton oil."
+    caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C. (a) Golden acrylic. (b) Winsor & Newton oil."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-3-1"
