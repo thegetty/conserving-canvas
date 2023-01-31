@@ -147,7 +147,7 @@ figure_list:
     src: "figures/fig-3-2.jpg"
     zoom: true
     label: "Figure 3.2"
-    caption: "The author working on the thesis painting at the top of the new suction table, spring 1980."
+    caption: "The author (right) working on the thesis painting at the top of the new suction table, spring 1980."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "fig-3-3"
@@ -168,14 +168,14 @@ figure_list:
     src: "figures/fig-3-5.jpg"
     zoom: true
     label: "Figure 3.5"
-    caption: "Lecturers and participants participating in an exercise treatment at a summer school workshop, 1988."
+    caption: "Lecturers and participants in an exercise treatment at a summer workshop, 1988."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "fig-3-6"
     src: "figures/fig-3-6.jpg"
     zoom: true
     label: "Figure 3.6"
-    caption: "Lecturers and participants eagerly discussing the outcome of the treatment of two of the exercises of the painting workshop, 1988."
+    caption: "Lecturers and participants discussing the outcome of the treatment of two of the exercises in the painting workshop, 1988."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "fig-4-1"
