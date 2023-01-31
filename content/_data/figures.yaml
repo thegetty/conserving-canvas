@@ -182,7 +182,7 @@ figure_list:
     src: "figures/fig-4-1.png"
     zoom: true
     label: "Figure 4.1"
-    caption: "Trends in lining, strip-lining, loose-lining, and local reinforcing at the National Maritime Museum, 1965–2000."
+    caption: "Trends in lining, strip-lining, loose-lining, and local reinforcing at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
 
   - id: "fig-4-2"
@@ -217,7 +217,7 @@ figure_list:
     src: "figures/fig-4-6.jpg"
     zoom: true
     label: "Figure 4.6"
-    caption: "Rowland Johan Robb Langmaid (British, 1897–1956),* HMS* Dido, Ajax* and* Orion *in Action Off Crete, 21 May 1941*, mid-twentieth century. Oil on canvas, 35.5 x 69.8 cm (14 x 27 1/2 in.). Front and reverse in normal light, current state (2020). The painting was lined in 1973 using Beva and a black polypropylene fabric."
+    caption: "Rowland John Robb Langmaid (British, 1897–1956), *HMS* Dido, Ajax *and* Orion *in Action Off Crete, 21 May 1941*, mid-20th century. Oil on canvas, 35.5 x 69.8 cm (14 x 27 1/2 in.). Front (top) and reverse in normal light, current state (2020). The painting was lined in 1973 using Beva 371 and a black polypropylene fabric."
     credit: "Image: Royal Museums Greenwich, BHC0678"
 
   - id: "fig-4-7"
@@ -238,7 +238,7 @@ figure_list:
     src: "figures/fig-4-9-a.jpg"
     zoom: true
     label: "Figure 4.9a"
-    # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 x 92 cm (28 3/4 x 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking light picture taken before the treatment in 1980. (b) Current state of the painting photographed in normal light."
+    # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 x 92 cm (28 3/4 x 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld Gallery, London"
 
   - id: "fig-4-9-b"
@@ -250,7 +250,7 @@ figure_list:
     src: "figures/fig-4-10.jpg"
     zoom: true
     label: "Figure 4.10"
-    caption: "During lining of Edgar Degas, *Lady with a Parasol*, with Fabri-Sil on the vacuum table. Courtauld Institute of Art conservators Caroline Villers (left) and Gerry Hedley (right), and student Alan Phenix (right, partial view)."
+    caption: "Lining of Edgar Degas, *Lady with a Parasol*, with Fabri-Sil on the vacuum table. Courtauld Institute of Art conservators Caroline Villers (left) and Gerry Hedley (right), and student Alan Phenix (right, partial view)."
     credit: "Image: Courtauld Institute of Art"
 
   - id: "table-4-1"
