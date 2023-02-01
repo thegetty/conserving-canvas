@@ -25,7 +25,7 @@ figure_list:
     src: "figures/fig-1-1.jpg"
     zoom: true
     label: "Figure 1.1"
-    caption: "Edward Lear, *View of Reggio and the Straits of Messina*, 1852. Oil on canvas, 51.4 x 81.2 cm (20 1/4 x 32 in.). Typical raised crack pattern, impact cracks, and canvas corner undulation in raking light."
+    caption: "Edward Lear, *View of Reggio and the Straits of Messina*, 1852. Oil on canvas, 51.4 × 81.2 cm (20 1/4 × 32 in.). Typical raised crack pattern, impact cracks, and canvas corner undulation in raking light."
     credit: "Image: Tate"
 
   - id: "fig-1-2"
@@ -46,14 +46,14 @@ figure_list:
     src: "figures/fig-1-4.jpg"
     zoom: true
     label: "Figure 1.4"
-    caption: "Julius Caesar Ibbetson, *Smugglers on the Irish Coast*, 1808. Oil paint on canvas, 54.6 x 85.1 cm (21 1/2 x 32 in.). Glue-lined oil painting, possibly including megilp chosen by the artist for its fluidity (Ibbetson 1803). The raking light reveals flattened impasto and weave emphasis from glue lining."
+    caption: "Julius Caesar Ibbetson, *Smugglers on the Irish Coast*, 1808. Oil paint on canvas, 54.6 × 85.1 cm (21 1/2 × 32 in.). Glue-lined oil painting, possibly including megilp chosen by the artist for its fluidity (Ibbetson 1803). The raking light reveals flattened impasto and weave emphasis from glue lining."
     credit: "Image: Tate"
 
   - id: "fig-1-5"
     src: "figures/fig-1-5.jpg"
     zoom: true
     label: "Figure 1.5"
-    caption: "A painting made from three stretchers interwoven by strips of canvas, which presents a structural conservation challenge. Stephen Buckley, *Nice*, 1972. Acrylic on canvas, 81 x 90.2 x 5.1 cm (32 x 35 1/2 x 2 in.). Tate, London."
+    caption: "A painting made from three stretchers interwoven by strips of canvas, which presents a structural conservation challenge. Stephen Buckley, *Nice*, 1972. Acrylic on canvas, 81 × 90.2 × 5.1 cm (32 × 35 1/2 × 2 in.). Tate, London."
     credit: "Image: Tate"
 
   - id: "fig-1-6"
@@ -217,7 +217,7 @@ figure_list:
     src: "figures/fig-4-6.jpg"
     zoom: true
     label: "Figure 4.6"
-    caption: "Rowland John Robb Langmaid (British, 1897–1956), *HMS* Dido, Ajax *and* Orion *in Action Off Crete, 21 May 1941*, mid-20th century. Oil on canvas, 35.5 x 69.8 cm (14 x 27 1/2 in.). Front (top) and reverse in normal light, current state (2020). The painting was lined in 1973 using Beva 371 and a black polypropylene fabric."
+    caption: "Rowland John Robb Langmaid (British, 1897–1956), *HMS* Dido, Ajax *and* Orion *in Action Off Crete, 21 May 1941*, mid-20th century. Oil on canvas, 35.5 × 69.8 cm (14 × 27 1/2 in.). Front (top) and reverse in normal light, current state (2020). The painting was lined in 1973 using Beva 371 and a black polypropylene fabric."
     credit: "Image: Royal Museums Greenwich, BHC0678"
 
   - id: "fig-4-7"
@@ -238,7 +238,7 @@ figure_list:
     src: "figures/fig-4-9-a.jpg"
     zoom: true
     label: "Figure 4.9a"
-    # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 x 92 cm (28 3/4 x 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
+    # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld Gallery, London"
 
   - id: "fig-4-9-b"
@@ -262,14 +262,14 @@ figure_list:
     src: "figures/fig-5-1.jpg"
     zoom: true
     label: "Figure 5.1"
-    caption: "(a) Pietro Duranti (Italian, 1710–1791, *Allegoria dell’Aurora*, ca. 1768. Tapestry, (b) Giuseppe Bonito (Italian, 1707–1789), *Allegoria dell’Aurora* (model for tapestry), ca. 1768. Oil on canvas, 220 x 139 cm (86 3/5 x 54 3/4 in.)."
+    caption: "(a) Pietro Duranti (Italian, 1710–1791, *Allegoria dell’Aurora*, ca. 1768. Tapestry. (b) Giuseppe Bonito (Italian, 1707–1789), *Allegoria dell’Aurora* (model for tapestry), ca. 1768. Oil on canvas, 220 × 139 cm (86 3/5 × 54 3/4 in.)."
     credit: "Images: (a) Napoli, Palazzo Reale; (b) Caserta, Palazzo Reale"
 
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
     zoom: true
     label: "Figure 5.2"
-    caption: "Giovanni Ponticelli (Italian, 1829–1880), *Il cavalier Bajardo convalescente*, 1867. Oil on canvas, 77 x 103 cm (30 1/3 x 40 1/2 in.)."
+    caption: "Giovanni Ponticelli (Italian, 1829–1880), *Il cavalier Bajardo convalescente*, 1867. Oil on canvas, 77 × 103 cm (30 1/3 × 40 1/2 in.)."
     credit: "Image: Napoli, Collezione d'arte della Città Metropolitana di Napoli"
 
   - id: "fig-5-3"
@@ -283,14 +283,14 @@ figure_list:
     src: "figures/fig-5-4.jpg"
     zoom: true
     label: "Figure 5.4"
-    caption: "Parmigianino (Italian, 1503–1540), *Sacra Famiglia*, ca. 1528. Tempera on canvas, 159 x 131 cm (62 3/5 x 51 3/5 in.)."
+    caption: "Parmigianino (Italian, 1503–1540), *Sacra famiglia*, ca. 1528. Tempera on canvas, 159 × 131 cm (62 3/5 × 51 3/5 in.)."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
 
   - id: "fig-5-5"
     src: "figures/fig-5-5.jpg"
     zoom: true
     label: "Figure 5.5"
-    caption: "Jacopo Bertoja (Italian, 1544–1574), *Madonna col Bambino*, ca. 1565. Tempera on canvas, 100 x 76 cm (39 2/5 x 30 in.)."
+    caption: "Jacopo Bertoja (Italian, 1544–1574), *Madonna col Bambino*, ca. 1565. Tempera on canvas, 100 × 76 cm (39 2/5 × 30 in.)."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
 
   - id: "fig-5-6"
@@ -304,15 +304,15 @@ figure_list:
     src: "figures/fig-5-7.jpg"
     zoom: true
     label: "Figure 5.7"
-    caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli Me Tangere*. Oil on canvas, 355 x 182 cm (139 3/4 x 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–1767). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
+    caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
     credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
 
-  - id: "fig-6-1-a"
+  - id: "fig-6-1"
     src: "figures/fig-6-1-a.jpg"
     zoom: true
     label: "Figure 6.1a"
-    # caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh to the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 x 143 сm (67 3/4 x 56 1/3 in.). (a) After removing old facings. (b) Detail."
-    # credit: "Image: © State Historical Museum, Moscow"
+    caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
+    credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-1-b"
     src: "figures/fig-6-1-b.jpg"
@@ -333,12 +333,12 @@ figure_list:
     caption: "Fragment of lining textile sprayed with adhesive A-45-K."
     credit: "Image: The State Research Institute for Restoration, Moscow"
 
-  - id: "fig-6-4-a"
+  - id: "fig-6-4"
     src: "figures/fig-6-4-a.jpg"
     zoom: true
-    label: "Figure 6.4a"
-    # caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail."
-    # credit: "Image: © State Historical Museum, Moscow"
+    label: "Figure 6.4"
+    caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
+    credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-4-b"
     src: "figures/fig-6-4-b.jpg"
@@ -349,7 +349,7 @@ figure_list:
     src: "figures/fig-8-1.jpg"
     zoom: true
     label: "Figure 8.1"
-    caption: "Anthony van Dyck (Flemish, 1599–1641), *Equestrian Portrait of Charles I*, 1637–1638. Oil on canvas, 368 x 292.5 cm (144 7/8 x 155 1/8 in.). Before treatment."
+    caption: "Anthony van Dyck (Flemish, 1599–1641), *Equestrian Portrait of Charles I*, 1637–1638. Oil on canvas, 368 × 292.5 cm (144 7/8 × 155 1/8 in.). Before treatment."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-2"
@@ -497,7 +497,7 @@ figure_list:
     src: "figures/fig-11-1.jpg"
     zoom: true
     label: "Figure 11.1"
-    caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 x 630 cm (190 1/2 x 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part-folding wooden stretcher."
+    caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 × 630 cm (190 1/2 × 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part-folding wooden stretcher."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-2"
@@ -542,7 +542,7 @@ figure_list:
     src: "figures/fig-12-1.jpg"
     zoom: true
     label: "Figure 12.1"
-    caption: "Pierre Puvis de Chavannes (French, 1824–1898), *Philosophy*, 1895. Oil-on-canvas mural originally marouflaged onto plaster wall, 436 x 218 cm (171 5/8 x 85 7/8 in.). Boston Public Library. The mural is shown mounted onto new aluminum honeycomb panel and set into its niche after the 2016 conservation campaign."
+    caption: "Pierre Puvis de Chavannes (French, 1824–1898), *Philosophy*, 1895. Oil-on-canvas mural originally marouflaged onto plaster wall, 436 × 218 cm (171 5/8 × 85 7/8 in.). Boston Public Library. The mural is shown mounted onto new aluminum honeycomb panel and set into its niche after the 2016 conservation campaign."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-2"
@@ -598,7 +598,7 @@ figure_list:
     src: "figures/fig-13-1.jpg"
     zoom: true
     label: "Figure 13.1"
-    caption: "Engelbert Zimmermann (German, 1807–1842), *Das Jüngste Gericht (The Last Judgment)*, 1839. Paint on canvas, 225 x 130 cm (88 3/5 x 51 1/5 in.). Wasserburg, Stadtmuseum Wasserburg. State of the painting before the preliminary treatment in 2012."
+    caption: "Engelbert Zimmermann (German, 1807–1842), *Das Jüngste Gericht (The Last Judgment)*, 1839. Paint on canvas, 225 × 130 cm (88 3/5 × 51 1/5 in.). Wasserburg, Stadtmuseum Wasserburg. State of the painting before the preliminary treatment in 2012."
     credit: "Image: Stadtmusuem Wasserburg"
 
   - id: "fig-13-2"
@@ -659,35 +659,35 @@ figure_list:
     src: "figures/fig-14-2.jpg"
     zoom: true
     label: "Figure 14.2"
-    caption: "Titian (Italian, ca. 1488–1576), *Ecce Homo*, 1543. Oil on canvas, 242 x 361 cm (95 1/3 x 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the eighteenth-century lining canvas were repaired."
+    caption: "Titian (Italian, ca. 1488–1576), *Ecce Homo*, 1543. Oil on canvas, 242 × 361 cm (95 1/3 × 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the eighteenth-century lining canvas were repaired."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     zoom: true
     label: "Figure 14.3"
-    caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 x 249.5 cm (143 1/2 x 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting."
+    caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 × 249.5 cm (143 1/2 × 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
     zoom: true
     label: "Figure 14.4"
-    caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 x 345 cm (90 1/8 x 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed: severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
+    caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 × 345 cm (90 1/8 × 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed: severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-5"
     src: "figures/fig-14-5.jpg"
     zoom: true
     label: "Figure 14.5"
-    caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. 400 x 480 cm (157 1/2 x 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
+    caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. 400 × 480 cm (157 1/2 × 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     zoom: true
     label: "Figure 14.6"
-    caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 x 196 cm (99 3/5 x 77 1/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
+    caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 × 196 cm (99 3/5 × 77 1/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-7"
@@ -860,7 +860,7 @@ figure_list:
     src: "figures/fig-18-4.jpg"
     zoom: true
     label: "Figure 18.4"
-    caption: "Joseph Perovani (Italian, 1765–1835), *Portrait of George Washington*, 1796. Oil on canvas, 220 x 145 cm. (86 5/8 x 57 1/16 in.)."
+    caption: "Joseph Perovani (Italian, 1765–1835), *Portrait of George Washington*, 1796. Oil on canvas, 220 × 145 cm. (86 5/8 × 57 1/16 in.)."
     credit: "Image: Real Academia de Bellas Artes de San Fernando de Madrid"
 
   - id: "fig-18-5-a"
@@ -987,7 +987,7 @@ figure_list:
     src: "figures/fig-22-1.jpg"
     zoom: true
     label: "Figure 22.1"
-    caption: "Artemisia Gentileschi (Italian, 1593–1654), *Self-Portrait as Saint Catherine of Alexandria*, ca. 1615–17. Oil on canvas, 71.5 x 71 cm (28 1/8 x 28 in.). The National Gallery, London, NG6672. Before treatment."
+    caption: "Artemisia Gentileschi (Italian, 1593–1654), *Self-Portrait as Saint Catherine of Alexandria*, ca. 1615–17. Oil on canvas, 71.5 × 71 cm (28 1/8 × 28 in.). The National Gallery, London, NG6672. Before treatment."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-2"
@@ -1134,21 +1134,21 @@ figure_list:
     src: "figures/fig-25-1.jpg"
     zoom: true
     label: "Figure 25.1"
-    caption: "*Colonie Belge* (Unknown Congolese Artist), ca. 1960. Paint on canvas, 80 x 60 cm (31 1/2 x 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
+    caption: "*Colonie Belge* (Unknown Congolese Artist), ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-2"
     src: "figures/fig-25-2.jpg"
     zoom: true
     label: "Figure 25.2"
-    caption: "Reverse of a late twentieth-century painting. Paint on canvas, 70 x 50 cm (27 1/2 x 19 5/8 in.). Described as “African; found in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
+    caption: "Reverse of a late twentieth-century painting. Paint on canvas, 70 × 50 cm (27 1/2 × 19 5/8 in.). Described as “African; found in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-3"
     src: "figures/fig-25-3.jpg"
     zoom: true
     label: "Figure 25.3"
-    caption: "Nkulu Tommy Emman (Congolese), *Mami Wata*, ca. 1960. Paint on canvas, 83 x 54 cm (32 5/8 x 21 1/4 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Face, before treatment. Africa Museum, Tervuren, Belgium."
+    caption: "Nkulu Tommy Emman (Congolese), *Mami Wata*, ca. 1960. Paint on canvas, 83 × 54 cm (32 5/8 × 21 1/4 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Face, before treatment. Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-4"
@@ -1204,7 +1204,7 @@ figure_list:
     src: "figures/fig-26-4.jpg"
     zoom: true
     label: "Figure 26.4"
-    caption: "*Saint Paul* painting: 12 x 11 threads/c<sup>2</sup>."
+    caption: "*Saint Paul* painting: 12 × 11 threads/c<sup>2</sup>."
     credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
 
   - id: "fig-26-5"
@@ -1287,7 +1287,7 @@ figure_list:
     src: "figures/fig-28-3.jpg"
     zoom: true
     label: "Figure 28.3"
-    caption: "Otto Möller (German, 1883–1964), *Untitled*, ca. 1900–1950. Oil on canvas, 68.3 x 54.5 cm (26 7/8 x 21 1/2 in.). Private collection. Placing a nonwoven strip with activated methyl cellulose mesh on the tacking margin for strip-lining."
+    caption: "Otto Möller (German, 1883–1964), *Untitled*, ca. 1900–1950. Oil on canvas, 68.3 × 54.5 cm (26 7/8 × 21 1/2 in.). Private collection. Placing a nonwoven strip with activated methyl cellulose mesh on the tacking margin for strip-lining."
     credit: "Image: Estate of Otto Möller / Photo: Jonathan Debik"
 
   - id: "fig-28-4"
@@ -1549,14 +1549,14 @@ figure_list:
     src: "figures/fig-33-1.jpg"
     zoom: true
     label: "Figure 33.1"
-    caption: "Master of the St. Ursula Legend (German, active ca. 1485–1515), *The Martyrdom of St. Ursula and the 11,000 Virgins*, ca. 1492. Oil on canvas, 165 x 186.7 cm (65 x 73 1/2 in.). London, Victoria & Albert Museum, 5938-1857."
+    caption: "Master of the St. Ursula Legend (German, active ca. 1485–1515), *The Martyrdom of St. Ursula and the 11,000 Virgins*, ca. 1492. Oil on canvas, 165 × 186.7 cm (65 × 73 1/2 in.). London, Victoria & Albert Museum, 5938-1857."
     credit: "Image: Victoria & Albert Museum"
 
   - id: "fig-33-2"
     src: "figures/fig-33-2.jpg"
     zoom: true
     label: "Figure 33.2"
-    caption: "Johann Gottfried Steffan (Swiss, 1815–1905), *The Torrent*, 1844/1848. Oil on canvas, 80.6 x 118 cm (31 3/4 x 46 1/2 in.). Reverse of the frame showing a nineteenth-century painted canvas backing. London, Victoria & Albert Museum, 1545‑1869."
+    caption: "Johann Gottfried Steffan (Swiss, 1815–1905), *The Torrent*, 1844/1848. Oil on canvas, 80.6 × 118 cm (31 3/4 × 46 1/2 in.). Reverse of the frame showing a nineteenth-century painted canvas backing. London, Victoria & Albert Museum, 1545‑1869."
     credit: "Image: Victoria & Albert Museum"
 
   - id: "fig-33-3"
@@ -1584,21 +1584,21 @@ figure_list:
     src: "figures/fig-33-6.jpg"
     zoom: true
     label: "Figure 33.6"
-    caption: "Ch’ol Muk Ri (North Korean), *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 x 77 x 2 cm (31 7/8 x 30 1/3 x 3/4 in.) on stretcher. The canvas painting is returned to plane through moisture treatments while on a loom. *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 x 77 x 2 cm (31 7/8 x 30 1/3 x 3/4 in.) (on stretcher). London, Victoria & Albert Museum, FE.89‑2009."
+    caption: "Ch’ol Muk Ri (North Korean), *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 × 77 × 2 cm (31 7/8 × 30 1/3 × 3/4 in.) on stretcher. The canvas painting is returned to plane through moisture treatments while on a loom. *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 × 77 × 2 cm (31 7/8 × 30 1/3 × 3/4 in.) (on stretcher). London, Victoria & Albert Museum, FE.89‑2009."
     credit: "Image: Victoria & Albert Museum / Photo: Nicola Costaras"
 
   - id: "fig-33-7"
     src: "figures/fig-33-7.jpg"
     zoom: true
     label: "Figure 33.7"
-    caption: "Clare Richardson and Susan Catcher strip lining *Landscape with Double Rainbow* by John Constable (1779–1837) using Japanese paper and wheatstarch paste. Paintings Conservation Studio, V&A, London. Oil on paper and canvas, 33.7 x 38.4 cm (13 1/4 x 15 1/8 in.). Victoria & Albert Museum, London, 328‑1888."
+    caption: "Clare Richardson and Susan Catcher strip lining *Landscape with Double Rainbow* by John Constable (1779–1837) using Japanese paper and wheatstarch paste. Paintings Conservation Studio, V&A, London. Oil on paper and canvas, 33.7 × 38.4 cm (13 1/4 × 15 1/8 in.). Victoria & Albert Museum, London, 328‑1888."
     credit: "Image: Victoria & Albert Museum /. Photo: Nicola Costaras"
 
   - id: "fig-34-1-a"
     src: "figures/fig-34-1-a.jpg"
     zoom: true
     label: "Figure 34.1a"
-    # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 x 187.5 cm (96 x 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
+    # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 × 187.5 cm (96 × 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
     # credit: "Image: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-1-b"
@@ -1610,21 +1610,21 @@ figure_list:
     src: "figures/fig-34-2.jpg"
     zoom: true
     label: "Figure 34.2"
-    caption: "A. Pozzo (Italian 1642–1709), *Glory of Saint Ignatius*, sketch for the ceiling of Saint Ignazio in Rome, seventeenth century, 324.5 x 171.5 cm (127 3/4 x 67 1/2 in.). Lined in 1884."
+    caption: "A. Pozzo (Italian 1642–1709), *Glory of Saint Ignatius*, sketch for the ceiling of Saint Ignazio in Rome, seventeenth century, 324.5 × 171.5 cm (127 3/4 × 67 1/2 in.). Lined in 1884."
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-3"
     src: "figures/fig-34-3.jpg"
     zoom: true
     label: "Figure 34.3"
-    caption: "G. Reni (Italian, 1575–1642), *Magdalen*, 1631–1632. Oil on canvas, 234 x 151 cm (92 1/8 x 59 1/2 in.). Never lined but has an ancient strip-lining."
+    caption: "G. Reni (Italian, 1575–1642), *Magdalen*, 1631–1632. Oil on canvas, 234 × 151 cm (92 1/8 × 59 1/2 in.). Never lined but has an ancient strip-lining."
     credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
 
   - id: "fig-34-4"
     src: "figures/fig-34-4.jpg"
     zoom: true
     label: "Figure 34.4"
-    caption: "B. Cesari (Italian, 1571–1622), *Adoration of the Shepherds*, 1610–1615. Oil on canvas, 44 x 55 cm (17 3/4 x 21 3/5 in.). Notice the sprigs used to stretch the lining canvas visible under the painted canvas edges."
+    caption: "B. Cesari (Italian, 1571–1622), *Adoration of the Shepherds*, 1610–1615. Oil on canvas, 44 × 55 cm (17 3/4 × 21 3/5 in.). Notice the sprigs used to stretch the lining canvas visible under the painted canvas edges."
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
 
   - id: "fig-34-5"
@@ -1638,28 +1638,28 @@ figure_list:
     src: "figures/fig-34-6.jpg"
     zoom: true
     label: "Figure 34.6"
-    caption: "Bolognese School, *Herodias*, seventeenth century. Oil on canvas, 64 x 49.5 cm (25 1/5 x 19 1/2 in.). The lining can be dated from the visible seal."
+    caption: "Bolognese School, *Herodias*, seventeenth century. Oil on canvas, 64 × 49.5 cm (25 1/5 × 19 1/2 in.). The lining can be dated from the visible seal."
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
 
   - id: "fig-34-7"
     src: "figures/fig-34-7.jpg"
     zoom: true
     label: "Figure 34.7"
-    caption: "M. Benefial (Italian, 1684–1764), *Hercules and Omphale*, 1735–1740. Oil on canvas, 218 x 135 cm (85 4/5 x 53 1/8 in.). Lined with the wax-resin system."
+    caption: "M. Benefial (Italian, 1684–1764), *Hercules and Omphale*, 1735–1740. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the wax-resin system."
     credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-8"
     src: "figures/fig-34-8.jpg"
     zoom: true
     label: "Figure 34.8"
-    caption: "M. Benefial (Italian, 1684–1764), *Pyramus and Thisbe*, 1735–1740. Oil on canvas, 218 x 135 cm (85 4/5 x 53 1/8 in.). Lined with the glue-paste system."
+    caption: "M. Benefial (Italian, 1684–1764), *Pyramus and Thisbe*, 1735–1740. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the glue-paste system."
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-9"
     src: "figures/fig-34-9.jpg"
     zoom: true
     label: "Figure 34.9"
-    caption: "A. Sacchi (Italian, 1599–1661), *Vision of Saint Romualdo*, seventeenth century. Oil on canvas, 68 x 44 cm (26 3/4 x 17 3/4 in.). Delined."
+    caption: "A. Sacchi (Italian, 1599–1661), *Vision of Saint Romualdo*, seventeenth century. Oil on canvas, 68 × 44 cm (26 3/4 × 17 3/4 in.). Delined."
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
@@ -1671,7 +1671,7 @@ figure_list:
     src: "figures/fig-35-1.jpg"
     zoom: true
     label: "Figure 35.1"
-    caption: "Anne-Louis Girodet Trioson (French, 1767–1824), *The Death of Camille*, 1785. Oil on canvas, 113 x 146 cm (44 1/2 x 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
+    caption: "Anne-Louis Girodet Trioson (French, 1767–1824), *The Death of Camille*, 1785. Oil on canvas, 113 × 146 cm (44 1/2 × 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
     credit: "Image: C2RMF, J. Requilé"
 
   - id: "fig-35-2"
@@ -1685,7 +1685,7 @@ figure_list:
     src: "figures/fig-35-3.jpg"
     zoom: true
     label: "Figure 35.3"
-    caption: "Francisco de Zurbarán (Spanish, 1598–1664), *Saint Jerome in the Desert*, seventeenth century. Oil on canvas, 174.5 x 123.2 cm (68 3/4 x 48 1/2 in.). Inv. 874.19. Raking light photograph taken after local consolidation with sturgeon glue and removal of the temporary paper facing placed during the emergency operations. Note the flaking of paint from the tented areas."
+    caption: "Francisco de Zurbarán (Spanish, 1598–1664), *Saint Jerome in the Desert*, seventeenth century. Oil on canvas, 174.5 × 123.2 cm (68 3/4 × 48 1/2 in.). Inv. 874.19. Raking light photograph taken after local consolidation with sturgeon glue and removal of the temporary paper facing placed during the emergency operations. Note the flaking of paint from the tented areas."
     credit: "Image: C2RMF, P. Salinson"
 
   - id: "table-35-2"
@@ -1702,7 +1702,7 @@ figure_list:
     src: "figures/fig-35-4.jpg"
     zoom: true
     label: "Figure 35.4"
-    caption: "Follower of Maertens De Vos (Flemish, 1532–1603), *The Sacrifice of Abraham*, sixteenth century. Oil on canvas (originally oil on panel), 82 x 113 cm (32 1/3 x 44 1/2 in.). Inv. 874.40. Detail, after disaster. The raking light highlights the numerous tented areas across the entire painting."
+    caption: "Follower of Maertens De Vos (Flemish, 1532–1603), *The Sacrifice of Abraham*, sixteenth century. Oil on canvas (originally oil on panel), 82 × 113 cm (32 1/3 × 44 1/2 in.). Inv. 874.40. Detail, after disaster. The raking light highlights the numerous tented areas across the entire painting."
     credit: "Image: Ludovic Roudet"
 
   - id: "fig-35-5"
@@ -1863,7 +1863,7 @@ figure_list:
     src: "figures/fig-38-4-a.jpg"
     zoom: true
     label: "Figure 38.4a"
-    # caption: "(a) Artist-made strainer from 1970 composed of wood, plywood, and particle board, 180.3 x 287 cm (71 x 113 in.). (b) The same strainer, modified in 2018. The effort to keep the original components and achieve adequate structural integrity resulted in a strange hybrid support."
+    # caption: "(a) Artist-made strainer from 1970 composed of wood, plywood, and particle board, 180.3 × 287 cm (71 × 113 in.). (b) The same strainer, modified in 2018. The effort to keep the original components and achieve adequate structural integrity resulted in a strange hybrid support."
     # credit: "Images: Mary H. Gridley"
 
   - id: "fig-38-4-b"
@@ -1875,7 +1875,7 @@ figure_list:
     src: "figures/fig-39-1.jpg"
     zoom: true
     label: "Figure 39.1"
-    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 x 49.5 cm (25 1/2 x 19 1/2 in.). During treatment (after cleaning and lining removal, before wax extraction) under specular illumination. The Menil Collection, Houston."
+    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax extraction) under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-2"
@@ -2055,7 +2055,7 @@ figure_list:
     src: "figures/fig-43-1.jpg"
     zoom: true
     label: "Figure 43.1"
-    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 x 132.7 cm (37 1/3 x 52 1/4 in.). After cleaning. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
+    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 × 132.7 cm (37 1/3 × 52 1/4 in.). After cleaning. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
     credit: "Image: Emma Kimmel"
 
   - id: "fig-43-2"
@@ -2118,35 +2118,35 @@ figure_list:
     src: "figures/fig-45-1.jpg"
     zoom: true
     label: "Figure 45.1"
-    caption: "Royal Palace Amsterdam, South Gallery. In the foreground: J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664. Oil on canvas, 550 x 550 cm."
+    caption: "Royal Palace Amsterdam, South Gallery. In the foreground: J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664. Oil on canvas, 550 × 550 cm."
     credit: "Image: J. Schlomoff"
 
   - id: "fig-45-2"
     src: "figures/fig-45-2.jpg"
     zoom: true
     label: "Figure 45.2"
-    caption: "J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664, oil paint on canvas, detail, approximately 250 x 120 cm (98 2/5 x 47 1/4 in.)."
+    caption: "J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664, oil paint on canvas, detail, approximately 250 × 120 cm (98 2/5 × 47 1/4 in.)."
     credit: "Image: Emilie Froment"
 
   - id: "fig-45-3"
     src: "figures/fig-45-3.jpg"
     zoom: true
     label: "Figure 45.3"
-    caption: "J. Jordaens (Flemish, 1593–1678), *Peace Between the Romans and the Batavians*, 1661. Oil paint on canvas, detail, approximately 80 x 50 cm (31 1/2 x 50 5/8 in.)."
+    caption: "J. Jordaens (Flemish, 1593–1678), *Peace Between the Romans and the Batavians*, 1661. Oil paint on canvas, detail, approximately 80 × 50 cm (31 1/2 × 50 5/8 in.)."
     credit: "Image: Emilie Froment"
 
   - id: "fig-45-4"
     src: "figures/fig-45-4.jpg"
     zoom: true
     label: "Figure 45.4"
-    caption: "Ground reconstruction composed of chalk in animal glue before wax-resin impregnation. Detail, approximately 9 x 5 cm (3 1/2 x 2 in.)."
+    caption: "Ground reconstruction composed of chalk in animal glue before wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.)."
     credit: "Image: J. Schlomoff"
 
   - id: "fig-45-5"
     src: "figures/fig-45-5.jpg"
     zoom: true
     label: "Figure 45.5"
-    caption: "Ground reconstruction composed of chalk in animal glue before after wax-resin impregnation. Detail, approximately 9 x 5 cm (3 1/2 x 2 in.). The canvas weave became visible after impregnation."
+    caption: "Ground reconstruction composed of chalk in animal glue before after wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.). The canvas weave became visible after impregnation."
     credit: "Image: J. Schlomoff."
 
   - id: "fig-45-6"
@@ -2174,7 +2174,7 @@ figure_list:
     src: "figures/fig-46-1-a.jpg"
     zoom: true
     label: "Figure 46.1a"
-    # caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 x 360 cm (189 x 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ([[De los Rios y Rojas and Socorro 1977]]). (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 × 360 cm (189 × 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ([[De los Rios y Rojas and Socorro 1977]]). (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a and b) [[De los Rios y Rojas and Socorro 1977]], (c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-1-b"
@@ -2196,7 +2196,7 @@ figure_list:
     src: "figures/fig-46-2-a.jpg"
     zoom: true
     label: "Figure 46.2a"
-    # caption: "Titian (Italian, ca. 1488–1576), *The Vendramin Family*, 1540–1545. Oil on canvas, 206 x 288.5 cm (81 1/8 x 113 5/8 in.). (a) Detail of Gabriel’s left hand before cleaning and after retouching. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Titian (Italian, ca. 1488–1576), *The Vendramin Family*, 1540–1545. Oil on canvas, 206 × 288.5 cm (81 1/8 × 113 5/8 in.). (a) Detail of Gabriel’s left hand before cleaning and after retouching. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) National Gallery London, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-2-b"
@@ -2218,7 +2218,7 @@ figure_list:
     src: "figures/fig-46-3-a.jpg"
     zoom: true
     label: "Figure 46.3a"
-    # caption: "Caravaggio (Italian, 1571–1610), *The Crucifixion of Saint Andrew*, 1606–1607. Oil on canvas, 202.5 x 152.7 cm (79 3/4 x 60 1/8 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Caravaggio (Italian, 1571–1610), *The Crucifixion of Saint Andrew*, 1606–1607. Oil on canvas, 202.5 × 152.7 cm (79 3/4 × 60 1/8 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Cleveland Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-3-b"
@@ -2240,7 +2240,7 @@ figure_list:
     src: "figures/fig-46-4-a.jpg"
     zoom: true
     label: "Figure 46.4a"
-    # caption: "Diego Velázquez (Spanish, 1599–1660), *Supper at Emmaus*, 1622–1623. Oil on canvas, 123.2 x 132.7 cm (48 1/2 x 52 1/4 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Diego Velázquez (Spanish, 1599–1660), *Supper at Emmaus*, 1622–1623. Oil on canvas, 123.2 × 132.7 cm (48 1/2 × 52 1/4 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Metropolitan Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-4-b"
@@ -2262,7 +2262,7 @@ figure_list:
     src: "figures/fig-46-5-a.jpg"
     zoom: true
     label: "Figure 46.5a"
-    # caption: "Diego Velázquez (Spanish, 1599–1660), *Education of the Virgin*, 1617–1618. Oil on canvas, 168 x 136 cm (66 1/8 x 53 1/2 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Diego Velázquez (Spanish, 1599–1660), *Education of the Virgin*, 1617–1618. Oil on canvas, 168 × 136 cm (66 1/8 × 53 1/2 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Yale University Art Gallery, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-5-b"
@@ -2319,7 +2319,7 @@ figure_list:
     src: "figures/fig-48-1.jpg"
     zoom: true
     label: "Figure 48.1"
-    caption: "Fyodor S. Rokotov (Russian, 1735/1736–1808), *Portrait of F. N. Sinyavina*, eighteenth century. Oil on canvas, 74 x 58 сm (29 1/8 x 22 5/6 in.). Moscow, the State Historical Museum. Detail of the painting before conservation."
+    caption: "Fyodor S. Rokotov (Russian, 1735/1736–1808), *Portrait of F. N. Sinyavina*, eighteenth century. Oil on canvas, 74 × 58 сm (29 1/8 × 22 5/6 in.). Moscow, the State Historical Museum. Detail of the painting before conservation."
     credit: "Image: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-2"
@@ -2529,7 +2529,7 @@ figure_list:
     src: "figures/fig-52-2.jpg"
     zoom: true
     label: "Figure 52.2"
-    caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–1562. Oil on canvas, 179.8 x 202.4 cm (70 3/4 x 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
+    caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–1562. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
     credit: "Image: Boston, Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-3"
@@ -2557,7 +2557,7 @@ figure_list:
     src: "figures/fig-53-1.jpg"
     zoom: true
     label: "Figure 53.1"
-    caption: "Aart Schouman (Dutch, 1710–1792), *Birds I*, in The Menagerie van Prince Willem V series, 1786. Oil on canvas, 260.5 x 312 cm (102 1/2 x 122 5/6 in.). Collection of the Royal House of the Netherlands. Picture taken before treatment."
+    caption: "Aart Schouman (Dutch, 1710–1792), *Birds I*, in The Menagerie van Prince Willem V series, 1786. Oil on canvas, 260.5 × 312 cm (102 1/2 × 122 5/6 in.). Collection of the Royal House of the Netherlands. Picture taken before treatment."
     credit: "Image: Stichting Restauratie Atelier Limburg (SRAL)"
 
   - id: "fig-53-2"
@@ -2592,7 +2592,7 @@ figure_list:
     src: "figures/fig-54-1.jpg"
     zoom: true
     label: "Figure 54.1"
-    caption: "Work attributed to Tom Thomson (Canadian, 1877–1917), *Untitled*, ca. 1910. Oil on canvas, 33.1 x 40.6 cm (13 x 16 in.). Collection of the Kitchener-Waterloo Art Gallery, 4.26.18. Before treatment, small facing tissues visible."
+    caption: "Work attributed to Tom Thomson (Canadian, 1877–1917), *Untitled*, ca. 1910. Oil on canvas, 33.1 × 40.6 cm (13 × 16 in.). Collection of the Kitchener-Waterloo Art Gallery, 4.26.18. Before treatment, small facing tissues visible."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "table-54-1"
@@ -2696,7 +2696,7 @@ figure_list:
     src: "figures/fig-57-1-a.jpg"
     zoom: true
     label: "Figure 57.1a"
-    # caption: "Vladimir Tatlin (Russian, 1885–1953), *Still-Life with Melon and Apples/Green Leaves in a Jar*, 1912. Oil on canvas, 77 x 67 cm (30 1/3 x 26 3/8 in.). Moscow, Russian State Archives of Literature and Art. (a) Fragment before treatment. (b) Fragment after the tear was fixed with PVB solution and reinforced with stitching."
+    # caption: "Vladimir Tatlin (Russian, 1885–1953), *Still-Life with Melon and Apples/Green Leaves in a Jar*, 1912. Oil on canvas, 77 × 67 cm (30 1/3 × 26 3/8 in.). Moscow, Russian State Archives of Literature and Art. (a) Fragment before treatment. (b) Fragment after the tear was fixed with PVB solution and reinforced with stitching."
     # credit: "Images: Russian State Archives of Literature and Art"
 
   - id: "fig-57-1-b"
@@ -2708,7 +2708,7 @@ figure_list:
     src: "figures/fig-57-2.jpg"
     zoom: true
     label: "Figure 57.2"
-    caption: "Andrey Vasnetsov (Russian, 1924–2009), *New Village,* 1950–1960s. Oil on canvas; the obverse side is 79 x 99.5 cm (31 1/8 x 39 1/6 in.); the reverse side 89 x 99 cm (35 x 39 in.). Moscow region, Museum-reserve “Abramtsevo.” The obverse side before conservation. Note the visible difference in sizes."
+    caption: "Andrey Vasnetsov (Russian, 1924–2009), *New Village,* 1950–1960s. Oil on canvas; the obverse side is 79 × 99.5 cm (31 1/8 × 39 1/6 in.); the reverse side 89 × 99 cm (35 × 39 in.). Moscow region, Museum-reserve “Abramtsevo.” The obverse side before conservation. Note the visible difference in sizes."
     credit: "Image: Museum-reserve “Abramtsevo”"
 
   - id: "fig-57-3"
@@ -2729,7 +2729,7 @@ figure_list:
     src: "figures/fig-58-1.jpg"
     zoom: true
     label: "Figure 58.1"
-    caption: "Attributed to the “Pittore di Pontignano,” *Madonna and Child with the Young St. John the Baptist and Two Angels*, ca. 1650. Oil on canvas, 93.5 x 128 x 3 cm (36 5/6 x 50 2/5 x 1 1/6 in.). Private collection."
+    caption: "Attributed to the “Pittore di Pontignano,” *Madonna and Child with the Young St. John the Baptist and Two Angels*, ca. 1650. Oil on canvas, 93.5 × 128 × 3 cm (36 5/6 × 50 2/5 × 1 1/6 in.). Private collection."
     credit: "Image: Matthew Hayes"
 
   - id: "fig-58-2"
@@ -2802,7 +2802,7 @@ figure_list:
     src: "figures/fig-60-1.jpg"
     zoom: true
     label: "Figure 60.1"
-    caption: "Antoine Dubost (French, 1769–1825), *The Sword of Damocles*, 1804. Oil on canvas, 228 x 258 cm (89 3/4 x 101 3/5 in.). Chhatrapati Shivaji Maharaj Vastu Sangrahalaya collection, Acc. No. 22.4544. Before treatment."
+    caption: "Antoine Dubost (French, 1769–1825), *The Sword of Damocles*, 1804. Oil on canvas, 228 × 258 cm (89 3/4 × 101 3/5 in.). Chhatrapati Shivaji Maharaj Vastu Sangrahalaya collection, Acc. No. 22.4544. Before treatment."
     credit: "Image: Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-2"
@@ -2830,14 +2830,14 @@ figure_list:
     src: "figures/fig-60-5.jpg"
     zoom: true
     label: "Figure 60.5"
-    caption: "Sir Thomas Lawrence (British, 1769–1830), *Portrait of Henry Philip Hope*, ca. early nineteenth century. Oil on canvas, 261 x 155 cm (102 3/4 x 61 in.). CSMVS collection, Acc. No. 22.4614. Left: Before treatment. Right: After treatment."
+    caption: "Sir Thomas Lawrence (British, 1769–1830), *Portrait of Henry Philip Hope*, ca. early nineteenth century. Oil on canvas, 261 × 155 cm (102 3/4 × 61 in.). CSMVS collection, Acc. No. 22.4614. Left: Before treatment. Right: After treatment."
     credit: "Image: CSMVS"
 
   - id: "fig-61-1"
     src: "figures/fig-61-1.jpg"
     zoom: true
     label: "Figure 61.1"
-    caption: "Roderick Dempster Mackenzie (British American, 1865–1941), *The State Entry into Delhi by Lord and Lady Curzon, Delhi Durbar (1903)*, ca. 1904–1906. Oil on canvas, 340 x 544 cm (133 7/8 x 214 1/6 in.). After completion of structural treatment and necessary reintegration from front side."
+    caption: "Roderick Dempster Mackenzie (British American, 1865–1941), *The State Entry into Delhi by Lord and Lady Curzon, Delhi Durbar (1903)*, ca. 1904–1906. Oil on canvas, 340 × 544 cm (133 7/8 × 214 1/6 in.). After completion of structural treatment and necessary reintegration from front side."
     credit: "Image: Victoria Memorial Hall, Kolkata, India"
 
   - id: "fig-61-2"
