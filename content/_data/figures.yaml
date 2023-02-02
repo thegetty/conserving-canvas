@@ -497,14 +497,14 @@ figure_list:
     src: "figures/fig-11-1.jpg"
     zoom: true
     label: "Figure 11.1"
-    caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 × 630 cm (190 1/2 × 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part-folding wooden stretcher."
+    caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 × 630 cm (190 1/2 × 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part folding wooden stretcher."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-2"
     src: "figures/fig-11-2.jpg"
     zoom: true
     label: "Figure 11.2"
-    caption: "*Allegoria* during restoration process. The painting is faced with Japanese paper; sheets fixed around the perimeter were glued to the worktop to prevent shrinkage as the glue dried."
+    caption: "*Allegoria* during the restoration process. The painting is faced with Japanese paper; sheets fixed around the perimeter were glued to the worktop to prevent shrinkage as the glue dried."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-3"
