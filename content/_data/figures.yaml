@@ -349,28 +349,28 @@ figure_list:
     src: "figures/fig-8-1.jpg"
     zoom: true
     label: "Figure 8.1"
-    caption: "Anthony van Dyck (Flemish, 1599–1641), *Equestrian Portrait of Charles I*, 1637–1638. Oil on canvas, 368 × 292.5 cm (144 7/8 × 155 1/8 in.). Before treatment."
+    caption: "Anthony van Dyck (Flemish, 1599–1641), *Equestrian Portrait of Charles I*, 1637–38. Oil on canvas, 368 × 292.5 cm (144 7/8 × 155 1/8 in.). Before treatment."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-2"
     src: "figures/fig-8-2.jpg"
     zoom: true
     label: "Figure 8.2"
-    caption: "Van Dyck’s *Equestrian Portrait of Charles I*: detail of the canvas reverse showing the black ticking pattern. The wax-resin adhesive is being removed in this photograph."
+    caption: "Van Dyck’s *Equestrian Portrait of Charles I*. Detail of the canvas reverse showing the black ticking pattern. The wax-resin adhesive is being removed in this photograph."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-3"
     src: "figures/fig-8-3.jpg"
     zoom: true
     label: "Figure 8.3"
-    caption: "Van Dyck’s *Equestrian Portrait of Charles I*: detail of the canvas reverse showing the splits at the sides during their repair with inserts of new primed canvas."
+    caption: "Van Dyck’s *Equestrian Portrait of Charles I*. Detail of the canvas reverse showing the splits at the sides during their repair with inserts of new primed canvas."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-4"
     src: "figures/fig-8-4.jpg"
     zoom: true
     label: "Figure 8.4"
-    caption: "Van Dyck’s *Equestrian Portrait of Charles I*: detail of the reverse of the lining canvas before treatment showing the uneven distribution of the wax-resin adhesive."
+    caption: "Van Dyck’s *Equestrian Portrait of Charles I*. Detail of the reverse of the lining canvas before treatment showing the uneven distribution of the wax-resin adhesive."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-5"
@@ -384,27 +384,27 @@ figure_list:
     src: "figures/fig-8-6.jpg"
     zoom: true
     label: "Figure 8.6"
-    caption: "The relining of the van Dyck painting inside a vacuum envelope using a Willard Multi-Purpose Table as the heat source."
+    caption: "Relining of the Van Dyck painting inside a vacuum envelope using a Willard Multi-purpose Table as the heat source."
     credit: "Image: National Gallery, London"
 
   - id: "fig-8-7"
     src: "figures/fig-8-7.jpg"
     zoom: true
     label: "Figure 8.7"
-    caption: "Van Dyck’s *Equestrian Portrait of Charles I* after the relining and restoration."
-    credit: "Image: National Galley, London"
-
-  - id: "fig-9-1"
-    src: "figures/fig-9-1.jpg"
-    zoom: true
-    label: "Figure 9.1"
-    caption: "An open-weave linen canvas sprayed with an acrylic dispersion adhesive. Note the masked-out area, which is the exact dimensions of the painting that will be lined."
-    credit: "Image: SRAL"
+    caption: "Van Dyck’s *Equestrian Portrait of Charles I* after relining and restoration."
+    credit: "Image: National Gallery, London"
 
   - id: "fig-9-2"
     src: "figures/fig-9-2.jpg"
     zoom: true
     label: "Figure 9.2"
+    caption: "An open-weave linen canvas sprayed with an acrylic dispersion adhesive. Note the masked-out area, which is the exact dimensions of the painting that will be lined."
+    credit: "Image: SRAL"
+
+  - id: "fig-9-1"
+    src: "figures/fig-9-1.jpg"
+    zoom: true
+    label: "Figure 9.1"
     caption: "Close-up of the open-network sprayed lining adhesive."
     credit: "Image: SRAL"
 
@@ -420,7 +420,7 @@ figure_list:
     media_type: vimeo
     media_id: 762363049/f22edb5063
     label: "Figure 9.4"
-    caption: "Video clip showing the Mist-Lining process."
+    caption: "Video still showing the mist-lining process."
     credit: "Video: SRAL"
 
   - id: "fig-9-5"
