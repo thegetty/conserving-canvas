@@ -549,7 +549,7 @@ figure_list:
     src: "figures/fig-12-2.jpg"
     zoom: true
     label: "Figure 12.2"
-    caption: "Puvis de Chavannes mural cycle above the Grand Staircase of the Boston Public Library."
+    caption: "Puvis de Chavannes’s mural cycle above the grand staircase of the Boston Public Library."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-3"
@@ -570,14 +570,14 @@ figure_list:
     src: "figures/fig-12-5.jpg"
     zoom: true
     label: "Figure 12.5"
-    caption: "A straight edge placed on the failed structural seam of the aluminum honeycomb panel illustrates the protrusion of the aluminum panel skin."
+    caption: "A straight edge placed on the failed structural seam of the aluminum honeycomb panel, revealing the protrusion of the aluminum panel skin."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-6"
     src: "figures/fig-12-6.jpg"
     zoom: true
     label: "Figure 12.6"
-    caption: "Constructing a curved form to be used to roll the partially adhered section of the mural off of the aluminum honeycomb panel."
+    caption: "Conservators constructing a curved form to be used to roll the partially adhered section of the mural off of the aluminum honeycomb panel."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-7"
