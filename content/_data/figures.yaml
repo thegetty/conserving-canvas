@@ -793,8 +793,8 @@ figure_list:
     src: "figures/fig-17-1.png"
     zoom: true
     label: "Figure 17.1"
-    caption: "FTIR spectra comparing *Sun Setting, Denmark* (top) and the recreated recipe SAAM 1 (bottom). The painting was lined in 1969 with “wax adhesive (Keck)” to Belgian linen. SAAM 1 was prepared in 2019 following the Keck recipe from the “Lab Formulas—Mixtures” binder (ca. 1967–1974). Spectral similarity between these results indicates the success in reconstructing this historical wax-resin adhesive."
-    credit: "Spectra: Scientific Research & Analysis Laboratory (SRAL), Winterthur Museum, Winterthur, Delaware / Composite image: Smithsonian American Art Museum (SAAM), Washington, DC"
+    caption: "FTIR spectra comparing *Sun Setting, Denmark* (top) and the re-created recipe SAAM 1 (bottom). The painting was lined in 1969 with “wax adhesive (Keck)” to Belgian linen. SAAM 1 was prepared in 2019 following the Keck recipe from the “Lab Formulas—Mixtures” binder (ca. 1967–74). Spectral similarity between these results indicates the success in reconstructing this historical wax-resin adhesive."
+    credit: "Spectra: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "fig-17-2"
     src: "figures/fig-17-2.png"
@@ -817,7 +817,7 @@ figure_list:
     src: "figures/fig-17-3.png"
     zoom: true
     label: "Figure 17.3"
-    caption: "SAAM 5 Extracted ion chromatograms (EICs) in GC/MSD (top) and Py-GC/MSD (bottom). Limonene in Piccolyte S-85 is detected as a monomer at 136 m/z, dimer at 272 m/z, and trimer at 408 m/z. GC/MSD barely detected the compound, as indicated by the jagged appearance of the baseline in all three EICs. Py-GC/MSD yielded better results, with clearly defined peaks for the compound."
+    caption: "SAAM 5 extracted ion chromatograms (EICs) in GC/MSD (top) and Py-GC/MSD (bottom). Limonene in Piccolyte S-85 is detected as a monomer at 136 m/z, dimer at 272 m/z, and trimer at 408 m/z. GC/MSD barely detected the compound, as indicated by the jagged appearance of the baseline in all three EICs. Py-GC/MSD yielded better results, with clearly defined peaks for the compound."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "fig-18-1"
