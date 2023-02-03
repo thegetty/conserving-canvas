@@ -563,7 +563,7 @@ figure_list:
     src: "figures/fig-12-4.jpg"
     zoom: true
     label: "Figure 12.4"
-    caption: "Lining system employed to marouflage *Philosophy*. The mural is shown on its aluminum honeycomb panel in a vacuum envelope suspended above orange silicone rubber heat sheet."
+    caption: "Lining system employed to marouflage *Philosophy*. The mural is shown on its aluminum honeycomb panel in a vacuum envelope suspended above an orange silicone rubber heat sheet."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-5"
