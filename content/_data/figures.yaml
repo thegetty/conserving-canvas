@@ -652,49 +652,49 @@ figure_list:
     src: "figures/fig-14-1.jpg"
     zoom: true
     label: "Figure 14.1"
-    caption: "Room housing large paintings in the Kunsthistorisches Museum’s central storage, installed in 2011."
+    caption: "Room housing large paintings in the Kunsthistorisches Museum’s central storage facility, installed in 2011."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-2"
     src: "figures/fig-14-2.jpg"
     zoom: true
     label: "Figure 14.2"
-    caption: "Titian (Italian, ca. 1488–1576), *Ecce Homo*, 1543. Oil on canvas, 242 × 361 cm (95 1/3 × 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the eighteenth-century lining canvas were repaired."
+    caption: "Titian (Italian, ca. 1488–1576), detail of *Ecce Homo*, 1543. Oil on canvas, 242 × 361 cm (95 1/3 × 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the 18th-century lining canvas were repaired."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     zoom: true
     label: "Figure 14.3"
-    caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 × 249.5 cm (143 1/2 × 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting."
+    caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 × 249.5 cm (143 1/2 × 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting, seen here at upper left."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
     zoom: true
     label: "Figure 14.4"
-    caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 × 345 cm (90 1/8 × 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed: severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
+    caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 × 345 cm (90 1/8 × 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed showing severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-5"
     src: "figures/fig-14-5.jpg"
     zoom: true
     label: "Figure 14.5"
-    caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. 400 × 480 cm (157 1/2 × 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
+    caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Il Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. Oil on canvas, 400 × 480 cm (157 1/2 × 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     zoom: true
     label: "Figure 14.6"
-    caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 × 196 cm (99 3/5 × 77 1/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
+    caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 × 119 cm (99 3/5 × 46 7/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-14-7"
     src: "figures/fig-14-7.jpg"
     zoom: true
     label: "Figure 14.7"
-    caption: "Libalt, *Still Life*: detail of the right part (center) during treatment. The original canvas was repaired by inserting and weaving in new threads."
+    caption: "Libalt, *Still Life*. Detail of the right part (center) during treatment. The original canvas was repaired by inserting and weaving in new threads."
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-15-1"
