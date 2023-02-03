@@ -584,7 +584,7 @@ figure_list:
     src: "figures/fig-12-7.jpg"
     zoom: true
     label: "Figure 12.7"
-    caption: "Releasing the mural from the aluminum honeycomb panel curved form and block-and-tackle pulley system. Pairs of ropes at either end of the adhered section were used to control the lifting of the canvas from the panel."
+    caption: "Technicians releasing the mural from the aluminum honeycomb panel curved form and block-and-tackle pulley system. Pairs of ropes at either end of the adhered section were used to control the lifting of the canvas from the panel."
     credit: "Image: Gianfranco Pocobene Studio"
 
   - id: "fig-12-8"
@@ -619,7 +619,7 @@ figure_list:
     src: "figures/fig-13-4.jpg"
     zoom: true
     label: "Figure 13.4"
-    caption: "The authors while forming the support back into plane."
+    caption: "The authors forming the support back into plane."
     credit: "Image: Catharina Blänsdorf"
 
   - id: "fig-13-5"
@@ -640,8 +640,8 @@ figure_list:
     src: "figures/fig-13-7-a.jpg"
     zoom: true
     label: "Figure 13.7a"
-    # caption: "*The Last Judgment* after treatment in 2014 (a: verso, and b: recto)."
-    # credit: "Image: Julia Brandt and Carina Volbracht"
+    caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
+    credit: "Image: Julia Brandt and Carina Volbracht"
 
   - id: "fig-13-7-b"
     src: "figures/fig-13-7-b.jpg"
