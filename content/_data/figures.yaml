@@ -750,8 +750,8 @@ figure_list:
     src: "figures/fig-16-1.png"
     zoom: true
     label: "Figure 16.1"
-    caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions from side view."
-    credit: "Image: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
+    caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions, side view."
+    credit: "Images: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
 
   - id: "table-16-1"
     credit: "Table: Theresa A. Bräunig"
@@ -768,20 +768,20 @@ figure_list:
     zoom: true
     label: "Figure 16.2"
     caption: "(a) Yarn sections (5.0 mm long) derived from one original canvas. (b) Different representative ruptured samples from artificially aged fabrics and original canvases after zero-span tensile strength measurement."
-    credit: "Image: Theresa A. Bräunig"
+    credit: "Images: Theresa A. Bräunig"
 
   - id: "fig-16-3"
     src: "figures/fig-16-3.png"
     zoom: true
     label: "Figure 16.3"
-    caption: "(a) Diameter normalized maximum tensile strengths (*ƒ<sub>H</sub>*) of the measured samples, average of 10 measurements. (b) Limited viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
-    credit: "Image: Theresa A. Bräunig"
+    caption: "(a) Diameter-normalized maximum tensile strengths (*ƒ<sub>H</sub>*) of the measured samples, average of ten measurements. (b) Limiting viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
+    credit: "Images: Theresa A. Bräunig"
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.png"
     zoom: true
     label: "Figure 16.4"
-    caption: "Correlation of the diameter-normalized maximum tensile strength (*f<sub>H</sub>*) with the limited viscosity number (GVZ) of the measured samples."
+    caption: "Correlation of the diameter-normalized maximum tensile strength (  *f<sub>H</sub>*) with the limited viscosity number (GVZ) of the measured samples."
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
