@@ -831,8 +831,8 @@ figure_list:
     src: "figures/fig-18-2-a.jpg"
     zoom: true
     label: "(a)"
-    # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. (c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
-    # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, (c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
+     # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. (c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
+     # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, (c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
@@ -860,15 +860,15 @@ figure_list:
     src: "figures/fig-18-4.jpg"
     zoom: true
     label: "Figure 18.4"
-    caption: "Joseph Perovani (Italian, 1765–1835), *Portrait of George Washington*, 1796. Oil on canvas, 220 × 145 cm. (86 5/8 × 57 1/16 in.)."
+    caption: "Joseph Perovani (Italian, 1765–1835), *Portrait of George Washington*, 1796. Oil on canvas, 220 × 145 cm (86 5/8 × 57 1/16 in.)."
     credit: "Image: Real Academia de Bellas Artes de San Fernando de Madrid"
 
   - id: "fig-18-5-a"
     src: "figures/fig-18-5-a.jpg"
     zoom: true
     label: "Figure 18.5a"
-    # caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo Nacional del Prado, on the painting shown in fig. 18.4. (b) Cross-section of glue paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
-    # credit: "Images: a: Archivo del Museo Nacional del Prado; b and c: Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
+    caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
+    credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
@@ -879,7 +879,7 @@ figure_list:
     src: "figures/fig-18-6.jpg"
     zoom: true
     label: "Figure 18.6"
-    caption: "Participants in the Applications of Traditional and Modern Lining Methods Workshop, June 2019, at the Faculty of Fine Arts at the Complutense University of Madrid."
+    caption: "Participants in the Applications of Traditional and Modern Lining Methods workshop, June 2019, at the Faculty of Fine Arts at the Complutense University of Madrid."
     credit: "Image: Julia Betancor"
 
   - id: "fig-19-1"
