@@ -701,49 +701,49 @@ figure_list:
     src: "figures/fig-15-1.png"
     zoom: true
     label: "Figure 15.1"
-    caption: "Cross section at 5X magnification of a 1930s British trade union banner: silk painted on both sides with size, oil paint, and silver leaf. University of Glasgow."
+    caption: "Cross section at 5× magnification of a 1930s British trade union banner: silk painted on both sides with size, oil paint, and silver leaf. University of Glasgow."
     credit: "Image: Christina Young"
 
   - id: "fig-15-2"
     src: "figures/fig-15-2.png"
     zoom: true
     label: "Figure 15.2"
-    caption: "Measured weft strain distribution in one quadrant of a 30 c<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
+    caption: "Measured weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-3"
     src: "figures/fig-15-3.png"
     zoom: true
     label: "Figure 15.3"
-    caption: "Modeled weft strain distribution in one quadrant of a 30 c<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
+    caption: "Modeled weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.png"
     zoom: true
     label: "Figure 15.4"
-    caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 c<sup>2</sup> central region of a 30 c<sup>2</sup> canvas)."
+    caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-5"
     src: "figures/fig-15-5.png"
     zoom: true
     label: "Figure 15.5"
-    caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 c<sup>2</sup> central region of a 30 c<sup>2</sup> canvas)."
+    caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-6"
     src: "figures/fig-15-6.png"
     zoom: true
     label: "Figure 15.6"
-    caption: "Change in tension with 70% RH Inversion for a nineteenth-century primed loose-lining."
+    caption: "Change in tension with 70% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
 
   - id: "fig-15-7"
     src: "figures/fig-15-7.png"
     zoom: true
     label: "Figure 15.7"
-    caption: "Change in tension with 65% RH Inversion for a nineteenth-century primed loose-lining."
+    caption: "Change in tension with 65% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
 
   - id: "fig-16-1"
