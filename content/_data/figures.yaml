@@ -830,19 +830,19 @@ figure_list:
   - id: "fig-18-2-a"
     src: "figures/fig-18-2-a.jpg"
     zoom: true
-    label: "(a)"
+    label: "Figure 18.2a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. (c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, (c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
     zoom: true
-    label: "(b)"
+    label: "Figure 18.2b"
 
   - id: "fig-18-2-c"
     src: "figures/fig-18-2-c.jpg"
     zoom: true
-    label: "(c)"
+    label: "Figure 18.2c"
 
   - id: "table-18-1"
     credit: "Table: Rita Gil"
