@@ -1134,7 +1134,7 @@ figure_list:
     src: "figures/fig-25-1.jpg"
     zoom: true
     label: "Figure 25.1"
-    caption: "Unknown Congolese artist, *Colonie Belge* ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
+    caption: "Unknown Congolese artist, *Colonie Belge*, ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-2"
