@@ -1134,14 +1134,14 @@ figure_list:
     src: "figures/fig-25-1.jpg"
     zoom: true
     label: "Figure 25.1"
-    caption: "*Colonie Belge* (Unknown Congolese Artist), ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
+    caption: "Unknown Congolese artist, *Colonie Belge* ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-2"
     src: "figures/fig-25-2.jpg"
     zoom: true
     label: "Figure 25.2"
-    caption: "Reverse of a late twentieth-century painting. Paint on canvas, 70 × 50 cm (27 1/2 × 19 5/8 in.). Described as “African; found in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
+    caption: "Reverse of a late 20th-century painting. Paint on canvas, 70 × 50 cm (27 1/2 × 19 5/8 in.). Described as “African; found in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-3"
@@ -1162,21 +1162,21 @@ figure_list:
     src: "figures/fig-25-5.jpg"
     zoom: true
     label: "Figure 25.5"
-    caption: "Emman, *Mami Wata*: reverse, showing the transparent lining."
+    caption: "Emman, *Mami Wata*, reverse, showing the transparent lining."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-6"
     src: "figures/fig-25-6.jpg"
     zoom: true
     label: "Figure 25.6"
-    caption: "Emman, *Mami Wata*: the transparent lining/canvas."
+    caption: "Emman, *Mami Wata*, the transparent lining/canvas after treatment"
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-25-7"
     src: "figures/fig-25-7.jpg"
     zoom: true
     label: "Figure 25.7"
-    caption: "Emman, *Mami Wata*: face, after treatment."
+    caption: "Emman, *Mami Wata*, face, after treatment."
     credit: "Image: Emilie Desbarax"
 
   - id: "fig-26-1"
