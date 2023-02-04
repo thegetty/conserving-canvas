@@ -1092,21 +1092,21 @@ figure_list:
     src: "figures/fig-24-2.jpg"
     zoom: true
     label: "Figure 24.2"
-    caption: "Raking light images of the painting before (left) and after (right) humidification and tensioning."
+    caption: "Raking-light images of the painting before (left) and after (right) humidification and tensioning."
     credit: "Image: Yale University Art Gallery"
 
   - id: "fig-24-3"
     src: "figures/fig-24-3.jpg"
     zoom: true
     label: "Figure 24.3"
-    caption: "Cardboard templates were used to ensure the attached looming strips established a radial line of tension."
+    caption: "Cardboard templates, used to ensure that the attached looming strips established a radial line of tension."
     credit: "Image: Cynthia Schwarz"
 
   - id: "fig-24-4"
     src: "figures/fig-24-4.jpg"
     zoom: true
     label: "Figure 24.4"
-    caption: "Humidification treatments were performed upright, using polycarbonate platforms as a flat surface and a variety of magnets as weights."
+    caption: "The painting during upright humidification treatment, using polycarbonate platforms as a flat surface and a variety of magnets as weights."
     credit: "Image: Cynthia Schwarz"
 
   - id: "fig-24-5"
@@ -1120,7 +1120,7 @@ figure_list:
     src: "figures/fig-24-6.jpg"
     zoom: true
     label: "Figure 24.6"
-    caption: "In order to cut uniform edge lining strips, a CNC unit was employed to cut a template from acrylic sheet. The template was then traced onto the fabric, ensuring that the Trevira warp direction was always oriented radially from the center of the painting to the center of the middle tab."
+    caption: "Uniform edge-lining strips cut based on a template created from acrylic sheet using a CNC unit. The template was then traced onto the fabric, ensuring that the Trevira warp direction was always oriented radially from the center of the painting to the center of the middle tab."
     credit: "Image: Kelsey Wingel"
 
   - id: "fig-24-7"
