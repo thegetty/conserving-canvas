@@ -994,42 +994,42 @@ figure_list:
     src: "figures/fig-22-2.jpg"
     zoom: true
     label: "Figure 22.2"
-    caption: "Gentileschi, *Self-Portrait* before treatment. Detail of the seam—likely sewn by the artist."
+    caption: "Gentileschi, *Self-Portrait*, before treatment. Detail of the seam, likely sewn by the artist."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-3"
     src: "figures/fig-22-3.jpg"
     zoom: true
     label: "Figure 22.3"
-    caption: "Gentileschi, *Self-Portrait* during treatment. The painting was faced with a piece of Eltoline tissue brushed over with the cold wax-resin facing mixture."
+    caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was faced with a piece of Eltoline tissue brushed over with the cold wax-resin facing mixture."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-4"
     src: "figures/fig-22-4.jpg"
     zoom: true
     label: "Figure 22.4"
-    caption: "Gentileschi, *Self-Portrait* during treatment. The painting was treated with moisture using the studio’s low-pressure suction table and additional pressure applied locally using a heated spatula."
+    caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was treated with moisture using the studio’s low-pressure suction table and additional pressure applied locally using a heated spatula."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-5"
     src: "figures/fig-22-5.jpg"
     zoom: true
     label: "Figure 22.5"
-    caption: "Gentileschi, *Self-Portrait* during treatment. Applying glue paste to the back of the painting."
+    caption: "Gentileschi, *Self-Portrait*, during treatment. Applying glue paste to the back of the painting."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-6"
     src: "figures/fig-22-6.jpg"
     zoom: true
     label: "Figure 22.6"
-    caption: "Gentileschi, *Self-Portrait* during treatment. The painting was ironed for a second time using the handheld iron set at 50°C–55°C."
+    caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was ironed for a second time using the hand-held iron set at 50°C–55°C."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-22-7"
     src: "figures/fig-22-7.jpg"
     zoom: true
     label: "Figure 22.7"
-    caption: "Gentileschi, *Self-Portrait* after treatment."
+    caption: "Gentileschi, *Self-Portrait*, after treatment."
     credit: "Image: The National Gallery, London"
 
   - id: "fig-23-1"
