@@ -900,28 +900,28 @@ figure_list:
     src: "figures/fig-19-3.jpg"
     zoom: true
     label: "Figure 19.3"
-    caption: "Measurement of the free-hanging dimensional response due to changes in relative humidity. A scale was photographed on 35 mm high-contrast film and attached to glass slides adhered to the end of each sample. The scales slid past the reference edge of a metal strip bolted to the rack."
+    caption: "Measurement of the free-hanging dimensional response due to changes in RH. A scale was photographed on 35 mm high-contrast film and attached to glass slides adhered to the end of each sample. The scales slid past the reference edge of a metal strip bolted to the rack."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-19-4"
     src: "figures/fig-19-4.png"
     zoom: true
     label: "Figure 19.4"
-    caption: "Results of peel tests by Élisabeth Forest (Centre de Conservation du Québec). Due to the unevenness of the hot table, Beva 371b samples were always lined at a temperature 1°C higher than Beva original samples. The red lines show an acceptable range in bond strength."
+    caption: "Results of peel tests by Élisabeth Forest (Centre de Conservation du Québec). Due to the unevenness of the hot table, Beva 371b samples were always lined at a temperature 1°C higher than Beva original samples. The red lines at top show an acceptable range in bond strength."
     credit: "Image: © Élisabeth Forest, Centre de Conservation du Québec, Ministère de la Culture et des Communications"
 
   - id: "fig-19-5"
     src: "figures/fig-19-5.png"
     zoom: true
     label: "Figure 19.5"
-    caption: "Master curves of selected lined paintings, compared to an unlined painting, at 50% RH, shown for various time periods at room temperature (lower scale) and at a cold temperature (upper scale). By the time of these measurements, the oil painting was twenty years old, and the linings were eighteen years old. These master curves help us understand which layer is carrying the tension over long periods of time and during short events like a shock (from 1 millisecond to 100 years), and in cold and hot environments."
+    caption: "Master curves of selected lined paintings, compared to an unlined painting, at 50% RH, shown for various time periods at room temperature (lower scale) and at a cold temperature (upper scale). By the time of these measurements, the oil painting was twenty years old and the linings were eighteen years old. These master curves help us understand which layer is carrying the tension over long periods of time and during short events like a shock (from 1 millisecond to 100 years), and in cold and hot environments."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-19-6"
     src: "figures/fig-19-6.png"
     zoom: true
     label: "Figure 19.6"
-    caption: "The relative contribution of linen + wax and sailcloth + Beva linings to the tension in a lined oil painting. Calculated by subtracting the painting tension from the lined-painting tension shown in fig. 19.5."
+    caption: "The relative contribution of linen + wax and sailcloth + Beva linings to the tension in a lined oil painting. Calculated by subtracting the painting tension from the lined painting tension shown in fig. 19.5."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-20-1"
