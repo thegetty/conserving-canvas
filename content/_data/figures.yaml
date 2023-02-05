@@ -1280,7 +1280,7 @@ figure_list:
     src: "figures/fig-28-2.jpg"
     zoom: true
     label: "Figure 28.2"
-    caption: "Removing a dried methylcellulose mesh from a laser-cut silicone mold."
+    caption: "Removing a dried methyl cellulose mesh from a laser-cut silicone mold."
     credit: "Image: Mona Konietzny"
 
   - id: "fig-28-3"
@@ -1294,7 +1294,7 @@ figure_list:
     src: "figures/fig-28-4.jpg"
     zoom: true
     label: "Figure 28.4"
-    caption: "Preparation for strip lining: placing a methylcellulose mesh (Benecel A4C) on nonwoven polyester strips."
+    caption: "Preparation for strip-lining: placing a methyl cellulose mesh (Benecel A4C) on nonwoven polyester strips."
     credit: "Image: Jonathan Debik"
 
   - id: "fig-28-5"
@@ -1308,7 +1308,7 @@ figure_list:
     src: "figures/fig-28-6.jpg"
     zoom: true
     label: "Figure 28.6"
-    caption: "Inserting a methylcellulose mesh (Methocel A15LV) between detached canvas layers."
+    caption: "Inserting a methyl cellulose mesh (Methocel A15LV) between detached canvas layers."
     credit: "Image: Mona Konietzny"
 
   - id: "fig-28-7"
