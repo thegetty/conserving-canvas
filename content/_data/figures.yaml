@@ -1381,28 +1381,28 @@ figure_list:
     src: "figures/fig-30-1.jpg"
     zoom: true
     label: "Figure 30.1"
-    caption: "Heiber demonstrating his tear-mending technique at a 2004 workshop at the J. Paul Getty Museum."
+    caption: "Heiber (right, at microscope) demonstrating his tear-mending technique at a 2004 workshop at the J. Paul Getty Museum."
     credit: "Image: Robert Proctor"
 
   - id: "fig-30-2"
     src: "figures/fig-30-2.png"
     zoom: true
     label: "Figure 30.2"
-    caption: "Modification of Heiber’s work stretcher attachment to maintain tacking margins without flattening: diagram illustrating the process of modification (a) and detail of a painting attached to a work stretcher using this modified method (b)."
+    caption: "Modification of Heiber’s work stretcher attachment to maintain tacking margins without flattening. (a) Diagram illustrating the process of modification. (b) Detail of a painting attached to a work stretcher using this modified method. Since the tension is equilibrial, the tacking margins will remain at a right angle (see figs. 30.2 [a] and 30.3 [b])."
     credit: "Image: Robert Proctor"
 
   - id: "fig-30-3"
     src: "figures/fig-30-3.jpg"
     zoom: true
     label: "Figure 30.3"
-    caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Example of a painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Example of a painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. (c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
+    caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. A stretcher can be assembled to "hug" the three unaffected sides—either clamped together or held with mending plates (see b). (c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
     credit: "Image: Robert Proctor"
 
   - id: "fig-30-4"
     src: "figures/fig-30-4.jpg"
     zoom: true
     label: "Figure 30.4"
-    caption: "The author using a spoon and light bulb to employ the modified burnt finger technique."
+    caption: "The author using a spoon and light bulb (inset) to employ the modified burnt finger technique."
     credit: "Image: Renate Poggendorf"
 
   - id: "fig-30-5"
@@ -1423,21 +1423,21 @@ figure_list:
     src: "figures/fig-30-7.jpg"
     zoom: true
     label: "Figure 30.7"
-    caption: "Various views of suction platen designed by the author. The platen can attach to a tripod like that on the right for ease of placement and alignment on the reverse of the canvas."
+    caption: "Various views of suction platen designed by the author. The platen can attach to a tripod like the one shown at right for ease of placement and alignment on the reverse of the canvas."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
 
   - id: "fig-30-8"
     src: "figures/fig-30-8.png"
     zoom: true
     label: "Figure 30.8"
-    caption: "(a) Example of a setup using aluminum edging on the stretcher and minimal floss/thread attachments to close the gap in an existing tear on this canvas. Note the mending plate (circled in red) used to anchor to the crossbar of the stretcher when only one thread was required for tensioning. (b) Mock-up of possible tensioning mechanisms of screws and pushpins with clamped attachment to stretcher."
+    caption: "(a) Example of a setup using aluminum edging on a stretcher and minimal floss/thread attachments to close the gap in an existing tear on a canvas. Note the mending plate (circled in red) used to anchor to the crossbar of the stretcher when only one thread was required for tensioning. (b) Mock-up of possible tensioning mechanisms of screws and pushpins with clamped attachment to stretcher."
     credit: "Image: Robert Proctor"
 
   - id: "fig-30-9"
     src: "figures/fig-30-9.jpg"
     zoom: true
     label: "Figure 30.9"
-    caption: "Before-treatment details of a complex tear; the condition is as the painting arrived in the studio: Partial image of the reverse showing the relative size and location of the tear. Inset details of the front and reverse of the tear."
+    caption: "Before-treatment details of a complex tear; the condition is as the painting arrived in the studio. Partial image of the reverse showing the relative size and location of the tear. Inset details the front and reverse of the tear."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
 
   - id: "fig-30-10"
