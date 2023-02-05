@@ -1183,43 +1183,43 @@ figure_list:
     src: "figures/fig-26-1.jpg"
     zoom: true
     label: "Figure 26.1"
-    caption: "Interior of the church of Saint Francis of Assisi Atizapan with the Apostolate series hanging on the walls."
-    credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    caption: "Interior of the Church of Saint Francis of Assisi Atizapan with four of the Apostolate series flanking the altar."
+    credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-2"
     src: "figures/fig-26-2.jpg"
     zoom: true
     label: "Figure 26.2"
     caption: "*Saint Simon* painting with part of the Apostles’ Creed in the lower right corner."
-    credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-3"
     src: "figures/fig-26-3.jpg"
     zoom: true
     label: "Figure 26.3"
     caption: "Canvas and strainer of the *Saint Simon* painting."
-    credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-4"
     src: "figures/fig-26-4.jpg"
     zoom: true
     label: "Figure 26.4"
-    caption: "*Saint Paul* painting: 12 × 11 threads/c<sup>2</sup>."
-    credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    caption: "*Saint Simon* painting with fabric formed by 12 × 11 threads/c<sup>2</sup>."
+    credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-5"
     src: "figures/fig-26-5.jpg"
     zoom: true
     label: "Figure 26.5"
-    caption: "*Saint Simon* canvas: ferro-gallic ink marks and patterns of perforations."
-    credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    caption: "*Saint Simon* canvas showing ferro-gallic ink marks and patterns of perforations."
+    credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-6-a"
     src: "figures/fig-26-6-a.jpg"
     zoom: true
     label: "Figure 26.6a"
-    # caption: "*Saint Matthew* painting: canvas with iron gall ink marks: (a) before treatment, (b) after treatment."
-    # credit: "Image: Claudia Garza / Archdiocese of Ttalnepantla"
+    # caption: "*Saint Matthew* painting: canvas with iron gall ink marks. (a) Before treatment. (b) After treatment."
+    # credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-6-b"
     src: "figures/fig-26-6-b.jpg"
@@ -1230,7 +1230,7 @@ figure_list:
     src: "figures/fig-27-1.png"
     zoom: true
     label: "Figure 27.1"
-    caption: "The three nanocellulose-based treatments developed and tested for canvas consolidation: pure nanocellulose dispersions (from Chalmers University of Technology - Gothenburg, Sweden), CNC nanocomposites (from Zentrum fur Bucherhaltung (ZFB) – Leipzig, Germany), and multilayered nanoparticles (from Chalmers University of Technology – Gothenburg, Sweden, and CSGI – Florence, Italy)."
+    caption: "The three nanocellulose-based treatments developed and tested for canvas consolidation: pure nanocellulose dispersions (from Chalmers University of Technology, Gothenburg, Sweden), CNC nanocomposites (from Zentrum fur Bucherhaltung (ZFB), Leipzig, Germany), and multilayered nanoparticles (from Chalmers University of Technology, Gothenburg, Sweden, and CSGI, Florence, Italy)."
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-1"
@@ -1261,7 +1261,7 @@ figure_list:
     src: "figures/fig-27-4.png"
     zoom: true
     label: "Figure 27.4"
-    caption: "Percentage increase in storage modulus (E') measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
+    caption: "Percentage increase in storage modulus (*E'*) measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-3"
