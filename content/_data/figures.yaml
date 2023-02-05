@@ -1339,28 +1339,28 @@ figure_list:
     src: "figures/fig-29-2.png"
     zoom: true
     label: "Figure 29.2"
-    caption: "Maximum tensile forces (F<sub>max</sub> N) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
+    caption: "Maximum tensile forces (Fmax [N]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-3"
     src: "figures/fig-29-3.png"
     zoom: true
     label: "Figure 29.3"
-    caption: "Coefficients of variation (CV of F<sub>max</sub> %) of uniaxially tested canvas strips with bonds. BJ: butt joints, BJ + BR: butt joints with bridging threads, OV: simple overlap joints, OV + IN: overlap joints with intermingled fibers of the thread ends."
+    caption: "Coefficients of variation (CV of Fmax [%]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-4"
     src: "figures/fig-29-4.png"
     zoom: true
     label: "Figure 29.4"
-    caption: "Butt joints with different adhesives: F<sub>max</sub> (N) of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
+    caption: "Butt joints with different adhesives: F<sub>max</sub> N of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-5"
     src: "figures/fig-29-5.png"
     zoom: true
     label: "Figure 29.5"
-    caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> (N) of uniaxially tested canvas strips with bonds."
+    caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> [N] of uniaxially tested canvas strips with bonds."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-6"
@@ -1374,7 +1374,7 @@ figure_list:
     src: "figures/fig-29-7.jpg"
     zoom: true
     label: "Figure 29.7"
-    caption: "Working under the microscope with the Consolidation Pen Winnie."
+    caption: "Working under a microscope using the Consolidation Pen Winnie."
     credit: "Image: Petra Demuth, 2019"
 
   - id: "fig-30-1"
