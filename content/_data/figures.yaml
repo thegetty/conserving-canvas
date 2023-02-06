@@ -1671,7 +1671,7 @@ figure_list:
     src: "figures/fig-35-1.jpg"
     zoom: true
     label: "Figure 35.1"
-    caption: "Anne-Louis Girodet Trioson (French, 1767–1824), *The Death of Camille*, 1785. Oil on canvas, 113 × 146 cm (44 1/2 × 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
+    caption: "Anne-Louis Girodet-Trioson (French, 1767–1824), *The Death of Camille*, 1785. Oil on canvas, 113 × 146 cm (44 1/2 × 57 1/2 in.). Inv. 874.10. Conserved by D. Cherron and A. C. Hauduroy for structural treatments, and by C. Pasquali, A. Aurand, J. B. Bodiguel, N. Rinaldi, and D. Sorrentini for paint-layer interventions."
     credit: "Image: C2RMF, J. Requilé"
 
   - id: "fig-35-2"
@@ -1685,7 +1685,7 @@ figure_list:
     src: "figures/fig-35-3.jpg"
     zoom: true
     label: "Figure 35.3"
-    caption: "Francisco de Zurbarán (Spanish, 1598–1664), *Saint Jerome in the Desert*, seventeenth century. Oil on canvas, 174.5 × 123.2 cm (68 3/4 × 48 1/2 in.). Inv. 874.19. Raking light photograph taken after local consolidation with sturgeon glue and removal of the temporary paper facing placed during the emergency operations. Note the flaking of paint from the tented areas."
+    caption: "Francisco de Zurbarán (Spanish, 1598–1664), *Saint Jerome in the Desert*, 17th century. Oil on canvas, 174.5 × 123.2 cm (68 3/4 × 48 1/2 in.). Inv. 874.19. Raking-light photograph taken after local consolidation with sturgeon glue and removal of the temporary paper facing placed during the emergency operations. Note the flaking of paint from the tented areas."
     credit: "Image: C2RMF, P. Salinson"
 
   - id: "table-35-2"
@@ -1702,14 +1702,14 @@ figure_list:
     src: "figures/fig-35-4.jpg"
     zoom: true
     label: "Figure 35.4"
-    caption: "Follower of Maertens De Vos (Flemish, 1532–1603), *The Sacrifice of Abraham*, sixteenth century. Oil on canvas (originally oil on panel), 82 × 113 cm (32 1/3 × 44 1/2 in.). Inv. 874.40. Detail, after disaster. The raking light highlights the numerous tented areas across the entire painting."
+    caption: "Follower of Maertens De Vos (Flemish, 1532–1603), *The Sacrifice of Abraham*, 16th century. Oil on canvas (originally oil on panel), 82 × 113 cm (32 1/3 × 44 1/2 in.). Inv. 874.40. Detail, after disaster. The raking light highlights the numerous tented areas across the entire painting."
     credit: "Image: Ludovic Roudet"
 
   - id: "fig-35-5"
     src: "figures/fig-35-5.png"
     zoom: true
     label: "Figure 35.5"
-    caption: "The stratigraphy of the transferred painting: (1) paint layer, (2) chalk ground layer, (3) polyvinyl acetate, (4) cotton gauzes, (5) glue paste, and (6) transfer canvas. It also shows the damage the painting suffered from the disaster: (7) tenting, (8) surface powdering of the ground layer, and (9) air pockets."
+    caption: "Stratigraphy of the transferred painting: (1) paint layer, (2) chalk ground layer, (3) polyvinyl acetate, (4) cotton gauzes, (5) glue paste, and (6) transfer canvas. Also shown is the damage the painting suffered from the disaster: (7) tenting, (8) surface powdering of the ground layer, and (9) air pockets."
     credit: "Image: Ludovic Roudet"
 
   - id: "fig-35-6"
@@ -1744,14 +1744,14 @@ figure_list:
     src: "figures/fig-36-3.jpg"
     zoom: true
     label: "Figure 36.3"
-    caption: "The temporary lab where we undertook the conservation work."
+    caption: "The temporary lab where the conservation work took place."
     credit: "Image: IGNCA, New Delhi / Anil Dwivedi"
 
   - id: "fig-36-4"
     src: "figures/fig-36-4.jpg"
     zoom: true
     label: "Figure 36.4"
-    caption: "History of patches. Material used was typically cotton, but in some cases paper or electrical tape was employed."
+    caption: "Verso showing a history of patches. Material used was typically cotton, but in some cases paper or electrical tape was employed."
     credit: "Image: IGNCA, New Delhi / Jitender Kumar Chauhan"
 
   - id: "fig-36-5"
@@ -1765,28 +1765,28 @@ figure_list:
     src: "figures/fig-36-6.jpg"
     zoom: true
     label: "Figure 36.6"
-    caption: "Lining of paintings using vacuum envelope."
+    caption: "Equipment setup for the lining of paintings using vacuum envelope."
     credit: "Image: IGNCA, New Delhi / Achal Pandya"
 
   - id: "fig-36-7"
     src: "figures/fig-36-7.jpg"
     zoom: true
     label: "Figure 36.7"
-    caption: "Varnish removal."
+    caption: "Area showing varnish removel using acetone and isopropyl alcohol."
     credit: "Image: IGNCA, New Delhi / Jitender Kumar Chauhan"
 
   - id: "fig-36-8"
     src: "figures/fig-36-8.jpg"
     zoom: true
     label: "Figure 36.8"
-    caption: "Consolidation of paint."
+    caption: "Consolidation of paint using a hot spatula."
     credit: "Image: IGNCA, New Delhi / Achal Pandya"
 
   - id: "fig-36-9"
     src: "figures/fig-36-9.jpg"
     zoom: true
     label: "Figure 36.9"
-    caption: "Paintings displayed in Government Museum Alwar after the conservation."
+    caption: "Paintings displayed in the Government Museum Alwar after the conservation."
     credit: "Image: IGNCA, New Delhi / Achal Pandya"
 
   - id: "fig-37-1"
@@ -1800,28 +1800,28 @@ figure_list:
     src: "figures/fig-37-2.jpg"
     zoom: true
     label: "Figure 37.2"
-    caption: "IMAT system with flexible heating mat (1), thermal sensor (2), wireless Bluetooth thermocouple relay (3), touch-control screen (4), connecting cables (5, 6), temperature control console (7), and power input (8)."
+    caption: "(1) IMAT system with flexible heating mat, (2) thermal sensor, (3) wireless Bluetooth thermocouple relay, (4) touch-control screen, (5, 6) connecting cables, (7) temperature control console, and (8) power input."
     credit: "Image: The IMAT Project"
 
   - id: "fig-37-3"
     src: "figures/fig-37-3.jpg"
     zoom: true
     label: "Figure 37.3"
-    caption: "IMAT technology touch-control screen of showing the extremely steady heating pattern of the PID temperature controller and high-response carbon nanotube heating mats (compare to fig. 37.1)."
+    caption: "IMAT technology touch-control screen showing the extremely steady heating pattern of the PID temperature controller and high-response carbon nanotube heating mats (compare to fig. 37.1)."
     credit: "Image: The IMAT Project"
 
   - id: "fig-37-4"
     src: "figures/fig-37-4.jpg"
     zoom: true
     label: "Figure 37.4"
-    caption: "Localized low and slow heat transfer treatment at 30°C for consolidation and remediation of cupping and planar distortions."
+    caption: "Localized low-and-slow heat transfer treatment of the painting at 30°C for consolidation and remediation of cupping and planar distortions."
     credit: "Image: Oregon Historical Society Museum"
 
   - id: "fig-37-5"
     src: "figures/fig-37-5.jpg"
     zoom: true
     label: "Figure 37.5"
-    caption: "Subsequent general treatment of painting using a low-pressure vacuum envelope and mild heat transfer while supported with a custom platform to protect fragile tacking edges."
+    caption: "Subsequent general treatment of the painting using a low-pressure vacuum envelope and mild heat transfer while supported by a custom platform to protect fragile tacking edges."
     credit: "Image: Oregon Historical Society Museum"
 
   - id: "fig-37-6"
@@ -1835,7 +1835,7 @@ figure_list:
     src: "figures/fig-37-7.jpg"
     zoom: true
     label: "Figure 37.7"
-    caption: "Relining treatment using low-pressure envelope and IMAT heating mat to achieve the thermoplastic activation temperature of Beva adhesive section by section."
+    caption: "Relining treatment of the painting using a low-pressure envelope and IMAT heating mat to achieve the thermoplastic activation temperature of Beva adhesive section by section."
     credit: "Image: Nasjonalmuseet Oslo"
 
   - id: "fig-38-1"
