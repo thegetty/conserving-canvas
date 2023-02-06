@@ -1599,7 +1599,7 @@ figure_list:
     zoom: true
     label: "Figure 34.1a"
     # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 × 187.5 cm (96 × 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
-    # credit: "Image: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    # credit: "Images: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-1-b"
     src: "figures/fig-34-1-b.jpg"
@@ -1610,57 +1610,57 @@ figure_list:
     src: "figures/fig-34-2.jpg"
     zoom: true
     label: "Figure 34.2"
-    caption: "A. Pozzo (Italian 1642–1709), *Glory of Saint Ignatius*, sketch for the ceiling of Saint Ignazio in Rome, seventeenth century, 324.5 × 171.5 cm (127 3/4 × 67 1/2 in.). Lined in 1884."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    caption: "A. Pozzo (Italian, 1642–1709), *Glory of Saint Ignatius*, sketch for the ceiling of Saint Ignazio in Rome, 17th century, 324.5 × 171.5 cm (127 3/4 × 67 1/2 in.). Lined in 1884."
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-3"
     src: "figures/fig-34-3.jpg"
     zoom: true
     label: "Figure 34.3"
-    caption: "G. Reni (Italian, 1575–1642), *Magdalen*, 1631–1632. Oil on canvas, 234 × 151 cm (92 1/8 × 59 1/2 in.). Never lined but has an ancient strip-lining."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
+    caption: "Guido Reni (Italian, 1575–1642), *Magdalen*, 1631–32. Oil on canvas, 234 × 151 cm (92 1/8 × 59 1/2 in.). Never lined but has an ancient strip-lining."
+    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-4"
     src: "figures/fig-34-4.jpg"
     zoom: true
     label: "Figure 34.4"
-    caption: "B. Cesari (Italian, 1571–1622), *Adoration of the Shepherds*, 1610–1615. Oil on canvas, 44 × 55 cm (17 3/4 × 21 3/5 in.). Notice the sprigs used to stretch the lining canvas visible under the painted canvas edges."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
+    caption: "B. Cesari (Italian, 1571–1622), *Adoration of the Shepherds*, 1610–15. Oil on canvas, 44 × 55 cm (17 3/4 × 21 3/5 in.). The sprigs used to stretch the lining canvas are visible under the painted canvas edges."
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-5"
     src: "figures/fig-34-5.jpg"
     zoom: true
     label: "Figure 34.5"
-    caption: "*Adoration of the Shepherds*, verso, showing a lining dating from the eighteenth century attributed to D. Michelini."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
+    caption: "*Adoration of the Shepherds*, verso, showing a lining dating from the 18th century attributed to D. Michelini."
+    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-6"
     src: "figures/fig-34-6.jpg"
     zoom: true
     label: "Figure 34.6"
-    caption: "Bolognese School, *Herodias*, seventeenth century. Oil on canvas, 64 × 49.5 cm (25 1/5 × 19 1/2 in.). The lining can be dated from the visible seal."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Alberto Novelli"
+    caption: "Bolognese School, *Herodias*, 17th century. Oil on canvas, 64 × 49.5 cm (25 1/5 × 19 1/2 in.). The lining can be dated from the visible seal."
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-7"
     src: "figures/fig-34-7.jpg"
     zoom: true
     label: "Figure 34.7"
-    caption: "M. Benefial (Italian, 1684–1764), *Hercules and Omphale*, 1735–1740. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the wax-resin system."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    caption: "M. Benefial (Italian, 1684–1764), *Hercules and Omphale*, 1735–40. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the wax-resin system."
+    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-8"
     src: "figures/fig-34-8.jpg"
     zoom: true
     label: "Figure 34.8"
-    caption: "M. Benefial (Italian, 1684–1764), *Pyramus and Thisbe*, 1735–1740. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the glue-paste system."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    caption: "M. Benefial (Italian, 1684–1764), *Pyramus and Thisbe*, 1735–40. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the glue-paste system."
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-9"
     src: "figures/fig-34-9.jpg"
     zoom: true
     label: "Figure 34.9"
-    caption: "A. Sacchi (Italian, 1599–1661), *Vision of Saint Romualdo*, seventeenth century. Oil on canvas, 68 × 44 cm (26 3/4 × 17 3/4 in.). Delined."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)-Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    caption: "A. Sacchi (Italian, 1599–1661), *Vision of Saint Romualdo*, 17th century. Oil on canvas, 68 × 44 cm (26 3/4 × 17 3/4 in.). Delined."
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
     credit: "Table: Dominique Martos-Levif"
