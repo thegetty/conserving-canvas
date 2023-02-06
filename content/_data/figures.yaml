@@ -1924,7 +1924,7 @@ figure_list:
     src: "figures/fig-40-1.png"
     zoom: true
     label: "Figure 40.1"
-    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size or the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. (R) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
+    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size or the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. &#40;r) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-2"
