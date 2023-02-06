@@ -1508,42 +1508,42 @@ figure_list:
     zoom: true
     label: "Figure 32.1"
     caption: "Distribution of the origin (blue bars) and acquisition (pink and yellow bars) of canvas paintings over time."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-2"
     src: "figures/fig-32-2.png"
     zoom: true
     label: "Figure 32.2"
     caption: "Distribution of the age of canvas paintings at the time of acquisition."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-3"
     src: "figures/fig-32-3.png"
     zoom: true
     label: "Figure 32.3"
-    caption: "(a) Support materials used in the two collections’ paintings. (b) Type of documentation in existence for canvas paintings (b)."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    caption: "(a) Distribution of support materials used in the paintings in the two collections. (b) Types of documentation in existence for canvas paintings."
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-4"
     src: "figures/fig-32-4.png"
     zoom: true
     label: "Figure 32.4"
-    caption: "Type of information recorded about the interventions carried out on canvas paintings."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    caption: "Types of information recorded about the interventions carried out on canvas paintings."
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-5"
     src: "figures/fig-32-5.png"
     zoom: true
     label: "Figure 32.5"
-    caption: "Type of interventions documented."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    caption: "Types of interventions documented."
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-6"
     src: "figures/fig-32-6.png"
     zoom: true
     label: "Figure 32.6"
     caption: "Distribution of interventions over time."
-    credit: "Image: Renate Poggendorf, Doerner Institut, Bayer, Staatsgemäldesammlungen"
+    credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-33-1"
     src: "figures/fig-33-1.jpg"
