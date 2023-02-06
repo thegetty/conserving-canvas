@@ -1493,7 +1493,7 @@ figure_list:
     src: "figures/fig-31-6.jpg"
     zoom: true
     label: "Figure 31.6"
-    caption: "Detail of tear in case study 4 before treatment indicating the three distinct sections of the tear."
+    caption: "Detail of tear in case study 4 before treatment, indicating the three distinct sections of the tear."
     credit: "Image: Amann + Estabrook Conservation Associates"
 
   - id: "fig-31-7"
