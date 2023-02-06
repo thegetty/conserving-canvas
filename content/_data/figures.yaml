@@ -1842,7 +1842,7 @@ figure_list:
     src: "figures/fig-38-1.jpg"
     zoom: true
     label: "Figure 38.1"
-    caption: "Detail of a 1959 minimalist oil painting lined with Beva. Note the delamination of both the cracks for which it was originally treated, as well as bubbles caused by local adhesive failure. Photographed in 2013."
+    caption: "Detail of a 1959 Minimalist oil painting lined with Beva. Note the delamination of the cracks for which it was originally treated, as well as bubbles caused by local adhesive failure. Photographed in 2013."
     credit: "Image: Mary H. Gridley"
 
   - id: "fig-38-2"
