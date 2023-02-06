@@ -88,7 +88,7 @@ figure_list:
     src: "figures/fig-2-3.png"
     zoom: true
     label: "Figure 2.3"
-    caption: "Stress-relaxation test performed on a nine-year-old sample of Winsor & Newton Foundation White: (a) strain history, (b) stress-strain curve, (c) stress relaxation on a linear scale, (d) stress relaxation on a logarithmic scale. The red lines show a repeat test on the same sample after unloading and a twenty-four-hour recovery period."
+    caption: "Stress-relaxation test performed on a nine-year-old sample of Winsor & Newton Foundation White: (a) strain history, (b) stress-strain curve, &#40;c) stress relaxation on a linear scale, (d) stress relaxation on a logarithmic scale. The red lines show a repeat test on the same sample after unloading and a twenty-four-hour recovery period."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-4"
@@ -102,7 +102,7 @@ figure_list:
     src: "figures/fig-2-5.png"
     zoom: true
     label: "Figure 2.5"
-    caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. (c) Experimental shift factor values recorded versus temperature."
+    caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
     Credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-6"
@@ -831,8 +831,8 @@ figure_list:
     src: "figures/fig-18-2-a.jpg"
     zoom: true
     label: "Figure 18.2a"
-     # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. (c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
-     # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, (c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
+     # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
+     # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
@@ -886,7 +886,7 @@ figure_list:
     src: "figures/fig-19-1.png"
     zoom: true
     label: "Figure 19.1"
-    caption: "(a) If the lining is much less stiff than any of the painting’s layers, the laminate cups at cracks in the painting due to stress alignment. Flaws in the painting are subject to the overall tension in the painting. (b) If the lining is much stiffer than any layer in the painting, stress alignment pulls the laminate flat, and flaws in the painting are not subject to the overall tension. (p) paint, (g) ground, (s) size, (c) canvas, (L) lining."
+    caption: "(a) If the lining is much less stiff than any of the painting’s layers, the laminate cups at cracks in the painting due to stress alignment. Flaws in the painting are subject to the overall tension in the painting. (b) If the lining is much stiffer than any layer in the painting, stress alignment pulls the laminate flat, and flaws in the painting are not subject to the overall tension. (p) paint, (g) ground, (s) size, &#40;c) canvas, (L) lining."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-19-2"
@@ -1395,7 +1395,7 @@ figure_list:
     src: "figures/fig-30-3.jpg"
     zoom: true
     label: "Figure 30.3"
-    caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. A stretcher can be assembled to “hug” the three unaffected sides—either clamped together or held with mending plates (see b). (c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
+    caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. A stretcher can be assembled to “hug” the three unaffected sides—either clamped together or held with mending plates (see b). &#40;c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
     credit: "Image: Robert Proctor"
 
   - id: "fig-30-4"
@@ -1416,7 +1416,7 @@ figure_list:
     src: "figures/fig-30-6.png"
     zoom: true
     label: "Figure 30.6"
-    caption: "Final step in watch glass support setup. (a) Detail of the reptile warming mat over recently consolidated area. (b) Detail under raking light before treatment of an area treated using this method. (c) Detail under raking light of same area after consolidation treatment and relaxation of paint using this watch glass support setup."
+    caption: "Final step in watch glass support setup. (a) Detail of the reptile warming mat over recently consolidated area. (b) Detail under raking light before treatment of an area treated using this method. &#40;c) Detail under raking light of same area after consolidation treatment and relaxation of paint using this watch glass support setup."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
 
   - id: "fig-30-7"
@@ -1444,7 +1444,7 @@ figure_list:
     src: "figures/fig-30-10.jpg"
     zoom: true
     label: "Figure 30.10"
-    caption: "Details at the tear site after retensioning showing the progression of filling and stabilization. (a) Front before filling. (b) Front after filling. (c) Reverse with fill in voids. (d) Reverse after Stabiltex with Beva has been applied."
+    caption: "Details at the tear site after retensioning showing the progression of filling and stabilization. (a) Front before filling. (b) Front after filling. &#40;c) Reverse with fill in voids. (d) Reverse after Stabiltex with Beva has been applied."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
 
   - id: "fig-30-11"
@@ -1924,14 +1924,14 @@ figure_list:
     src: "figures/fig-40-1.png"
     zoom: true
     label: "Figure 40.1"
-    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size or the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. (R) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, (c) canvas."
+    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size or the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. (R) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-2"
     src: "figures/fig-40-2.png"
     zoom: true
     label: "Figure 40.2"
-    caption: "The three conformations of a locally reinforced crack when under tension. (a) The desired state, when paint and reinforcement are completely inflexible (plate-like). (b) Ridge surfacing, due to stress alignment of a flexible reinforcement (chain-like) with a flexible painting (chain-like). (c) Plateau surfacing, due to stress alignment of a rigid reinforcement (plate-like) with a flexible painting (chain-like). Subscripts: (p) paint; (g) ground; (s) size; (c) canvas; (r) reinforcement."
+    caption: "The three conformations of a locally reinforced crack when under tension. (a) The desired state, when paint and reinforcement are completely inflexible (plate-like). (b) Ridge surfacing, due to stress alignment of a flexible reinforcement (chain-like) with a flexible painting (chain-like). &#40;c) Plateau surfacing, due to stress alignment of a rigid reinforcement (plate-like) with a flexible painting (chain-like). Subscripts: (p) paint; (g) ground; (s) size; &#40;c) canvas; &#40;r) reinforcement."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-3"
@@ -2174,8 +2174,8 @@ figure_list:
     src: "figures/fig-46-1-a.jpg"
     zoom: true
     label: "Figure 46.1a"
-    # caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 × 360 cm (189 × 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ([[De los Rios y Rojas and Socorro 1977]]). (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
-    # credit: "Images: (a and b) [[De los Rios y Rojas and Socorro 1977]], (c) Lab O, (d) Lab O / João Mariano"
+    # caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 × 360 cm (189 × 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft ([[De los Rios y Rojas and Socorro 1977]]). &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # credit: "Images: (a and b) [[De los Rios y Rojas and Socorro 1977]], &#40;c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-1-b"
     src: "figures/fig-46-1-b.jpg"
@@ -2196,7 +2196,7 @@ figure_list:
     src: "figures/fig-46-2-a.jpg"
     zoom: true
     label: "Figure 46.2a"
-    # caption: "Titian (Italian, ca. 1488–1576), *The Vendramin Family*, 1540–1545. Oil on canvas, 206 × 288.5 cm (81 1/8 × 113 5/8 in.). (a) Detail of Gabriel’s left hand before cleaning and after retouching. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Titian (Italian, ca. 1488–1576), *The Vendramin Family*, 1540–1545. Oil on canvas, 206 × 288.5 cm (81 1/8 × 113 5/8 in.). (a) Detail of Gabriel’s left hand before cleaning and after retouching. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) National Gallery London, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-2-b"
@@ -2218,7 +2218,7 @@ figure_list:
     src: "figures/fig-46-3-a.jpg"
     zoom: true
     label: "Figure 46.3a"
-    # caption: "Caravaggio (Italian, 1571–1610), *The Crucifixion of Saint Andrew*, 1606–1607. Oil on canvas, 202.5 × 152.7 cm (79 3/4 × 60 1/8 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Caravaggio (Italian, 1571–1610), *The Crucifixion of Saint Andrew*, 1606–1607. Oil on canvas, 202.5 × 152.7 cm (79 3/4 × 60 1/8 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Cleveland Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-3-b"
@@ -2240,7 +2240,7 @@ figure_list:
     src: "figures/fig-46-4-a.jpg"
     zoom: true
     label: "Figure 46.4a"
-    # caption: "Diego Velázquez (Spanish, 1599–1660), *Supper at Emmaus*, 1622–1623. Oil on canvas, 123.2 × 132.7 cm (48 1/2 × 52 1/4 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Diego Velázquez (Spanish, 1599–1660), *Supper at Emmaus*, 1622–1623. Oil on canvas, 123.2 × 132.7 cm (48 1/2 × 52 1/4 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Metropolitan Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-4-b"
@@ -2262,7 +2262,7 @@ figure_list:
     src: "figures/fig-46-5-a.jpg"
     zoom: true
     label: "Figure 46.5a"
-    # caption: "Diego Velázquez (Spanish, 1599–1660), *Education of the Virgin*, 1617–1618. Oil on canvas, 168 × 136 cm (66 1/8 × 53 1/2 in.). (a) Radiograph. (b) Handmade drawing of the pattern. (c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
+    # caption: "Diego Velázquez (Spanish, 1599–1660), *Education of the Virgin*, 1617–1618. Oil on canvas, 168 × 136 cm (66 1/8 × 53 1/2 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Yale University Art Gallery, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-5-b"
@@ -2352,7 +2352,7 @@ figure_list:
     src: "figures/fig-49-1-a.jpg"
     zoom: true
     label: "Figure 49.1a"
-    # caption: "(a) Initial test areas with Evolon CR tissue and solvent on the verso of a painting following wax lining reversal. (b) Applying 1 mL of solvent to Evolon CR tissue. (c) Removal of Evolon CR after prescribed dwell time."
+    # caption: "(a) Initial test areas with Evolon CR tissue and solvent on the verso of a painting following wax lining reversal. (b) Applying 1 mL of solvent to Evolon CR tissue. &#40;c) Removal of Evolon CR after prescribed dwell time."
     # credit: "Julianna Ly"
 
   - id: "fig-49-1-b"
@@ -2388,7 +2388,7 @@ figure_list:
     src: "figures/fig-49-4-a.jpg"
     zoom: true
     label: "Figure 49.4a"
-    # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, (c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137X by Dr. Judy Rudolph, volunteer conservation scientist, Scientific Research and Analysis lab, Winterthur Museum, Garden, and Library.)"
+    # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, &#40;c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137X by Dr. Judy Rudolph, volunteer conservation scientist, Scientific Research and Analysis lab, Winterthur Museum, Garden, and Library.)"
     # credit: "Images: Judy Rudolph"
 
   - id: "fig-49-4-b"
@@ -2484,7 +2484,7 @@ figure_list:
     src: "figures/fig-51-2-a.png"
     zoom: true
     label: "Figure 51.2a"
-    # caption: "Restraint tests of different lining fabrics and glue paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. (c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
+    # caption: "Restraint tests of different lining fabrics and glue paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. &#40;c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
     # credit: "Courtesy of the research team"
 
   - id: "fig-51-2-b"
@@ -2771,7 +2771,7 @@ figure_list:
     src: "figures/fig-59-2.jpg"
     zoom: true
     label: "Figure 59.2"
-    caption: " (a) Thread-by-thread suture. (b) Textile intarsia. (c) Reinforcement with thread bridges."
+    caption: " (a) Thread-by-thread suture. (b) Textile intarsia. &#40;c) Reinforcement with thread bridges."
     credit: "Image: Emanuel Sterp Moga"
 
   - id: "table-59-1"
@@ -2879,7 +2879,7 @@ figure_list:
     src: "figures/fig-62-2.jpg"
     zoom: true
     label: "Figure 62.2"
-    caption: "Cross-sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVA (VeoVa)–acrylic (BA, MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers. Top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk). Bottom: styrenated-acrylic (EA-MMA) with kaolinite. (c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVA with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVA (Py-GCMS)."
+    caption: "Cross-sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVA (VeoVa)–acrylic (BA, MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers. Top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk). Bottom: styrenated-acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVA with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVA (Py-GCMS)."
     credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-62-3"
