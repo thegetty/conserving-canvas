@@ -1875,7 +1875,7 @@ figure_list:
     src: "figures/fig-39-1.jpg"
     zoom: true
     label: "Figure 39.1"
-    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax extraction) under specular illumination. The Menil Collection, Houston."
+    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax-resin extraction); under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-2"
@@ -1917,7 +1917,7 @@ figure_list:
     src: "figures/fig-39-7.jpg"
     zoom: true
     label: "Figure 39.7"
-    caption: "*Pitcher, Candlestick, and Black Fish (Vase et poisson noir)*. During treatment, back of painting after wax extraction and edge-lining, ultra-violet induced visible fluorescence."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction and edge-lining, UV induced visible fluorescence."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-40-1"
