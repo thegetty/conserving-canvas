@@ -1985,35 +1985,35 @@ figure_list:
     src: "figures/fig-41-1.jpg"
     zoom: true
     label: "Figure 41.1"
-    caption: "Sheldon Keck using a hand iron to infuse a lining canvas with wax-resin adhesive. Film still from [[Keck and Keck 1954]]."
+    caption: "Sheldon Keck using a hand iron to infuse a lining canvas with wax-resin adhesive. Film still from Keck and Keck 1954."
     credit: "Image: © Brooklyn Museum / Brooklyn Museum Archives, Audiovisual Collection"
 
   - id: "fig-41-2"
     src: "figures/fig-41-2.jpg"
     zoom: true
     label: "Figure 41.2"
-    caption: "BkM conservators performing a wax-resin lining on a vacuum hot-table. Film still from [[Keck and Keck 1962]]."
+    caption: "BkM conservators performing a wax-resin lining on a vacuum hot table. Film still from Keck and Keck 1962."
     credit: "Image: © Brooklyn Museum / Audiovisual collection, Brooklyn Museum Archives"
 
   - id: "fig-41-3"
     src: "figures/fig-41-3.png"
     zoom: true
     label: "Figure 41.3"
-    caption: "Bar graph summarizing the age of paintings when lined with wax-resin at BkM (1935–1985)."
+    caption: "Bar graph summarizing the age of paintings when lined with wax resin at BkM (1935–85)."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig-41-4"
     src: "figures/fig-41-4.png"
     zoom: true
     label: "Figure 41.4"
-    caption: "Graph illustrating the number of wax-resin linings performed at BkM by year (1930–1990). The gray histogram represents real data gathered to date (approximately half of the painting conservation files); the yellow line is a six-year moving average highlighting broader trends."
+    caption: "Graph illustrating the number of wax-resin linings performed at BkM by year (1930–90). The gray histogram represents real data gathered to date (approximately half of the paintings conservation files); the yellow line is a six-year moving average highlighting broader trends."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig-41-5"
     src: "figures/fig-41-5.png"
     zoom: true
     label: "Figure 41.5"
-    caption: "Pie chart comparing adhesive recipe detail contained in BkM reports (1935–1985)."
+    caption: "Pie chart comparing adhesive recipe detail contained in BkM reports (1935–85)."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig-42-1"
