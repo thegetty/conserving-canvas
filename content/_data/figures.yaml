@@ -1924,7 +1924,7 @@ figure_list:
     src: "figures/fig-40-1.png"
     zoom: true
     label: "Figure 40.1"
-    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size or the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. &#40;r) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
+    caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size of the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. &#40;R) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-2"
@@ -1938,14 +1938,14 @@ figure_list:
     src: "figures/fig-40-3.jpg"
     zoom: true
     label: "Figure 40.3"
-    caption: "Raking light image taken before treatment of one of the model paintings. Each of the nine cracks was slackened in the direction perpendicular to the cracks to facilitate curl. The raking light used in this photograph at the beginning of the testing was less extreme and less sharp than that used in subsequent figures."
+    caption: "Raking-light image taken before treatment of one of the model paintings. Each of the nine cracks was slackened in the direction perpendicular to the cracks to facilitate curl. The raking light used in this photograph at the beginning of the testing was less extreme and less sharp than that used in subsequent figures."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-4"
     src: "figures/fig-40-4.jpg"
     zoom: true
     label: "Figure 40.4"
-    caption: "Verso images of four treated cracks showing strips (treatments 4, 5, 7) and size (treatment 13). Raking light images show cupping of canvas for 13 and an untreated crack."
+    caption: "Verso images of four treated cracks showing strips (treatments 4, 5, 7) and size (treatment 13). Raking-light images show cupping of canvas for 13 and an untreated crack."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-5"
@@ -1964,21 +1964,21 @@ figure_list:
     src: "figures/fig-40-6.jpg"
     zoom: true
     label: "Figure 40.6"
-    caption: "Two photographs of a painting that contains a sample of treatment 4, the most successful of those tested, taken twenty-one years after treatment and twenty years after keying out. Top: raking light 1:40 from the left. Bottom: 30-degree lighting from the left."
+    caption: "Two photographs of a painting that contains a sample of treatment 4, the most successful of those tested, taken 21 years after treatment and 20 years after keying out. Top: raking light 1:40 from the left. Bottom: 30-degree lighting from the left."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-7"
     src: "figures/fig-40-7.jpg"
     zoom: true
     label: "Figure 40.7"
-    caption: "Raking light close-ups of individual treated cracks after twenty-one years. Top row: samples in slack paintings. Bottom row: the same treatments in taut paintings (keyed out twenty years ago). For clarity, the images have been changed to grayscale, and their contrast increased."
+    caption: "Raking-light close-ups of individual treated cracks after 21 years. Top row: samples in slack paintings. Bottom row: the same treatments in taut paintings (keyed out 20 years ago). For clarity, the images have been changed to grayscale and their contrast increased."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-8"
     src: "figures/fig-40-8.png"
     zoom: true
     label: "Figure 40.8"
-    caption: "Cupping height from five minutes to twenty-one years. Left graph shows growth over time for treatments in slack paintings. Right graph shows single data points for treatments in taut paintings that were keyed out twenty years ago. Gray region indicates heights that are noticeable under normal 30-degree lighting."
+    caption: "Cupping height from five minutes to 21 years. Graph on left shows growth over time for treatments in slack paintings. Graph on right shows single data points for treatments in taut paintings that were keyed out 20 years ago. Gray region indicates heights that are noticeable under normal 30-degree lighting."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-41-1"
