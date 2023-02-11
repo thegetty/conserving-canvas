@@ -2277,35 +2277,35 @@ figure_list:
     src: "figures/fig-47-1.jpg"
     zoom: true
     label: "Figure 47.1"
-    caption: "Detail of the double-strip lining. From the bottom: original canvas, frayed Origam, Beva film, frayed Trevira positioned in a staggered manner."
+    caption: "Detail of the double-strip lining used in the tension variation system for canvas paintings. From the bottom: original canvas, frayed Origam, Beva 371 film, and frayed Trevira, positioned in a staggered manner."
     credit: "Image: Luigi Orata"
 
   - id: "fig-47-2"
     src: "figures/fig-47-2.jpg"
     zoom: true
     label: "Figure 47.2"
-    caption: "Stretching the double-strip lining on the temporary stretcher."
+    caption: "The double-strip lining is stretched and secured on the temporary stretcher."
     credit: "Image: Luigi Orata"
 
   - id: "fig-47-3"
     src: "figures/fig-47-3.jpg"
     zoom: true
     label: "Figure 47.3"
-    caption: "The first layer of strips is cut free and secured to the definitive stretcher while the second layer is still under tension."
+    caption: "After structural conservation, the definitive stretcher is placed down. The first layer of the double-strip lining is cut free from the temporary lining and secured to the definitive stretcher while the second layer is still under tension."
     credit: "Image: Luigi Orata"
 
   - id: "fig-47-4"
     src: "figures/fig-47-4.jpg"
     zoom: true
     label: "Figure 47.4"
-    caption: "Detail of attaching the first layer of strips."
+    caption: "Detail showing attachment of the first layer to the definitive stretcher."
     credit: "Image: Luigi Orata"
 
   - id: "fig-47-5"
     src: "figures/fig-47-5.jpg"
     zoom: true
     label: "Figure 47.5"
-    caption: "When the first layer of strips is completely secured, the second one is cut free and attached to the definitive stretcher."
+    caption: "When the first layer of the double-strip lining is completely secured, the second layer is cut free and attached to the definitive stretcher."
     credit: "Image: Luigi Orata"
 
   - id: "fig-48-1"
