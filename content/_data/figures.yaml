@@ -2020,7 +2020,7 @@ figure_list:
     src: "figures/fig-42-1.jpg"
     zoom: true
     label: "Figure 42.1"
-    caption: "Westby Percival-Prescott, who organized the Greenwich conference, at IIC 1982, Washington, DC."
+    caption: "Westby Percival-Prescott, who organized the Greenwich conference, photographed at IIC 1982, Washington, DC."
     credit: "Image: Joyce Hill Stoner"
 
   - id: "fig-42-2"
@@ -2034,7 +2034,7 @@ figure_list:
     src: "figures/fig-42-3.jpg"
     zoom: true
     label: "Figure 42.3"
-    caption: "Andrea Rothe with Ornella Casazza and Umberto Baldini at the J. Paul Getty Museum, 1985."
+    caption: "Andrea Rothe (right) with Umberto Baldini and Ornella Casazza at the J. Paul Getty Museum, 1985."
     credit: "Image: Joyce Hill Stoner"
 
   - id: "fig-42-4"
@@ -2048,7 +2048,7 @@ figure_list:
     src: "figures/fig-42-5.jpg"
     zoom: true
     label: "Figure 42.5"
-    caption: "Robert Fieux demonstrating electrostatic hold, Winterthur, 1977."
+    caption: "Robert Fieux (left) demonstrating electrostatic hold, Winterthur, 1977."
     credit: "Image: Joyce Hill Stoner"
 
   - id: "fig-43-1"
