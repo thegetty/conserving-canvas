@@ -2069,7 +2069,7 @@ figure_list:
     src: "figures/fig-43-3.jpg"
     zoom: true
     label: "Figure 43.3"
-    caption: "Detail of the lining of *Adoration of the Shepherds* along with a swatch of linen from the Conservation Center paintings studio for comparison."
+    caption: "Detail of the lining of *Adoration of the Shepherds* with a swatch of linen from the Conservation Center paintings studio for comparison."
     credit: "Image: Emma Kimmel"
 
   - id: "fig-44-1"
