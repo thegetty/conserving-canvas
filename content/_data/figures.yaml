@@ -2118,55 +2118,48 @@ figure_list:
     src: "figures/fig-45-1.jpg"
     zoom: true
     label: "Figure 45.1"
-    caption: "Royal Palace Amsterdam, South Gallery. In the foreground: J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664. Oil on canvas, 550 × 550 cm."
+    caption: "Royal Palace Amsterdam, South Gallery. Above the arch: Jacob Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664. Oil on canvas, 550 × 550 cm."
     credit: "Image: J. Schlomoff"
 
   - id: "fig-45-2"
     src: "figures/fig-45-2.jpg"
     zoom: true
     label: "Figure 45.2"
-    caption: "J. Jordaens (Flemish, 1593–1678), *David and Goliath*, 1664, oil paint on canvas, detail, approximately 250 × 120 cm (98 2/5 × 47 1/4 in.)."
+    caption: "Jordaens, *David and Goliath*, 1664, detail, approximately 250 × 120 cm (98 2/5 × 47 1/4 in.)."
     credit: "Image: Emilie Froment"
 
   - id: "fig-45-3"
     src: "figures/fig-45-3.jpg"
     zoom: true
     label: "Figure 45.3"
-    caption: "J. Jordaens (Flemish, 1593–1678), *Peace Between the Romans and the Batavians*, 1661. Oil paint on canvas, detail, approximately 80 × 50 cm (31 1/2 × 50 5/8 in.)."
+    caption: "Jacob Jordaens (Flemish, 1593–1678), *Peace between the Romans and the Batavians*, 1661. Oil on canvas, detail, approximately 80 × 50 cm (31 1/2 × 50 5/8 in.)."
     credit: "Image: Emilie Froment"
 
   - id: "fig-45-4"
     src: "figures/fig-45-4.jpg"
     zoom: true
     label: "Figure 45.4"
-    caption: "Ground reconstruction composed of chalk in animal glue before wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.)."
+    caption: "Ground reconstruction composed of chalk in animal glue before (left) and after (right) wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.). The canvas weave became visible after impregnation."
     credit: "Image: J. Schlomoff"
 
   - id: "fig-45-5"
     src: "figures/fig-45-5.jpg"
     zoom: true
     label: "Figure 45.5"
-    caption: "Ground reconstruction composed of chalk in animal glue before after wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.). The canvas weave became visible after impregnation."
-    credit: "Image: J. Schlomoff."
+    caption: "Cross section (microphotograph in bright field) of an oil-bound ground reconstruction composed of a 4:1 ratio of lead white to chalk. The sample is taken from an area where the canvas weave was visible after wax-resin impregnation. The ground exhibits a layer thickness of 59–276 μm, depending on the texture of the canvas."
+    credit: "Image: Emilie Froment"
 
   - id: "fig-45-6"
     src: "figures/fig-45-6.jpg"
     zoom: true
     label: "Figure 45.6"
-    caption: "Cross section (microphotograph in bright field) of an oil-bound ground reconstruction composed of a 4:1 ratio of lead white and chalk. The sample is taken from an area where the canvas weave was visible after wax-resin impregnation. The ground exhibits a layer thickness of 59–276 μm, depending on the texture of the canvas."
-    credit: "Image: Emilie Froment"
+    caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8. The left part is not impregnated with wax resin, while the right part is. Note the striking color difference. The upper and lower edges are bare canvas."
+    credit: "Image: J. Schlomoff"
 
   - id: "fig-45-7"
     src: "figures/fig-45-7.jpg"
     zoom: true
     label: "Figure 45.7"
-    caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8. The left part is not impregnated with wax resin, while the right part is. Note the striking color difference."
-    credit: "Image: J. Schlomoff"
-
-  - id: "fig-45-8"
-    src: "figures/fig-45-8.jpg"
-    zoom: true
-    label: "Figure 45.8"
     caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8, applied onto an opacity chart at a wet thickness of 200 μm. The test revealed the poor hiding power of the ground."
     credit: "Image: J. Schlomoff"
 
