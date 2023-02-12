@@ -2312,14 +2312,14 @@ figure_list:
     src: "figures/fig-48-1.jpg"
     zoom: true
     label: "Figure 48.1"
-    caption: "Fyodor S. Rokotov (Russian, 1735/1736–1808), *Portrait of F. N. Sinyavina*, eighteenth century. Oil on canvas, 74 × 58 сm (29 1/8 × 22 5/6 in.). Moscow, the State Historical Museum. Detail of the painting before conservation."
+    caption: "Fyodor S. Rokotov (Russian, 1735/1736–1808), *Portrait of F. N. Sinyavina*, 18th century. Oil on canvas, 74 × 58 сm (29 1/8 × 22 5/6 in.). Moscow, State Historical Museum. Detail of the painting before conservation."
     credit: "Image: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-2"
     src: "figures/fig-48-2.jpg"
     zoom: true
     label: "Figure 48.2"
-    caption: "The tear area before conservation from reverse side of the painting."
+    caption: "Reverse side of the painting, showing the tear area before conservation."
     credit: "Image: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-3"
@@ -2333,7 +2333,7 @@ figure_list:
     src: "figures/fig-48-4-a.jpg"
     zoom: true
     label: "Figure 48.4a"
-    # caption: "The tear area after removal of beeswax and overpaint and thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse, where threads from canvas edges were added for reinforcement."
+    # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges were added for reinforcement."
     # credit: "Images: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-4-b"
