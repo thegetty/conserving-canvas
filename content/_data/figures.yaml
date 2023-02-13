@@ -2830,14 +2830,14 @@ figure_list:
     src: "figures/fig-61-1.jpg"
     zoom: true
     label: "Figure 61.1"
-    caption: "Roderick Dempster Mackenzie (British American, 1865–1941), *The State Entry into Delhi by Lord and Lady Curzon, Delhi Durbar (1903)*, ca. 1904–1906. Oil on canvas, 340 × 544 cm (133 7/8 × 214 1/6 in.). After completion of structural treatment and necessary reintegration from front side."
+    caption: "Roderick Dempster MacKenzie (British American, 1865–1941), *The State Entry into Delhi by Lord and Lady Curzon, Delhi Durbar (1903)*, ca. 1904–6. Oil on canvas, 340 × 544 cm (133 7/8 × 214 1/6 in.). After completion of structural treatment and necessary reintegration from front side."
     credit: "Image: Victoria Memorial Hall, Kolkata, India"
 
   - id: "fig-61-2"
     src: "figures/fig-61-2.jpg"
     zoom: true
     label: "Figure 61.2"
-    caption: "Findings and observations after removal of stretcher from back."
+    caption: "Examination of the painting after removal of stretcher from back."
     credit: "Image: Victoria Memorial Hall, Kolkata, India"
 
   - id: "fig-61-3"
@@ -2858,29 +2858,29 @@ figure_list:
     src: "figures/fig-61-5.jpg"
     zoom: true
     label: "Figure 61.5"
-    caption: "After completion of strip lining with Beva 371 and sailcloth."
+    caption: "After completion of strip-lining with Beva 371 and sailcloth."
     credit: "Image: Victoria Memorial Hall, Kolkata, India"
 
   - id: "fig-62-1"
     src: "figures/fig-62-1.png"
     zoom: true
     label: "Figure 62.1"
-    caption: "ATR-FTIR fingerprint region for priming highlighting key acrylic-PVA peaks."
+    caption: "ATR-FTIR fingerprint region for priming highlighting key acrylic-PVAc peaks."
     credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-62-2"
     src: "figures/fig-62-2.jpg"
     zoom: true
     label: "Figure 62.2"
-    caption: "Cross-sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVA (VeoVa)–acrylic (BA, MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers. Top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk). Bottom: styrenated-acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVA with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVA (Py-GCMS)."
-    credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
+    caption: "Cross sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVAc (VeoVa)–acrylic (BA-MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers; top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk); bottom: styrenated-acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVAc with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVAc (Py-GCMS)."
+    credit: "Images: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-62-3"
     src: "figures/fig-62-3.png"
     zoom: true
     label: "Figure 62.3"
     caption: "Cross-sectional SEM-EDX elemental distribution of zinc and corresponding ATR-FTIR spectra with highlighted metal carboxylate band from surfaces of (a) Claessens oil-primed linen, and (b) Artfix oil-primed linen."
-    credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
+    credit: "Images: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-63-1"
     src: "figures/fig-63-1.jpg"
