@@ -2722,14 +2722,14 @@ figure_list:
     src: "figures/fig-58-1.jpg"
     zoom: true
     label: "Figure 58.1"
-    caption: "Attributed to the “Pittore di Pontignano,” *Madonna and Child with the Young St. John the Baptist and Two Angels*, ca. 1650. Oil on canvas, 93.5 × 128 × 3 cm (36 5/6 × 50 2/5 × 1 1/6 in.). Private collection."
+    caption: "Attributed to the “Pittore di Pontignano,” *Madonna and Child with the Young St. John the Baptist and Two Angels*, ca. 1650. Oil on canvas, 128 × 93.5 × 3 cm (50 2/5 × 36 5/6 × 1 1/6 in.). Private collection."
     credit: "Image: Matthew Hayes"
 
   - id: "fig-58-2"
     src: "figures/fig-58-2.jpg"
     zoom: true
     label: "Figure 58.2"
-    caption: "The upper edge of the strainer, showing the original stretching."
+    caption: "Upper edge of the strainer, showing the original stretching."
     credit: "Image: Matthew Hayes"
 
   - id: "fig-58-3"
@@ -2757,7 +2757,7 @@ figure_list:
     src: "figures/fig-59-1.jpg"
     zoom: true
     label: "Figure 59.1"
-    caption: "The internal auxiliary frame with magnetic system (IAFMS)."
+    caption: "Internal auxiliary frame with magnetic system (IAFMS)."
     credit: "Image: Emanuel Sterp Moga"
 
   - id: "fig-59-2"
@@ -2795,21 +2795,21 @@ figure_list:
     src: "figures/fig-60-1.jpg"
     zoom: true
     label: "Figure 60.1"
-    caption: "Antoine Dubost (French, 1769–1825), *The Sword of Damocles*, 1804. Oil on canvas, 228 × 258 cm (89 3/4 × 101 3/5 in.). Chhatrapati Shivaji Maharaj Vastu Sangrahalaya collection, Acc. No. 22.4544. Before treatment."
+    caption: "Antoine Dubost (French, 1769–1825), *The Sword of Damocles*, 1804. Oil on canvas, 228 × 258 cm (89 3/4 × 101 3/5 in.). Chhatrapati Shivaji Maharaj Vastu Sangrahalaya collection, Acc. No. 22.4544. After treatment."
     credit: "Image: Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-2"
     src: "figures/fig-60-2.jpg"
     zoom: true
     label: "Figure 60.2"
-    caption: "Left: Backscatter SEM image of fungal infestation of size layer at 1123× magnification and 20 keV. Right: Mounted cross-section showing fungal infestation leading to delamination between canvas and ground layer."
-    credit: "Image: CSMVS"
+    caption: "Left: Backscatter SEM image of fungal infestation of size layer at 1123× magnification and 20 keV. Right: Mounted cross section showing fungal infestation leading to delamination between canvas and ground layer."
+    credit: "Images: CSMVS"
 
   - id: "fig-60-3"
     src: "figures/fig-60-3.jpg"
     zoom: true
     label: "Figure 60.3"
-    caption: "Top left: Consolidation of paint layer with Plextol B500 through a window of the 2004 glue facing. The facing here is the old facing given in 2006. Top right: Reconstruction of paint flakes on net. Bottom left: Facing with lens tissue and Beva. Bottom right: Removal of old lining cloth."
+    caption: "Top left: Consolidation of paint layer with Plextol B500 through a window of the 2004 glue facing. The facing here is the old facing given in 2006. Top right: Reconstruction of paint flakes on net. Bottom left: Facing with lens tissue and Beva 371. Bottom right: Removal of old lining cloth."
     credit: "Image: CSMVS"
 
   - id: "fig-60-4"
@@ -2823,7 +2823,7 @@ figure_list:
     src: "figures/fig-60-5.jpg"
     zoom: true
     label: "Figure 60.5"
-    caption: "Sir Thomas Lawrence (British, 1769–1830), *Portrait of Henry Philip Hope*, ca. early nineteenth century. Oil on canvas, 261 × 155 cm (102 3/4 × 61 in.). CSMVS collection, Acc. No. 22.4614. Left: Before treatment. Right: After treatment."
+    caption: "Sir Thomas Lawrence (British, 1769–1830), *Portrait of Henry Philip Hope*, ca. early 19th century. Oil on canvas, 261 × 155 cm (102 3/4 × 61 in.). CSMVS collection, Acc. No. 22.4614. Left: Before treatment. Right: After treatment."
     credit: "Image: CSMVS"
 
   - id: "fig-61-1"
