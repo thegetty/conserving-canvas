@@ -2422,7 +2422,7 @@ figure_list:
     src: "figures/fig-50-1.png"
     zoom: true
     label: "Figure 50.1"
-    caption: "Various recipes of wax resin for lining used in Japan. Wax-resin linings were brought into Japan at the end of the 1960s, and the recipe of the lining adhesive had already been modified by the 1970s. (Note: Colophony was referred to in interviews as “rosin.”) *Sources:* Institute Royal du Patrimoine Artistique: [[Messens 2003]]; New York University: [[Keck 1965]]; 1968 Tokyo University of the Arts: [[Utada and Morita 1968]]; 1968 Art Conservation Lab: [[Koyano 1968]]; 1969 National Museum of Western Art: [[Kuroe 1969]]; 1970 Conservation Studios A and B: interviews by author, 2018; 1975 National Museum of Western Art: [[Kuroe 1975]]; 1978 Tokyo University of the Arts: documents about conservation materials archived in the university lab; 1978 Conservation Studio C: interviews by author, 2018."
+    caption: "Various recipes of wax resin for lining used in Japan. Wax-resin linings were brought into Japan at the end of the 1960s, and the recipe of the lining adhesive had already been modified by the 1970s. (Note: colophony was referred to in interviews as “rosin.”) Sources: Institut Royal du Patrimoine Artistique: Messens 2003; New York University: Keck 1965; 1968 Tokyo University of the Arts: Utada and Morita 1968; 1968 Art Conservation Lab: Koyano 1968; 1969 National Museum of Western Art: Kuroe 1969; 1970 Conservation Studios A and B: interviews by author, 2018; 1975 National Museum of Western Art: Kuroe 1975; 1978 Tokyo University of the Arts: documents in the Tokyo University lab archives; 1978 Conservation Studio C: interviews by authors, 2018."
     credit: "Image: Saki Kunikata"
 
   - id: "table-50-1"
@@ -2441,14 +2441,14 @@ figure_list:
     src: "figures/fig-50-3.png"
     zoom: true
     label: "Figure 50.3"
-    caption: "Materials for wax-resin adhesive: FTIR spectrum measurement of test samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>)."
+    caption: "Materials for wax-resin adhesive: FTIR spectrum measurements of test samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>)."
     credit: "Image: Saki Kunikata"
 
   - id: "fig-50-4"
     src: "figures/fig-50-4.png"
     zoom: true
     label: "Figure 50.4"
-    caption: "FTIR spectrum measurement of wax-resin samples A–E samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>). "
+    caption: "FTIR spectrum measurements of wax-resin samples A–E (1800 cmsup>−1</sup> to 1600 cm<sup>−1</sup>). "
     credit: "Image: Saki Kunikata"
 
   - id: "fig-51-1"
