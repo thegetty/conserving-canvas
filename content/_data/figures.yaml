@@ -2701,21 +2701,21 @@ figure_list:
     src: "figures/fig-57-2.jpg"
     zoom: true
     label: "Figure 57.2"
-    caption: "Andrey Vasnetsov (Russian, 1924–2009), *New Village,* 1950–1960s. Oil on canvas; the obverse side is 79 × 99.5 cm (31 1/8 × 39 1/6 in.); the reverse side 89 × 99 cm (35 × 39 in.). Moscow region, Museum-reserve “Abramtsevo.” The obverse side before conservation. Note the visible difference in sizes."
+    caption: "Andrey Vasnetsov (Russian, 1924–2009), *New Village*, 1950–1960s. Oil on canvas; obverse side is 79 × 99.5 cm (31 1/8 × 39 1/6 in.); reverse side, 89 × 99 cm (35 × 39 in.). Moscow region, Museum-reserve “Abramtsevo.” Obverse side before conservation. Note the visible difference in size."
     credit: "Image: Museum-reserve “Abramtsevo”"
 
   - id: "fig-57-3"
     src: "figures/fig-57-3.png"
     zoom: true
     label: "Figure 57.3"
-    caption: "Schematic of screw mechanism installed by Artyom Romanov for tensioning Vasnetsov’s two-sided *New Village* painting."
+    caption: "Schematic of screw mechanism installed by Artyom Romanov for tensioning Vasnetsov’s two-sided painting *New Village*."
     credit: "Image: GOSNIIR"
 
   - id: "fig-57-4"
     src: "figures/fig-57-4.jpg"
     zoom: true
     label: "Figure 57.4"
-    caption: "*New Village,* process of installing decorative elements of the frame."
+    caption: "*New Village*, process of installing decorative elements of the frame."
     credit: "Image: GOSNIIR"
 
   - id: "fig-58-1"
