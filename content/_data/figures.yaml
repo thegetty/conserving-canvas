@@ -2585,7 +2585,7 @@ figure_list:
     src: "figures/fig-54-1.jpg"
     zoom: true
     label: "Figure 54.1"
-    caption: "Work attributed to Tom Thomson (Canadian, 1877–1917), *Untitled*, ca. 1910. Oil on canvas, 33.1 × 40.6 cm (13 × 16 in.). Collection of the Kitchener-Waterloo Art Gallery, 4.26.18. Before treatment, small facing tissues visible."
+    caption: "Work attributed to Tom Thomson (Canadian, 1877–1917), *Untitled*, ca. 1910. Oil on canvas, 33.1 × 40.6 cm (13 × 16 in.). Collection of the Kitchener-Waterloo Art Gallery, gift of Mr. and Mrs. David Young, 1995.030.001. Before treatment, small facing tissues visible."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "table-54-1"
@@ -2604,7 +2604,7 @@ figure_list:
     src: "figures/fig-54-3.jpg"
     zoom: true
     label: "Figure 54.3"
-    caption: "Verso after thirteenth relaxation treatment, taken in raking light."
+    caption: "Verso after 13th relaxation treatment, taken in raking light."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-54-4"
