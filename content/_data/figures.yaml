@@ -2618,7 +2618,7 @@ figure_list:
     src: "figures/fig-55-1.jpg"
     zoom: true
     label: "Figure 55.1"
-    caption: "Attributed to Jan Bogumił Plersch (Polish, 1732–1817), *The Crucifixion*, ca. 1750–1800. Muzeum Katolickiego Uniwersytetu Lubelskiego Jana Pawła II (John Paul II Catholic University of Lublin). The condition of the painting before conservation."
+    caption: "Attributed to Jan Bogumił Plersch (Polish, 1732–1817), *The Crucifixion*, ca. 1750–1800. Oil on canvas. Muzeum Katolickiego Uniwersytetu Lubelskiego Jana Pawła II (Museum of John Paul II Catholic University of Lublin). The condition of the painting before conservation."
     credit: "Image: Muzeum Katolickiego Uniwersytetu Lubelskiego Jana Pawła II"
 
   - id: "fig-55-2"
@@ -2639,7 +2639,7 @@ figure_list:
     src: "figures/fig-55-4.jpg"
     zoom: true
     label: "Figure 55.4"
-    caption: "*The Crucifixion* face of the painting during conservation: filling in losses to the ground."
+    caption: "*The Crucifixion*, face of the painting during conservation: filling in losses to the ground."
     credit: "Image: Muzeum Katolickiego Uniwersytetu Lubelskiego Jana Pawła II"
 
   - id: "fig-55-5"
