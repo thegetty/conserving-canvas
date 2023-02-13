@@ -2455,8 +2455,8 @@ figure_list:
     src: "figures/fig-51-1.jpg"
     zoom: true
     label: "Figure 51.1"
-    caption: "Matteo Rossi-Doria and Nicolas Bouillon at Universitat Politècnica de Valencia preparing the mock-ups."
-    credit: "Courtesy of the research team"
+    caption: "Matteo Rossi-Doria and Nicolas Bouillon at Universitat Politècnica de València preparing the mock-ups."
+    credit: "Images: Courtesy of the research team"
 
   - id: "table-51-1"
     credit: "Table: Courtesy of the research team"
@@ -2477,8 +2477,8 @@ figure_list:
     src: "figures/fig-51-2-a.png"
     zoom: true
     label: "Figure 51.2a"
-    # caption: "Restraint tests of different lining fabrics and glue paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. &#40;c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
-    # credit: "Courtesy of the research team"
+    # caption: "Restraint tests of different lining fabrics and glue-paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. &#40;c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
+    # credit: "Image: Courtesy of the research team"
 
   - id: "fig-51-2-b"
     src: "figures/fig-51-2-b.png"
@@ -2494,22 +2494,22 @@ figure_list:
     src: "figures/fig-51-3.jpg"
     zoom: true
     label: "Figure 51.3"
-    caption: "The two canvases with glue-paste applied. (a) Tight weave: a continuous glue-paste film. (b) Open weave: fractured glue-paste film."
-    credit: "Courtesy of the research team"
+    caption: "Detail of the two canvases with glue-paste applied. (a) Tight weave: a continuous glue-paste film. (b) Open weave: fractured glue-paste film."
+    credit: "Images: Courtesy of the research team"
 
   - id: "fig-51-4"
     src: "figures/fig-51-4.jpg"
     zoom: true
     label: "Figure 51.4"
-    caption: "Microbiological study. Binocular examination of contaminated samples at the end of the test (25X magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
-    credit: "Courtesy of the research team"
+    caption: "Detail of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
+    credit: "Image: Courtesy of the research team"
 
   - id: "fig-51-5"
     src: "figures/fig-51-5.png"
     zoom: true
     label: "Figure 51.5"
-    caption: "Star diagrams representing the risks for glue-paste linings as a function of the flour used. Considering that the five parameters tested are RH-related, the smaller the area covered, the less vulnerable the glue paste lining is to RH; in other words, larger gray areas suggest the need for more restrictive environmental conditions to ensure the stability of the lined painting."
-    credit: "Courtesy of the research team"
+    caption: "Star diagrams representing the risks for glue-paste linings as a function of the flour used. Considering that the five parameters tested are RH-related, the smaller the area covered, the less vulnerable the glue-paste lining is to RH; in other words, larger gray areas suggest the need for more restrictive environmental conditions to ensure the stability of the lined painting."
+    credit: "Images: Courtesy of the research team"
 
   - id: "fig-52-1"
     src: "figures/fig-52-1.png"
@@ -2522,7 +2522,7 @@ figure_list:
     src: "figures/fig-52-2.jpg"
     zoom: true
     label: "Figure 52.2"
-    caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–1562. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
+    caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–62. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
     credit: "Image: Boston, Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-3"
@@ -2543,28 +2543,28 @@ figure_list:
     src: "figures/fig-52-5.jpg"
     zoom: true
     label: "Figure 52.5"
-    caption: "Restretching of the original canvas of the *Rape of Europa* and historic lining fabric: attachment to the loose-lining and blind-panel stretcher with staples and tandem tensioning."
+    caption: "Restretching of the original canvas of the *Rape of Europa* and historical lining fabric: attachment to the loose-lining and blind-panel stretcher with staples and tandem tensioning."
     credit: "Image: Gianfranco Pocobene"
 
   - id: "fig-53-1"
     src: "figures/fig-53-1.jpg"
     zoom: true
     label: "Figure 53.1"
-    caption: "Aart Schouman (Dutch, 1710–1792), *Birds I*, in The Menagerie van Prince Willem V series, 1786. Oil on canvas, 260.5 × 312 cm (102 1/2 × 122 5/6 in.). Collection of the Royal House of the Netherlands. Picture taken before treatment."
-    credit: "Image: Stichting Restauratie Atelier Limburg (SRAL)"
+    caption: "Aart Schouman (Dutch, 1710–1792), *Birds I*, in the Menagerie van Prince Willem V series, 1786. Oil on canvas, 312 × 260.5 cm (122 5/6 × 102 1/2 in.). Collection of the Royal House of the Netherlands. Picture taken before treatment."
+    credit: "Image: SRAL"
 
   - id: "fig-53-2"
     src: "figures/fig-53-2.png"
     zoom: true
     label: "Figure 53.2"
-    caption: "A cross-section of the construction of the lining system used for *Birds I*, *Birds II*, *Mammals*, and *Deer*."
+    caption: "Cross-section of the construction of the lining system used for *Birds I*, *Birds II*, *Mammals*, and *Deer*."
     credit: "Image: Leonora Burton"
 
   - id: "fig-53-3"
     src: "figures/fig-53-3.jpg"
     zoom: true
     label: "Figure 53.3"
-    caption: "Placing strips of glass-fiber fabric interleaf on the reverse of the painting. The overlapping sides were cut wavy to avoid straight lines."
+    caption: "Placing strips of glass-fiber fabric interleaf on the reverse of the painting. The overlapping edges were cut wavy to avoid straight lines."
     credit: "Image: SRAL"
 
   - id: "fig-53-4"
