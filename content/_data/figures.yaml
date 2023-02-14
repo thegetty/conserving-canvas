@@ -2886,50 +2886,50 @@ figure_list:
     src: "figures/fig-63-1.jpg"
     zoom: true
     label: "Figure 63.1"
-    caption: "The tsunami that attacked Tohoku in March 2011."
-    credit: "Image: Image credit TK"
+    caption: "Photo showing the tsunami that attacked Tohoku in March 2011."
+    credit: "Image: Jiji Press/AFP via Getty Images"
 
   - id: "fig-63-2"
     src: "figures/fig-63-2.jpg"
     zoom: true
     label: "Figure 63.2"
     caption: "Canvas paintings just after the first rescue."
-    credit: "Image: Image credit TK"
+    credit: "Image: (c) *The Japanese Times*"
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"
     zoom: true
     label: "Figure 63.3"
-    caption: "The XRF calibration curve of chloride (CI) levels in the cotton cloth."
-    credit: "Image: Image credit TK"
+    caption: "XRF calibration curve of chloride (CI) levels in the cotton cloth."
+    credit: "Image: Research team"
 
   - id: "fig-63-4"
     src: "figures/fig-63-4.jpg"
     zoom: true
     label: "Figure 63.4"
     caption: "Water mixed with ethyl alcohol was sprayed onto the back of the canvas to apply moisture to the entire surface."
-    credit: "Image: Image credit TK"
+    credit: "Image: Research team"
 
   - id: "fig-63-5"
     src: "figures/fig-63-5.jpg"
     zoom: true
     label: "Figure 63.5"
     caption: "The entire surface was covered with dampened blotting paper and left for 8 minutes."
-    credit: "Image: Image credit TK"
+    credit: "Image: Research team"
 
   - id: "fig-63-6"
     src: "figures/fig-63-6.png"
     zoom: true
     label: "Figure 63.6"
-    caption: "The salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
-    credit: "Image: Image credit TK"
+    caption: "Salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
+    credit: "Image: Research team"
 
   - id: "fig-63-7"
     src: "figures/fig-63-7.png"
     zoom: true
     label: "Figure 63.7"
-    caption: "Graph of CI concentration change of a blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
-    credit: "Image: Image credit TK"
+    caption: "Graph of CI concentration change of the blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
+    credit: "Image: Research team"
 
   - id: "table-62-1"
     src: "tables/table-62-1.html"
