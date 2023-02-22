@@ -6,6 +6,10 @@ class: "page-one"
 contributor:
   - first_name: Ian
     last_name: McClure
+  - first_name: Jim
+    last_name: Coddington
+  - first_name: Cynthia
+    last_name: Schwarz
 ---
 
 The symposium held at Yale University in October 2019 grew out of the Getty Foundation’s Conserving Canvas initiative, which, through a combination of practical workshops, publications and research support, and expert meetings, aims to evaluate and foster the structural treatment of paintings on canvas ([fig. 0.1](#fig-0-1)). The symposium was planned with the 1974 Greenwich Conference on Comparative Lining Techniques,[^1] the last international conference to be held on this subject, very much in mind. At that event, conservators from institutions and in private practice demonstrated a wide range of techniques, both innovative and traditional, and in doing so raised some fundamental questions that are still central to our thinking and decision-making process in planning structural treatments. In the forty-five years since, however, the options for lining and alternatives to lining have expanded. The new options are drawn from a variety of sources: advances in the materials industry, with the production of synthetic adhesives and textiles and the introduction of nanotechnology; new research into the mechanical behavior of laminate structures; and the resourcefulness of conservators who take an innovative approach to their work. Concerns at the forefront of the field in 2019 also included environmental sustainability and a heightened awareness of the benefits of a global perspective on painting conservation.
