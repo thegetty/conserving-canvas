@@ -532,9 +532,17 @@ figure_list:
     media_type: table
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5.jpg"
-    zoom: true
+    poster: "figures/fig-11-5.jpg"
     label: "Figure 11.5"
+    caption: "Video of the tub system."
+    credi: "Video: Barbara Lavorini and Luigi Orata"
+    media_type: "vimeo" 
+    media_id: "801439551/7d9863ee77"
+
+  - id: "fig-11-6"
+    src: "figures/fig-11-6.jpg"
+    zoom: true
+    label: "Figure 11.6"
     caption: "*Allegoria con il trionfo di Firenze* after restoration."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
