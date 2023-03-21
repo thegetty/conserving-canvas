@@ -53,8 +53,7 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 </div>
 <div class="cover-image-credits">
 
-Front cover: Front cover: Conservation of Anne-Louis Girodet-Trioson, *The Death of Camille*, 1785
-             detail, fig. 35.1
+Front cover: Conservation of Anne-Louis Girodet-Trioson, *The Death of Camille*, 1785 (detail, fig. 35.1)
 Back cover:
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
