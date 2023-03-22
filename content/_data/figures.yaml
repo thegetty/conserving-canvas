@@ -706,7 +706,7 @@ figure_list:
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-15-1"
-    src: "figures/fig-15-1.png"
+    src: "figures/fig-15-1.jpg"
     zoom: true
     label: "Figure 15.1"
     caption: "Cross section at 5× magnification of a 1930s British trade union banner: silk painted on both sides with size, oil paint, and silver leaf. University of Glasgow."
