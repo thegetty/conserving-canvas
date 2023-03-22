@@ -838,19 +838,19 @@ figure_list:
   - id: "fig-18-2-a"
     src: "figures/fig-18-2-a.jpg"
     zoom: true
-    label: "Figure 18.2a"
+    label: "a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
     zoom: true
-    label: "Figure 18.2b"
+    label: "b"
 
   - id: "fig-18-2-c"
     src: "figures/fig-18-2-c.jpg"
     zoom: true
-    label: "Figure 18.2c"
+    label: "c"
 
   - id: "table-18-1"
     credit: "Table: Rita Gil"
@@ -874,14 +874,14 @@ figure_list:
   - id: "fig-18-5-a"
     src: "figures/fig-18-5-a.jpg"
     zoom: true
-    label: "Figure 18.5a"
-    caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
-    credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
+    label: "a"
+    #caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
+    #credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
     zoom: true
-    label: "Figure 18.5b"
+    label: "b"
 
   - id: "fig-18-6"
     src: "figures/fig-18-6.jpg"
@@ -1225,14 +1225,14 @@ figure_list:
   - id: "fig-26-6-a"
     src: "figures/fig-26-6-a.jpg"
     zoom: true
-    label: "Figure 26.6a"
+    label: "a"
     # caption: "*Saint Matthew* painting: canvas with iron gall ink marks. (a) Before treatment. (b) After treatment."
     # credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-6-b"
     src: "figures/fig-26-6-b.jpg"
     zoom: true
-    label: "Figure 26.6b"
+    label: "b"
 
   - id: "fig-27-1"
     src: "figures/fig-27-1.png"
