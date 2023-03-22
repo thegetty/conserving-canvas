@@ -316,6 +316,10 @@ table a,
 .content figure .q-figure__caption {
   font-size: .75rem;
 }
+/* Left align table captions */
+.quire-page__content .container .content table caption {
+  text-align: left
+}
 
 /* COPYRIGHT & ABOUT
 ============================================================================= */
