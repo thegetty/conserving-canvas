@@ -237,14 +237,14 @@ figure_list:
   - id: "fig-4-9-a"
     src: "figures/fig-4-9-a.jpg"
     zoom: true
-    label: "Figure 4.9a"
+    label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld Gallery, London"
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
     zoom: true
-    label: "Figure 4.9b"
+    label: "b"
 
   - id: "fig-4-10"
     src: "figures/fig-4-10.jpg"
@@ -307,17 +307,17 @@ figure_list:
     caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
     credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
 
-  - id: "fig-6-1"
+  - id: "fig-6-1-a"
     src: "figures/fig-6-1-a.jpg"
     zoom: true
-    label: "Figure 6.1a"
-    caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
-    credit: "Image: © State Historical Museum, Moscow"
+    label: "a"
+    #caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
+    #credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-1-b"
     src: "figures/fig-6-1-b.jpg"
     zoom: true
-    label: "Figure 6.1b"
+    label: "b"
 
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
@@ -333,17 +333,17 @@ figure_list:
     caption: "Fragment of lining textile sprayed with adhesive A-45-K."
     credit: "Image: The State Research Institute for Restoration, Moscow"
 
-  - id: "fig-6-4"
+  - id: "fig-6-4-a"
     src: "figures/fig-6-4-a.jpg"
     zoom: true
-    label: "Figure 6.4"
-    caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
-    credit: "Image: © State Historical Museum, Moscow"
+    label: "a"
+    #caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
+    #credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-4-b"
     src: "figures/fig-6-4-b.jpg"
     zoom: true
-    label: "Figure 6.4b"
+    label: "b"
 
   - id: "fig-8-1"
     src: "figures/fig-8-1.jpg"
@@ -535,7 +535,7 @@ figure_list:
     poster: "figures/fig-11-5.jpg"
     label: "Figure 11.5"
     caption: "Video of the tub system."
-    credi: "Video: Barbara Lavorini and Luigi Orata"
+    credit: "Video: Barbara Lavorini and Luigi Orata"
     media_type: "vimeo" 
     media_id: "801439551/7d9863ee77"
 
@@ -647,14 +647,14 @@ figure_list:
   - id: "fig-13-7-a"
     src: "figures/fig-13-7-a.jpg"
     zoom: true
-    label: "Figure 13.7a"
-    caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
-    credit: "Image: Julia Brandt and Carina Volbracht"
+    label: "a"
+    #caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
+    #credit: "Image: Julia Brandt and Carina Volbracht"
 
   - id: "fig-13-7-b"
     src: "figures/fig-13-7-b.jpg"
     zoom: true
-    label: "Figure 13.7b"
+    label: "b"
 
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
