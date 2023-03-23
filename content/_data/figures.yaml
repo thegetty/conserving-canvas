@@ -1870,14 +1870,14 @@ figure_list:
   - id: "fig-38-4-a"
     src: "figures/fig-38-4-a.jpg"
     zoom: true
-    label: "Figure 38.4a"
+    label: "a"
     # caption: "(a) Artist-made strainer from 1970 composed of wood, plywood, and particle board, 180.3 × 287 cm (71 × 113 in.). (b) The same strainer, modified in 2018. The effort to keep the original components and achieve adequate structural integrity resulted in a strange hybrid support."
     # credit: "Images: Mary H. Gridley"
 
   - id: "fig-38-4-b"
     src: "figures/fig-38-4-b.jpg"
     zoom: true
-    label: "Figure 38.4b"
+    label: "b"
 
   - id: "fig-39-1"
     src: "figures/fig-39-1.jpg"
