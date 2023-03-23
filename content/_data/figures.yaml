@@ -1242,8 +1242,8 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-1"
-    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-1.html"
+    #credit: "Table: Alexandra Bridarolli"
     media_type: table
 
   - id: "fig-27-2"
@@ -1261,9 +1261,9 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-2"
-    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-2.html"
     media_type: table
+    credit: "Table: Alexandra Bridarolli"
 
   - id: "fig-27-4"
     src: "figures/fig-27-4.png"
@@ -1605,14 +1605,14 @@ figure_list:
   - id: "fig-34-1-a"
     src: "figures/fig-34-1-a.jpg"
     zoom: true
-    label: "Figure 34.1a"
+    label: "a"
     # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 × 187.5 cm (96 × 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
     # credit: "Images: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-1-b"
     src: "figures/fig-34-1-b.jpg"
     zoom: true
-    label: "Figure 34.1b"
+    label: "b"
 
   - id: "fig-34-2"
     src: "figures/fig-34-2.jpg"
@@ -1671,7 +1671,7 @@ figure_list:
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
-    credit: "Table: Dominique Martos-Levif"
+    #credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-1.html"
     media_type: table
 
