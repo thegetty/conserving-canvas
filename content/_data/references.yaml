@@ -24,14 +24,19 @@ entries:
     full: "Amador Marrero, Pablo Francisco. 2012. “Imaginería ligera novohispana en el arte español de los siglos XVI–XVII.” PhD diss., Universidad de Las Palmas de Gran Canaria."
   - id: "Andersen 2012"
     full: "Andersen, Cecil Krarup. 2012. “Lining, Relining and the Concept of Univocity.” *E-Conservation Magazine* 23 (March): 47–56."
+    sort_as: "Anderson 1"
   - id: "Andersen 2013"
     full: "Andersen, Cecil Krarup. 2013. “Lined Canvas Paintings: Mechanical Properties and Structural Response to Fluctuating Relative Humidity, Exemplified by the Collection of Danish Golden Age Paintings at Statens Museum for Kunst (SMK).” PhD diss., School of Conservation, KADK Royal Danish Academy of Fine Arts."
+    sort_as: "Anderson 2"
   - id: "Andersen et al. 2014"
     full: "Andersen, Cecil Krarup, Marion Mecklenburg, Mikkel Scharff, and Jørgen Wadum. 2014. “With the Best Intentions: Changed Response to Relative Humidity in Wax-Resin Lined Early 19th-Century Canvas Paintings.” In *ICOM 17th Triennial Conference Preprints: Melbourne, Australia, 17–19 September 2014*, edited by Janet Bridgland. Paris: ICOM Committee for Conservation."
+    sort_as: "Anderson 4"
   - id: "Andersen et al. 2019"
     full: "Andersen, C. K., A. Freeman, M. N. Mortensen, V. Beltran, M. Łukomski, and A. Phenix. 2019. “Mechanical and Moisture Sorption Properties of Commercial Artists’ Oil Paint by Dynamic Mechanical Thermal Analysis (DMA), Nanoindentation, and Dynamic Vapour Sorption (DVS).” In *Conservation of Modern Oil Paintings*, edited by K. J. Van den Berg, I. Bonaduce, A. Burnstock, B. Ormsby, M. Scharff, L. Carlyle, G. Heydenreich, and K. Keune, 403–18. Cham, Switzerland: Springer."
+    sort_as: "Anderson 5"
   - id: "Andersen and Fuster-López 2019"
     full: "Andersen, Cecil K., and Laura Fuster-López. 2019. “Insight into Canvas Paintings’ Stability and the Influence of Structural Conservation Treatments.” In *The Mechanics of Art Materials and Its Future in Heritage Science: A Seminar and Symposium*, 13–20. Washington, DC: Smithsonian Institution Scholarly Press."
+    sort_as: "Anderson 3"
   - id: "Angelova et al. 2017"
     full: "Angelova, Lora, Bronwyn Ormsby, Joyce H. Townsend, and Richard Wolbers. 2017. *Gels in the Conservation of Art*. London: Archetype."
   - id: "Antomarchi et al. 2005"
@@ -82,38 +87,71 @@ entries:
     full: "Beltinger, Karoline. 1995. “Reversible Supports for Paintings as an Alternative to Lining.” In *Lining and Backing: The Support of Paintings, Paper and Textiles: Papers Delivered at the UKIC Conference, 7–8 November 1995, London, United Kingdom*, edited by Andrew Durham, 111–18. London: United Kingdom Institute for Conservation of Historic and Artistic Works."
   - id: "Bergeaud, Hulot, and Roche 1997"
     full: "Bergeaud, C., J. Hulot, and A. Roche. 1997. *La dégradation des peintures sur toile. Méthode d’examen des altérations*. Paris: École Nationale du Patrimoine."
+
   - id: "Berger 1965"
     full: "Berger, Gustav A. 1965. “A Vacuum Envelope for Treating Panel Painting.” *Studies in Conservation* 10, no. 1: 18–23."
+    sort_as: "Berger 1"
+
   - id: "Berger 1966"
     full: "Berger, Gustav A. 1966. “Weave Interference in Vacuum Lining of Pictures.” *Studies in Conservation* 11, no. 4: 170–80."
+    sort_as: "Berger 2"
+
   - id: "Berger 1971"
     full: "Berger, Gustav A. 1971. “Application of Heat-Activated Adhesives for the Consolidation of Paintings.” *Bulletin of the IIC* 11, no. 2: 124–28."
+    sort_as: "Berger 3"
+
   - id: "Berger 1972a"
     full: "Berger, Gustav. 1972a. “Formulating Adhesive for the Conservation of Paintings.” In *Conservation of Paintings and the Graphic Arts: Preprints of Contributions to the Lisbon Congress, 1972*, *9–14 October*, 613–29. London: International Institute for Conservation of Historic and Artistic Works."
+    sort_as: "Berger 4"
+
   - id: "Berger 1972b"
     full: "Berger, Gustav A. 1972b. “Testing Adhesives for the Consolidation of Paintings.” *Studies in Conservation* 17, no. 4: 173–94. <https://doi.org/10.2307/1505565>."
+    sort_as: "Berger 5"
+
   - id: "Berger 1974"
     full: "Berger, Gustav A. 1974. “Beva Lining of Torn Paintings: Three Films.” *Bulletin of the American Institute for Conservation of Historic and Artistic Works* 14, no. 2: 22–27."
+    sort_as: "Berger 6"
+
   - id: "Berger 1975"
     full: "Berger, Gustav A. 1975. “Heat-Seal Lining of a Torn Painting with Beva 371.” *Studies in Conservation* 20, no. 3: 126–51."
+    sort_as: "Berger 7"
+
   - id: "Berger 1981"
     full: "Berger, Gustav A. 1981. “The Role of Tension in the Preservation of Canvas Paintings: A Study of Panoramas.” In *Preprints of Contributions to the ICOM-CC Meeting in Ottawa 1981*, 81/2/3, 1–81/2/3,12. Paris: ICOM."
+    sort_as: "Berger 8"
+
   - id: "Berger 1996"
     full: "Berger, Gustav A. 1996. “Transparent Lining of Paintings.” In *ICOM Committee for Conservation: 11th Triennial Meeting, Edinburgh, Scotland, 1–6 September 1996: Preprints*, vol. 1, edited by Janet Bridgland, 239–44. London: James & James."
+    sort_as: "Berger 9"
+
   - id: "Berger and Russell 1984"
     full: "Berger, Gustav A., and William H. Russell. 1984. “The New Stress Tests on Canvas Paintings and Some of Their Implications on the Preservation of Paintings.” In *ICOM Committee for Conservation: 7th Triennial Meeting, Copenhagen, 10–14 September 1984: Preprints*, 84/2/7–9. Paris: ICOM."
+    sort_as: "Berger 19"
+
   - id: "Berger and Russell 1986"
     full: "Berger, Gustav A., and William H. Russell. 1986. “Investigations into the Reactions of Plastic Materials to Environmental Changes, Part I: The Mechanics of Decay of Paint Films.” *Studies in Conservation* 31: 49–64."
+    sort_as: "Berger 20"
+
   - id: "Berger and Russell 1988"
     full: "Berger, Gustav A., and William H. Russell. 1988. “An Evaluation of the Preparation of Canvas Paintings Using Stress Measurements.” *Studies in Conservation* 33, no. 4: 187–204."
+    sort_as: "Berger 21"
+
   - id: "Berger and Russell 1990"
     full: "Berger, Gustav A., and William H. Russell. 1990. “Deterioration of Surfaces Exposed to Environmental Changes.” *Journal of the American Institute for Conservation* 29, no. 1: 45–76."
+    sort_as: "Berger 22"
+
   - id: "Berger and Russell 2000"
     full: "Berger, Gustav A., and William H. Russell. 2000. *Conservation of Paintings: Research and Innovations*. London: Archetype."
+    sort_as: "Berger 23"
+
   - id: "Berger and Zeliger 1975"
     full: "Berger, Gustav A., and Harold I. Zeliger. 1975. “Detrimental and Irreversible Effects of Wax Impregnation on Easel Paintings.” In *ICOM Committee for Conservation 4th Triennial Meeting: Venice, 13–18 October 1975: Preprints*, 11/2-1–11/2-16. Paris: ICOM."
+    sort_as: "Berger 24"
+
   - id: "Berger and Zeliger 2003"
     full: "Berger, Gustav A., and Harold I. Zeliger. 2003. “Wax Impregnation of Cellulose: An Irreversible Process.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 25–27. London: Archetype."
+    sort_as: "Berger 25"
+
   - id: "Bernini 1997"
     full: "Bernini, D. 1997. “Origini del sistema museale dello stato a Roma.” *Bollettino d’Arte* 99, supp."
   - id: "Bernstein 1974"
@@ -186,18 +224,30 @@ entries:
     full: "Brew, J. S, W. J. Lewis, and C. Young. 2016. “Painting Conservation and Novel Artist Materials.” In *Designing for the 21st Century*, vol. 2, chap. 20, pt. 2, edited by Tom Inns. New York: Taylor and Francis. E-book."
   - id: "Bria 1986"
     full: "Bria, Carmen F., Jr. 1986. “The History of the Use of Synthetic Consolidants and Lining Adhesives.” *Western Association for Art Conservation Newsletter* 8, no. 1: 7–11."
+
   - id: "Bridarolli 2019"
     full: "Bridarolli, Alexandra. 2019. “Multiscale Approach in the Assessment of Nanocellulose-Based Materials as Consolidants for Painting Canvases.” PhD thesis, University College London."
+    sort_as: "Bridarolli 1"
+
   - id: "Bridarolli et al. 2018a"
     full: "Bridarolli, Alexandra, Marianne Odlyha, Oleksandr Nechyporchuk, Krister Holmberg, Cristina Ruiz-Recasens, Romain Bordes, and Laurent Bozec. 2018a. “Evaluation of the Adhesion and Performance of Natural Consolidants for Cotton Canvas Conservation.” *ACS Applied Materials and Interfaces* 10, no. 39: 33652–61. <https://doi.org/10.1021/acsami.8b10727>."
+    sort_as: "Bridarolli 2"
+
   - id: "Bridarolli et al. 2018b"
     full: "Bridarolli, Alexandra, Oleksandr Nechyporchuk, Marianne Odlyha, Marta Oriola, Romain Bordes, Krister Holmberg, Manfred Anders, Aurelia Chevalier, and Laurent Bozec. 2018b. “Nanocellulose-based Materials for the Reinforcement of Modern Canvas-supported Paintings.” *Studies in Conservation* 63, sup. 1: 332–34. <https://doi.org/10.1080/00393630.2018.1475884>."
+    sort_as: "Bridarolli 3"
+
   - id: "Bridarolli et al. 2020"
     full: "Bridarolli, Alexandra, Anna Nualart-Torroja, Aurélia Chevalier, Marianne Odlyha, and Laurent Bozec. 2020. “Systematic Mechanical Assessment of Consolidants for Canvas Reinforcement under Controlled Environment.” *Heritage Science* 8, art. 52. <https://doi.org/10.1186/s40494-020-00396-x>."
+    sort_as: "Bridarolli 4"
+
   - id: "Bridarolli et al. 2022"
     full: "Bridarolli, A., A. Freeman, N. Fujisawa, and M. Lukomski. 2022. “Mechanical Properties of Mammalian and Fish Glues over Range of Temperature and Humidity.” *Journal of Cultural Heritage* 53: 226–35."
+    sort_as: "Bridarolli 5"
+
   - id: "Brooklyn Museum 1940"
     full: "Brooklyn Museum. 1940. *Reports of the Museums of the Brooklyn Institute of Arts and Sciences, January 1, 1939–June 30, 1940*. Brooklyn, NY: Brooklyn Museum."
+
   - id: "Brown 1981"
     full: "Brown, Christopher. 1981. “London: The Princes Gate Collection at the Courtauld Institute Galleries.” *Burlington Magazine* 123, no. 942: 548–62."
   - id: "Browne 1955"
@@ -220,6 +270,8 @@ entries:
     full: "Calvo, Ana, Rita Maltieira, and Carlota Barbosa. 2014. “Confluencias y divergencias de los materiales de forración entre España y Portugal.” *Estudos de Conservação e Restauro* 6: 275–92. <https://doi.org/10.34618/ecr.6.7563>."
   - id: "CCI (Canadian Conservation Institute) 2011"
     full: "CCI (Canadian Conservation Institute). 2011. *Adhesives and Consolidants for Conservation: Research and Applications: Proceedings of Symposium, 2011*. Ottawa: Canadian Conservation Institute."
+    sort_as: "CEN 1"
+
   - id: "Capriotti and Iaccarino Idelson 2004"
     full: "Capriotti, G., and A. Iaccarino Idelson. 2004. *Tensionamento dei dipinti su tela, la ricerca del valore di tensionamento.* Florence: Nardini Editore."
   - id: "Cardinali et al. 2002"
@@ -244,8 +296,12 @@ entries:
     full: "Causa, R. 1960. “Introduction.” In *IV Mostra di restauri*. Naples: L’ Arte Tipografica."
   - id: "CEN 2011"
     full: "CEN (European Committee for Standardization). 2011. “Conservation of Cultural Property—Main General Terms and Definitions.” Standard EN 15898:2011. Brussels: CEN."
+    sort_as: "CEN 2"
+
   - id: "CEN 2019"
     full: "CEN (European Committee for Standardization). 2019. “Conservation of Cultural Property—Main General Terms and Definitions.” Standard EN 15898:2019. Brussels: CEN."
+    sort_as: "CEN 3"
+
   - id: "Cerasuolo 2007"
     full: "Cerasuolo, A. 2007. *I Chiariello. Sulle tracce di una genealogia familiare per la storia del mestiere di foderatore a Napoli, atti del convegno Lecce 17–19 novembre 2006*, edited by Regina Poso, 25–41. Galatina: Congedo."
   - id: "Cerasuolo 2008"
@@ -260,8 +316,12 @@ entries:
     full: "Cerasuolo, A. 2019. “*The Parable of the Blind* and *The Misanthrope*: Glue-tempera Technique in Bruegel’s Canvases in Capodimonte.” In *Bruegel: The Hand of the Master: Essays in Context*, edited by A. Hoppe-Harnoncourt, E. Oberthaler, S. Pénot, M. Sellink, and R. Spronk 64–77. Belgium: Hannibal."
   - id: "CESMAR7 2008"
     full: "CESMAR7 (Center for the Study of Restoration Materials). 2008. *Colour and Conservation: 3rd International Conference: Materials and Methods for Consolidation, and Scientific Methods for Evaluating Their Effectiveness: Proceedings of the Conference in Milan, 10–11 November 2006*. Saonara, Italy: Il Prato."
+    sort_as: "CESMAR7 1"
+
   - id: "CESMAR7 2010"
     full: "CESMAR7. 2010. *Colour and Conservation: 4th International Conference: Materials and Methods for Consolidation, and Scientific Methods for Evaluating Their Effectiveness: Proceedings of the Conference in Milan, 21–22 November 2008*. Saonara, Italy: Il Prato."
+    sort_as: "CESMAR7 2"
+
   - id: "Charteris 1999"
     full: "Charteris, L. 1999. “Reversibility—Myth and Misuse.” In *Reversibility—Does It Exist?*, edited by A. Oddy and S. Carroll, 141–45. London: British Museum."
   - id: "Chittenden, Lewis, and Percival-Prescott 2003"
@@ -278,18 +338,28 @@ entries:
     full: "Ciappi, Ottavio, and Marco Ciatti. 1997. “La conservazione dei dipinti su tela: esperienze di innovazione per i dipinti di grandi dimensioni.” *OPD restauro: Rivista dell'Opificio delle pietre dure e laboratorio di restauro di Firenze* 8: 159–64."
   - id: "Ciatti 2001"
     full: "Ciatti, Marco. 2001. *Rubens agli Uffizi, Il restauro delle Storie di Enrico IV.* Florence: Edifir Edizioni."
+    sort_as: "Ciatti 2001"
+
   - id: "Ciatti 2009"
     full: "Ciatti, M. 2009. *Appunti per un manuale di storia e teoria del restauro.* Florence: Edifir."
+    sort_as: "Ciatti 2009"
+
   - id: "Ciatti and Signorini 2007"
     full: "Ciatti, Marco, and Erminio Signorini, eds. 2007. *Dipinti su tela: Problemi e prospettive per la conservazione, giornata di studio, Ferrara, 1 aprile 2006* [Canvas paintings: Problems and perspectives in conservation, one-day meeting, Ferrara, April 1, 2006]. Saonara, Italy: Il Prato."
   - id: "Cimino et al. 2020"
     full: "Cimino, Dafne, Rebecca Ploeger, E. René de la Rie, Christopher W. McGlinchey, Tommaso Poli, Oscar Chiantore, and Johannes A. Poulis. 2020. “Progress in Formulating New Adhesives for Conservation Purposes.” In *Supporto e(') immagine: Problematiche di consolidamento e di conservazione dei supporti nei dipinti contemporanei: Atti del 8o Congresso internazionale Colore e conservazione, Università Ca’ Foscari, Venezia, 23–24 november 2018*, edited by Barbara Caranza. Saonara, Italy: Il Prato."
   - id: "*Civiltà del ’700 a Napoli* 1980"
     full: "*Civiltà del ’700 a Napoli: 1734–1799.* 1980. Exhibition catalogue, 2 vols. Florence: Centro Di Documentazione Internazionale sulle arti."
+
+
   - id: "Clark and Tschentke 1929"
-    full: "Clark, G. L., and H. L. Tschentke. 1929. “Physico-Chemical Studies on the Mechanism of the Drying of Linseed Oil I—Changes in Density of Films.” *Industrial and Engineering Chemistry* 21, no. 7: 621–27. [https://doi.org/10.1021/ie50235a003](about:blank)."
+    full: "Clark, G. L., and H. L. Tschentke. 1929. “Physico-Chemical Studies on the Mechanism of the Drying of Linseed Oil I—Changes in Density of Films.” *Industrial and Engineering Chemistry* 21, no. 7: 621–27. [https://doi.org/10.1021/ie50235a003](https://doi.org/10.1021/ie50235a003)."
+    sort_as: "Clark 2"
+
   - id: "Clark 1977"
     full: "Clark, K. 1977. *The Other Half: An Autobiography.* London: John Murray."
+    sort_as: "Clark 1"
+
   - id: "Clarricoates et al. 2012"
     full: "Clarricoates, Rhiannon, Alexandra Gent, Angelina Barros D’Sa, and Lizzie Bone, eds. 2012. *Adhesives and Consolidants in Painting Conservation*. London: Archetype."
   - id: "Clements and Mas 2001"
@@ -324,10 +394,16 @@ entries:
     full: "Costantini, Daniele. 2013. “Cold Lining and Mist Lining: Insights and Possibilities of Adaptation to the Mediterranean Climate.” *CeROArt Online* EGG 3. https://doi.org/10.4000/ceroart.3090."
   - id: "Costaras 2013"
     full: "Costaras, Nicola. 2013. “Richard Redgrave (1804–1888): First Curator of Paintings at the South Kensington Museum.” In *Conservation in the Nineteenth Century*, edited by Isabelle Brajer, 54–66. London: Archetype."
+    sort_as: "Costaras 1"
+
   - id: "Costaras and Richardson 2010"
     full: "Costaras, Nicola, and Clare Richardson. 2010. “Constable’s Sketches: Technical Observations.” In *John Constable: Oil Sketches from the Victoria & Albert Museum*, by Mark Evans, 145–57. London: V&A Publications."
+    sort_as: "Costaras 2"
+
   - id: "Costaras and Young 2000"
     full: "Costaras, Nicola, and Christina Young. 2000. *Setting the Scene: European Painted Cloths, 1400–2000.* London: Archetype."
+    sort_as: "Costaras 3"
+
   - id: "Croll 2007"
     full: "Croll, S. 2007. “Overview of Developments in the Paint Industry since 1930.” In *Modern Paints Uncovered*, edited by Thomas J. S. Learner, Patricia Smithen, Jay W. Krueger, and Michael R. Schilling, 17–29. Los Angeles: Getty Conservation Institute."
   - id: "Cummings and Hedley 2003"
@@ -458,32 +534,55 @@ entries:
     full: "Feller, Robert L., and Myron Wilt. 1993. *Evaluation of Cellulose Ethers for Conservation*. 2nd ed. Los Angeles: Getty Conservation Institute."
   - id: "Ferry 1980"
     full: "Ferry, John D. 1980. *Viscoelastic Properties of Polymers*. 3rd ed. New York: John Wiley & Sons."
+
   - id: "Fieux 1974"
     full: "Fieux, Robert E. 1974. “Mechanical Aspects of Vacuum Lining of Paintings.” *Bulletin of the American Institute for Conservation of Historic and Artistic Works* 15, no. 1: 48–50."
+    sort_as: "Fieux 1974"
+
   - id: "Fieux 1977"
     full: "Fieux, Robert. 1977. “Electrostatic Hold as a Pressure Source in Lining of Paintings: A Preliminary Report.” *Bulletin of the American Institute for Conservation* 16, no. 2: 36–38. https://doi.org/10.1179/019713677806156481."
+    sort_as: "Fieux 1977"
+
   - id: "Fieux 1978"
     full: "Fieux, Robert. 1978. “Electrostatic Hold: A New Technique of Lining.” In *ICOM Committee for Conservation: 5th Triennial Meeting, Zagreb, Yugoslavia, 1–8 October 1978: Preprints*, 78/2/7/1–10. Paris: ICOM."
+    sort_as: "Fieux 1978"
+
   - id: "Fife, van Och, and Harrison 2017"
     full: "Fife, G. R., J. van Och, and L. Harrison. 2017. “Miracle Mystery: Research and Treatment of the Mirakeldoeken, a 16th-Century Tüchlein by Jacob Cornelisz van Oostsanen.” In *ICOM Committee for Conservation 18th Triennial Conference Preprints, Copenhagen, 4–8 September 2017*, edited by J. Bridgland. Paris: ICOM."
   - id: "Filangieri di Candida 1902"
     full: "Filangieri di Candida, A. 1902. “La Galleria Nazionale di Napoli (Documenti e ricerche).” In *Le Gallerie Nazionali Italiane*, vol. 5, 208–354. Rome: Ministero della Pubblica Istruzione."
   - id: "Fischer 2002"
     full: "Fischer, Ulrike. 2002. “Die Konservierung und Restaurierung des Leinwandgemäldes Friedrich Wilhelm I, Kopie nach Antoine Pesne, Entstehungszeit vermummt. 1. Hälfte 18. Jahrhundert (Praktisches Thema, Band I) and Doublierung von Wasch-Harz-behandelten Gemälde mit Acrylharz - eine Versuchsreihe (Theoretisches Thema, Band II).” Unpublished thesis, Stichting Restauratie Atelier Limburg (SRAL), Maastricht."
+    sort_as: "Fischer 2002"
+
   - id: "Fischer and Eska 2011"
     full: "Fischer, Andrea, and Margarete Eska. 2011. “Joining Broken Wax Fragments: Testing Tensile Strength of Adhesives for Fragile and Non-Polar Substrates.” In *ICOM Committee for Conservation: 16th Triennial Meeting, Lisbon, Portugal, 19–23 September 2011: Preprints*, edited by Janet Bridgland and Catherine Antomarchi. Almada, Portugal: Critério; Paris: ICOM-CC."
+    sort_as: "Fischer 2011"
+
   - id: "Flock 2014"
     full: "Flock, Hannah. 2014. *Neue Untersuchungen zur Rissschließung in Leinwandbildträgern: Uni- und biaxiale Zugprüfungen an Prüfkörpern aus verklebtem Leinengarn und -gewebe sowie freien Klebstofffilmen. Kölner Beiträge zur Restaurierung und Konservierung von Kunst- und Kulturgut, Digitale Edition Band 2.* Cologne: CICS/FH Köln. <https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/601/file/Flock_MA.pdf>."
+    sort_as: "Flock 1"
+
   - id: "Flock et al. 2019"
     full: "Flock, Hannah, Stefan Diebels, Elisabeth Jägers, and Petra Demuth. 2019. “Störleim-Cellulosefaser-Gemische zur Einzelfadenverklebung.” *ZKK Zeitschrift für Kunsttechnologie und Konservierun*g, no. 1: 117–28."
+    sort_as: "Flock 3"
+
   - id: "Flock 2020a"
     full: "Flock, Hannah. 2020a. “Einzelfadenverklebung in der Gemälderestaurierung: Klebstoffe, Prüfsystematik und Ergebnisse.” PhD diss., UdS Saarbrücken. https://doi.org/10.22028/D291-34685."
+    sort_as: "Flock 2"
+
   - id: "Flock et al. 2020b"
     full: "Flock, Hannah, Stefan Diebels, Elisabeth Jägers, and Wulff Possart. 2020. “Thread-by-Thread Tear Mendings in Conservation of Canvas Paintings: A Problem of Reproducibility in Bonding Qualities.” *Journal of Adhesion*: 1–22. Also published in *Journal of Adhesion* 97, no. 14: 1336–57. <https://doi.org/10.1080/00218464.2020.1761797>."
+    sort_as: "Flock 4"
+
   - id: "Flock et al. 2021"
     full: "Flock, Hannah, Stefan Diebels, Elisabeth Jägers, and Petra Demuth. 2021. “New Investigations of Adhesives for Tear Repair of Canvas Paintings.” *Studies in Conservation* 66, no. 6: 321–41. <https://doi.org/10.1080/00393630.2020.1827185>."
+    sort_as: "Flock 5"
+
   - id: "Flock et al. 2022"
     full: "Flock, Hannah, Petra Demuth, Stefan Diebels, and Elisabeth Jägers. 2022. “Will It Hold? About the Single Thread Bonding Technique.” In *Structural Treatments on Double-Sided Paintings: Case-Studies and Professional Experiences on Double-Sided Paintings (18 November 2020) and Expert Meeting (23, 24, 25 November 2020): Proceedings*, special issue 1, 168–99. Venaria, Italy: Centro la Conservazione e Restauro La Venaria Reale."
+    sort_as: "Flock 6"
+
   - id: "Forest 1997"
     full: "Forest, Élisabeth. 1997. “BEVA 371 Film Linings: Variables Affecting Bond Strength.” Research Project, Master of Art Conservation, Queen’s University, Kingston, Canada."
   - id: "Forest 2019"
@@ -558,50 +657,87 @@ entries:
     full: "Gupta, K. K. 1993. *Restoration of Oil Paintings*. Delhi: Creative Offset."
   - id: "Hacke 1963"
     full: "Hacke, B. 1963. “En utraditionel metode til vacuum rentoillering af temperamaleri på lærred.” *Meddelelser om Konservering* 4: 42–48."
+    sort_as: "Hacke 1963"
+
   - id: "Hacke 1963–64"
     full: "Hacke, B. 1963–64. “En utraditionel metode til vacuumrentoilering af temperamaleri på lærred.” *Meddelelser om konservering* 1, no. 4: 42–48."
+    sort_as: "Hacke 1964"
+
   - id: "Hacke 1975"
     full: "Hacke, B. 1975. “A Low-Pressure Apparatus for Treatment of Paintings.” In *ICOM Committee for Conservation: 5th Triennial Meeting, Zagreb, Yugoslavia, 1–8 October 1978: Preprints*, 78/2/12/1–18. Paris: ICOM."
+    sort_as: "Hacke 1975"
+
   - id: "Hacke 1976"
     full: "Hacke, B. 1976. “Et lav-tryks apparat til behandling af malerier.” *Meddelelser om konservering* 2, no. 7–8: 197–222."
+    sort_as: "Hacke 1976"
+
   - id: "Hacke 1978"
     full: "Hacke, B. 1978. “A Low-Pressure Apparatus for Treatment of Paintings.” In *ICOM Committee for Conservation 5th Triennial Meeting: Zagreb, 1–8 October 1978: Preprints.* Paris: ICOM."
+    sort_as: "Hacke 1978"
+
   - id: "Hacke 1981a"
     full: "Hacke, Bent. 1981a. “Lining.” In *ICOM Committee for Conservation: 6th Triennial Meeting, Ottawa, September 1981: Preprints*, 84/2/21. Paris: International Council of Museums."
+    sort_as: "Hacke 1981a"
+
   - id: "Hacke 1981b"
     full: "Hacke, B. 1981b. “Low-Pressure—Heat, Moisture, Stretching: Notes on Further Developments.” In *ICOM Committee for Conservation: 6th Triennial Meeting, Ottawa, Canada, 21–25 September 1981: Preprints*, 81/2/8/1–11. Paris: ICOM."
+    sort_as: "Hacke 1981b"
+
   - id: "Hackney 1993"
     full: "Hackney, Stephen. 1993. “Introduction.” In *Measured Opinions: Collected Papers on the Conservation of Paintings*, edited by Caroline Villers. London: United Kingdom Institute for Conservation."
+    sort_as: "Hackney 1993"
+
   - id: "Hackney 2003"
     full: "Hackney, Stephen. 2003. “Relining, Lining, De-lining.” In *Alternatives to Lining: Structural Treatment of Paintings on Canvas without Lining: A Conference Held Jointly by the British Association of Paintings Conservator-Restorers and the United Kingdom Institute for Conservation Paintings Section, 19 September 2003: Preprints*, edited by Mary Bustin and Tom Caley, 5–8. London: United Kingdom Institute for Conservation."
+    sort_as: "Hackney 2003"
+
   - id: "Hackney 2004a"
     full: "Hackney, Stephen. 2004a. “Relining, Lining, De-lining.” In *Minimo intervento conservativo nel restauro dei dipinti, atti del convegno di Thiene (VI): 29-30 ottobre 2004: Secondo Congresso Internazionale Colore e Conservazione, Materiali e Metodi nel Restauro delle Opere Policrome Mobili*, 29–36. Padua: Il Prato."
+    sort_as: "Hackney 2004a"
+
   - id: "Hackney 2004b"
     full: "Hackney, Stephen. 2004b. “Paintings on Canvas: Lining and Alternatives.” *Tate Papers*, no. 2 (Autumn). https://www.tate.org.uk/research/tate-papers/02/paintings-on-canvas-lining-and-alternatives."
+    sort_as: Hackney 2004b"
+
   - id: "Hackney 2012"
     full: "Hackney, Stephen. 2012. “Lining Easel Paintings.” In *The Conservation of Easel Paintings*, edited by J. H. Stoner and R. Rushfield, 415–16, 423–24, 433–38. New York: Routledge."
+    sort_as: Hackney 2012"
+
   - id: "Hackney 2016"
     full: "Hackney, Stephen. 2016. “Colour Measurement of Acid-Detector Strips for the Quantification of Volatile Organic Acids in Storage Conditions.” *Studies in Conservation* 61, supp. 1: 55–69. https://doi.org/10.1080/00393630.2016.1140935."
+    sort_as: "Hackney 2016"
+
   - id: "Hackney 2020"
     full: "Hackney, Stephen. 2020. *On Canvas: Preserving the Structure of Paintings*. Los Angeles: Getty Publications."
+    sort_as: "Hackney 2020"
+
   - id: "Hackney et al. 2012"
     full: "Hackney, Stephen, Joan Riefsnyder, Mireille Te Marvelde, and Mikkel Scharff. 2012. “Lining Easel Paintings.” In *Conservation of Easel Paintings*, edited by Joyce Hill Stoner and Rebecca Rushfield, 415–52. Abingdon: Oxon; New York: Routledge."
+
   - id: "Hackney and Hedley 1984"
     full: "Hackney, Stephen, and Gerry Hedley. 1984. “Linen Canvas Artificially Aged.” In *ICOM Committee for Conservation: 7th Triennial Meeting: Copenhagen, 10–14 September 1984*, edited by Diana de Froment, 84.82.16–21. Paris: ICOM in association with the J. Paul Getty Trust."
+
   - id: "Hackney, Townsend, and Wyplosz 1996"
     full: "Hackney, Stephen, Joyce Townsend, and Nicolas Wyplosz. 1996. “Studies on the De-Acidification of Canvas Supports with Magnesium Methyl Methoxycarbonate (MMC).” In *ICOM Committee for Conservation, 11th Triennial Meeting, Edinburgh, Scotland, 1–6 September 1996: Preprints*, edited by Janet Bridgland, 271–75. London: James and James."
   - id: "Hagan 2017"
     full: "Hagan, Eric W. S. 2017. “Thermo-Mechanical Properties of White Oil and Acrylic Artist Paints,” *Progress in Organic Coatings* 104 (March): 28–33. https://doi.org/10.1016/j.porgcoat.2016.10.019."
+    sort_as: "Hagan 1"
+
   - id: "Hagan et al. 2007"
     full: "Hagan, Eric, Maria Charalambides, Thomas J. S. Learner, Alison Murray, and Christina Young. 2007. “Factors Affecting the Mechanical Properties of Modern Paints.” In *Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium*, edited by Thomas J. S. Learner et al., 225–33. Los Angeles: Getty Conservation Institute."
+    sort_as: "Hagan 2"
   - id: "Hagan et al. 2009"
     full: "Hagan, Eric W. S., Maria N. Charalambides, Christina T. Young, Thomas J. S. Learner, and Stephen Hackney. 2009. “Tensile Properties of Latex Paint Films with TiO2 Pigment,” *Mechanics of Time-Dependent Materials* 13, no. 2: 149–61. https://doi.org/10.1007/s11043-009-9076-y."
+    sort_as: "Hagan 3"
   - id: "Hagan et al. 2011a"
     full: "Hagan, Eric W. S., Maria N. Charalambides, Christina T. Young, Thomas J. S. Learner, and Stephen Hackney. 2011. “Influence of the Inorganic Phase Concentration and Geometry on the Viscoelastic Properties of Latex Coatings through the Glass-Transition.” *Polymer* 52, no. 7: 1662–73. https://doi.org/10.1016/j.polymer.2011.01.060."
+    sort_as: "Hagan 4"
   - id: "Hagan et al. 2011b"
     full: "Hagan, Eric, Maria N. Charalambides, Christina R. T. Young, Thomas J. S. Learner, and Stephen Hackney. 2011. “Micromechanics Models for Predicting Tensile Properties of Latex Paint Films.” In *Time Dependent Constitutive Behavior and Fracture/Failure Processes*, vol. 3, edited by Tom Proulx, 297–306. New York: Springer."
+    sort_as: "Hagan 5"
   - id: "Hagan et al. 2015"
     full: "Hagan, Eric W. S., Maria N. Charalambides, Christina R. T. Young, and Thomas J. S. Learner. 2015. “The Effects of Strain Rate and Temperature on Commercial Acrylic Artist Paints Aged One Year to Decades.” *Applied Physics A* 121, no. 3: 823–35. <https://doi.org/10.1007/s00339-015-9423-6>."
+    sort_as: "Hagan 6"
   - id: "Hamilton 1939"
     full: "Hamilton, George Heard. 1939. “The Edwin Austin Abbey Collection.” *Bulletin of the Associates in Fine Arts at Yale University* 9, no. 1: 10–13."
   - id: "Hansen 1970"
@@ -610,32 +746,59 @@ entries:
     full: "Hartman, E. Laura. 2017. “When the Dog Bites: Tear Mending a Large Steven Parrino Painting Following a Dog Attack.” In *AIC Painting Specialty Group Postprints* 30: 55–68. Chicago: AIC."
   - id: "Hartwig and Reumann 2000"
     full: "Hartwig, Thomas, and Ralf-Dieter Reumann. 2000. “Feinheit.” In *Prüfverfahren in der Textil- und Bekleidungstechnik*, edited by Ralf-Dieter Reumann, 250–59. Berlin: Springer-Verlag."
+
   - id: "Hedley 1975"
     full: "Hedley, Gerry A. 1975. “The Effect of Beeswax/Resin Impregnation on the Tensile Properties of Canvas.” In *ICOM Committee for Conservation 4th Triennial Meeting: Venice, 13–18 October 1975: Preprints*, 11/7-1–11/7-13. Paris: ICOM."
+    sort_as: "Hedley 1"
+
   - id: "Hedley 1981"
     full: "Hedley, Gerry. 1981. “The Stiffness of Lining Fabrics: Theoretical and Practical Considerations.” In *ICOM Committee for Conservation, 6th Triennial Meeting, Ottawa, 21–25 September 1981*, ICOM."
+    sort_as: "Hedley 2"
+
   - id: "Hedley 1988"
     full: "Hedley, Gerry. 1988. “Relative Humidity and the Stress/Strain Response of Canvas Paintings: Uniaxial Measurements of Naturally Aged Samples.” *Studies in Conservation* 33, no. 3: 133–48. <https://doi.org/10.2307/1506206>."
+    sort_as: "Hedley 3"
+
   - id: "Hedley 1993"
     full: "Hedley, Gerry. 1993. “Relative Humidity and the Stress/Strain Response of Canvas Paintings: Uniaxial Measurements of Naturally Aged Samples.” In *Measured Opinions: Collected Papers on the Conservation of Paintings*, edited by Caroline Villers, 86–96. London: United Kingdom Institute for Conservation."
+    sort_as: "Hedley 4"
+
   - id: "Hedley et al. 1991"
     full: "Hedley, G., M. Odlyha, A. Burnstock, J. Tillinghast, and C. Husband. 1991. “A Study of the Mechanical and Surface Properties of Oil Paint Films Treated with Organic Solvents and Water.” *Journal of Thermal Analysis* 37, no. 9: 2067–88. <https://doi.org/10.1007/BF01905579>."
+    sort_as: "Hedley 12"
+
   - id: "Hedley, Hackney, and Cummings 2003"
     full: "Hedley, Gerry A., Stephen Hackney, and Alan J. Cummings. 2003. “Lining in a Vacuum Envelope with a Traversing Infrared Heat Source.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 83–86. London: Archetype."
+    sort_as: "Hedley 9"
+
   - id: "Hedley and Odlyha 1989"
     full: "Hedley, Gerry, and Marianne Odlyha. 1989. “The Moisture Softening of Paint Samples and Its Implication for the Treatment of Fabric Supported Paintings.” In *Traitement des support. Travaux interdisciplinaires. Paris, 2,3 et 4 novembre 1989, 1989*, 157–62. Paris: Association des restaurateurs d'art et d'archéologie de formation universitaire."
+    sort_as: "Hedley 4"
+
   - id: "Hedley and Odlyha 1993"
     full: "Hedley, Gerry, and Marianne Odlyha. 1993. “The Moisture Softening of Paint Samples and Its Implication for the Treatment of Fabric Supported Paintings.” In *Measured Opinions: Collected Papers on the Conservation of Paintings*, edited by Caroline Villers, 99–102. London: United Kingdom Institute for Conservation of Historic and Artistic Works. Also published as *Traitement des support. Travaux interdisciplinaires. Paris, 2,3 et 4 novembre 1989, 1989*, 157–62. Paris: Association des restaurateurs d'art et d'archéologie de formation universitaire."
+    sort_as: "Hedley 5"
+
   - id: "Hedley and Villers 1982"
     full: "Hedley, Gerry, and C. Villers. 1982. “Polyester Sailcloth Fabric: A High Stiffness Lining Support.” In *Science and Technology in the Service of Conservation: Preprints of the Contributions to the 9th International IIC Congress, Washington, DC, 3–9 September 1982*, edited by N. S. Brommelle and G. Thomson, 154–58. London: International Institute for Conservation of Historic and Artistic Works."
+    sort_as: "Hedley 6"
+
   - id: "Hedley and Villers 1984"
     full: "Hedley, Gerry, and Caroline Villers. 1984. “Lining in 1984: Questionnaire Replies.” ICOM-CC, Copenhagen, preprints, 84.2.22-84.2.25."
+    sort_as: "Hedley 7"
+
   - id: "Hedley and Villers 1993"
     full: "Hedley, Gerry, and Caroline Villers. 1993. “Lining in 1984: Questionnaire Replies.” In *Measured Opinions: Collected Papers on the Conservation of Paintings*, edited by Caroline Villers, 37–41. London: United Kingdom Institute for Conservation."
+    sort_as: "Hedley 8"
+
   - id: "Hedley, Villers, and Mehra 1980"
     full: "Hedley, Gerry, Caroline Villers, and Vishwa R. Mehra. 1980. “Artists’ Canvases: Their History and Future.” Paper presented at the Symposium on the Conservation of Contemporary Art, National Gallery of Canada, Ottawa, July 7–12, 1980."
+    sort_as: "Hedley 10"
+
   - id: "Hedley, Villers, and Mehra 1993"
     full: "Hedley, Gerry, Caroline Villers, and Vishwa R. Mehra. 1993. “Artists’ Canvases: Their History and Future.” In *Measured Opinions: Collected Papers on the Conservation of Paintings*, edited by Caroline Villers, 50–56. London: United Kingdom Institute for Conservation."
+    sort_as: "Hedley 11"
+
   - id: "Hehl 2019"
     full: "Hehl, Sabrina. 2019. “Restaurierung einer historischen Spielschachtel aus dem Deutschen Spielearchiv Nürnberg.” Bachelor’s thesis, Technische Hochschule Köln."
   - id: "Heiber 1987"
@@ -696,8 +859,10 @@ entries:
     full: "Incerpi, G. 2011. “Vittorio Sampieri, il senese che ‘tenne ed insegnò alla toscana il vero modo del restaurare.’” In *Semplici e continue diligenze, conservazione e restauro dei dipinti nelle Gallerie di Firenze nel Settecento e nell’Ottocento*, 87–120. Florence: Edifir."
   - id: "ISO 1994"
     full: "ISO (International Organization for Standardization). 1994. *Textiles—Yarn from packages—Determination of Linear Density (Mass per Unit Length) by the Skein Method.* ISO 2060:1994. Geneva: ISO."
+
   - id: "ISO 2005"
-    full: "ISO. 2005. *Textiles—Standard Atmospheres for Conditioning and testing.* ISO 139:2005. Geneva: ISO."
+    full: "ISO (International Organization for Standardization). 2005. *Textiles—Standard Atmospheres for Conditioning and testing.* ISO 139:2005. Geneva: ISO."
+
   - id: "Ito 2014"
     full: "Ito, Yumi. 2014. “Immediate Treatment of Oil Paintings.” In *Stabilization Processing: Multi-Organizational Co-Operative Project for Preserving and Restoring Cultural Assets Damaged by Tsunami on March 11th, 2011*, edited by Lois Lydens, 106–9. Tokyo: ICOM Japan."
   - id: "Iurovetskaia et al. 2019"
@@ -722,14 +887,19 @@ entries:
     full: "Karpowicz, Adam. 1989. “In-Plane Deformations of Films of Size on Paintings in the Glass Transition Region.” *Studies in Conservation* 34, no. 2: 67–74. <https://doi.org/10.1179/sic.1989.34.2.67>."
   - id: "Keck 1965"
     full: "Keck, Sheldon. 1965. “The New York Conservation of a Peripatetic Portrait by John Singleton Copley.” *Connoisseur* 159, no. 640: 138–43."
+    sort_as: "Keck 1"
   - id: "Keck 1969"
     full: "Keck, S. 1969. “Mechanical Alteration of Paint Films.” *Studies in Conservation* 14, no. 1: 9–30."
+    sort_as: "Keck 1969"
   - id: "Keck 1977"
     full: "Keck, Caroline K. 1977. “Lining Adhesives: Their History, Uses, and Abuses.” *Journal of the American Institute for Conservation* 17, no. 1: 45–52."
+    sort_as: "Keck 1977"
   - id: "Keck and Keck 1954"
     full: "Keck, Caroline, and Sheldon Keck, dir. 1954. *A Future for the Past*. Audiovisual collection, Brooklyn Museum Archives, Brooklyn, NY. Digitized from 16 mm film."
+    sort_as: "Keck and Keck 1954"
   - id: "Keck and Keck 1962"
     full: "Keck, Caroline, and Sheldon Keck, dir. 1962. *Hidden Life of a Painting*. Audiovisual collection, Brooklyn Museum Archives, Brooklyn, NY. Digitized from 16 mm film."
+    sort_as: "Keck and Keck 1962"
   - id: "Keith et al. 2019"
     full: "Keith, Larry, Letizia Trevez, Marta Melchiorre de Crescenzo, and Joanna Russell. 2019. “Artemisia Gentileschi’s Self-Portrait as St. Catherine of Alexandria.” *National Gallery Technical Bulletin* 40: 4–17."
   - id: "Ketnath 1976"
@@ -744,20 +914,33 @@ entries:
     full: "Kireeva, Vilena, and Maria Churakova. 2013. “The Technique of Removing of Resins and Oil Stains from Canvas Using Foamed Silicone Dioxide.” *Artistic Heritage: Storage, Research, Restoration* 27, no. 57. https://www.gosniir.ru/files/62be0cd4-5394-4e5c-a488-9bf3d212e1ef.epub."
   - id: "Koen 1988"
     full: "Koen, Billy V. 1988. “Toward a Definition of the Engineering Method,” *European Journal of Engineering Education* 13, no. 3: 307–15. <https://www.tandfonline.com/doi/abs/10.1080/03043798808939429>."
+
   - id: "Kolman et al. 2017"
     full: "Kolman, Krzysztof, Oleksandr Nechyporchuk, Michael Persson, Krister Holmberg, and Romain Bordes. 2017. “Preparation of Silica/Polyelectrolyte Complexes for Textile Strengthening Applied to Painting Canvas Restoration.” *Colloids and Surfaces A: Physicochemical and Engineering Aspects* 532, no. 5: 420–27. <https://doi.org/10.1016/j.colsurfa.2017.04.051>."
+    sort_as: "Kolman et al. 2017"
   - id: "Kolman et al. 2018"
     full: "Kolman, Krzysztof, Oleksandr Nechyporchuk, Michael Persson, Krister Holmberg, and Romain Bordes. 2018. “Combined Nanocellulose/Nanosilica Approach for Multiscale Consolidation of Painting Canvases.” *ACS Applied Nano Materials* 1, no. 5: 2036–40. <https://doi.org/10.1021/acsanm.8b00262>."
+    sort_as: "Kolman et al. 2018"
   - id: "Kolman et al. 2022"
     full: "Kolman, K., G. Poggi, M. Baglioni, D. Chelazzi, P. Baglioni, M. Persson, K. Holmberg, and R. Bordes. 2022. “pH-Controlled Assembly of Polyelectrolyte Layers on Silica Nanoparticles in Concentrated Suspension.” *Journal of Colloid and Interface Science* 615: 265–72."
+    sort_as: "Kolman et al. 2022"
+
   - id: "Konietzny 2014"
     full: "Konietzny, Mona. 2014. “‘Madonna mit Kind’ eines unbekannten Künstlers, Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg. Konservierung eines zweifach doublierten, formatveränderten und großflächig übermalten Leinwandgemäldes.” Diploma thesis, Hochschule für Bildende Künste, Dresden."
+    sort_as: "Konietzny 2014"
+
   - id: "Konietzny 2015"
     full: "Konietzny, Mona. 2015. “Gewebeverklebung mit Störleimgittern. Erste Anwendung und Überprüfung einer innovativen Technik zur Verbindung von Leinwänden mit Störleim.” *Zeitschrift Für Kunsttechnologie und Konservierung* 29, no. 1: 79–94."
+    sort_as: "Konietzny 2015"
+
   - id: "Konietzny et al. 2022"
     full: "Konietzny, Mona, Ella Dudew, Ursula Haller, Nadim Scherrer, and Karolina Soppa. 2022. “Klebstoffgitter aus Methylcellulosen für die Konservierung textiler Bildträger: Anwendungseigenschaften und Kennwerte im Vergleich zu Verklebungen mit BEVA® 371-Filmen.” *Zeitschrift Für Kunsttechnologie und Konservierung* 35, no. 1 (2022): 180–94."
+    sort_as: "Konietzny 2022"
+
   - id: "Konietzny, Soppa, and Haller 2018"
     full: "Konietzny, Mona, Karolina Soppa, and Ursula Haller. 2018. “Canvas Bonding with Adhesive Meshes. Poster.” In *Konsolidieren und Kommunizieren. Materialien und Methoden zur Konsolidierung von Kunst- und Kulturgut im interdisziplinären Dialog. Internationale Tagung der HAWK Hochschule für Angewandte Wissenschaft und Kunst in Hildesheim, 25–27 Januar 2018*, edited by Angela Weyer, 169. Petersberg, Germany: Michael Imhof Verlag. <https://hornemann-institut.de/german/epubl_poster49.php#doi>."
+    sort_as: "Konietzny 2018"
+
   - id: "Köster (1827) 2001"
     full: "Köster, C. (1827) 2001. *Sul restauro degli antichi dipinti ad olio*. Edited by G. Perusini. Udine: Forum."
   - id: "Koyano 1968"
@@ -804,8 +987,10 @@ entries:
     full: "López Mora, Rebeca. 2011. *Otomíes y Mexicanos en la tierra de en medio: Pueblos indios en el norponiente del Valle de México*. Mexico City: Universidad Nacional Autónoma de México."
   - id: "Lucas 1921"
     full: "Lucas, Edward Verral. 1921. *Edwin Austin Abbey, Royal Academician: The Record of His Life and Work.* 2 vols. London: Methuen."
+    sort_as: "Lucas 1921"
   - id: "Lucas and Plesters 1978"
     full: "Lucas, A., and J. Plesters. 1978. “Titian's *Bacchus and Ariadne*.” *National Gallery Technical Bulletin* 2: 25–48."
+    sort_as: "Lucas 1978"
   - id: "Ly et al. 2008"
     full: "Ly, B., W. Thielemans, A. Dufresne, D. Chaussy, and M. N. Belgacem. 2008. “Surface Functionalization of Cellulose Fibres and Their Incorporation in Renewable Polymeric Matrices.” *Composites Science and Technology* 68, nos. 15–16: 3193–201. <https://doi.org/10.1016/j.compscitech.2008.07.018>."
   - id: "Macarrón, Calvo, and Gil 2013"
@@ -832,12 +1017,19 @@ entries:
     full: "Maksimov, R. D., V. P. Mochalov, and Yu S. Urzhumtsev. 1972. “Time—Moisture Superposition.” *Polymer Mechanics* 8, no. 5: 685–89."
   - id: "Marinetti 2007"
     full: "Marinetti, R. 2007. “La foderatura dei dipinti: Documenti e protagonisti.” In *Restauri pittorici e allestimenti museali a Roma tra Settecento e Ottocento*, edited by S. Rinaldi, 29–46, appendix. Florence: Edifir."
+
   - id: "Markevičius et al. 2011"
     full: "Markevicius, T., H. Meyer, N. Olsson, and R. Furferi. 2011. “Conductive Transparent Film Heater as Alternative to Heating Table: Towards New Intelligent Mobile Accurate Thermo-electrical (IMAT) Device for Structural Conservation of Paintings.” In *Art’11: 10th International Conference on Non-destructive Investigations and Microanalysis for the Diagnostics and Conservation of Cultural and Environmental Heritage.* Brescia, Italy: Foresti."
+    sort_as: "Markevičius et al. 2011"
+
   - id: "Markevičius et al. 2013"
     full: "Markevičius, T., H. Meyer, K. Saborowski, N. Olsson, and R. Furferi. 2013. “Carbon Nanotubes in Art Conservation.” *International Journal of Conservation Science*, 4, special issue: 633–46."
+    sort_as: "Markevičius et al. 2013"
+
   - id: "Markevičius et al. 2017"
-    full: "Markevičius, T., N. Olsson, R. Hegelbach, R. Furferi, H. Meyer, K. Seymour, K. Saborowski, L. Borgioli, L. Amorosi, L. Conti, R. Šimaitė, E. Kielė, S. Lenaerts, and J. Bierings. 2017. “New Approaches to an Old Problem: A Precision Mild Heat Transfer Method for the Nuanced Treatment of Contemporary and Modern Art Works.” In *ICOM Committee for Conservation: 18th Triennial Conference, Copenhagen, 4–8 September 2017: Linking Past and Future: Preprints*, edited by Janet Bridgland, art. 1308. Paris: ICOM. "
+    full: "Markevičius, T., N. Olsson, R. Hegelbach, R. Furferi, H. Meyer, K. Seymour, K. Saborowski, L. Borgioli, L. Amorosi, L. Conti, R. Šimaitė, E. Kielė, S. Lenaerts, and J. Bierings. 2017. “New Approaches to an Old Problem: A Precision Mild Heat Transfer Method for the Nuanced Treatment of Contemporary and Modern Art Works.” In *ICOM Committee for Conservation: 18th Triennial Conference, Copenhagen, 4–8 September 2017: Linking Past and Future: Preprints*, edited by Janet Bridgland, art. 1308. Paris: ICOM."
+    sort_as: "Markevičius et al. 2017"
+
   - id: "Martin 1972"
     full: "Martin, G. 1972. *The Flemish School circa 1600–circa 1900.* London: National Gallery."
   - id: "Martín-Ramos et al. 2018"
@@ -854,44 +1046,83 @@ entries:
     full: "McGlinchey, Christopher, Rebecca Ploeger, Annalisa Colombo, Roberto Simonutti, Michael Palmer, Oscar Chiantore, Robert Proctor, Bertrand Lavédrine, and E. René de la Rie. 2011. “Lining and Consolidating Adhesives: Some New Developments and Areas of Future Research.” In *Adhesives and Consolidants for Conservation: Research and Applications; Proceedings of Symposium 2011, October 17–21*, 265–84. Ottawa: Canadian Conservation Institute."
   - id: "McMillan 2005"
     full: "McMillan, Gillian. 2005. “Touring Robert Rauschenberg’s 32-ft-long Painting *Barge.*” In *Big Pictures: Problems and Solutions for Treating Outsize Paintings*, edited by Sally Woodcock, 45–51. London: Archetype."
+
   - id: "Mecklenburg 1982"
     full: "Mecklenburg, Marion F. 1982. “Some Aspects of the Mechanical Behavior of Fabric Supported Paintings: Report to the Smithsonian Institution.” Unpublished report, Smithsonian Museum Conservation Institute, Washington, DC. Reprinted in Dawn V. Rogala, Paula T. DePriest, A. Elena Charola, and Robert J. Koestler, eds. *The Mechanics of Art Materials and Its Future in Heritage Science*, 107–29. Washington, DC: Smithsonian Contributions to Museum Conservation, 2019. <https://doi.org/10.5479/si.11342126>."
+    sort_as: "Mecklenburg 1"
+
   - id: "Mecklenburg 1991"
     full: "Mecklenburg, Marion, ed. 1991. *Art in Transit: Studies in the Transport of Paintings*. Washington, DC: National Gallery of Art."
+    sort_as: "Mecklenburg 2"
+
   - id: "Mecklenburg 2005"
     full: "Mecklenburg, Marion F. 2005. “The Structure of Canvas Supported Paintings.” In *Interim Meeting: International Conference on Painting Conservation: Canvases: Behaviour, Deterioration & Treatment*, edited by M. C. Agusti, L. F. López, S. M. Rey, and V. G. Blay, 119–55. Valencia: Universidad Politècnica de València."
+    sort_as: "Mecklenburg 3"
+
   - id: "Mecklenburg 2007a"
     full: "Mecklenburg, Marion F. 2007a. “Determining the Acceptable Ranges of Relative Humidity and Temperature in Museums and Galleries, Part 1: Structural Response to Relative Humidity.” Report, Smithsonian Museum Conservation Institute, Washington, DC. <https://repository.si.edu/handle/10088/7056>."
+    sort_as: "Mecklenburg 4"
+
   - id: "Mecklenburg 2007b"
     full: "Mecklenburg, Marion F. 2007b. “Determining the Acceptable Ranges of Relative Humidity and Temperature in Museums and Galleries: Part 2, Structural Response to Temperature.” Report, Smithsonian Museum Conservation Institute, Washington, DC. <https://repository.si.edu/handle/10088/7055."
+    sort_as: "Mecklenburg 5"
+
   - id: "Mecklenburg 2007c"
     full: "Mecklenburg, Marion F. 2007c. *Meccanismi di cedimento nei dipinti su tela: approcci per lo sviluppo di protocolli di consolidamento.* Saonara, Italy: Il Prato."
+    sort_as: "Mecklenburg 6"
+
   - id: "Mecklenburg, Fuster-López, and Ottolini 2012"
     full: "Mecklenburg, Marion F., L. Fuster-López, and Silvia Ottolini. 2012. “A Look at the Structural Requirements of Consolidation Adhesives for Easel Paintings.” In *Adhesives and Consolidants in Painting Conservation*, edited by Angelina Barros D’Sa, Lizzie Bone, Rhiannon Clarricoates, and Alexandra Gent, 7–23. London: Archetype."
+    sort_as: "Mecklenburg 9"
+
   - id: "Mecklenburg, McCormick-Goodhart, and Tumosa 1994"
     full: "Mecklenburg, Marion, Mark McCormick-Goodhart, and Charles S. Tumosa. 1994. “Investigation into the Deterioration of Paintings and Photographs Using Computerized Modeling of Stress Development.” *Journal of the American Institute for Conservation* 33, no. 2: 153–70."
+    sort_as: "Mecklenburg 10"
+
   - id: "Mecklenburg and Tumosa 1991a"
     full: "Mecklenburg, Marion F., and Charles S. Tumosa. 1991a. “Introduction into the Mechanical Behavior of Paintings under Rapid Loading Conditions.” In *Art in Transit: Studies in the Transport of Paintings*, edited by Marion F. Mecklenburg. Washington, DC: National Gallery of Art."
+    sort_as: "Mecklenburg 7"
+
   - id: "Mecklenburg and Tumosa 1991b"
     full: "Mecklenburg, Marion F., and Charles S. Tumosa. 1991b. “Mechanical Behavior of Paintings Subjected to Changes in Temperature and Relative Humidity.” In *Art in Transit: Studies in the Transport of Paintings*, edited by Marion F. Mecklenburg, 137–72. Washington, DC: National Gallery of Art."
+    sort_as: "Mecklenburg 8"
+
   - id: "Mehra 1972"
     full: "Mehra, Vishwa R. 1972. “Comparative Study of Conventional Relining Methods and Materials and Research towards Their Improvement.” Unpublished interim report for the Central Research Laboratory for Objects of Art and Science, Amsterdam, and ICOM Committee for Conservation. Published in *Interim Report of ICOM Conference, Committee for the Care of Painting*, 18–19, and *ICOM Committee for Conservation: 3rd Triennial Meeting, Madrid, Spain, 1972: Preprints*, 72/21/4. Paris: International Council of Museums; Amsterdam: Central Research Laboratory for Objects of Art and Science."
+    sort_as: "Mehra 1972"
+
   - id: "Mehra 1975a"
     full: "Mehra, Vishwa R. 1975a. “Further Developments in Cold-Lining (Nap-Bond System).” In *ICOM Committee for Conservation 4th Triennial Meeting, Venice, 13–18 October 1975: Preprints*, 75/11/5/1-26. Paris: International Council of Museums."
+    sort_as: "Mehra 1975a"
+
   - id: "Mehra 1975b"
     full: "Mehra, Vishwa R. 1975b. “Nap-Bond Cold Lining on a Low-Pressure Table.” *Maltechnik Restauro: Internationale Zeitschrift Für Farb- Und Maltechniken, Restaurierung Und Museumsfragen: Mitteilungen Der IADA* 81, no. 2: 87–95."
+    sort_as: "Mehra 1975b"
+
   - id: "Mehra 1978"
     full: "Mehra, Vishwa R. 1978. “Cold-Lining and the Care of the Paintlayer in a Triple-Stretcher System: Also: Answers to Some Questions and Doubts about the Cold-Lining System.” In *ICOM Committee for Conservation: 5th Triennial Meeting, Zagreb, Yugoslavia, 1–8 October 1978: Preprints*, 78/2/5/1–19. Paris: International Council of Museums."
+    sort_as: "Mehra 1978"
+
   - id: "Mehra 1981a"
     full: "Mehra, Viswha R. 1981a. “The Cold Lining of Paintings.” *The Conservator* 5, no. 1: 12–14."
+    sort_as: "Mehra 1981a"
+
   - id: "Mehra 1981b"
     full: "Mehra, Vishwa R. 1981b. “Minimizing Strain and Stress in Lining Canvas Paintings.” In *ICOM Committee for Conservation: 6th Triennial Meeting: Ottawa, Canada, 21–25 September 1981: Preprints*, 81/2/14-1–8. Paris: ICOM."
+    sort_as: "Mehra 1981b"
+
   - id: "Mehra 1984"
     full: "Mehra, V. R. 1984. “Cold Lining and Its Scope: Some Case Histories.” In *ICOM-CC: 7th Triennial Meeting, 10–14 September 1984*, edited by D. Froment. Copenhagen: ICOM."
+    sort_as: "Mehra 1984"
+
   - id: "Mehra 1995"
     full: "Mehra, V. R. 1995. *Foderatura a freddo, i testi fondamentali per la metodologia e la pratica*. Florence: Nardini Editore."
+    sort_as: "Mehra 1995"
+
   - id: "Mehra 2003"
     full: "Mehra, Vishwa R. 2003. “A Low-Pressure Cold-Relining Table.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 121–24. London: Archetype."
+    sort_as: "Mehra 2003"
+
   - id: "Melchiorre Di Crescenzo et al. 2019"
     full: "Melchiorre Di Crescenzo, Marta, John K. Delaney, Catherine Higgitt, Joanna Russell, and Marika Spring. 2019. “Artemisia Gentileschi’s Self-Portrait as Saint Catherine of Alexandria: Hyperspectral Imaging and Technical Investigation of a New National Gallery Acquisition.” Paper presented at Technart 2019, Brugges, 7–10 May 2019."
   - id: "Melià Angulo, Fuster-López, and Vicente Escuder 2017"
@@ -946,12 +1177,19 @@ entries:
     full: "National Gallery. 2019. “Repairing a 17th Century Canvas: Art Restoration of Artemisia Gentileschi’s Self-Portrait.” Video. London: The National Gallery."
   - id: "National Museum of Modern Art, Tokyo 1977"
     full: "National Museum of Modern Art, Tokyo, ed. 1977. *Senso kirokuga shūfuku hōkoku 戦争記録画修復報告*, Tokyo: National Museum of Modern Art."
+
   - id: "Nazarova, Malachevskaya, and Yashkina 1990"
     full: "Nazarova, Irina, Elena Malachevskaya, and Larisa Yashkina. 1990. “Technique of Restoring Paintings on Canvas without Lining.” In *ICOM Committee for Conservation, 9th Triennial Meeting, Dresden, German Democratic Republic, 26-31 August 1990: Preprints*, 130–32. Los Angeles: Getty Conservation Institute."
+    sort_as: "Nazarova 2"
+
   - id: "Nazarova 1984"
     full: "Nazarova, Olga. 1984. “Studies in Physicomechanical and Physicochemical Properties of Fish Glue with Additives of Catamine AB and Honey.” *Express Information: Culture and Art in USSR: Museum Studies and Preservation of Cultural Heritage: Restoration and Conservation of Museum Valuable* 9: 27–28."
+    sort_as: "Nazarova 1"
+
   - id: "Nazarova and Potapov 1984"
     full: "Nazarova, Olga, and Evgeniy Potapov. 1984. “Using Infrared Spectroscopy to Investigate the Process of Degradation of Fish Glue, Containing Catamine AB and Honey.” *Express Information: Culture and Art in USSR: Museum Studies and Preservation of Cultural Heritage. Restoration and Conservation of Museum Valuable* 7: 6–8."
+    sort_as: "Nazarova 3"
+
   - id: "Nechyporchuk et al. 2018"
     full: "Nechyporchuk, Oleksandr, Krzysztof Kolman, Alexandra Bridarolli, Marianne Odlyha, Laurent Bozec, Marta Oriola, Gema Campo-Francés, Michael Persson, Krister Holmberg, and Romain Bordes. 2018. “On the Potential of Using Nanocellulose for Consolidation of Painting Canvases.” *Carbohydrate Polymers* 194: 161–69. <https://doi.org/10.1016/j.carbpol.2018.04.020>."
   - id: "New Bedford Whaling Museum 2018"
@@ -990,20 +1228,34 @@ entries:
     full: "Oriola-Folch, Marta, Gema Campo-Francés, Anna Nualart-Torroja, Cristina Ruiz-Recasens, and Iris Bautista-Morenilla. 2020. “Novel Nanomaterials to Stabilise the Canvas Support of Paintings Assessed from a Conservator’s Point of View.” *Heritage Science* 8, art. 23. <https://doi.org/10.1186/s40494-020-00367-2>."
   - id: "Orlandi 1753"
     full: "Orlandi, P. A. 1753. *Abecedario pittorico.* Venice: Guarienti."
+
   - id: "Ormsby et al. 2008"
     full: "Ormsby, B., E. Hagan, P. Smithen, and T. Learner. 2008. “Comparing Contemporary Titanium White-Based Acrylic Emulsion Grounds and Paints: Characterisation, Properties and Conservation.” In *Preparation for Painting: The Artists’ Choice and Its Consequences*, edited by Joyce Townsend, 163–71. London: Archetype."
+    sort_as: "Ormsby 3"
+
   - id: "Ormsby et al. 2019"
     full: "Ormsby, B., J. Lee, I. Bonaduce, and A. Lluveras-Tenorio. 2019. “Evaluating Cleaning Systems for Use on Water Sensitive Modern Oil Paints: A Comparative Study.” In *Conservation of Modern Oil Paintings*, 11–35. Cham, Switzerland: Springer."
+    sort_as: "Ormsby 5"
+
   - id: "Ormsby and Learner 2009"
     full: "Ormsby, Bronwyn, and Tom Learner. 2009. “The Effects of Wet Cleaning Treatments on Acrylic Emulsion Artists’ Paints: A Review of Recent Scientific Research.” *Reviews in Conservation* 54, supp1: 29–41. https://doi.org/10.1179/sic.2009.54.Supplement-1.29."
+    sort_as: "Ormsby 1"
+
   - id: "Ormsby and Learner 2016"
     full: "Ormsby, Bronwyn, and Thomas J. S. Learner. 2016. “Recent Developments in the Cleaning of Modern Paints.” *Conservation Perspectives: The GCI Newsletter*, Fall. http://www.getty.edu/conservation/publications_resources/newsletters/31_2/feature.html."
+    sort_as: "Ormsby 2"
+
   - id: "Ormsby et al. 2010"
     full: "Ormsby, Bronwyn, Alexia Soldano, Melinda H. Keefe, Alan Phenix, and Tom Learner. 2010. “An Empirical Evaluation of a Range of Cleaning Agents for Removing Dirt from Artists’ Acrylic Emulsion Paints.” *AIC Paintings Specialty Group Postprints* 23: 77–87."
+    sort_as: "Ormsby 4"
+
   - id: "Osmond 2019"
     full: "Osmond, G. 2019. “Zinc Soaps: An Overview of Zinc Oxide Reactivity and Consequences of Soap Formation in Oil-Based Paintings.” In *Metal Soaps in Art: Conservation and Research*, edited by Francesca Casadio, Katrien Keune, Petria Noble, Annelies Van Loon, Ella Hendriks, Silvia A. Centeno, and Gillian Osmond, 25–46. Cham: Springer."
+
   - id: "Osmond et al. 2018"
     full: "Osmond, G., L. Chua, A. Carter, R. Awburn, and F. Mohd Amir. 2018. “An FTIR Survey of Contemporary Pre-primed Artist Canvases.” Poster presented at Infrared & Raman Users Group (IRUG) 13th Biennial Conference, Sydney. <https://www.roots.gov.sg/resources-landing/publications/Heritage-Conservation-Centre/An-FTIR-survey-of-contemporary-pre-primed-artist-canvases>."
+
+
   - id: "Our Choices Art 2017"
     full: "Our Choices Art. 2017. Interview with Chéri Samba. Three-part video: “Congo Imagination,” “Assert Your Style,” and “From Africa to the World.” <https://www.youtube.com/watch?v=0loCX-b8hGQ>."
   - id: "Pacheco [1638] 1990"
@@ -1094,12 +1346,20 @@ entries:
     full: "Reale Istituto d’Incoraggiamento. 1855. *Disamina eseguita dal Reale Istituto d’Incoraggiamento de’ saggi esposti nella solenne mostra industriale del 30 maggio 1853.* Naples: Reale Istituto d’Incoraggiamento."
   - id: "Rebrikova 2013"
     full: "Rebrikova, Natalia. 2013. “Fungicidal Treatment of Easel Oil Paintings with Quaternary Ammonium Salt: 2012.” *Artistic Heritage: Storage, Research, Restoration* 27 (57). <https://www.gosniir.ru/files/62be0cd4-5394-4e5c-a488-9bf3d212e1ef.epub>."
+
+
   - id: "Rees Jones 1991"
     full: "Rees Jones, Stephen. 1991. “The Changed Appearance of Oil Paintings Due to Increased Transparency.” *Studies in Conservation* 36, no. 2: 151–54."
+    sort_as: "Rees Jones 1"
+
   - id: "Rees Jones, Cummings, and Hedley 1975"
     full: "Rees Jones, S., A. Cummings, and G. Hedley. 1975. “Relining Materials and Techniques: Summary of Replies to a Questionnaire.” In *ICOM Committee for Conservation: 4th Triennial Meeting, Venice, 13–18 October 1975: Preprints*, 75/11/3. Paris: ICOM."
+    sort_as: "Rees Jones 2"
+
   - id: "Rees Jones, Cummings, and Hedley 2003"
     full: "Rees Jones, S., A. Cummings, and G. Hedley. 2003. “Appendix 1: Relining Materials and Techniques; Summary of Replies to a Questionnaire.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 137–39. London: Archetype."
+    sort_as: "Rees Jones 3"
+
   - id: "Reeve 1984"
     full: "Reeve, Anthony. 1984. “A New Multi-Purpose Low-Pressure Conservation Table for the Treatment of Paintings.” *Studies in Conservation* 29, no. 3: 124–28."
   - id: "Reeve, Ackroyd, and Stephenson-Wright 1988"
@@ -1136,8 +1396,12 @@ entries:
     full: "Rodrigues, J. Delgado, and Antonella Grossi. 2007. “Indicators and Ratings for the Compatibility Assessment of Conservation Actions.” *Journal of Cultural Heritage* 8, no. 1: 32–43."
   - id: "Romanov 2013"
     full: "Romanov, Artyom. 2013. “Practice of Making Stretchers for Two-Sided Paintings.” *Artistic Heritage: Storage, Research, Restoration* 27 (57). <https://www.gosniir.ru/files/62be0cd4-5394-4e5c-a488-9bf3d212e1ef.epub>."
+    sort_as: "Romanov 2013"
+
   - id: "Romanova 2019"
     full: "Romanova, Anastasia. 2019. “Using Different Adhesives for Strip-Lining.” In *Materials of All-Russian Scientific and Practical Conference “RESCON-2019*,” edited by S. G Burshneva, 170–73. Kazan, Russia: Kazan University Press. http://www.gosniir.ru/file.ashx?objid=10fd34b6-8329-4b61-b39b-bf25c46f63e0."
+    sort_as: "Romanov 2019"
+
   - id: "Rossi-Doria 2010"
     full: "Rossi-Doria, Matteo. 2010. “Diversity of Methodologies and Decision-Making Processes in the Structural Conservation of Oversize Paintings.” In *Actas Del Congreso Internacional de Restauración de pinturas sobre lienzo de gran formato* [International Congress on outsize paintings conservation], *Valencia, Spain, 2010*, edited by Susana Martín Rey, Vicente Guerola Blay, and María Castell Agust. Valencia: Universitat Politècnica de València."
   - id: "Rossi-Doria 2013"
@@ -1192,10 +1456,14 @@ entries:
     full: "Schlotter, A. 2009. “Het plafondstuk op doek uit de Grote Zaal van Huys Amerongen & Onderzoek naar het bedoeken van een plafondstuk.” SRAL archives, unpublished treatment report."
   - id: "Schneider 2021"
     full: "Schneider, A., ed. 2021. *Michael Armitage, Paradise Edict*. Exhibition catalogue, Haus der Kunst. Cologne: Verlag der Buchhandlung Walther und Franz König; Munich: Haus der Kunst."
+
   - id: "Schwartz and Kossmann 1998"
     full: "Schwartz, M., and H. Kossmann. 1998. “Acrylic and Acrylic/Styrene Copolymer Dispersions.” *European Coatings Journal* 3: 134–40."
+    sort_as: "Schwartz 1"
+
   - id: "Schwartzbaum 1993"
     full: "Schwartzbaum, Paul. 1993. “Fieux Linings from the 1980s.” Paper presented at the Gerry Hedley Memorial Forum—Mechanical Behaviour of Paintings: Experience and Theory, Ottawa, October 22–23, 1993."
+    sort_as: "Schwartz 2"
   - id: "Seccaroni 2012"
     full: "Seccaroni, C. 2012. “A New Survey of Caravaggio’s Canvases and Preparatory Layers: Materials and Aesthetic Effects.” In *Caravaggio’s Painting Technique: Proceedings of the Charisma Workshop*, edited by Marco Ciatti and Brunetto Giovanni Brunetti, 56–67. Florence: Nardini Editore."
   - id: "Secco-Suardo 1866"
@@ -1208,10 +1476,15 @@ entries:
     full: "Seymour, Kate, and Jos van Och. 2005. “A Cold-Lining Technique for Large-Scale Paintings.” In *Big Pictures: Problems and Solutions for Treating Outsize Paintings*, edited by Sally Woodcock, 96–104. London: Archetype."
   - id: "Shapley 1973"
     full: "Shapley, Fern Rusk. 1973. *Paintings from the Samuel H. Kress Collection: Italian Paintings XVI–XVIII Century*. London: Phaidon."
+
   - id: "Silva, Doménech-Carbó, and Osete-Cortina 2015"
     full: "Silva, Miguel F., María Teresa Doménech-Carbó, and Laura Osete-Cortina. 2015. “Characterization of Additives of PVAc and Acrylic Waterborne Dispersions and Paints by Analytical Pyrolysis-GC-MS and Pyrolysis-Silylation-GC-MS.” *Journal of Analytical and Applied Pyrolysis* 113: 606–20."
+    sort_as: "Silva 1"
+
   - id: "Silvagni 1883"
     full: "Silvagni, D. 1883. *La corte e la società romana nei secoli XVIII e XIX*. Rome: Forzani."
+    sort_as: "Silva 2"
+
   - id: "Simon 2017"
     full: "Simon, Jacob. 2017. “Restoration Practice in Museums and Galleries in Britain in the Nineteenth Century.” In *A Changing Art: Nineteenth-Century Painting Practice and Conservation*, edited by Nicola Costaras, Kate Lowry, Helen Glanville, Pippa Balch, Victoria Sutcliffe, and Polly Saltmarsh, 5–13. London: Archetype."
   - id: "Sindlinger-Maushardt and Petersen 2007"
@@ -1222,18 +1495,31 @@ entries:
     full: "Siracusano, Gabriela. 2005. *El poder de los colores: De lo material a lo simbólico en las prácticas culturales andinas: Siglo XVI–XVIII*. Buenos Aires: Fondo de Cultura Económica."
   - id: "Slabczynski 1960"
     full: "Slabczynski, Stefan. 1960. “The Large Vacuum Hot-Table for Wax Relining of Paintings in the Conservation Department of the Tate Gallery.” *Studies in Conservation* 5, no. 1: 1–16."
+
   - id: "Smith 1965"
     full: "Smith, Thor L. 1965. “Deformation and Failure of Plastics and Elastomers,” *Polymer Engineering and Science* 5, no. 4: 270–79."
+    sort_as: "Smith 1"
+
   - id: "Smith, Thompson, and Hermens 2016"
     full: "Smith, Margaret J., K. Thompson, and E. Hermens. 2016. “Breaking Down Banners: Analytical Approaches to Determining the Materials of Painted Banners.” *Heritage Science* 4: 23. http://eprints.gla.ac.uk/116762/."
+    sort_as: "Smith 3"
+
   - id: "Smith, Holmes-Smith, and Lennard 2019"
     full: "Smith, Margaret J., A. Sheila Holmes-Smith, and Frances Lennard. 2019. “Development of Non-destructive Methodology Using ATR-FTIR with PCA to Differentiate between Historical Pacific Barkcloth.” *Journal of Cultural Heritage* 39: 32–41. http://eprints.gla.ac.uk/182259/."
+    sort_as: "Smith 2"
+
   - id: "Soppa 2018"
     full: "Soppa, Karolina. 2018. “Die Klebung von Malschicht und textilem Bildträger. Untersuchung des Eindringverhaltens von Gelatinen sowie Störleim und Methylcellulose bei der Klebung von loser Malschicht auf isolierter und unisolierter Leinwand mittels vorhergehender Fluoreszenzmarkierung – Terminologie, Grundlagenanalyse und Optimierungsansätze.” PhD diss., Staatliche Akademie der Bildenden Künste Stuttgart."
+    sort_as: "Soppa 1"
+
   - id: "Soppa et al. 2014"
     full: "Soppa, Karolina, Tilly Laaser, Christoph Krekel, Margaux Genton, and Thuja Seidel. 2014. “Adhesion and Penetration of Sturgeon Glue and Gelatines with Different Bloom Grades.” In *ICOM Committee for Conservation: 17th Triennial Conference: Building Strong Culture through Conservation: Melbourne, 15–19 September 2014*, *Preprints*, edited by Janet Bridgland, art. 1313. Paris: ICOM-CC."
+    sort_as: "Soppa 2"
+
   - id: "Soppa et al. 2017"
     full: "Soppa, Karolina, Stefan Zumbühl, Manon Léchenne, and Anne Muszynski. 2017. “A Study of Thickened Protein Glues for the Readhesion of Absorbent Flaking Paints with Methylcellulose and Wheat Starch Paste.” In *Gels in the Conservation of Art*, edited by Lora Angelova, Bronwyn Ormsby, Joyce H. Townsend, and Richard C. Wolbers, 96–100. London: Archetype."
+    sort_as: "Soppa 3"
+
   - id: "Sörries 1998"
     full: "Sörries, Reiner. 1998. *Tanz der Toten—Todestanz: Der monumentale Totentanz im deutschsprachigen Raum* [Dance of the Dead—Dance of Death: The Monumental Dance of Death in German-Speaking Countries at the Museum of Sepulchral Culture]. Exhibition catalogue. Kassel, Germany: Röll."
   - id: "Spear 2006"
@@ -1261,13 +1547,18 @@ entries:
   - id: "Stoner 1994"
     full: "Stoner, Joyce Hill. 1994. “The Impact of Research on the Lining and Cleaning of Easel Painting.” *Journal of the American Institute for Conservation* 33, no. 2: 131–40."
   - id: "Stoner 2005"
-    full: "Stoner, Joyce Hill. 2005. “Changing Approaches in Art Conservation: 1925 to the Present.” In *Scientific Examination of Art: Modern Techniques in Conservation and Analysis*, 40–57. Washington, DC: National Academies Press. [https://doi.org/10.17226/11413](about:blank)."
+    full: "Stoner, Joyce Hill. 2005. “Changing Approaches in Art Conservation: 1925 to the Present.” In *Scientific Examination of Art: Modern Techniques in Conservation and Analysis*, 40–57. Washington, DC: National Academies Press. [https://doi.org/10.17226/11413](https://doi.org/10.17226/11413)."
   - id: "Stoner and Rushfield 2012"
     full: "Stoner, Joyce Hill, and Rebecca Rushfield. 2012. *Conservation of Easel Paintings: Principles and Practice*. Oxford: Butterworth-Heinemann."
+
   - id: "Straub 1965"
     full: "Straub, R. E. 1965. “Nachteile des Doublierens af dem Vakuumheiztisch und Wege zu ihrer Behebung.” *Maltechnik restauro*, no. 4: 97–102."
+    sort_as: "Staub 1"
+
   - id: "Straub and Rees Jones 1955"
     full: "Straub, R., and S. Rees Jones. 1955. “Marouflage, Relining and Treatment of Cupping with Atmospheric Pressure.” *Studies in Conservation* 2, no. 2: 55–63."
+    sort_as: "Staub 2"
+
   - id: "Struik 1980"
     full: "Struik, L. C. E. 1980. *Physical Ageing in Amorphous Polymers and Other Materials*. Amsterdam: Elsevier."
   - id: "Súmano González 2010"
@@ -1282,12 +1573,19 @@ entries:
     full: "Swider, Joseph R., and Martha Smith. 2005. “Funori: Overview of a 300-Year-Old Consolidant.” *Journal of the American Institute for Conservation* 44, no. 2: 117–26. <http://www.jstor.org/stable/40025138>."
   - id: "Swoboda 2008"
     full: "Swoboda, Gudrun. 2008. *Die Wege der Bilder eine Geschichte der kaiserlichen Gemäldesammlungen von 1600 bis 1800*. Edited by Wilfried Seipel. Vienna: Kunsthistorisches Museum."
+
   - id: "Tan, Tay, and Teo 2005"
     full: "Tan, V. B. C., T. E. Tay, and W. K. Teo. 2005. “Strengthening Fabric Armour with Silica Colloidal Suspensions.” *International Journal of Solids and Structures* 42, nos. 5–6: 1561–76. <https://doi.org/10.1016/j.ijsolstr.2004.08.013>."
+    sort_as: "Tan 1"
+
   - id: "Tandon and Weng 1986"
     full: "Tandon, G. P., and G. J. Weng. 1986. “Average Stress in the Matrix and Effective Moduli of Randomly Oriented Composites.” *Composites Science and Technology* 27, no. 2: 111–32. [https://doi.org/10.1016/0266-3538(86)90067-9](about:blank)."
+    sort_as: "Tan 2"
+
   - id: "Tantideeravit et al. 2013"
     full: "Tantideeravit, D., M. N. Charalambidesa, D. S. Balinta, and C. R. T. Young. 2013. “Prediction of Delamination in Multilayer Artist Paints under Low Amplitude Fatigue Loading.” *Engineering Fracture Mechanics* 112–13: 41–57. https://doi.org/10.1016/j.engfracmech.2013.09.011."
+    sort_as: "tan 3"
+
   - id: "TAPPI 2007"
     full: "TAPPI (Technical Association of the Pulp and Paper Industry). 2007. *Zero-Span Breaking Strength of Pulp (Dry Zero-Span Tensile)*. T 231 cm-07. Atlanta: TAPPI."
   - id: "Tassiniari 2003"
@@ -1350,12 +1648,19 @@ entries:
     full: "Véliz, Z. 1982. “Francisco Pacheco's Comments on Painting in Oil.” *Studies in Conservation*, no. 2: 49–57."
   - id: "Ventra 2016"
     full: "Ventra, S. 2016. “Tommaso Minardi ‘Per il miglioramento e buon sistema’ della quadreria Corsini.” In *Storie di Palazzo Corsini*, edited by A. Cosma and S. Pedone, 39–57. Rome: Campisano."
+
   - id: "Villers 2000"
     full: "Villers, Caroline. 2000. *The Fabric of Images: European Paintings on Textile Supports in the 14th and 15th Centuries.* London: Archetype."
+    sort_as: "Villers 2000"
+
   - id: "Villers 2003a"
     full: "Villers, C. 2003. “Introduction.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, xi–xvi. London: Archetype."
+    sort_as: "Villers 2003a"
+
   - id: "Villers 2003b"
     full: "Villers, Caroline, ed. 2003. *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*. London: Archetype."
+    sort_as: "Villers 2003b"
+
   - id: "von Manteuffel-Szoege 1980"
     full: "von Manteuffel-Szoege, D. 1980. “Jahrestagung des Deutschen Restauratorenverbandes e.V. 1980.” *Maltechnik Restauro* 86, no. 4: 247–49."
   - id: "Von Perger 2013"
@@ -1386,10 +1691,15 @@ entries:
     full: "White, Raymond. 1978. “The Application of Gas-Chromatography to the Identification of Waxes.” *Studies in Conservation* 23, no. 2: 57–68."
   - id: "Whitlum-Cooper et al. 2019"
     full: "Whitlum-Cooper, Francesca, Letizia Treves, and Susannah Avery-Quash. 2019. “[In]Visible: Paintings by Women Artists in the National Gallery, London: An Interview with Letizia Treves and Francesca Whitlum-Cooper.” *19: Interdisciplinary Studies in the Long Nineteenth Century* 28. https://doi.org/10.16995/ntn.850."
+
   - id: "Williams 1989"
     full: "Williams, Scott R. 1989. “Blooms, Blushes, Transferred Images, and Mouldy Surfaces: What Are These Distracting Accretions on Art Works?” In *Proceedings of the 14th Annual IIC-CG Conference, Toronto, May 27–30, 1988*, edited by Johanna G. Wellheiser, 65–84. Ottawa: IIC Canadian Group."
+    sort_as: "Williams 1"
+
   - id: "Williams, Landel, and Ferry 1955"
     full: "Williams, Malcolm L., Robert F. Landel, and John D. Ferry. 1955. “The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids.” *Journal of the American Chemical Society* 77, no. 14: 3701–7. https://doi.org/10.1021/ja01619a008."
+    sort_as: "Williams 2"
+
   - id: "Wingel et al. 2019"
     full: "Wingel, Kelsey, Richard Hark, Katherine Schilling, Marcie Wiggins, Pablo Londero, Anikó Bezur, and Cynthia Schwarz. 2019. “Hazy Conditions: Revealing the Materials and Techniques of Edwin Austin Abbey’s Efflorescing Oil Paintings and Exploring New Approaches to Treatment.” In *AIC Paintings Specialty Group Postprints* 32, edited by Wendy Partridge, 131–56. Washington, DC: AIC."
   - id: "Witte, Florquin, and Goessens-Landrie 1984"
