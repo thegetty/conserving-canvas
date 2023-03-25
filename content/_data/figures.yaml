@@ -2685,7 +2685,7 @@ figure_list:
     media_type: table
 
   - id: "fig-56-2"
-    src: "figures/fig-56-2.png"
+    src: "figures/fig-56-2.jpg"
     zoom: true
     label: "Figure 56.2"
     caption: " (a) Cross section from mounted sample of banner 25. (b) SEM-EDX image of gilded sample of banner 8."
@@ -2711,14 +2711,14 @@ figure_list:
   - id: "fig-57-1-a"
     src: "figures/fig-57-1-a.jpg"
     zoom: true
-    label: "Figure 57.1a"
+    label: "a"
     # caption: "Vladimir Tatlin (Russian, 1885–1953), *Still-Life with Melon and Apples/Green Leaves in a Jar*, 1912. Oil on canvas, 77 × 67 cm (30 1/3 × 26 3/8 in.). Moscow, Russian State Archives of Literature and Art. (a) Fragment before treatment. (b) Fragment after the tear was fixed with PVB solution and reinforced with stitching."
     # credit: "Images: Russian State Archives of Literature and Art"
 
   - id: "fig-57-1-b"
     src: "figures/fig-57-1-b.jpg"
     zoom: true
-    label: "Figure 57.1b"
+    label: "b"
 
   - id: "fig-57-2"
     src: "figures/fig-57-2.jpg"
@@ -2917,7 +2917,7 @@ figure_list:
     zoom: true
     label: "Figure 63.2"
     caption: "Canvas paintings just after the first rescue."
-    credit: "Image: (c) *The Japanese Times*"
+    credit: "Image: JIJI PRESS/AFP via Getty Images"
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"
