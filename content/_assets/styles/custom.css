@@ -321,6 +321,13 @@ table a,
   text-align: left
 }
 
+/* HEADERS
+============================================================================= */
+/* Unitalicize text in H3 */
+.quire-page h3 em {
+  font-style: normal;
+}
+
 /* COPYRIGHT & ABOUT
 ============================================================================= */
 /* Columns */
