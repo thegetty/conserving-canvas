@@ -1,6 +1,7 @@
 # Eleventy build artifacts
 _site/
 _temp/
+public
 
 # EleventFetch cache directory
 .cache
@@ -21,6 +22,7 @@ yarn-error.log*
 
 # System files
 **/*/.DS_Store
+.DS_Store
 
 # npm cache directory
 .npm

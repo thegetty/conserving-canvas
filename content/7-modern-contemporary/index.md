@@ -1,6 +1,6 @@
 ---
 label: "VII"
-title: "Modern and Contemporary"
+title: "Conserving Modern and Contemporary Art"
 layout: "table-of-contents"
 class: "pdf-heading-only"
 presentation: "list"

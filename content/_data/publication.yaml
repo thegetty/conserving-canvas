@@ -49,7 +49,7 @@ project_team:
  - Kurt Hauser, *Cover Design*
  - Molly McGeehan, *Production*
  - Danielle Brink, *Image and Rights Acquisition*
- - Erin Cecele Dunigan and Chloe Millhauser, *Digital Assistant*
+ - Erin Cecele Dunigan and Chloe Millhauser, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -130,14 +130,14 @@ subject:
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
-  - Names:
-  - Title:
-  - Description:
-  - Identifiers:
-  - Subjects:
-  - Classification:
-  - LC record available at ...
-  - LC ebook record available at ...
+  - Names: Conserving Canvas (Symposium) (2019 : Yale University), author. | Schwarz, Cynthia (Paintings conservator), editor. | McClure, Ian, editor. | Coddington, James, editor. | Institute for the Preservation of Cultural Heritage, organizer. | Getty Conservation Institute, issuing body.  
+  - Title: Conserving canvas / edited by Cynthia Schwarz, Ian McClure, and Jim Coddington.  
+  - Description: First edition. | Los Angeles : Getty Conservation Institute, 2023. | Proceedings of the symposium Conserving Canvas, organized by Institute for the Preservation of Cultural Heritage at Yale University and held at Yale University Art Gallery, October 14–17, 2019. | Includes bibliographical references. | Summary: "A collection of international case studies concerning the structural care and conservation of paintings on canvas, drawn from the proceedings of the October 2019 symposium Conserving Canvas"— Provided by publisher.  
+  - Identifiers: LCCN 2022060885 (print) | LCCN 2022060886 (ebook) | ISBN 9781606068243 (paperback) | ISBN 9781606068267 (adobe pdf) | ISBN 9781606068274 (epub) | ISBN 9781606068250  
+  - Subjects: LCSH: Painting—Conservation and restoration—Congresses. | Canvas relining—Congresses. | LCGFT: Conference papers and proceedings. 
+  - Classification: LCC ND1640 .C59 2019  (print) | LCC ND1640  (ebook) | DDC 751.6/2—dc23/eng/20230215 
+  - LC record available at https://lccn.loc.gov/2022060885
+  - LC ebook record available at https://lccn.loc.gov/2022060886
 
 # ------------------------------------------------------------------------------
 # Revision History

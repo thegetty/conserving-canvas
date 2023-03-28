@@ -1,13 +1,19 @@
 ---
 layout: page
 class: backmatter
-order: 4
+order: 780
 toc: false
 menu: false
 outputs:
   - pdf
   - epub
 ---
+
+Getty Conservation Institute
+Timothy P. Whalen, *John E. and Louise Bryson Director*
+Jeanne Marie Teutonico, *Associate Director, Strategic Initiatives and Publications*
+
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 
 {{ config.quire_credit_line }}
 
@@ -47,7 +53,7 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 </div>
 <div class="cover-image-credits">
 
-Front cover:
+Front cover: Conservation of Anne-Louis Girodet-Trioson, *The Death of Camille*, 1785 (detail, fig. 35.1)
 Back cover:
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.

@@ -134,12 +134,12 @@ figure_list:
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
 
   - id: "table-3-1"
-    credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    #credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-1.html"
     media_type: table
 
   - id: "table-3-2"
-    credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    #credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
     src: "tables/table-3-2.html"
     media_type: table
 
@@ -237,14 +237,14 @@ figure_list:
   - id: "fig-4-9-a"
     src: "figures/fig-4-9-a.jpg"
     zoom: true
-    label: "Figure 4.9a"
+    label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld Gallery, London"
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
     zoom: true
-    label: "Figure 4.9b"
+    label: "b"
 
   - id: "fig-4-10"
     src: "figures/fig-4-10.jpg"
@@ -307,17 +307,17 @@ figure_list:
     caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
     credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
 
-  - id: "fig-6-1"
+  - id: "fig-6-1-a"
     src: "figures/fig-6-1-a.jpg"
     zoom: true
-    label: "Figure 6.1a"
-    caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
-    credit: "Image: © State Historical Museum, Moscow"
+    label: "a"
+    #caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
+    #credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-1-b"
     src: "figures/fig-6-1-b.jpg"
     zoom: true
-    label: "Figure 6.1b"
+    label: "b"
 
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
@@ -333,17 +333,17 @@ figure_list:
     caption: "Fragment of lining textile sprayed with adhesive A-45-K."
     credit: "Image: The State Research Institute for Restoration, Moscow"
 
-  - id: "fig-6-4"
+  - id: "fig-6-4-a"
     src: "figures/fig-6-4-a.jpg"
     zoom: true
-    label: "Figure 6.4"
-    caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
-    credit: "Image: © State Historical Museum, Moscow"
+    label: "a"
+    #caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
+    #credit: "Image: © State Historical Museum, Moscow"
 
   - id: "fig-6-4-b"
     src: "figures/fig-6-4-b.jpg"
     zoom: true
-    label: "Figure 6.4b"
+    label: "b"
 
   - id: "fig-8-1"
     src: "figures/fig-8-1.jpg"
@@ -522,19 +522,27 @@ figure_list:
     credit: "Image: Barbara Lavorini and Luigi Orata"
 
   - id: "table-11-1"
-    credit: "Table: Barbara Lavorini and Luigi Orata"
+    #credit: "Table: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-1.html"
     media_type: table
 
   - id: "table-11-2"
-    credit: "Table: Barbara Lavorini and Luigi Orata"
+    #credit: "Table: Barbara Lavorini and Luigi Orata"
     src: "tables/table-11-2.html"
     media_type: table
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5.jpg"
-    zoom: true
+    poster: "figures/fig-11-5.jpg"
     label: "Figure 11.5"
+    caption: "Video of the tub system."
+    credit: "Video: Barbara Lavorini and Luigi Orata"
+    media_type: "vimeo" 
+    media_id: "801439551/7d9863ee77"
+
+  - id: "fig-11-6"
+    src: "figures/fig-11-6.jpg"
+    zoom: true
+    label: "Figure 11.6"
     caption: "*Allegoria con il trionfo di Firenze* after restoration."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
@@ -639,14 +647,14 @@ figure_list:
   - id: "fig-13-7-a"
     src: "figures/fig-13-7-a.jpg"
     zoom: true
-    label: "Figure 13.7a"
-    caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
-    credit: "Image: Julia Brandt and Carina Volbracht"
+    label: "a"
+    #caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
+    #credit: "Image: Julia Brandt and Carina Volbracht"
 
   - id: "fig-13-7-b"
     src: "figures/fig-13-7-b.jpg"
     zoom: true
-    label: "Figure 13.7b"
+    label: "b"
 
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
@@ -698,7 +706,7 @@ figure_list:
     credit: "Image: © KHM Museumsverband"
 
   - id: "fig-15-1"
-    src: "figures/fig-15-1.png"
+    src: "figures/fig-15-1.jpg"
     zoom: true
     label: "Figure 15.1"
     caption: "Cross section at 5× magnification of a 1930s British trade union banner: silk painted on both sides with size, oil paint, and silver leaf. University of Glasgow."
@@ -785,7 +793,7 @@ figure_list:
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
-    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    #credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-1.html"
     media_type: table
 
@@ -804,12 +812,12 @@ figure_list:
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "table-17-2"
-    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    #credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-2.html"
     media_type: table
 
   - id: "table-17-3"
-    credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
+    #credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
     src: "tables/table-17-3.html"
     media_type: table
 
@@ -830,19 +838,19 @@ figure_list:
   - id: "fig-18-2-a"
     src: "figures/fig-18-2-a.jpg"
     zoom: true
-    label: "Figure 18.2a"
+    label: "a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
     zoom: true
-    label: "Figure 18.2b"
+    label: "b"
 
   - id: "fig-18-2-c"
     src: "figures/fig-18-2-c.jpg"
     zoom: true
-    label: "Figure 18.2c"
+    label: "c"
 
   - id: "table-18-1"
     credit: "Table: Rita Gil"
@@ -866,14 +874,14 @@ figure_list:
   - id: "fig-18-5-a"
     src: "figures/fig-18-5-a.jpg"
     zoom: true
-    label: "Figure 18.5a"
-    caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
-    credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
+    label: "a"
+    #caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
+    #credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
     zoom: true
-    label: "Figure 18.5b"
+    label: "b"
 
   - id: "fig-18-6"
     src: "figures/fig-18-6.jpg"
@@ -967,12 +975,12 @@ figure_list:
     credit: "Image: Jim Coddington"
 
   - id: "table-21-1"
-    credit: "Table: Cecil Krarup Andersen"
+    #credit: "Table: Cecil Krarup Andersen"
     src: "tables/table-21-1.html"
     media_type: table
 
   - id: "table-21-2"
-    credit: "Table: Cecil Krarup Andersen"
+    #credit: "Table: Cecil Krarup Andersen"
     src: "tables/table-21-2.html"
     media_type: table
 
@@ -1217,14 +1225,14 @@ figure_list:
   - id: "fig-26-6-a"
     src: "figures/fig-26-6-a.jpg"
     zoom: true
-    label: "Figure 26.6a"
+    label: "a"
     # caption: "*Saint Matthew* painting: canvas with iron gall ink marks. (a) Before treatment. (b) After treatment."
     # credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
 
   - id: "fig-26-6-b"
     src: "figures/fig-26-6-b.jpg"
     zoom: true
-    label: "Figure 26.6b"
+    label: "b"
 
   - id: "fig-27-1"
     src: "figures/fig-27-1.png"
@@ -1234,8 +1242,8 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-1"
-    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-1.html"
+    #credit: "Table: Alexandra Bridarolli"
     media_type: table
 
   - id: "fig-27-2"
@@ -1253,9 +1261,9 @@ figure_list:
     credit: "Image: Alexandra Bridarolli"
 
   - id: "table-27-2"
-    credit: "Table: Alexandra Bridarolli"
     src: "tables/table-27-2.html"
     media_type: table
+    credit: "Table: Alexandra Bridarolli"
 
   - id: "fig-27-4"
     src: "figures/fig-27-4.png"
@@ -1597,14 +1605,14 @@ figure_list:
   - id: "fig-34-1-a"
     src: "figures/fig-34-1-a.jpg"
     zoom: true
-    label: "Figure 34.1a"
+    label: "a"
     # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 × 187.5 cm (96 × 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
     # credit: "Images: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-1-b"
     src: "figures/fig-34-1-b.jpg"
     zoom: true
-    label: "Figure 34.1b"
+    label: "b"
 
   - id: "fig-34-2"
     src: "figures/fig-34-2.jpg"
@@ -1663,7 +1671,7 @@ figure_list:
     credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
-    credit: "Table: Dominique Martos-Levif"
+    #credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-1.html"
     media_type: table
 
@@ -1694,7 +1702,7 @@ figure_list:
     media_type: table
 
   - id: "table-35-3"
-    credit: "Table: Dominique Martos-Levif"
+    #credit: "Table: Dominique Martos-Levif"
     src: "tables/table-35-3.html"
     media_type: table
 
@@ -1862,14 +1870,14 @@ figure_list:
   - id: "fig-38-4-a"
     src: "figures/fig-38-4-a.jpg"
     zoom: true
-    label: "Figure 38.4a"
+    label: "a"
     # caption: "(a) Artist-made strainer from 1970 composed of wood, plywood, and particle board, 180.3 × 287 cm (71 × 113 in.). (b) The same strainer, modified in 2018. The effort to keep the original components and achieve adequate structural integrity resulted in a strange hybrid support."
     # credit: "Images: Mary H. Gridley"
 
   - id: "fig-38-4-b"
     src: "figures/fig-38-4-b.jpg"
     zoom: true
-    label: "Figure 38.4b"
+    label: "b"
 
   - id: "fig-39-1"
     src: "figures/fig-39-1.jpg"
@@ -2166,112 +2174,112 @@ figure_list:
   - id: "fig-46-1-a"
     src: "figures/fig-46-1-a.jpg"
     zoom: true
-    label: "Figure 46.1a"
+    label: "a"
     # caption: "El Greco (Greek, 1541–1614), *The Burial of the Count of Orgaz*, 1586. Oil on canvas, 480 × 360 cm (189 × 141 3/4 in.). (a) Piece of original canvas showing weave pattern. (b) Weave draft (de los Rios y Rojas and Socorro 1977). &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a and b) de los Rios y Rojas and Socorro 1977, &#40;c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-1-b"
     src: "figures/fig-46-1-b.jpg"
     zoom: true
-    label: "Figure 46.1b"
+    label: "b"
 
   - id: "fig-46-1-c"
     src: "figures/fig-46-1-c.png"
     zoom: true
-    label: "Figure 46.1c"
+    label: "c"
 
   - id: "fig-46-1-d"
     src: "figures/fig-46-1-d.jpg"
     zoom: true
-    label: "Figure 46.1d"
+    label: "d"
 
   - id: "fig-46-2-a"
     src: "figures/fig-46-2-a.jpg"
     zoom: true
-    label: "Figure 46.2a"
+    label: "a"
     # caption: "Titian (Italian, ca. 1488–1576), *The Vendramin Family*, 1540–45. Oil on canvas, 206 × 288.5 cm (81 1/8 × 113 5/8 in.). (a) Detail of Gabriel’s left hand before cleaning and after retouching. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) National Gallery London, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-2-b"
     src: "figures/fig-46-2-b.jpg"
     zoom: true
-    label: "Figure 46.2b"
+    label: "b"
 
   - id: "fig-46-2-c"
     src: "figures/fig-46-2-c.png"
     zoom: true
-    label: "Figure 46.2c"
+    label: "c"
 
   - id: "fig-46-2-d"
     src: "figures/fig-46-2-d.jpg"
     zoom: true
-    label: "Figure 46.2d"
+    label: "d"
 
   - id: "fig-46-3-a"
     src: "figures/fig-46-3-a.jpg"
     zoom: true
-    label: "Figure 46.3a"
+    label: "a"
     # caption: "Caravaggio (Italian, 1571–1610), *The Crucifixion of Saint Andrew*, 1606–7. Oil on canvas, 202.5 × 152.7 cm (79 3/4 × 60 1/8 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Cleveland Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-3-b"
     src: "figures/fig-46-3-b.jpg"
     zoom: true
-    label: "Figure 46.3b"
+    label: "b"
 
   - id: "fig-46-3-c"
     src: "figures/fig-46-3-c.png"
     zoom: true
-    label: "Figure 46.3c"
+    label: "c"
 
   - id: "fig-46-3-d"
     src: "figures/fig-46-3-d.jpg"
     zoom: true
-    label: "Figure 46.3d"
+    label: "d"
 
   - id: "fig-46-4-a"
     src: "figures/fig-46-4-a.jpg"
     zoom: true
-    label: "Figure 46.4a"
+    label: "a"
     # caption: "Diego Velázquez (Spanish, 1599–1660), *Supper at Emmaus*, 1622–23. Oil on canvas, 123.2 × 132.7 cm (48 1/2 × 52 1/4 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Metropolitan Museum of Art, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-4-b"
     src: "figures/fig-46-4-b.jpg"
     zoom: true
-    label: "Figure 46.4b"
+    label: "b"
 
   - id: "fig-46-4-c"
     src: "figures/fig-46-4-c.png"
     zoom: true
-    label: "Figure 46.4c"
+    label: "c"
 
   - id: "fig-46-4-d"
     src: "figures/fig-46-4-d.jpg"
     zoom: true
-    label: "Figure 46.4d"
+    label: "d"
 
   - id: "fig-46-5-a"
     src: "figures/fig-46-5-a.jpg"
     zoom: true
-    label: "Figure 46.5a"
+    label: "a"
     # caption: "Diego Velázquez (Spanish, 1599–1660), *Education of the Virgin*, 1617–18. Oil on canvas, 168 × 136 cm (66 1/8 × 53 1/2 in.). (a) Radiograph. (b) Handmade drawing of the pattern. &#40;c) Computer-generated weave draft. (d) Handwoven reconstruction of the canvas."
     # credit: "Images: (a) Yale University Art Gallery, (b and c) Lab O, (d) Lab O / João Mariano"
 
   - id: "fig-46-5-b"
     src: "figures/fig-46-5-b.jpg"
     zoom: true
-    label: "Figure 46.5b"
+    label: "b"
 
   - id: "fig-46-5-c"
     src: "figures/fig-46-5-c.png"
     zoom: true
-    label: "Figure 46.5c"
+    label: "c"
 
   - id: "fig-46-5-d"
     src: "figures/fig-46-5-d.jpg"
     zoom: true
-    label: "Figure 46.5d"
+    label: "d"
 
   - id: "fig-47-1"
     src: "figures/fig-47-1.jpg"
@@ -2332,31 +2340,31 @@ figure_list:
   - id: "fig-48-4-a"
     src: "figures/fig-48-4-a.jpg"
     zoom: true
-    label: "Figure 48.4a"
+    label: "a"
     # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges were added for reinforcement."
     # credit: "Images: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-4-b"
     src: "figures/fig-48-4-b.jpg"
     zoom: true
-    label: "Figure 48.4b"
+    label: "b"
 
   - id: "fig-49-1-a"
     src: "figures/fig-49-1-a.jpg"
     zoom: true
-    label: "Figure 49.1a"
+    label: "a"
     # caption: "(a) Initial test areas with Evolon CR tissue and solvent on the verso of a painting following wax lining reversal. (b) Applying 1 mL of solvent to Evolon CR tissue. &#40;c) Removal of Evolon CR after prescribed dwell time."
     # credit: "Julianna Ly"
 
   - id: "fig-49-1-b"
     src: "figures/fig-49-1-b.jpg"
     zoom: true
-    label: "Figure 49.1b"
+    label: "b"
 
   - id: "fig-49-1-c"
     src: "figures/fig-49-1-c.jpg"
     zoom: true
-    label: "Figure 49.1c"
+    label: "c"
 
   - id: "fig-49-2"
     src: "figures/fig-49-2.png"
@@ -2380,24 +2388,24 @@ figure_list:
   - id: "fig-49-4-a"
     src: "figures/fig-49-4-a.jpg"
     zoom: true
-    label: "Figure 49.4a"
-    # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, &#40;c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137X by Dr. Judy Rudolph, volunteer conservation scientist, Scientific Research and Analysis lab, Winterthur Museum, Garden, and Library.)"
+    label: "a"
+    # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, &#40;c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137× by Dr. Judy Rudolph, volunteer conservation scientist, SRAL, Winterthur Museum."
     # credit: "Images: Judy Rudolph"
 
   - id: "fig-49-4-b"
     src: "figures/fig-49-4-b.jpg"
     zoom: true
-    label: "Figure 49.4b"
+    label: "b"
 
   - id: "fig-49-4-c"
     src: "figures/fig-49-4-c.jpg"
     zoom: true
-    label: "Figure 49.4c"
+    label: "c"
 
   - id: "fig-49-4-d"
     src: "figures/fig-49-4-d.jpg"
     zoom: true
-    label: "Figure 49.4d"
+    label: "d"
 
   - id: "fig-49-5"
     src: "figures/fig-49-5.png"
@@ -2409,14 +2417,14 @@ figure_list:
   - id: "fig-49-6-a"
     src: "figures/fig-49-6-a.png"
     zoom: true
-    label: "Figure 49.6a"
+    label: "a"
     # caption: "(a) Weight increases (in grams) for each tissue exposed to the solvents or mixtures tested. (b) Py‑GCMS analysis of the three solvents: solvent 1 is 100% acetone, solvent 2 is 1:1 acetone and petroleum benzine, and solvent 3 is 1:9 acetone and petroleum benzine. (Py-GCMS analysis conducted by Dr. W. Chris Petersen, Volunteer Conservation Scientist and Affiliated Associate Professor, Scientific Research and Analysis lab, Winterthur Museum, Garden and Library.) "
     # credit: "Images: a: Julianna Ly and Tracy Liu; b: Chris Petersen, Tracy Liu"
 
   - id: "fig-49-6-b"
     src: "figures/fig-49-6-b.png"
     zoom: true
-    label: "Figure 49.6b"
+    label: "b"
 
   - id: "fig-50-1"
     src: "figures/fig-50-1.png"
@@ -2464,31 +2472,31 @@ figure_list:
     media_type: table
 
   - id: "table-51-2"
-    credit: "Table: Courtesy of the research team"
+    # credit: "Table: Courtesy of the research team"
     src: "tables/table-51-2.html"
     media_type: table
 
   - id: "table-51-3"
-    credit: "Table: Courtesy of the research team"
+    # credit: "Table: Courtesy of the research team"
     src: "tables/table-51-3.html"
     media_type: table
 
   - id: "fig-51-2-a"
     src: "figures/fig-51-2-a.png"
     zoom: true
-    label: "Figure 51.2a"
+    label: "a"
     # caption: "Restraint tests of different lining fabrics and glue-paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. &#40;c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
-    # credit: "Image: Courtesy of the research team"
+    # credit: "Images: Courtesy of the research team"
 
   - id: "fig-51-2-b"
     src: "figures/fig-51-2-b.png"
     zoom: true
-    label: "Figure 51.2b"
+    label: "b"
 
   - id: "fig-51-2-c"
     src: "figures/fig-51-2-c.png"
     zoom: true
-    label: "Figure 51.2c"
+    label: "c"
 
   - id: "fig-51-3"
     src: "figures/fig-51-3.jpg"
@@ -2497,12 +2505,27 @@ figure_list:
     caption: "Detail of the two canvases with glue-paste applied. (a) Tight weave: a continuous glue-paste film. (b) Open weave: fractured glue-paste film."
     credit: "Images: Courtesy of the research team"
 
-  - id: "fig-51-4"
-    src: "figures/fig-51-4.jpg"
+  - id: "fig-51-4-a"
+    src: "figures/fig-51-4-a.jpg"
     zoom: true
-    label: "Figure 51.4"
-    caption: "Detail of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
-    credit: "Image: Courtesy of the research team"
+    label: "a"
+   # caption: "Detail of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
+   # credit: "Image: Courtesy of the research team"
+
+  - id: "fig-51-4-b"
+    src: "figures/fig-51-4-b.jpg"
+    zoom: true
+    label: "b"
+
+  - id: "fig-51-4-c"
+    src: "figures/fig-51-4-c.jpg"
+    zoom: true
+    label: "c"
+
+  - id: "fig-51-4-d"
+    src: "figures/fig-51-4-d.jpg"
+    zoom: true
+    label: "d"
 
   - id: "fig-51-5"
     src: "figures/fig-51-5.png"
@@ -2657,24 +2680,24 @@ figure_list:
     credit: "Images: Filip A. Petcu"
 
   - id: "table-56-1"
-    credit: "Table: Cristina Carșote and Filip A. Petcu"
+    #credit: "Table: Cristina Carșote and Filip A. Petcu"
     src: "tables/table-56-1.html"
     media_type: table
 
   - id: "fig-56-2"
-    src: "figures/fig-56-2.png"
+    src: "figures/fig-56-2.jpg"
     zoom: true
     label: "Figure 56.2"
     caption: " (a) Cross section from mounted sample of banner 25. (b) SEM-EDX image of gilded sample of banner 8."
     credit: "Images: (a) Filip A. Petcu; (b) Oana Buriac"
 
   - id: "table-56-2"
-    credit: "Table: Filip A. Petcu"
+    #credit: "Table: Filip A. Petcu"
     src: "tables/table-56-2.html"
     media_type: table
 
   - id: "table-56-3"
-    credit: "Table: Filip A. Petcu"
+    #credit: "Table: Filip A. Petcu"
     src: "tables/table-56-3.html"
     media_type: table
 
@@ -2688,14 +2711,14 @@ figure_list:
   - id: "fig-57-1-a"
     src: "figures/fig-57-1-a.jpg"
     zoom: true
-    label: "Figure 57.1a"
+    label: "a"
     # caption: "Vladimir Tatlin (Russian, 1885–1953), *Still-Life with Melon and Apples/Green Leaves in a Jar*, 1912. Oil on canvas, 77 × 67 cm (30 1/3 × 26 3/8 in.). Moscow, Russian State Archives of Literature and Art. (a) Fragment before treatment. (b) Fragment after the tear was fixed with PVB solution and reinforced with stitching."
     # credit: "Images: Russian State Archives of Literature and Art"
 
   - id: "fig-57-1-b"
     src: "figures/fig-57-1-b.jpg"
     zoom: true
-    label: "Figure 57.1b"
+    label: "b"
 
   - id: "fig-57-2"
     src: "figures/fig-57-2.jpg"
@@ -2768,12 +2791,12 @@ figure_list:
     credit: "Image: Emanuel Sterp Moga"
 
   - id: "table-59-1"
-    credit: "Table: Emanuel Sterp Moga"
+    #credit: "Table: Emanuel Sterp Moga"
     src: "tables/table-59-1.html"
     media_type: table
 
   - id: "table-59-2"
-    credit: "Table: Emanuel Sterp Moga"
+    #credit: "Table: Emanuel Sterp Moga"
     src: "tables/table-59-2.html"
     media_type: table
 
@@ -2894,7 +2917,7 @@ figure_list:
     zoom: true
     label: "Figure 63.2"
     caption: "Canvas paintings just after the first rescue."
-    credit: "Image: (c) *The Japanese Times*"
+    credit: "Image: JIJI PRESS/AFP via Getty Images"
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"

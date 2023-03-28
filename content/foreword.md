@@ -2,6 +2,7 @@
 title: "Foreword"
 order: 6
 layout: "page"
+class: "page-one"
 contributor:
   - first_name: Joan
     last_name: Weinstein
