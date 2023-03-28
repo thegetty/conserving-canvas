@@ -62,4 +62,16 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 ## Customizations Made to 11ty Templates/Files
 
-TK
+**_includes/components/abstract.js**
+**_layouts/essay.liquid**
+Added keywords
+
+**_plugins/shortcodes/cite.js**
+Will return id/text if the reference doesn't match one in references.yaml
+
+**_plugins/shortcodes/figureGroup.js**
+Add option to pass single caption for figuregroup
+
+**_plugins/transforms/outputs/pdf/write.js**
+**_plugins/transforms/outputs/pdf/layout.html**
+Add two needed out elements to pdf output, that have styles applied to them

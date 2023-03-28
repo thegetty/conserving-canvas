@@ -7,7 +7,7 @@ const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
 
-const { warn } = chalkFactory('shortcodes:figureGroup')
+const logger = chalkFactory('shortcodes:figureGroup')
 
 /**
  * Render multiple <figure> elements in a group
@@ -32,11 +32,11 @@ module.exports = function (eleventyConfig, { page }) {
     ids = Array.isArray(ids) ? ids : ids.split(',').map((id) => id.trim())
 
     if (!ids.length) {
-      warn(`NoId: the q-figures shortcode must include one or more 'id' values that correspond to an 'id' in the 'figures.yaml' file. @example {% qfiguregroup columns=2, ids='3.1, 3.2, 3.3' %}`)
+      logger.warn(`NoId: the q-figures shortcode must include one or more 'id' values that correspond to an 'id' in the 'figures.yaml' file. @example {% qfiguregroup columns=2, ids='3.1, 3.2, 3.3' %}`)
     }
 
     // if (ErrorNoMediaType) {
-    //   warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
+    //   logger.warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
     // }
 
     const classes = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
@@ -44,21 +44,20 @@ module.exports = function (eleventyConfig, { page }) {
     let figureTags = []
     for (let i=0; i < rows; ++i) {
       const startIndex = i * columns
-      let row = '';
+      let row = ''
       for (let id of ids.slice(startIndex, columns + startIndex)) {
-        row += await figure(eleventyConfig, { page })(id, classes);
+        row += await figure(eleventyConfig, { page })(id, classes)
       }
       figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
 
     const captionElement = caption ? figureCaption({ caption }) : ''
-    const groupCaptionClass = caption ? 'q-figure--group-caption' : ''
 
     return html`
-      <figure class="q-figure q-figure--group ${groupCaptionClass}">
+      <figure class="q-figure q-figure--group">
         ${figureTags.join('\n')}
         ${captionElement}
       </figure>
     `
-}
+  }
 }

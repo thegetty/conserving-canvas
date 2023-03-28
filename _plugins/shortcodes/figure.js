@@ -1,7 +1,7 @@
 const chalkFactory = require('~lib/chalk')
 const { oneLine } = require('~lib/common-tags')
 
-const { warn } = chalkFactory('shortcodes:figure')
+const logger = chalkFactory('shortcodes:figure')
 
 /**
  * Render an HTML <figure> element
@@ -20,16 +20,14 @@ const { warn } = chalkFactory('shortcodes:figure')
  * @return     {boolean}  An HTML <figure> element
  */
 module.exports = function (eleventyConfig, { page }) {
+  const figureAudio = eleventyConfig.getFilter('figureAudio')
   const figureImage = eleventyConfig.getFilter('figureImage')
   const figureLabel = eleventyConfig.getFilter('figureLabel')
   const figureModalLink = eleventyConfig.getFilter('figureModalLink')
-  const figureAudio = eleventyConfig.getFilter('figureAudio')
   const figureTable = eleventyConfig.getFilter('figureTable')
   const figureVideo = eleventyConfig.getFilter('figureVideo')
   const getFigure = eleventyConfig.getFilter('getFigure')
   const slugify = eleventyConfig.getFilter('slugify')
-
-  const { epub, pdf } = eleventyConfig.globalData.config.params
 
   return async function (id, classes=[]) {
     classes = typeof classes === 'string' ? [classes] : classes
@@ -39,19 +37,17 @@ module.exports = function (eleventyConfig, { page }) {
      */
     let figure = getFigure(id)
     if (!figure) {
-      warn(`The figure id "${id}" was found in the template "${page.inputPath}", but is not defined in "figures.yaml"`)
+      logger.warn(`The figure id "${id}" was found in the template "${page.inputPath}", but is not defined in "figures.yaml"`)
       return ''
     }
     figure = { ...figure, ...arguments }
-    if (!page.figures) page.figures = [];
-    page.figures.push(figure);
+    if (!page.figures) page.figures = []
+    page.figures.push(figure)
 
-    const { media_type: mediaType } =  figure
+    const { mediaType } = figure
 
     const component = async (figure) => {
       switch (true) {
-        case (epub || pdf) && ['soundcloud', 'youtube'].includes(mediaType):
-          return figurePlaceholder(figure)
         case mediaType === 'soundcloud':
           return figureAudio(figure)
         case mediaType === 'table':

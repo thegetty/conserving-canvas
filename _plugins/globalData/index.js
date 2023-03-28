@@ -1,8 +1,9 @@
 const chalkFactory = require('~lib/chalk')
 const fs = require('fs-extra')
 const path = require('path')
+const parser = require('./parser')
 
-const logger = chalkFactory('_plugins:globalData')
+const logger = chalkFactory('[plugins:globalData]')
 
 /**
  * Throws an error if data contains duplicate ids
@@ -34,41 +35,57 @@ const checkForDuplicateIds = function (data, filename) {
   }
 }
 
-module.exports = function(eleventyConfig) {
-  const data = (file) => {
-    const { base, ext, name } = path.parse(file)
-    const fileExt = ext.slice(1)
-    const filePath = path.join(directory, file)
-    /**
-     * @typedef {Map<String, Object>} dataExtensions
-     * Maps an extension string to an extension properties object
-     * @property {String} extension
-     * @property {Function} parser
-     * @property {Object} options
-     */
-    const extension = eleventyConfig.dataExtensions.get(fileExt)
-
-    try {
-      if (extension && extension.parser) {
-        const { options, parser } = extension
-        const input = options.read ? fs.readFileSync(filePath) : filePath
-        return parser(input)
-      }
-    } catch (error) {
-      logger.error(error)
-    }
+/**
+ * @todo replace with ajv schema validation
+ */
+const validatePublication = (publication) => {
+  try {
+    const { url } = publication
+    publication.url = url.endsWith('/') ? url : url + '/'
+    publication.pathname = new URL(publication.url).pathname
+  } catch (errorMessage) {
+    logger.error(
+      `Publication.yaml url property must be a valid url. Current url value: "${url}"`
+    )
+    throw new Error(errorMessage)
   }
+  return publication
+}
 
-  const directory = path.join('content', '_data')
-  const files = fs.readdirSync(directory)
+/**
+ * Eleventy plugin to programmatically load global data from files
+ * so that it is available to plugins and shortcode components.
+ *
+ * Nota bene: data is loaded from a sub directory of the `input` directory,
+ * distinct from the `eleventyConfig.dir.data` directory.
+ *
+ * @param {Object} eleventyConfig
+ * @param {Object} directoryConfig
+ * @property {String} inputDir
+ * @property {String} outputDir
+ * @property {String} publicDir
+ */
+module.exports = function(eleventyConfig, directoryConfig) {
+  const dir = path.resolve(directoryConfig.inputDir, '_data')
+  // console.debug(`[plugins:globalData] ${dir}`)
+  const files = fs.readdirSync(dir)
+    .filter((file) => path.extname(file) !== '.md')
+  const parse = parser(eleventyConfig)
 
   for (const file of files) {
     const { name: key } = path.parse(file)
-    const value = data(file)
-
+    let value = parse(path.join(dir, file))
+    if (key === 'publication') {
+      value = validatePublication(value)
+    }
     if (key && value) {
       checkForDuplicateIds(value, file)
       eleventyConfig.addGlobalData(key, value)
     }
   }
+
+  // Add directory config to globalData so that it is available to other plugins
+  eleventyConfig.globalData.directoryConfig = directoryConfig
+
+  return eleventyConfig.globalData
 }

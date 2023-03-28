@@ -1,7 +1,7 @@
 const jsdom = require('jsdom')
 const filterOutputs = require('../filter.js')
 const truncate = require('~lib/truncate')
-const writeOutput = require('./write')
+const writer = require('./write')
 
 const { JSDOM } = jsdom
 
@@ -15,6 +15,8 @@ const { JSDOM } = jsdom
 module.exports = function(eleventyConfig, collections, content) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
+
+  const writeOutput = writer(eleventyConfig)
 
   /**
    * Truncated page or section title for footer
@@ -72,14 +74,14 @@ module.exports = function(eleventyConfig, collections, content) {
 
         sectionElement.innerHTML = mainElement.innerHTML
 
-        for (className of mainElement.classList) {
+        for (const className of mainElement.classList) {
           sectionElement.classList.add(className)
         }
 
         setDataAttributes(currentPage, sectionElement)
 
         // set an id for anchor links to each section
-        sectionElement.setAttribute('id', mainElement.getAttribute('id'))
+        sectionElement.setAttribute('id', mainElement.dataset.pageId)
 
         // transform relative links to anchor links
         transformRelativeLinks(sectionElement)
@@ -91,7 +93,7 @@ module.exports = function(eleventyConfig, collections, content) {
 
       /**
        * Once this transform has been called for each PDF page
-       * every item in the collection will have `sectionConent`
+       * every item in the collection will have `sectionContent`
        */
       if (collections.pdf.every(({ sectionElement }) => !!sectionElement)) {
         writeOutput(collections.pdf)

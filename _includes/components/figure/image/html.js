@@ -17,19 +17,18 @@ module.exports = function(eleventyConfig) {
   const figureModalLink = eleventyConfig.getFilter('figureModalLink')
   const markdownify = eleventyConfig.getFilter('markdownify')
 
-  const { imageDir } = eleventyConfig.globalData.config.params
+  const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function(figure) {
     const { 
       caption,
       credit,
       id,
-      isCanvas,
       label
     } = figure
 
     const annotationsElement = annotationsUI({ figure })
-    const labelElement = figureLabel({ caption, id, label })
+    const labelElement = figureLabel({ id, label })
 
     /**
      * Wrap image in modal link

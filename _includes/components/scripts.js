@@ -1,8 +1,3 @@
-//
-// CUSTOMIZED FILE
-// Removed <script type="module" src="/is-land.js"></script>
-// seems to be breaking build and deploy
-//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -15,8 +10,6 @@ const { html } = require('~lib/common-tags')
  * @return {String} HTML <script> tags
  */
 module.exports = function(eleventyConfig) {
-  const { config } = eleventyConfig.globalData
-
   return () => html`
     <script type="module" src="/_assets/javascript/application/index.js"></script>
   `
