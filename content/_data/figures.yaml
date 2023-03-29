@@ -30,14 +30,14 @@ figure_list:
 
   - id: "fig-1-2"
     src: "figures/fig-1-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 1.2"
     caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (Daly Hartin et al. 2011)."
     credit: "Image: Debra Daly Hartin, Eric Hagan, Stefan Michalski, and Mylène Choquette"
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 1.3"
     caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (Young and Hibberd 1999)."
     credit: "Image: Christina R. T. Young and Roger D. Hibberd"
@@ -58,7 +58,7 @@ figure_list:
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 1.6"
     caption: "Plot of molar mass distribution. A new canvas on the right with a range of very high molecular weights compared with two samples of a J. M. W. Turner loose-lining canvas (painting dated 1846). The peaks (modes) for the Turner canvas are at much less molar mass and there is a greater spread of molar masses than for the new canvas, indicating that the long cellulose molecules have been cleaved at many points. Also, the darker exposed parts are more degraded than the lighter parts behind the stretcher. Canvas samples analyzed at BOKU Vienna during the EU MEMORI project (Jeong et al. 2013)."
     credit: "Image: Myung-Joon Jeong, Manuel Becker, Antje Potthast, Susana López-Aparicio, and Stephen Hackney"
@@ -72,56 +72,56 @@ figure_list:
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.1"
     caption: "Stress-strain curves for a titanium white artists oil paint at different strain rates and temperatures in uniaxial tension."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.2"
     caption: "Tensile test data for a nine-year-old sample of Winsor & Newton Foundation White at 20°C, 50% RH, and a rate of 2100 μe/sec."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-3"
     src: "figures/fig-2-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.3"
     caption: "Stress-relaxation test performed on a nine-year-old sample of Winsor & Newton Foundation White: (a) strain history, (b) stress-strain curve, &#40;c) stress relaxation on a linear scale, (d) stress relaxation on a logarithmic scale. The red lines show a repeat test on the same sample after unloading and a twenty-four-hour recovery period."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-4"
     src: "figures/fig-2-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.4"
     caption: "Stress relaxation at 1 millistrain for a prepared model oil painting with different lining treatments."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-5"
     src: "figures/fig-2-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.5"
     caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
     Credit: "Image: (c) Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.6"
     caption: "Deforming a curled flake of paint back into the plane of the painting. (a) Illustration of the curled paint layer of thickness, *h*, and radius, *r.* (b) Effect of temperature and rate of deformation on film stiffness. A→B: slower rate of deformation, same temperature; A→C: elevated temperature, same rate of deformation; A→D: slower rate of deformation and elevated temperature."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-7"
     src: "figures/fig-2-7.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.7"
     caption: "Deforming a curled flake of paint back into the plane of the painting. (a) Effect of reducing strain rate on failure criteria. (b) Effect of reducing strain rate and elevating temperature on failure criteria. Compare to figure 2.6."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-8"
     src: "figures/fig-2-8.png"
-    zoom: true
+    # zoom: true
     label: "Figure 2.8"
     caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C. (a) Golden acrylic. (b) Winsor & Newton oil."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
@@ -180,21 +180,21 @@ figure_list:
 
   - id: "fig-4-1"
     src: "figures/fig-4-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 4.1"
     caption: "Trends in lining, strip-lining, loose-lining, and local reinforcing at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
 
   - id: "fig-4-2"
     src: "figures/fig-4-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 4.2"
     caption: "Summary of adhesives used for lining and strip-lining at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
 
   - id: "fig-4-3"
     src: "figures/fig-4-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 4.3"
     caption: "Summary of fabrics used for lining, strip-lining, and loose-lining at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
@@ -222,14 +222,14 @@ figure_list:
 
   - id: "fig-4-7"
     src: "figures/fig-4-7.png"
-    zoom: true
+    # zoom: true
     label: "Figure 4.7"
     caption: "Summary of adhesives used for lining and strip-lining at the Courtauld Institute of Art, 1975–2000."
     credit: "Image: Camille Polkownik"
 
   - id: "fig-4-8"
     src: "figures/fig-4-8.png"
-    zoom: true
+    # zoom: true
     label: "Figure 4.8"
     caption: "Summary of lining fabrics used at the Courtauld Institute of Art, 1975–2000."
     credit: "Image: Camille Polkownik"
@@ -375,7 +375,7 @@ figure_list:
 
   - id: "fig-8-5"
     src: "figures/fig-8-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 8.5"
     caption: "Diagram showing the construction of the vacuum envelope used to treat Van Dyck’s *Equestrian Portrait of Charles I*."
     credit: "Image: National Gallery, London"
@@ -410,7 +410,7 @@ figure_list:
 
   - id: "fig-9-3"
     src: "figures/fig-9-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 9.3"
     caption: "Schematic view of the setup for the low-pressure envelope."
     credit: "Image: Kate Seymour"
@@ -516,7 +516,7 @@ figure_list:
 
   - id: "fig-11-4"
     src: "figures/fig-11-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 11.4"
     caption: "The tub system used to reactivate a thermoplastic resin in a vacuum bag."
     credit: "Image: Barbara Lavorini and Luigi Orata"
@@ -714,49 +714,49 @@ figure_list:
 
   - id: "fig-15-2"
     src: "figures/fig-15-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.2"
     caption: "Measured weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-3"
     src: "figures/fig-15-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.3"
     caption: "Modeled weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.4"
     caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-5"
     src: "figures/fig-15-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.5"
     caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
 
   - id: "fig-15-6"
     src: "figures/fig-15-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.6"
     caption: "Change in tension with 70% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
 
   - id: "fig-15-7"
     src: "figures/fig-15-7.png"
-    zoom: true
+    # zoom: true
     label: "Figure 15.7"
     caption: "Change in tension with 65% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
 
   - id: "fig-16-1"
     src: "figures/fig-16-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 16.1"
     caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions, side view."
     credit: "Images: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
@@ -773,21 +773,21 @@ figure_list:
 
   - id: "fig-16-2"
     src: "figures/fig-16-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 16.2"
     caption: "(a) Yarn sections (5.0 mm long) derived from one original canvas. (b) Different representative ruptured samples from artificially aged fabrics and original canvases after zero-span tensile strength measurement."
     credit: "Images: Theresa A. Bräunig"
 
   - id: "fig-16-3"
     src: "figures/fig-16-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 16.3"
     caption: "(a) Diameter-normalized maximum tensile strengths (  *ƒ<sub>H</sub>*) of the measured samples, average of ten measurements. (b) Limiting viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
     credit: "Images: Theresa A. Bräunig"
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 16.4"
     caption: "Correlation of the diameter-normalized maximum tensile strength (  *f<sub>H</sub>*) with the limiting viscosity number (GVZ) of the measured samples."
     credit: "Image: Theresa A. Bräunig"
@@ -799,14 +799,14 @@ figure_list:
 
   - id: "fig-17-1"
     src: "figures/fig-17-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 17.1"
     caption: "FTIR spectra comparing *Sun Setting, Denmark* (top) and the re-created recipe SAAM 1 (bottom). The painting was lined in 1969 with “wax adhesive (Keck)” to Belgian linen. SAAM 1 was prepared in 2019 following the Keck recipe from the “Lab Formulas—Mixtures” binder (ca. 1967–74). Spectral similarity between these results indicates the success in reconstructing this historical wax-resin adhesive."
     credit: "Spectra: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
 
   - id: "fig-17-2"
     src: "figures/fig-17-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 17.2"
     caption: "Total ion chromatograms (TICs) for the *Oak Trees* lining recipe as shown in GC/MSD (top) and Py-GC/MSD (bottom). *Oak Trees* was lined in 1983 with “1.5 p. Multiwax 445, 1.5 p. beeswax, 1 p. Zonarez B-85 resin” to fiberglass. In GC/MSD, microcrystalline wax was not detected (lack of even-numbered hydrocarbon peaks), and Zonarez B-85 was also not detected. In Py-GC/MSD, peaks span from C<sub>8</sub>H<sub>8</sub> to C<sub>35</sub>H<sub>72</sub>, indicating the presence of both Multiwax 445 and beeswax; additionally, Zonarez B-85 was detected at 136 m/z, 272 m/z, and 408 m/z."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
@@ -823,7 +823,7 @@ figure_list:
 
   - id: "fig-17-3"
     src: "figures/fig-17-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 17.3"
     caption: "SAAM 5 extracted ion chromatograms (EICs) in GC/MSD (top) and Py-GC/MSD (bottom). Limonene in Piccolyte S-85 is detected as a monomer at 136 m/z, dimer at 272 m/z, and trimer at 408 m/z. GC/MSD barely detected the compound, as indicated by the jagged appearance of the baseline in all three EICs. Py-GC/MSD yielded better results, with clearly defined peaks for the compound."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
@@ -844,7 +844,7 @@ figure_list:
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
-    zoom: true
+    # zoom: true
     label: "b"
 
   - id: "fig-18-2-c"
@@ -892,14 +892,14 @@ figure_list:
 
   - id: "fig-19-1"
     src: "figures/fig-19-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 19.1"
     caption: "(a) If the lining is much less stiff than any of the painting’s layers, the laminate cups at cracks in the painting due to stress alignment. Flaws in the painting are subject to the overall tension in the painting. (b) If the lining is much stiffer than any layer in the painting, stress alignment pulls the laminate flat, and flaws in the painting are not subject to the overall tension. (p) paint, (g) ground, (s) size, &#40;c) canvas, (L) lining."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-19-2"
     src: "figures/fig-19-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 19.2"
     caption: "Tension in paintings as RH varies (in the direction shown by the gray arrows in the legend). Mecklenburg, Hedley, and Andersen reported full cycles (hysteresis loops). (For clarity, only selected paths from low to high are shown.)"
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
@@ -913,21 +913,21 @@ figure_list:
 
   - id: "fig-19-4"
     src: "figures/fig-19-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 19.4"
     caption: "Results of peel tests by Élisabeth Forest (Centre de Conservation du Québec). Due to the unevenness of the hot table, Beva 371b samples were always lined at a temperature 1°C higher than Beva original samples. The red lines at top show an acceptable range in bond strength."
     credit: "Image: © Élisabeth Forest, Centre de Conservation du Québec, Ministère de la Culture et des Communications"
 
   - id: "fig-19-5"
     src: "figures/fig-19-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 19.5"
     caption: "Master curves of selected lined paintings, compared to an unlined painting, at 50% RH, shown for various time periods at room temperature (lower scale) and at a cold temperature (upper scale). By the time of these measurements, the oil painting was twenty years old and the linings were eighteen years old. These master curves help us understand which layer is carrying the tension over long periods of time and during short events like a shock (from 1 millisecond to 100 years), and in cold and hot environments."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-19-6"
     src: "figures/fig-19-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 19.6"
     caption: "The relative contribution of linen + wax and sailcloth + Beva linings to the tension in a lined oil painting. Calculated by subtracting the painting tension from the lined painting tension shown in fig. 19.5."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
@@ -986,7 +986,7 @@ figure_list:
 
   - id: "fig-21-1"
     src: "figures/fig-21-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 21.1"
     caption: "An example of star diagrams of risks for linings of an example painting. The smaller the area covered, the lower the risk for each treatment considered. Incidentally, in this case Mehra’s nap-bond lining was considered the option with the lowest risk and the wax-resin lining the highest risk, but this could change with a different painting in a different context. (Diagrams drawn using a radar plot in Microsoft Excel.)"
     credit: "Image: Cecil Krarup Andersen"
@@ -1236,7 +1236,7 @@ figure_list:
 
   - id: "fig-27-1"
     src: "figures/fig-27-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 27.1"
     caption: "The three nanocellulose-based treatments developed and tested for canvas consolidation: pure nanocellulose dispersions (from Chalmers University of Technology, Gothenburg, Sweden), CNC nanocomposites (from Zentrum fur Bucherhaltung (ZFB), Leipzig, Germany), and multilayered nanoparticles (from Chalmers University of Technology, Gothenburg, Sweden, and CSGI, Florence, Italy)."
     credit: "Image: Alexandra Bridarolli"
@@ -1248,14 +1248,14 @@ figure_list:
 
   - id: "fig-27-2"
     src: "figures/fig-27-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 27.2"
     caption: "SEM images of the modes of deposition for the consolidation treatments. Presence of interfibrillar bridges is indicated by red markings. (w) water; (h) heptane."
     credit: "Image: Alexandra Bridarolli and Oleksandr Nechyporchuk"
 
   - id: "fig-27-3"
     src: "figures/fig-27-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 27.3"
     caption: "Mechanical response of untreated and treated degraded cotton canvases subjected to RH cycling (20% to 80% to 20%, 25°C). (w) water; (h) heptane."
     credit: "Image: Alexandra Bridarolli"
@@ -1267,7 +1267,7 @@ figure_list:
 
   - id: "fig-27-4"
     src: "figures/fig-27-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 27.4"
     caption: "Percentage increase in storage modulus (*E'*) measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
     credit: "Image: Alexandra Bridarolli"
@@ -1307,7 +1307,7 @@ figure_list:
 
   - id: "fig-28-5"
     src: "figures/fig-28-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 28.5"
     caption: "Activation and application of adhesive meshes for readily accessible bonding surfaces (strip-lining with sandwich of nonwoven polyester and adhesive mesh)."
     credit: "Image: Mona Konietzny"
@@ -1321,14 +1321,14 @@ figure_list:
 
   - id: "fig-28-7"
     src: "figures/fig-28-7.png"
-    zoom: true
+    # zoom: true
     label: "Figure 28.7"
     caption: "Application of adhesive meshes to poorly accessible bonding surface by means of a nonwoven capillary fabric."
     credit: "Image: Mona Konietzny"
 
   - id: "fig-29-1"
     src: "figures/fig-29-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 29.1"
     caption: "Adherends and various bonding techniques."
     credit: "Image: Hannah Flock, 2019"
@@ -1345,28 +1345,28 @@ figure_list:
 
   - id: "fig-29-2"
     src: "figures/fig-29-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 29.2"
     caption: "Maximum tensile forces (Fmax [N]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-3"
     src: "figures/fig-29-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 29.3"
     caption: "Coefficients of variation (CV of Fmax [%]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-4"
     src: "figures/fig-29-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 29.4"
     caption: "Butt joints with different adhesives: F<sub>max</sub> N of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
     credit: "Image: Hannah Flock, 2019"
 
   - id: "fig-29-5"
     src: "figures/fig-29-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 29.5"
     caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> [N] of uniaxially tested canvas strips with bonds."
     credit: "Image: Hannah Flock, 2019"
@@ -1394,7 +1394,7 @@ figure_list:
 
   - id: "fig-30-2"
     src: "figures/fig-30-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 30.2"
     caption: "Modification of Heiber’s work stretcher attachment to maintain tacking margins without flattening. (a) Diagram illustrating the process of modification. (b) Detail of a painting attached to a work stretcher using this modified method. Since the tension is equilibrial, the tacking margins will remain at a right angle (see figs. 30.2 [a] and 30.3 [b])."
     credit: "Image: Robert Proctor"
@@ -1422,7 +1422,7 @@ figure_list:
 
   - id: "fig-30-6"
     src: "figures/fig-30-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 30.6"
     caption: "Final step in watch glass support setup. (a) Detail of the reptile warming mat over recently consolidated area. (b) Detail under raking light before treatment of an area treated using this method. &#40;c) Detail under raking light of same area after consolidation treatment and relaxation of paint using this watch glass support setup."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
@@ -1436,7 +1436,7 @@ figure_list:
 
   - id: "fig-30-8"
     src: "figures/fig-30-8.png"
-    zoom: true
+    # zoom: true
     label: "Figure 30.8"
     caption: "(a) Example of a setup using aluminum edging on a stretcher and minimal floss/thread attachments to close the gap in an existing tear on a canvas. Note the mending plate (circled in red) used to anchor to the crossbar of the stretcher when only one thread was required for tensioning. (b) Mock-up of possible tensioning mechanisms of screws and pushpins with clamped attachment to stretcher."
     credit: "Image: Robert Proctor"
@@ -1471,14 +1471,14 @@ figure_list:
 
   - id: "fig-31-2"
     src: "figures/fig-31-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 31.2"
     caption: "Suture anchoring technique."
     credit: "Image: Emily Mulvihill"
 
   - id: "fig-31-3"
     src: "figures/fig-31-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 31.3"
     caption: "Suture sewing technique used in case study 2."
     credit: "Image: Emily Mulvihill"
@@ -1513,42 +1513,42 @@ figure_list:
 
   - id: "fig-32-1"
     src: "figures/fig-32-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.1"
     caption: "Distribution of the origin (blue bars) and acquisition (pink and yellow bars) of canvas paintings over time."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-2"
     src: "figures/fig-32-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.2"
     caption: "Distribution of the age of canvas paintings at the time of acquisition."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-3"
     src: "figures/fig-32-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.3"
     caption: "(a) Distribution of support materials used in the paintings in the two collections. (b) Types of documentation in existence for canvas paintings."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-4"
     src: "figures/fig-32-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.4"
     caption: "Types of information recorded about the interventions carried out on canvas paintings."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-5"
     src: "figures/fig-32-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.5"
     caption: "Types of interventions documented."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
 
   - id: "fig-32-6"
     src: "figures/fig-32-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 32.6"
     caption: "Distribution of interventions over time."
     credit: "Image: Renate Poggendorf, Doerner Institut, Bayerische Staatsgemäldesammlungen"
@@ -1684,7 +1684,7 @@ figure_list:
 
   - id: "fig-35-2"
     src: "figures/fig-35-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 35.2"
     caption: "Number of paintings by color of preparation layer and century."
     credit: "Image: Dominique Martos-Levif"
@@ -1715,14 +1715,14 @@ figure_list:
 
   - id: "fig-35-5"
     src: "figures/fig-35-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 35.5"
     caption: "Stratigraphy of the transferred painting: (1) paint layer, (2) chalk ground layer, (3) polyvinyl acetate, (4) cotton gauzes, (5) glue paste, and (6) transfer canvas. Also shown is the damage the painting suffered from the disaster: (7) tenting, (8) surface powdering of the ground layer, and (9) air pockets."
     credit: "Image: Ludovic Roudet"
 
   - id: "fig-35-6"
     src: "figures/fig-35-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 35.6"
     caption: "The stratigraphy of the transferred painting after treatment: (1) paint layer, (2) chalk ground layer, (3) consolidated part of the ground layer, (4) glue paste, (5) cotton gauzes, (6) nonwoven polyester layer, (7) Plextol B500, and (8) transfer canvas."
     credit: "Image: Ludovic Roudet"
@@ -1736,7 +1736,7 @@ figure_list:
 
   - id: "fig-36-1"
     src: "figures/fig-36-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 36.1"
     caption: "Map of Rajasthan showing Alwar."
     credit: "Image: Shutterstock"
@@ -1930,14 +1930,14 @@ figure_list:
 
   - id: "fig-40-1"
     src: "figures/fig-40-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 40.1"
     caption: "(a) Curl, caused by greater shrinkage in the paint (blue) than in the ground (gray). Inset graph for curl height for various differential shrinkages and a width of 20 mm, assuming no restraint by the size of the canvas (slack). (b) Stress alignment (red line) in a taut painting. The canvas hinge (red circle in center) aligns with the stress that is centered in the intact size, ground and paint adjacent. &#40;R) radius, (h) height, (t) thickness, (w) width. Subscripts: (p) paint, (g) ground, (s) size, &#40;c) canvas."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
 
   - id: "fig-40-2"
     src: "figures/fig-40-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 40.2"
     caption: "The three conformations of a locally reinforced crack when under tension. (a) The desired state, when paint and reinforcement are completely inflexible (plate-like). (b) Ridge surfacing, due to stress alignment of a flexible reinforcement (chain-like) with a flexible painting (chain-like). &#40;c) Plateau surfacing, due to stress alignment of a rigid reinforcement (plate-like) with a flexible painting (chain-like). Subscripts: (p) paint; (g) ground; (s) size; &#40;c) canvas; &#40;r) reinforcement."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
@@ -1984,7 +1984,7 @@ figure_list:
 
   - id: "fig-40-8"
     src: "figures/fig-40-8.png"
-    zoom: true
+    # zoom: true
     label: "Figure 40.8"
     caption: "Cupping height from five minutes to 21 years. Graph on left shows growth over time for treatments in slack paintings. Graph on right shows single data points for treatments in taut paintings that were keyed out 20 years ago. Gray region indicates heights that are noticeable under normal 30-degree lighting."
     credit: "Image: © Mary Piper Hough and Stefan W. Michalski"
@@ -2005,21 +2005,21 @@ figure_list:
 
   - id: "fig-41-3"
     src: "figures/fig-41-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 41.3"
     caption: "Bar graph summarizing the age of paintings when lined with wax resin at BkM (1935–85)."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig-41-4"
     src: "figures/fig-41-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 41.4"
     caption: "Graph illustrating the number of wax-resin linings performed at BkM by year (1930–90). The gray histogram represents real data gathered to date (approximately half of the paintings conservation files); the yellow line is a six-year moving average highlighting broader trends."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig-41-5"
     src: "figures/fig-41-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 41.5"
     caption: "Pie chart comparing adhesive recipe detail contained in BkM reports (1935–85)."
     credit: "Image: Brooklyn Museum Conservation Department"
@@ -2185,7 +2185,7 @@ figure_list:
 
   - id: "fig-46-1-c"
     src: "figures/fig-46-1-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-46-1-d"
@@ -2207,7 +2207,7 @@ figure_list:
 
   - id: "fig-46-2-c"
     src: "figures/fig-46-2-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-46-2-d"
@@ -2229,7 +2229,7 @@ figure_list:
 
   - id: "fig-46-3-c"
     src: "figures/fig-46-3-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-46-3-d"
@@ -2251,7 +2251,7 @@ figure_list:
 
   - id: "fig-46-4-c"
     src: "figures/fig-46-4-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-46-4-d"
@@ -2273,7 +2273,7 @@ figure_list:
 
   - id: "fig-46-5-c"
     src: "figures/fig-46-5-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-46-5-d"
@@ -2368,7 +2368,7 @@ figure_list:
 
   - id: "fig-49-2"
     src: "figures/fig-49-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 49.2"
     caption: "Amount (in grams) of the wax-resin mixture poulticed into each tissue after 1-, 5-, and 15-minute dwell times."
     credit: "Image: Julianna Ly and Tracy Liu"
@@ -2380,7 +2380,7 @@ figure_list:
 
   - id: "fig-49-3"
     src: "figures/fig-49-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 49.3"
     caption: "Weight increase (in grams) after each iterative use."
     credit: "Image: Julianna Ly and Tracy Liu"
@@ -2409,26 +2409,26 @@ figure_list:
 
   - id: "fig-49-5"
     src: "figures/fig-49-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 49.5"
     caption: "Increase in surface area (<sup>2</sup>/g) analyzed through BET."
     credit: "Image: Julianna Ly and Tracy Liu"
 
   - id: "fig-49-6-a"
     src: "figures/fig-49-6-a.png"
-    zoom: true
+    # zoom: true
     label: "a"
     # caption: "(a) Weight increases (in grams) for each tissue exposed to the solvents or mixtures tested. (b) Py‑GCMS analysis of the three solvents: solvent 1 is 100% acetone, solvent 2 is 1:1 acetone and petroleum benzine, and solvent 3 is 1:9 acetone and petroleum benzine. (Py-GCMS analysis conducted by Dr. W. Chris Petersen, Volunteer Conservation Scientist and Affiliated Associate Professor, Scientific Research and Analysis lab, Winterthur Museum, Garden and Library.) "
     # credit: "Images: a: Julianna Ly and Tracy Liu; b: Chris Petersen, Tracy Liu"
 
   - id: "fig-49-6-b"
     src: "figures/fig-49-6-b.png"
-    zoom: true
+    # zoom: true
     label: "b"
 
   - id: "fig-50-1"
     src: "figures/fig-50-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 50.1"
     caption: "Various recipes of wax resin for lining used in Japan. Wax-resin linings were brought into Japan at the end of the 1960s, and the recipe of the lining adhesive had already been modified by the 1970s. (Note: colophony was referred to in interviews as “rosin.”) Sources: Institut Royal du Patrimoine Artistique: Messens 2003; New York University: Keck 1965; 1968 Tokyo University of the Arts: Utada and Morita 1968; 1968 Art Conservation Lab: Koyano 1968; 1969 National Museum of Western Art: Kuroe 1969; 1970 Conservation Studios A and B: interviews by author, 2018; 1975 National Museum of Western Art: Kuroe 1975; 1978 Tokyo University of the Arts: documents in the Tokyo University lab archives; 1978 Conservation Studio C: interviews by authors, 2018."
     credit: "Image: Saki Kunikata"
@@ -2440,21 +2440,21 @@ figure_list:
 
   - id: "fig-50-2"
     src: "figures/fig-50-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 50.2"
     caption: "Removal rate of wax resin by weight."
     credit: "Image: Saki Kunikata"
 
   - id: "fig-50-3"
     src: "figures/fig-50-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 50.3"
     caption: "Materials for wax-resin adhesive: FTIR spectrum measurements of test samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>)."
     credit: "Image: Saki Kunikata"
 
   - id: "fig-50-4"
     src: "figures/fig-50-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 50.4"
     caption: "FTIR spectrum measurements of wax-resin samples A–E (1800 cmsup>−1</sup> to 1600 cm<sup>−1</sup>). "
     credit: "Image: Saki Kunikata"
@@ -2483,19 +2483,19 @@ figure_list:
 
   - id: "fig-51-2-a"
     src: "figures/fig-51-2-a.png"
-    zoom: true
+    # zoom: true
     label: "a"
     # caption: "Restraint tests of different lining fabrics and glue-paste linings. (a) Force development of open- and close-weave lining canvases (alone) when subjected to different RH. (b) Force development of rye T70, linings as a function of the weave geometry of the lining canvas when subjected to different RH. &#40;c) Force development of Manitoba wheat T55, linings as a function of the weave geometry of the lining canvas when subjected to different RH."
     # credit: "Images: Courtesy of the research team"
 
   - id: "fig-51-2-b"
     src: "figures/fig-51-2-b.png"
-    zoom: true
+    # zoom: true
     label: "b"
 
   - id: "fig-51-2-c"
     src: "figures/fig-51-2-c.png"
-    zoom: true
+    # zoom: true
     label: "c"
 
   - id: "fig-51-3"
@@ -2529,14 +2529,14 @@ figure_list:
 
   - id: "fig-51-5"
     src: "figures/fig-51-5.png"
-    zoom: true
+    # zoom: true
     label: "Figure 51.5"
     caption: "Star diagrams representing the risks for glue-paste linings as a function of the flour used. Considering that the five parameters tested are RH-related, the smaller the area covered, the less vulnerable the glue-paste lining is to RH; in other words, larger gray areas suggest the need for more restrictive environmental conditions to ensure the stability of the lined painting."
     credit: "Images: Courtesy of the research team"
 
   - id: "fig-52-1"
     src: "figures/fig-52-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 52.1"
     caption: "Diagram illustrating insert joint between the custom-fabricated stretcher and incised Gator Board panel insert."
     credit: "Image: Gianfranco Pocobene"
@@ -2578,7 +2578,7 @@ figure_list:
 
   - id: "fig-53-2"
     src: "figures/fig-53-2.png"
-    zoom: true
+    # zoom: true
     label: "Figure 53.2"
     caption: "Cross-section of the construction of the lining system used for *Birds I*, *Birds II*, *Mammals*, and *Deer*."
     credit: "Image: Leonora Burton"
@@ -2632,7 +2632,7 @@ figure_list:
 
   - id: "fig-54-4"
     src: "figures/fig-54-4.png"
-    zoom: true
+    # zoom: true
     label: "Figure 54.4"
     caption: "Diagram of the final stretching of the strip-lined painting."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
@@ -2729,7 +2729,7 @@ figure_list:
 
   - id: "fig-57-3"
     src: "figures/fig-57-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 57.3"
     caption: "Schematic of screw mechanism installed by Artyom Romanov for tensioning Vasnetsov’s two-sided painting *New Village*."
     credit: "Image: GOSNIIR"
@@ -2886,7 +2886,7 @@ figure_list:
 
   - id: "fig-62-1"
     src: "figures/fig-62-1.png"
-    zoom: true
+    # zoom: true
     label: "Figure 62.1"
     caption: "ATR-FTIR fingerprint region for priming highlighting key acrylic-PVAc peaks."
     credit: "Image: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
@@ -2900,7 +2900,7 @@ figure_list:
 
   - id: "fig-62-3"
     src: "figures/fig-62-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 62.3"
     caption: "Cross-sectional SEM-EDX elemental distribution of zinc and corresponding ATR-FTIR spectra with highlighted metal carboxylate band from surfaces of (a) Claessens oil-primed linen, and (b) Artfix oil-primed linen."
     credit: "Images: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
@@ -2921,7 +2921,7 @@ figure_list:
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"
-    zoom: true
+    # zoom: true
     label: "Figure 63.3"
     caption: "XRF calibration curve of chloride (CI) levels in the cotton cloth."
     credit: "Image: Research team"
@@ -2942,14 +2942,14 @@ figure_list:
 
   - id: "fig-63-6"
     src: "figures/fig-63-6.png"
-    zoom: true
+    # zoom: true
     label: "Figure 63.6"
     caption: "Salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
     credit: "Image: Research team"
 
   - id: "fig-63-7"
     src: "figures/fig-63-7.png"
-    zoom: true
+    # zoom: true
     label: "Figure 63.7"
     caption: "Graph of CI concentration change of the blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
     credit: "Image: Research team"
