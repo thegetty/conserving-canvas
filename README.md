@@ -69,6 +69,9 @@ Added keywords
 **_plugins/shortcodes/cite.js**
 Will return id/text if the reference doesn't match one in references.yaml
 
+**_plugins/shortcodes/contributors.js**
+Refactored logic to handle oxford commas correctly
+
 **_plugins/shortcodes/figureGroup.js**
 Add option to pass single caption for figuregroup
 
