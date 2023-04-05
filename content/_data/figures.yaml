@@ -63,12 +63,17 @@ figure_list:
     caption: "Plot of molar mass distribution. A new canvas on the right with a range of very high molecular weights compared with two samples of a J. M. W. Turner loose-lining canvas (painting dated 1846). The peaks (modes) for the Turner canvas are at much less molar mass and there is a greater spread of molar masses than for the new canvas, indicating that the long cellulose molecules have been cleaved at many points. Also, the darker exposed parts are more degraded than the lighter parts behind the stretcher. Canvas samples analyzed at BOKU Vienna during the EU MEMORI project (Jeong et al. 2013)."
     credit: "Image: Myung-Joon Jeong, Manuel Becker, Antje Potthast, Susana López-Aparicio, and Stephen Hackney"
 
-  - id: "fig-1-7"
-    src: "figures/fig-1-7.jpg"
+  - id: "fig-1-7-a"
+    src: "figures/fig-1-7-a.jpg"
     zoom: true
-    label: "Figure 1.7"
-    caption: "Two separate studies showing that below 0.5–1.0 air exchanges per day, the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases (Thickett et al. 2007). (b) Various narrow painting frames and cases (Grøntoft et al. 2011). See Hackney 2016."
-    credit: "Image: Stephen Hackney"
+    label: "a"
+    # caption: "Two separate studies showing that below 0.5–1.0 air exchanges per day, the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases (Thickett et al. 2007). (b) Various narrow painting frames and cases (Grøntoft et al. 2011). See Hackney 2016."
+    # credit: "Image: Stephen Hackney"
+
+  - id: "fig-1-7-b"
+    src: "figures/fig-1-7-b.jpg"
+    zoom: true
+    label: "b"
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.png"
@@ -258,12 +263,17 @@ figure_list:
     src: "tables/table-4-1.html"
     media_type: table
 
-  - id: "fig-5-1"
-    src: "figures/fig-5-1.jpg"
+  - id: "fig-5-1-a"
+    src: "figures/fig-5-1-a.jpg"
     zoom: true
-    label: "Figure 5.1"
-    caption: "(a) Pietro Duranti (Italian, 1710–1791, *Allegoria dell’Aurora*, ca. 1768. Tapestry. (b) Giuseppe Bonito (Italian, 1707–1789), *Allegoria dell’Aurora* (model for tapestry), ca. 1768. Oil on canvas, 220 × 139 cm (86 3/5 × 54 3/4 in.)."
-    credit: "Images: (a) Napoli, Palazzo Reale; (b) Caserta, Palazzo Reale"
+    label: "a"
+    # caption: "(a) Pietro Duranti (Italian, 1710–1791, *Allegoria dell’Aurora*, ca. 1768. Tapestry. (b) Giuseppe Bonito (Italian, 1707–1789), *Allegoria dell’Aurora* (model for tapestry), ca. 1768. Oil on canvas, 220 × 139 cm (86 3/5 × 54 3/4 in.)."
+    # credit: "Images: (a) Napoli, Palazzo Reale; (b) Caserta, Palazzo Reale"
+  
+  - id: "fig-5-1-b"
+    src: "figures/fig-5-1-b.jpg"
+    zoom: true
+    label: "b"
 
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
@@ -300,12 +310,17 @@ figure_list:
     caption: "Detail of reverse of Bertoja’s *Madonna col Bambino*. Notice the not-glued new canvas beneath the original one, as well as the nails that fix both."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
 
-  - id: "fig-5-7"
-    src: "figures/fig-5-7.jpg"
+  - id: "fig-5-7-a"
+    src: "figures/fig-5-7-a.jpg"
     zoom: true
-    label: "Figure 5.7"
-    caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
-    credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
+    label: "a"
+    # caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
+    # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
+  
+  - id: "fig-5-7-b"
+    src: "figures/fig-5-7-b.jpg"
+    zoom: true
+    label: "b"
 
   - id: "fig-6-1-a"
     src: "figures/fig-6-1-a.jpg"
@@ -754,12 +769,17 @@ figure_list:
     caption: "Change in tension with 65% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
 
-  - id: "fig-16-1"
-    src: "figures/fig-16-1.png"
+  - id: "fig-16-1-a"
+    src: "figures/fig-16-1-a.png"
     # zoom: true
-    label: "Figure 16.1"
-    caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions, side view."
-    credit: "Images: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
+    label: "a"
+    # caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions, side view."
+    # credit: "Images: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
+  
+  - id: "fig-16-1-b"
+    src: "figures/fig-16-1-b.png"
+    # zoom: true
+    label: "b"
 
   - id: "table-16-1"
     credit: "Table: Theresa A. Bräunig"
@@ -771,25 +791,35 @@ figure_list:
     src: "tables/table-16-2.html"
     media_type: table
 
-  - id: "fig-16-2"
-    src: "figures/fig-16-2.png"
+  - id: "fig-16-2-a"
+    src: "figures/fig-16-2-a.png"
     # zoom: true
-    label: "Figure 16.2"
-    caption: "(a) Yarn sections (5.0 mm long) derived from one original canvas. (b) Different representative ruptured samples from artificially aged fabrics and original canvases after zero-span tensile strength measurement."
-    credit: "Images: Theresa A. Bräunig"
+    label: "a"
+    # caption: "(a) Yarn sections (5.0 mm long) derived from one original canvas. (b) Different representative ruptured samples from artificially aged fabrics and original canvases after zero-span tensile strength measurement."
+    # credit: "Images: Theresa A. Bräunig"
+  
+  - id: "fig-16-2-b"
+    src: "figures/fig-16-2-b.png"
+    # zoom: true
+    label: "b"
 
-  - id: "fig-16-3"
-    src: "figures/fig-16-3.png"
+  - id: "fig-16-3-a"
+    src: "figures/fig-16-3-a.png"
     # zoom: true
-    label: "Figure 16.3"
-    caption: "(a) Diameter-normalized maximum tensile strengths (  *ƒ<sub>H</sub>*) of the measured samples, average of ten measurements. (b) Limiting viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
-    credit: "Images: Theresa A. Bräunig"
+    label: "a"
+    # caption: "(a) Diameter-normalized maximum tensile strengths (*ƒ<sub>H</sub>*) of the measured samples, average of ten measurements. (b) Limiting viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
+    # credit: "Images: Theresa A. Bräunig"
+  
+  - id: "fig-16-3-b"
+    src: "figures/fig-16-3-b.png"
+    # zoom: true
+    label: "b"
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.png"
     # zoom: true
     label: "Figure 16.4"
-    caption: "Correlation of the diameter-normalized maximum tensile strength (  *f<sub>H</sub>*) with the limiting viscosity number (GVZ) of the measured samples."
+    caption: "Correlation of the diameter-normalized maximum tensile strength (*f<sub>H</sub>*) with the limiting viscosity number (GVZ) of the measured samples."
     credit: "Image: Theresa A. Bräunig"
 
   - id: "table-17-1"
@@ -2783,12 +2813,22 @@ figure_list:
     caption: "Internal auxiliary frame with magnetic system (IAFMS)."
     credit: "Image: Emanuel Sterp Moga"
 
-  - id: "fig-59-2"
-    src: "figures/fig-59-2.jpg"
+  - id: "fig-59-2-a"
+    src: "figures/fig-59-2-a.jpg"
     zoom: true
-    label: "Figure 59.2"
-    caption: " (a) Thread-by-thread suture. (b) Textile intarsia. &#40;c) Reinforcement with thread bridges."
-    credit: "Image: Emanuel Sterp Moga"
+    label: "a"
+    # caption: "(a) Thread-by-thread suture. (b) Textile intarsia. &#40;c) Reinforcement with thread bridges."
+    # credit: "Image: Emanuel Sterp Moga"
+  
+  - id: "fig-59-2-b"
+    src: "figures/fig-59-2-b.jpg"
+    zoom: true
+    label: "b"
+
+  - id: "fig-59-2-c"
+    src: "figures/fig-59-2-c.jpg"
+    zoom: true
+    label: "c"
 
   - id: "table-59-1"
     #credit: "Table: Emanuel Sterp Moga"
