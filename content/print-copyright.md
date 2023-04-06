@@ -17,12 +17,12 @@ The Getty Conservation Institute (GCI) works internationally to advance conserva
 
 {{ config.quire_credit_line }}
 
-The free online edition of this open-access publication is available at getty.edu/publications/conserving-canvas/ and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book.
+The free online edition of this open-access publication is available at [getty.edu/publications/conserving-canvas/](https://getty.edu/publications/conserving-canvas/) and includes zoomable illustrations. Also available are free PDF and EPUB downloads of the book.
 
 {% copyright %}
 
 First edition, {{ publication.pub_date | date: "%Y" }}
-{{ publication.repository_url | replace: "https://", "" }}
+[{{ publication.repository_url | replace: "https://", "" }}]({{ publication.repository_url }})
 
 <div class="publisher no-break-container">
 
