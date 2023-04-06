@@ -2,6 +2,7 @@
 title: "Introduction"
 order: 7
 layout: "page"
+class: page-one
 contributor:
   - first_name: Ian
     last_name: McClure
