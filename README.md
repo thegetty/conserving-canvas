@@ -69,6 +69,9 @@ Added keywords
 **_includes/components/figure/media-embed-url.js**
 Updated Vimeo embed link format
 
+**_includes/components/menu/item.js**
+Added contributor names to sidebar menu
+
 **_plugins/shortcodes/cite.js**
 Will return id/text if the reference doesn't match one in references.yaml
 
