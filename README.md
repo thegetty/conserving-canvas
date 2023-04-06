@@ -52,13 +52,14 @@ nvm install 17.5.0
 
 While the paged.js work is ongoing, a PDF of French Silver should be created with PrinceXML (First pages was created using Prince 14.2.)
 
-1. Run either `npm run dev` (and then stop it) or `npm run build` to generate the latest version of `_site/pdf.html` and `_site/pdf.css` from which the PDF will be generated
+1. Run `quire build`
 
 2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-3. In `_site/pdf.html` find `iiif/(.*?)/print-image.([a-z]{3})` and replace with `iiif/$1/$1/print-image.jpg`
+3. Open `_site/index.html` and copy the license svg icons. Paste thme in just below the `<body>`
+in `_site/pdf.html`
 
-4. Run `npm run build:prince`
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ## Customizations Made to 11ty Templates/Files
 
