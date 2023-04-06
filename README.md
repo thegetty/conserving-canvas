@@ -66,6 +66,9 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 **_layouts/essay.liquid**
 Added keywords
 
+**_includes/components/copyright/licensing.js**
+Added a comma after "view a coopy of this license"
+
 **_includes/components/figure/media-embed-url.js**
 Updated Vimeo embed link format
 
