@@ -99,63 +99,40 @@
       border-bottom: 0;
     }
   }
-  &.is-table-scale-1,
-  .quire-page__content &.is-table-scale-1 table,
-  .quire-page__content .content &.is-table-scale-1 .table-key {
+  &.is-table-scale-1 {
     font-size: 0.1rem;
   }
 
-  &.is-table-scale-2,
-  .quire-page__content &.is-table-scale-2 table,
-  .quire-page__content .content &.is-table-scale-2 .table-key {
+  &.is-table-scale-2 {
     font-size: 0.2rem;
   }
 
-  &.is-table-scale-3,
-  .quire-page__content &.is-table-scale-3 table,
-  .quire-page__content .content &.is-table-scale-3 .table-key {
+  &.is-table-scale-3 {
     font-size: 0.3rem;
   }
 
-  &.is-table-scale-4,
-  .quire-page__content &.is-table-scale-4 table,
-  .quire-page__content .content &.is-table-scale-4 .table-key {
+  &.is-table-scale-4 {
     font-size: 0.4rem;
   }
 
-  &.is-table-scale-5,
-  .quire-page__content &.is-table-scale-5 table,
-  .quire-page__content .content &.is-table-scale-5 .table-key {
+  &.is-table-scale-5 {
     font-size: 0.5rem;
   }
 
-  &.is-table-scale-6,
-  .quire-page__content &.is-table-scale-6 table,
-  .quire-page__content .content &.is-table-scale-6 .table-key {
+  &.is-table-scale-6 {
     font-size: 0.6rem;
   }
 
-  &.is-table-scale-7,
-  .quire-page__content &.is-table-scale-7 table,
-  .quire-page__content .content &.is-table-scale-7 .table-key {
+  &.is-table-scale-7 {
     font-size: 0.7rem;
   }
 
-  &.is-table-scale-8,
-  .quire-page__content &.is-table-scale-8 table,
-  .quire-page__content .content &.is-table-scale-8 .table-key {
+  &.is-table-scale-8 {
     font-size: 0.8rem;
   }
 
-  &.is-table-scale-9,
-  .quire-page__content &.is-table-scale-9 table,
-  .quire-page__content .content &.is-table-scale-9 .table-key {
+  &.is-table-scale-9 {
     font-size: 0.9rem;
-  }
-  &.is-table-scale-9,
-  .quire-page__content &.is-table-scale-10 table,
-  .quire-page__content .content &.is-table-scale-10 .table-key {
-    font-size: 1rem;
   }
 
   .content & {
@@ -186,10 +163,6 @@
     }
   }
 
-  &__credit {
-  }
-
-  // The figure label with figureLabelLocation: below
   &__label {
     @if $theme == classic {
       color: background-color-text-classic($content-background-color);
@@ -476,6 +449,10 @@
     page-break-inside: avoid;
     break-inside: avoid;
   }
+}
+
+.q-figure__caption-embed-link {
+  display: block;
 }
 
 /** VIDEO/AUDIO FALLBACK ELEMENTS **/

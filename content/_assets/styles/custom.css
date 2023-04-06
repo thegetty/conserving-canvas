@@ -436,6 +436,7 @@ table a,
   }
   .quire-contents-list .page-item.frontmatter-page a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+    font-style: normal;
   }
   /* Style half title and title pages */
   .half-title-page,
@@ -517,6 +518,11 @@ table a,
   .pdf-heading-only .quire-page__content {
     display: none;
   }
+  @media print {
+    .quire-page.pdf-heading-only {
+      page: no-footer;
+    }
+  }
   /* Make tables full-width and float to the top of the page */
   .q-figure.q-figure--table {
     column-span: all;
@@ -551,11 +557,8 @@ table a,
   .q-figure.pdf-two-column {
     column-span: all;
   }
-   /* Make Foreword 2 column in PDF */
-   #foreword.quire-page .quire-page__content {
-    column-count: 2;
-    column-gap: 0.1875in;
-    max-width: 100%;
-    margin: 0;
+  /* Remove page number from dedication */
+  #dedication.quire-page.frontmatter {
+    page: no-footer;
   }
 }

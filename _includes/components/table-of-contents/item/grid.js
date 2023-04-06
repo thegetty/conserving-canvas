@@ -19,8 +19,8 @@ module.exports = function (eleventyConfig) {
   const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const tableOfContentsImage = eleventyConfig.getFilter('tableOfContentsImage')
-  const urlFilter = eleventyConfig.getFilter('url')
-  const { imageDir, pageContributorDivider } = eleventyConfig.globalData.config.params
+  const { contributorDivider } = eleventyConfig.globalData.config.tableOfContents
+  const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function (params) {
     const {
@@ -48,10 +48,8 @@ module.exports = function (eleventyConfig) {
      */
     const isPage = !!layout
 
-    const divider = pageContributorDivider || ' — '
-
     const pageContributorsElement = pageContributors
-      ? `<span class="contributor-divider">${divider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
+      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
       : ''
     const pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${pageContributorsElement}`
     const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
@@ -59,31 +57,41 @@ module.exports = function (eleventyConfig) {
     /**
      * Create cards for page items
      */
-    const imageAttribute = image || pageFigure || pageObject ? "image" : "no-image"
-    const slugPageAttribute = children ? "slug-page" : ""
+    const imageAttribute = image || pageFigure || pageObject ? 'image' : 'no-image'
+    const slugPageAttribute = children ? 'slug-page' : ''
 
     let imageElement
     switch (true) {
       case !!image:
-        imageElement = html`<div class="card-image">
+        imageElement = html`
+          <div class="card-image">
             <figure class="image">
               <img src="${path.join(imageDir, image)}" alt="" />
             </figure>
-          </div>`
+          </div>
+        `
         break
-      case !!pageFigure:
-        const firstFigure = firstPageFigure ? getFigure(pageFigure[0]) : null
-        imageElement = firstFigure ? tableOfContentsImage({ imageDir, src: firstFigure.src }) : ''
+      case !!pageFigure: {
+        const firstFigure = pageFigure[0] ? getFigure(pageFigure[0]) : null
+        imageElement = firstFigure
+          ? tableOfContentsImage({ src: firstFigure.src })
+          : ''
         break
-      case !!pageObject:
+      }
+      case !!pageObject: {
         const firstObjectId = pageObject[0].id
         const object = getObject(firstObjectId)
-        const firstObjectFigure = object && object.figure ? getFigure(object.figure[0].id) : null
-        imageElement = firstObjectFigure ? tableOfContentsImage({ imageDir, src: firstObjectFigure.src }) : ''
+        const firstObjectFigure = object && object.figure
+          ? getFigure(object.figure[0].id)
+          : null
+        imageElement = firstObjectFigure
+          ? tableOfContentsImage({ src: firstObjectFigure.src })
+          : ''
         break
+      }
       default:
         imageElement = ''
-        break;
+        break
     }
 
     if (!children) {
@@ -99,7 +107,7 @@ module.exports = function (eleventyConfig) {
 
     if (isPage) {
       mainElement = html`
-        <a href="${urlFilter(page.url)}">
+        <a href="${page.url}">
           ${mainElement}
         </a>
       `
