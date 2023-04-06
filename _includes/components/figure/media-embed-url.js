@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Updated Vimeo embed link format, line 39–44
+//
 const chalkFactory = require('~lib/chalk')
 
 const logger = chalkFactory('Figure Media Embed URL')
@@ -32,12 +36,12 @@ module.exports = function (eleventyConfig) {
       }
     },
     vimeo(mediaId) {
-      const baseUrl = 'https://player.vimeo.com/video/'
+      const baseUrl = 'https://vimeo.com/'
       // Sample Vimeo id: 672853278/b3f8d29d53
-      const embedId = mediaId.replace('/', '?h=')
+      // const embedId = mediaId.replace('/', '?h=')
       return {
-        embedUrl: `${baseUrl}${embedId}`,
-        sourceUrl: `${baseUrl}${embedId}`
+        embedUrl: `${baseUrl}${mediaId}`,
+        sourceUrl: `${baseUrl}${mediaId}`
       }
     },
     youtube(mediaId) {
