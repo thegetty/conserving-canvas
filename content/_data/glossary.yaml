@@ -299,7 +299,7 @@ entries:
     aat: [300012922]
 
   - term: "denaturation"
-    definition: "The process of modifying the molecular structure of a protein. Denaturation involves the breaking of many of the weak linkages, or bonds (e.g., hydrogen bonds), within a protein that are responsible for the highly ordered structure of the protein in its natural state. Denatured proteins have a looser, more random structure. Denaturation can be brought about in various ways, for example by heating or by [treatment](https://www.britannica.com/dictionary/treatment) with alkali, [acid](https://www.britannica.com/science/acid), [urea](https://www.britannica.com/science/urea), or detergents."
+    definition: "The process of modifying the molecular structure of a protein. Denaturation involves the breaking of many of the weak linkages, or bonds (e.g., hydrogen bonds), within a protein that are responsible for the highly ordered structure of the protein in its natural state. Denatured proteins have a looser, more random structure. Denaturation can be brought about in various ways, for example by heating or by treatment with alkali, acid, urea, or detergents."
     aat: [300379990]
 
   - term: "delamination"
@@ -345,7 +345,7 @@ entries:
     aat:
 
   - term: "dynamic mechanical analysis (DMA)"
-    definition: "A technique used to study and characterize materials. It is most useful for studying the [viscoelastic](https://en.wikipedia.org/wiki/Viscoelastic) behavior of [polymers](https://en.wikipedia.org/wiki/Polymer). The temperature of the sample or the frequency of the stress are often varied, leading to variations in the complex modulus. This approach can be used to locate the [glass transition](https://en.wikipedia.org/wiki/Glass_transition) temperature of the material."
+    definition: "A technique used to study and characterize materials. It is most useful for studying the viscoelastic behavior of polymers. The temperature of the sample or the frequency of the stress are often varied, leading to variations in the complex modulus. This approach can be used to locate the glass transition temperature of the material."
     aat: [300391244]
 
   - term: "elasticity"
@@ -496,7 +496,7 @@ entries:
     aat:
 
   - term: "glass transition temperature"
-    definition: "The glass-to-liquid transition, or glass transition, is the gradual and [reversible](https://en.wikipedia.org/wiki/Reversible_reaction) transition in [amorphous](https://en.wikipedia.org/wiki/Amorphous_solid) materials (or in amorphous regions within [semicrystalline](https://en.wikipedia.org/wiki/Crystallinity) materials) from a hard and relatively brittle “glassy” state into a viscous or rubbery state as the temperature is increased. The glass-transition temperature (T~g~) of a material characterizes the range of temperatures over which this glass transition occurs. It is always lower than the [melting temperature](https://en.wikipedia.org/wiki/Melting_point) (T~m~) of the crystalline state of the material, if it has one."
+    definition: "The glass-to-liquid transition, or glass transition, is the gradual and reversible transition in amorphous materials (or in amorphous regions within semicrystalline materials) from a hard and relatively brittle “glassy” state into a viscous or rubbery state as the temperature is increased. The glass-transition temperature (T~g~) of a material characterizes the range of temperatures over which this glass transition occurs. It is always lower than the melting temperature (T~m~) of the crystalline state of the material, if it has one."
     aat: [300379613]
 
   - term: "glassine paper"
@@ -785,7 +785,7 @@ entries:
     aat:
 
   - term: "newton"
-    definition: "The newton (N) is a unit of [force](https://en.wikipedia.org/wiki/Force). It is defined as 1 kg⋅m/s^2^, the force that gives a mass of 1 kilogram an acceleration of 1 meter per second per second."
+    definition: "The newton (N) is a unit of force. It is defined as 1 kg⋅m/s^2^, the force that gives a mass of 1 kilogram an acceleration of 1 meter per second per second."
     aat:
 
   - term: "nylon"
