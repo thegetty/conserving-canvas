@@ -2,11 +2,11 @@ entries:
 
   - term: "abrasion"
     definition: "Damaged area of paint, resulting from the scraping, rubbing down, or grinding away of the upper paint layers. A combination of an iron that is too hot plus careless application of pressure during hand lining will easily produce this form of damage, and frequently the excess heat, unevenly maintained in local areas, will succeed in softening, scorching, and burning the paint surface so that it adheres to any protective layers of paper and is subsequently removed with these facing layers after the lining is completed. On a smaller scale, an overheated spatula used for fixing down flaking paint will have a similar effect. Often seen as a regular pattern mirroring the canvas."
-    see: [weave enhancement]
+    see_also: [weave enhancement]
     aat: [300053077]
 
   - term: "absorption"
-    definition: "(1) The concentration or retention of a substance within the porosity of another material (compare adsorption)*.* (2) Optical light and radiant heat are absorbed by matter in varying degrees, leading to increase in temperature."
+    definition: "(1) The concentration or retention of a substance within the porosity of another material (compare adsorption). (2) Optical light and radiant heat are absorbed by matter in varying degrees, leading to increase in temperature."
     aat: [300053004]
 
   - term: "acrylic resins"
@@ -39,7 +39,7 @@ entries:
 
   - term: "adsorption"
     definition: "The concentration or retention of a substance on the surface of a material."
-    see: [absorption]
+    see_also: [absorption]
     aat: [300053006]
 
   - term: "aging test (accelerated)"
@@ -64,7 +64,7 @@ entries:
     aat: [300227764]
 
   - term: "balsam"
-    definition: "A general term for the resinous exudate from trees of the order Coniferae*.* The balsams are soft semiliquids containing essential oil, terpenes, and resinous bodies. Distillation yields turpentine and the residue, resin or colophony. Common balsams are Venice turpentine, Strasbourg turpentine, and Canada balsam. Venice turpentine particularly finds use as a plasticizer and tackifier in both wax-resin and traditional aqueous adhesives such as Italian pasta."
+    definition: "A general term for the resinous exudate from trees of the order Coniferae. The balsams are soft semiliquids containing essential oil, terpenes, and resinous bodies. Distillation yields turpentine and the residue, resin or colophony. Common balsams are Venice turpentine, Strasbourg turpentine, and Canada balsam. Venice turpentine particularly finds use as a plasticizer and tackifier in both wax-resin and traditional aqueous adhesives such as Italian pasta."
     see_also: [oleoresin]
     aat: [300012891]
 
@@ -176,7 +176,7 @@ entries:
 
   - term: "cockling"
     definition: "A ripple or wrinkle distortion occurring in lining and original canvases, usually during hand lining, when the canvas reacts severely to localized heat, expanding or contracting unevenly. The adhesive may then lock in this distortion."
-    see: [buckling]
+    see_also: [buckling]
     aat: [300228335]
 
   - term: "cohesion"
@@ -275,7 +275,7 @@ entries:
     aat: [300228345]
 
   - term: "creep"
-    definition: "Plastic deformation (see elasticity) of materials under stress at room temperature. In lined pictures, *creep* refers to the gradual extension of a lining canvas impregnated with adhesive after the painting has been replaced on its stretcher. Over a period of time, this results in sagging of the painting under its own new total weight. Contrast with cold flow*.*"
+    definition: "Plastic deformation (see elasticity) of materials under stress at room temperature. In lined pictures, *creep* refers to the gradual extension of a lining canvas impregnated with adhesive after the painting has been replaced on its stretcher. Over a period of time, this results in sagging of the painting under its own new total weight. Contrast with cold flow."
     aat: [300072979]
 
   - term: "cross linking"
@@ -323,7 +323,8 @@ entries:
     aat: [300196511]
 
   - term: "double lining"
-    definition: "In large pictures, a single lining may not be strong enough to support the weight of the original canvas and paint. In such cases a second lining may be carried out on the back of the first, and both lining canvases are fastened to the stretcher. Double lining may also be used to support seams or tears of any length. Sometimes, different adhesives are used for the two linings—first an aqueous (glue-paste) adhesive and then a wax-resin adhesive*. See also* interleaf."
+    definition: "In large pictures, a single lining may not be strong enough to support the weight of the original canvas and paint. In such cases a second lining may be carried out on the back of the first, and both lining canvases are fastened to the stretcher. Double lining may also be used to support seams or tears of any length. Sometimes, different adhesives are used for the two linings—first an aqueous (glue-paste) adhesive and then a wax-resin adhesive."
+    see_also: [interleaf]
     aat:
 
   - term: "dry mounting"
@@ -520,7 +521,6 @@ entries:
     aat: [300015297]
 
   - term: "gum elemi"
-    definition:
     see: [elemi]
     aat: [300012930]
 
@@ -609,7 +609,8 @@ entries:
     aat:
 
   - term: "insert"
-    definition: "Pieces of canvas (sometimes fragments of other paintings with matching texture) are set into large losses in a painting during lining (see also *infilling*)."
+    definition: "Pieces of canvas (sometimes fragments of other paintings with matching texture) are set into large losses in a painting during lining."
+    see_also: [infilling]
     aat: [300123227]
 
   - term: "interleaf"
@@ -665,7 +666,7 @@ entries:
 
   - term: "lining"
     definition: "The adhering of a fabric (traditionally a fine linen canvas) or solid support to the reverse side of a painting where the support has degraded to provide insufficient structural support. The purpose may be to counteract structural weakness in the original canvas itself and/or to secure cleavage between the paint, ground, and canvas layers. Past practice also used the adhesive chosen in the lining procedure to impregnate the canvas and the ground and paint layers from the reverse. Currently, consolidation and stabilization of the ground and paint layers would be a separate process, with the lining providing support. Several techniques are used employing a range of adhesives and supports."
-    see: [hand-lining, mist-lining, contact lining, Fieux lining]
+    see_also: [hand-lining, mist-lining, contact lining, Fieux lining]
     aat:
 
   - term: "lithographic paper"
@@ -775,7 +776,8 @@ entries:
     aat: [300014480]
 
   - term: "nap bond lining"
-    definition: "A lining system in which impregnating the original canvas with lining adhesive is avoided. The adhesive is applied to the lining support fabric or an interleaf, not to the original canvas, providing a uniform hold at the nap surface. See also *contact lining*."
+    definition: "A lining system in which impregnating the original canvas with lining adhesive is avoided. The adhesive is applied to the lining support fabric or an interleaf, not to the original canvas, providing a uniform hold at the nap surface."
+    see_also: [contact lining]
     aat:
 
   - term: "nap"
@@ -788,7 +790,7 @@ entries:
 
   - term: "nylon"
     definition: "Originally a trade name for a brand of a polyamide fabric. Now a generic term. Soluble nylon is also used as a term for polyamide weldong powder."
-    see: [polyamide fabric]
+    see_also: [polyamide fabric]
     aat: [300014462]
 
   - term: "oleoresin"
@@ -821,7 +823,8 @@ entries:
     aat:
 
   - term: "patching"
-    definition: "A canvas with a tear or hole that otherwise does not need lining may be patched on the reverse side using a feathered piece of fine canvas and normal lining adhesive. However, this is not good practice as the adhesive used very often distorts the canvas in the region of the patch. See also *thread-by thread tear mending*."
+    definition: "A canvas with a tear or hole that otherwise does not need lining may be patched on the reverse side using a feathered piece of fine canvas and normal lining adhesive. However, this is not good practice as the adhesive used very often distorts the canvas in the region of the patch."
+    see_also: [thread-by-thread tear mending]
     aat: [300379944]
 
   - term: "pavimenteuse"
@@ -904,7 +907,8 @@ entries:
     aat: [300014509]
 
   - term: "pressure sources for lining"
-    definition: "(1) Various sources of positive pressure have been used in lining procedures, ranging from early heated tailors’ irons (mobile sources of local pressure), the modern vacuum hot table, and other pressure systems, such as vacuum envelopes and air vortices in low-pressure systems. Other systems include weighting with flexible water containers or sandbags over the entire surface of the lining composite. Flexible synthetic sheets can be used as adaptable pressure sources over paintings. Rollers (covered with foam, nylon, rubber, felt) can also provide auxiliary mobile pressure sources. The blister-laying spatula, though light, can bring high-pressure loads to bear on local areas. Cooling irons of between 6 and 30 pounds are commonly used in both glue- and wax-resin lining methods to maintain contact between the canvases as the lining adhesive is cooling and setting. (2) Positive pressure exerted during lining will be complemented by an equal amount of inverse pressure, the source of which usually takes the form of a flat, hard surface, such as a terrazzo floor, marble slab, composite board table, or hot table. Soft materials are often used as buffers between the painting and the pressure sources. Sandboxes, sawdust beds, and, more recently, silicone rubber molds have all been used to accommodate the relief of the painting within an overall firm support. A tensioned lining canvas during the lining process can also act as an inverse pressure source, the degree of flexibility being determined by the tautness. Other efforts to overcome the flatness characteristic of many of these inverse sources has led to the development of balanced pressure forms. *See also* vacuum envelope*.*"
+    definition: "(1) Various sources of positive pressure have been used in lining procedures, ranging from early heated tailors’ irons (mobile sources of local pressure), the modern vacuum hot table, and other pressure systems, such as vacuum envelopes and air vortices in low-pressure systems. Other systems include weighting with flexible water containers or sandbags over the entire surface of the lining composite. Flexible synthetic sheets can be used as adaptable pressure sources over paintings. Rollers (covered with foam, nylon, rubber, felt) can also provide auxiliary mobile pressure sources. The blister-laying spatula, though light, can bring high-pressure loads to bear on local areas. Cooling irons of between 6 and 30 pounds are commonly used in both glue- and wax-resin lining methods to maintain contact between the canvases as the lining adhesive is cooling and setting. (2) Positive pressure exerted during lining will be complemented by an equal amount of inverse pressure, the source of which usually takes the form of a flat, hard surface, such as a terrazzo floor, marble slab, composite board table, or hot table. Soft materials are often used as buffers between the painting and the pressure sources. Sandboxes, sawdust beds, and, more recently, silicone rubber molds have all been used to accommodate the relief of the painting within an overall firm support. A tensioned lining canvas during the lining process can also act as an inverse pressure source, the degree of flexibility being determined by the tautness. Other efforts to overcome the flatness characteristic of many of these inverse sources has led to the development of balanced pressure forms."
+    see_also: [vacuum envelope]
     aat:
 
   - term: "prestretching"
@@ -936,7 +940,7 @@ entries:
     aat: [300379659]
 
   - term: "relative humidity (RH)"
-    see: [humidity*.*]
+    see: [humidity.]
     aat: [300192097]
 
   - term: "relining"
@@ -976,7 +980,7 @@ entries:
     aat:
 
   - term: "rosin"
-    see: [colophony*.*]
+    see: [colophony.]
     aat: [300012950]
 
   - term: "RTI"
@@ -1065,7 +1069,7 @@ entries:
     aat: [300422596]
 
   - term: "stretcher bar lining"
-    see: [cami-lining]
+    see: [cami-lining.]
     aat: [300433993]
 
   - term: "stretcher bar marks"
@@ -1242,7 +1246,7 @@ entries:
     aat:
 
   - term: "wedge"
-    definition: "See *key*."
+    see: [key]
     aat:
 
   - term: "weft"
@@ -1287,6 +1291,5 @@ entries:
     aat:
 
   - term: "Young’s modulus"
-
-  - term: "Quantifies the relationship between tensile stress σ (force per unit area) and axial strain ε (proportional deformation) in the linear elastic region of a material."
+    definition: "Quantifies the relationship between tensile stress σ (force per unit area) and axial strain ε (proportional deformation) in the linear elastic region of a material."
     aat: [300072878]
