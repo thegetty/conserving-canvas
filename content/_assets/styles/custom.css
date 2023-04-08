@@ -290,6 +290,8 @@
 .quire-page__content .container .content table caption {
   font-size: 1rem;
   margin-bottom: 1rem;
+  margin-left: 0;
+  text-align: left;
 }
 .quire-page__content .container .content table p {
   margin-bottom: .25em;
@@ -316,13 +318,14 @@
   content: none;
 }
 .quire-page__content .content .table-key {
-  margin-top: .5em;
-  font-size: .875em;
-  line-height: 1.5;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1.6;
   text-align: left;
 }
-.quire-page__content .content .table-key p {
-  margin-bottom: .25em;
+.quire-page__content .container .content .table-key p,
+.quire-page__content .container .content .table-key ul {
+  margin-bottom: 0.25rem !important;
 }
 table a,
 .table-key a {
@@ -350,10 +353,6 @@ table a,
 /* Set units to rem so size maintains even when table text is scaled */
 .content figure .q-figure__caption {
   font-size: .75rem;
-}
-/* Left align table captions */
-.quire-page__content .container .content table caption {
-  text-align: left
 }
 
 /* HEADERS
