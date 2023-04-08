@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Join names with a non-breaking space, line 22
+//
 /**
  * @param     {Object|Array<Object>} person or array of people
  * @property  {Object} first_name
@@ -16,7 +20,7 @@ const getName = (person, options) => {
   if (options.reverse) {
     joinedName = nameParts.reverse().join(', ')
   } else {
-    joinedName = nameParts.join(' ')
+    joinedName = nameParts.join('&#160;')
   }
   return full_name ? full_name : joinedName
 }

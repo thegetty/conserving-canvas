@@ -76,6 +76,9 @@ Updated Vimeo embed link format
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
 
+**_plugins/filters/fullname.js**
+Joined contributor names with a non-breaking space
+
 **_plugins/shortcodes/cite.js**
 Will return id/text if the reference doesn't match one in references.yaml
 
