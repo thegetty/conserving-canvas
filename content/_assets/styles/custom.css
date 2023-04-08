@@ -150,8 +150,12 @@
 
 /* Glossary List */
 .quire-page__content .content dl.glossary-list {
-  line-height: 2;
   margin-left: 0;
+}
+@media screen {
+  .quire-page__content .content dl.glossary-list {
+    line-height: 2;
+  }
 }
 .quire-page__content .content .glossary-navigation {
   line-height: 2;
@@ -163,6 +167,11 @@
 }
 .quire-page__content .content .glossary-navigation > *:not(:last-child) {
   margin-right: 1rem;
+}
+@media print {
+  .quire-page__content .content .glossary-navigation {
+    display: none;
+  }
 }
 
 /* GENERAL
@@ -593,7 +602,7 @@ table a,
   .q-figure#fig-63-6 {
     margin-bottom: 1rem;
   }
-  /* Standardize table font sizes in print */
+  /* Standardize table font sizes in PDF */
   .q-figure.is-table-scale-5,
   .q-figure.is-table-scale-6,
   .q-figure.is-table-scale-7 {
