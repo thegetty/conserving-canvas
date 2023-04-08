@@ -593,6 +593,12 @@ table a,
   .q-figure#fig-63-6 {
     margin-bottom: 1rem;
   }
+  /* Standardize table font sizes in print */
+  .q-figure.is-table-scale-5,
+  .q-figure.is-table-scale-6,
+  .q-figure.is-table-scale-7 {
+    font-size: .875rem;
+  }
   /* Fix the abstract display */
   .quire-page__abstract .container .content {
     padding-bottom: 0;
