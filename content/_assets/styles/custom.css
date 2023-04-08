@@ -72,7 +72,7 @@
 }
 /* Plain Blockquote (no ornament) */
 .quire-page__content .container .content blockquote.blockquote-plain p:first-child::before {
-  content: '';
+  content: none;
 }
 
 /* Illustrated List (Papers 44 and 63) */
@@ -177,7 +177,7 @@
   list-style: initial;
 }
 .quire-page__content .container .content ul li::before {
-  content: '';
+  content: none;
 }
 /* Adjust various list margins */
 .content ul {
@@ -398,7 +398,7 @@ table a,
   margin: 0;
 }
 .quire-page__content .container .content .project-team ul li::before {
-  content: "";
+  content: none;
 }
 /* Don't add border to SVG icons link */
 .quire-page__content .content a.quire-copyright__icon__link {
