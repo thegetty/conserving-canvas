@@ -557,6 +557,16 @@ table a,
     break-after: always;
     page-break-after: always;
   }
+  .q-figure.pdf-stack-images .q-figure--group__row {
+    flex-direction: column;
+  }
+  .q-figure.pdf-stack-images .q-figure--group__row figure {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
     display: none;
