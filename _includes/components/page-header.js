@@ -1,3 +1,7 @@
+//
+// CUTSOMIZED FILE
+// Added page title element for PDF footer; lines 28, 61, and 70
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -21,6 +25,7 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
+      short_title: shortTitle,
       subtitle,
       title
     } = params
@@ -53,6 +58,8 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
+    const runningFeetTitle = shortTitle ? shortTitle : title
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
@@ -60,6 +67,7 @@ module.exports = function(eleventyConfig) {
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
+          <span class="pdf-footers__title">${label}${labelDivider}${markdownify(runningFeetTitle)}</span>
           ${contributorsElement}
         </div>
       </section>

@@ -57,7 +57,7 @@ $print-trim: $print-bleed * 2;
     @bottom-right {
       content: string(sectiontitle);
       text-transform: uppercase;
-      letter-spacing: 1pt;
+      letter-spacing: .5pt;
       font-size: 7.5pt;
     }
 
@@ -77,7 +77,7 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-outer-margin;
 
     @bottom-left {
-      content: string(pagetitle);
+      content: flow(pagetitle);
     }
 
     @bottom-right {
@@ -198,10 +198,9 @@ $print-trim: $print-bleed * 2;
 
 // Generated content for footers and page #s in TOC
 // -----------------------------------------------------------------------------
-  .quire-page {
-    string-set: pagetitle attr(data-footer-page-title);
-  }
-
+  // .quire-page {
+  //   string-set: pagetitle attr(data-footer-page-title), sectiontitle attr(data-footer-section-title);
+  // }
   .quire-page {
     string-set: sectiontitle attr(data-footer-section-title);
   }

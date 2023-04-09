@@ -76,6 +76,9 @@ Updated Vimeo embed link format
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
 
+**_includes/components/page-header.js**
+Added page title element for PDF footer
+
 **_plugins/filters/fullname.js**
 Joined contributor names with a non-breaking space
 

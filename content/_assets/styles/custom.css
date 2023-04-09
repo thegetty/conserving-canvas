@@ -181,6 +181,11 @@
   display: none;
 }
 
+/* Hide PDF footers */
+.quire-page .pdf-footers__title {
+  display: none;
+}
+
 /* Remove custom list markers */
 .quire-page__content .container .content ul {
   list-style: initial;
@@ -463,6 +468,14 @@ table a,
   /* Break pages */
   section.quire-page {
     page-break-before: always;
+  }
+  /* Fix/set running feet */
+  .quire-page .pdf-footers__title {
+    flow: static(pagetitle);
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 7.5pt;
+    display: inline-block;
+    text-align: left;
   }
   /* Fix font size on sub-section items */
   .quire-contents-list .menu-list .section-item ol a {
