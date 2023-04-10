@@ -61,6 +61,12 @@ in `_site/pdf.html`
 
 4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
+If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+
+```
+magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+```
+
 ## Customizations Made to 11ty Templates/Files
 
 **_includes/components/abstract.js**
