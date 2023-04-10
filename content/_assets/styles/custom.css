@@ -208,6 +208,11 @@
   list-style-type: none;
 }
 
+/* Fix for empty content areas that otherwise show up white */
+nav.table-of-contents.menu-list + .content {
+  background-color: transparent;
+}
+
 /* Figures
 ============================================================================= */
 /* Color the manually added figure labels in group captions */
@@ -457,6 +462,14 @@ table a,
   font-family: "Noto Sans", sans-serif;
   font-size: .75rem;
   line-height: 1.6;
+}
+@media print {
+  #glossary .quire-page__content .container .content,
+  .quire-page__content .container .content .quire-page__content__references dl {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
 }
 .quire-page__content .container .content .footnotes li,
 .quire-page__content .content .quire-page__content__references dl {
