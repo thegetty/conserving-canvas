@@ -7,7 +7,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://second-pages--conserving-canvas.netlify.app/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
