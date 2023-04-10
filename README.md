@@ -52,13 +52,20 @@ nvm install 17.5.0
 
 While the paged.js work is ongoing, a PDF of French Silver should be created with PrinceXML (First pages was created using Prince 14.2.)
 
-1. Run either `npm run dev` (and then stop it) or `npm run build` to generate the latest version of `_site/pdf.html` and `_site/pdf.css` from which the PDF will be generated
+1. Run `quire build`
 
 2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-3. In `_site/pdf.html` find `iiif/(.*?)/print-image.([a-z]{3})` and replace with `iiif/$1/$1/print-image.jpg`
+3. Open `_site/index.html` and copy the license svg icons. Paste thme in just below the `<body>`
+in `_site/pdf.html`
 
-4. Run `npm run build:prince`
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+
+If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+
+```
+magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+```
 
 ## Customizations Made to 11ty Templates/Files
 
@@ -66,11 +73,20 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 **_layouts/essay.liquid**
 Added keywords
 
+**_includes/components/copyright/licensing.js**
+Added a comma after "view a coopy of this license"
+
 **_includes/components/figure/media-embed-url.js**
 Updated Vimeo embed link format
 
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
+
+**_includes/components/page-header.js**
+Added page title element for PDF footer
+
+**_plugins/filters/fullname.js**
+Joined contributor names with a non-breaking space
 
 **_plugins/shortcodes/cite.js**
 Will return id/text if the reference doesn't match one in references.yaml

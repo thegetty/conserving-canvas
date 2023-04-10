@@ -981,7 +981,7 @@ figure_list:
     # zoom: true
     label: "Figure 20.3"
     caption: "Bent Hacke’s heated suction table design. 1. Table frame. 2. Electric heating coils. 3. Aluminum egg crate support. 4. Perforated aluminum sheet. 5. Moistened felt/lining fabric. 6. Working stretcher. 7. Painting. 8. Suction port. 9, 10. Temperature and pressure gauges. 11. Clips for mounting working stretcher to table frame."
-    credit: "Source: [[Hacke 1978]]"
+    credit: "Source: Hacke 1978"
 
   - id: "fig-20-4"
     # src: "figures/fig-20-4.jpg"
@@ -995,7 +995,7 @@ figure_list:
     # zoom: true
     label: "Figure 20.5"
     caption: "A cross section of the Willard low-pressure conservation table showing airflow and the humidification/dehumidification circulation design."
-    credit: "Source: [[Reeve 1984]]"
+    credit: "Source: Reeve 1984"
 
   - id: "fig-20-6"
     # src: "figures/fig-20-6.jpg"

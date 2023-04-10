@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added a comma after "view a coopy of this license", line 36
+//
 const { oneLine } = require('~lib/common-tags')
 
 module.exports = function(eleventyConfig) {
@@ -29,7 +33,7 @@ module.exports = function(eleventyConfig) {
     return oneLine`
       ${licenseText}
       <span class="is-print-only">
-        To view a copy of this license visit ${license.url}.
+        To view a copy of this license, visit ${license.url}.
       </span>
     `
   }
