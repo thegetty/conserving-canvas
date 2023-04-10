@@ -173,6 +173,10 @@
     display: none;
   }
 }
+.quire-page__content .content dl.glossary-list dt a,
+.quire-page__content .content dl.glossary-list dt a:hover {
+  border-bottom-width: 0px !important;
+}
 
 /* GENERAL
 ============================================================================= */

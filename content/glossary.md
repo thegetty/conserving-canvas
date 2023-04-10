@@ -26,7 +26,7 @@ In this version, the editors Cynthia Schwarz, Jim Coddington, and Ian McClure ha
 {% assign lastLetter = '' %}
 {% for entry in glossary.entries %}
 {% assign thisLetter = entry.term | downcase | slice: 0 %}
-<dt id="#{{ entry.term | downcase | replace: ' ', '-' }}">{% if thisLetter != lastLetter %}<span id='#{{ thisLetter }}'></span>{% endif %}{{ entry.term | markdownify }}</dt>
+<dt id="#{{ entry.term | downcase | replace: ' ', '-' }}">{% if thisLetter != lastLetter %}<span id='#{{ thisLetter }}'></span>{% endif %}{% if entry.aat %}<a href="http://vocab.getty.edu/page/aat/{{ entry.aat }}" target="_blank">{{ entry.term | markdownify }}</a>{% else %}{{ entry.term | markdownify }}{% endif %}</dt>
 {% assign lastLetter = thisLetter %}
 {% if entry.definition %}
 <dd>{{ entry.definition | markdownify }}{% if entry.see_also %} See also {% for term in entry.see_also %}{% if forloop.first == true %}{% elsif forloop.length == 2 and forloop.last == true %} and {% elsif forloop.length > 2 and forloop.last == true %}, and {% elsif forloop.length > 2 and forloop.last != true %}, {% endif %}<a href="#{{ term | downcase | replace: ' ', '-' }}"><em>{{ term }}</em></a>{% endfor %}.{% endif %}</dd>
