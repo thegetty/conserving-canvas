@@ -593,6 +593,38 @@ table a,
     padding-right: 0;
     width: 100%;
   }
+  .q-figure.pdf-no-top-border {
+    border-top-width: 0;
+    padding-top: 0;
+  }
+  .q-figure.pdf-no-bottom-border {
+    border-bottom-width: 0;
+    padding-bottom: 0;
+  }
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .q-figure.pdf-float-top {
+    -prince-float: top;
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem;
+  }
+  .q-figure.pdf-float-bottom {
+    -prince-float: bottom;
+    margin-top: 1.5rem;
+    margin-bottom: 0 !important;
+  }
+  .q-figure.pdf-page-break-after {
+    page-break-after: always;
+  }
+  .q-figure.pdf-page-break-before,
+  .pdf-page-break-before{
+    page-break-before: always;
+  }
+  .q-figure.pdf-85-percent-width img,
+  .q-figure.pdf-85-percent-width figcaption {
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
     display: none;
@@ -605,7 +637,7 @@ table a,
   /* Make tables full-width and float to the top of the page */
   .q-figure.q-figure--table {
     column-span: all;
-    -prince-float: top;
+    /* -prince-float: top; */
   }
   .q-figure.q-figure--table#table-51-1 img {
     max-width: 2in;
