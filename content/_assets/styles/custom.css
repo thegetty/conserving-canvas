@@ -72,7 +72,7 @@
 }
 /* Plain Blockquote (no ornament) */
 .quire-page__content .container .content blockquote.blockquote-plain p:first-child::before {
-  content: '';
+  content: none;
 }
 
 /* Illustrated List (Papers 44 and 63) */
@@ -107,8 +107,14 @@
   .quire-page__content .content .illustrated-list ol li p {
     margin-top: 1rem;
   }
-  .quire-page__content .container .content #table-63-1 table caption {
+  /* .quire-page__content .container .content .illustrated-list table {
+    font-size: .5rem;
+  } */
+  .quire-page__content .container .content .illustrated-list table caption {
     font-size: .75rem;
+    line-height: 1.6;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 @media screen and (max-width:600px) {
@@ -122,12 +128,54 @@
   }
 }
 @media print {
+  .quire-page__content .content .illustrated-list ol li {
+    break-inside: avoid;
+  }
+  .quire-page__content .container .content .illustrated-list table {
+    font-size: .8125rem;
+  }
+  .quire-page__content .container .content .illustrated-list table caption {
+    font-size: .75rem;
+  }
   .quire-page__content .content .illustrated-list ol li .q-figure {
     border-top-width: 0;
     padding-top: 0;
     margin-top: 0;
     margin-bottom: 2rem;
   }
+  .quire-page__content .content .illustrated-list.illustrated-list--narrow-figures ol li .q-figure {
+    width: 65%;
+  }
+}
+
+/* Glossary List */
+.quire-page__content .content dl.glossary-list {
+  margin-left: 0;
+}
+@media screen {
+  .quire-page__content .content dl.glossary-list {
+    line-height: 2;
+  }
+}
+.quire-page__content .content .glossary-navigation {
+  line-height: 2;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.quire-page__content .content .glossary-navigation > span {
+  color: var(--lavendar)
+}
+.quire-page__content .content .glossary-navigation > *:not(:last-child) {
+  margin-right: 1rem;
+}
+@media print {
+  .quire-page__content .content .glossary-navigation {
+    display: none;
+  }
+}
+.quire-page__content .content dl.glossary-list dt a,
+.quire-page__content .content dl.glossary-list dt a:hover {
+  border-bottom-width: 0px !important;
 }
 
 /* GENERAL
@@ -137,12 +185,17 @@
   display: none;
 }
 
+/* Hide PDF footers */
+.quire-page .pdf-footers__title {
+  display: none;
+}
+
 /* Remove custom list markers */
 .quire-page__content .container .content ul {
   list-style: initial;
 }
 .quire-page__content .container .content ul li::before {
-  content: '';
+  content: none;
 }
 /* Adjust various list margins */
 .content ul {
@@ -153,6 +206,11 @@
 }
 .quire-page__content .container .content ul.quire-contributors-list {
   list-style-type: none;
+}
+
+/* Fix for empty content areas that otherwise show up white */
+nav.table-of-contents.menu-list + .content {
+  background-color: transparent;
 }
 
 /* Figures
@@ -255,6 +313,8 @@
 .quire-page__content .container .content table caption {
   font-size: 1rem;
   margin-bottom: 1rem;
+  margin-left: 0;
+  text-align: left;
 }
 .quire-page__content .container .content table p {
   margin-bottom: .25em;
@@ -281,13 +341,14 @@
   content: none;
 }
 .quire-page__content .content .table-key {
-  margin-top: .5em;
-  font-size: .875em;
-  line-height: 1.5;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1.6;
   text-align: left;
 }
-.quire-page__content .content .table-key p {
-  margin-bottom: .25em;
+.quire-page__content .container .content .table-key p,
+.quire-page__content .container .content .table-key ul {
+  margin-bottom: 0.25rem !important;
 }
 table a,
 .table-key a {
@@ -315,10 +376,6 @@ table a,
 /* Set units to rem so size maintains even when table text is scaled */
 .content figure .q-figure__caption {
   font-size: .75rem;
-}
-/* Left align table captions */
-.quire-page__content .container .content table caption {
-  text-align: left
 }
 
 /* HEADERS
@@ -363,7 +420,7 @@ table a,
   margin: 0;
 }
 .quire-page__content .container .content .project-team ul li::before {
-  content: "";
+  content: none;
 }
 /* Don't add border to SVG icons link */
 .quire-page__content .content a.quire-copyright__icon__link {
@@ -406,6 +463,14 @@ table a,
   font-size: .75rem;
   line-height: 1.6;
 }
+@media print {
+  #glossary .quire-page__content .container .content,
+  .quire-page__content .container .content .quire-page__content__references dl {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+}
 .quire-page__content .container .content .footnotes li,
 .quire-page__content .content .quire-page__content__references dl {
   margin-bottom: .375rem;
@@ -417,6 +482,18 @@ table a,
 /* PDF
 ============================================================================= */
 @media print {
+  /* Break pages */
+  section.quire-page {
+    page-break-before: always;
+  }
+  /* Fix/set running feet */
+  .quire-page .pdf-footers__title {
+    flow: static(pagetitle);
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 7.5pt;
+    display: inline-block;
+    text-align: left;
+  }
   /* Fix font size on sub-section items */
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 8.5pt;
@@ -466,10 +543,6 @@ table a,
   .title-page .publisher {
     right: 0.375in;
   }
-  /* Headers */
-  .quire-page__header:not(.hero__image) {
-    page-break-before: always;
-  }
   /* TOCs */
   .quire-contents-list {
     padding: 0;
@@ -500,11 +573,20 @@ table a,
   .q-figure__label {
     line-height: 0;
   }
-  /* Add ornament to blank pages */
+  /* Ensure blank pages don't get page numbers */
   @page:blank {
-    background-image: url("_assets/images/blank-page.svg");
-    background-repeat: no-repeat ;
-    background-position: center 28%;
+    @bottom-left {
+      content: none !important;
+    }
+    @bottom-right {
+      content: none !important;;
+    }
+  }
+  /* Ensure the intro breaks to a right-hand page*/
+  .quire-page.page-one {
+    page: page-one;
+    counter-reset: page 1;
+    page-break-before: right;
   }
   /* Image adjustments for print */
   .q-figure.pdf-two-column {
@@ -513,6 +595,48 @@ table a,
   .q-figure.pdf-break-after {
     break-after: always;
     page-break-after: always;
+  }
+  .q-figure.pdf-stack-images .q-figure--group__row {
+    flex-direction: column;
+  }
+  .q-figure.pdf-stack-images .q-figure--group__row figure {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  .q-figure.pdf-no-top-border {
+    border-top-width: 0;
+    padding-top: 0;
+  }
+  .q-figure.pdf-no-bottom-border {
+    border-bottom-width: 0;
+    padding-bottom: 0;
+  }
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .q-figure.pdf-float-top {
+    -prince-float: top;
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem;
+  }
+  .q-figure.pdf-float-bottom {
+    -prince-float: bottom;
+    margin-top: 1.5rem;
+    margin-bottom: 0 !important;
+  }
+  .q-figure.pdf-page-break-after {
+    page-break-after: always;
+  }
+  .q-figure.pdf-page-break-before,
+  .pdf-page-break-before{
+    page-break-before: always;
+  }
+  .q-figure.pdf-85-percent-width img,
+  .q-figure.pdf-85-percent-width figcaption {
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
   }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
@@ -526,7 +650,7 @@ table a,
   /* Make tables full-width and float to the top of the page */
   .q-figure.q-figure--table {
     column-span: all;
-    -prince-float: top;
+    /* -prince-float: top; */
   }
   .q-figure.q-figure--table#table-51-1 img {
     max-width: 2in;
@@ -534,6 +658,17 @@ table a,
   .q-figure.q-figure--table#table-63-1 {
     column-span: none;
     -prince-float: none;
+    border-bottom: 1px solid var(--accent-color);
+    padding-bottom: 1rem;
+  }
+  .q-figure#fig-63-6 {
+    margin-bottom: 1rem;
+  }
+  /* Standardize table font sizes in PDF */
+  .q-figure.is-table-scale-5,
+  .q-figure.is-table-scale-6,
+  .q-figure.is-table-scale-7 {
+    font-size: .875rem;
   }
   /* Fix the abstract display */
   .quire-page__abstract .container .content {
@@ -558,6 +693,7 @@ table a,
     column-span: all;
   }
   /* Remove page number from dedication */
+  #print-copyright.quire-page,
   #dedication.quire-page.frontmatter {
     page: no-footer;
   }

@@ -19,9 +19,9 @@ short_title:
 description:
   one_line:
   full: |
-    In 2019 Yale University, with the support of the Getty Foundation, held an international conference, where nearly four hundred attendees from more than twenty countries gathered to discuss a vital topic: how best to conserve paintings on canvas. It was the first major symposium on the subject since 1974, when wax-resin and glue-paste lining reigned as the predominant conservation techniques. Over the past fifty years, such methods, which were often destructive to artworks, have become less widely used in favor of more minimalist approaches to intervention. More recent decades have witnessed the reevaluation of traditional practices as well as focused research supporting significant new methodologies, procedures, and synthetic materials for the care and conservation of paintings on fabric supports.
+    In 2019, Yale University, with the support of the Getty Foundation, held an international conference, where nearly four hundred attendees from more than twenty countries gathered to discuss a vital topic: the conservation of paintings on canvas. This was the first major symposium on the subject since 1974, when wax-resin and glue-paste lining reigned as the predominant conservation techniques. Over the past fifty years, such methods—often deemed destructive to artworks—have become less widely used in favor of more minimalist approaches to intervention. Recent decades have witnessed the reevaluation of traditional practices as well as focused research supporting significant new methodologies, procedures, and synthetic materials for the care and conservation of paintings on fabric supports.
 
-    *Conserving Canvas* compiles the proceedings of the conference, presenting a wide array of papers and posters that provide important global perspectives on the history, current state, and future needs of the field. Featuring an expansive glossary of terms that will be an invaluable resource for conservators and other practitioners, this publication promises to become a standard reference for the international conservation community.
+    *Conserving Canvas* compiles the proceedings of the conference, presenting a wide array of papers and posters that provide important global perspectives on the history, current state, and future needs of the field. Featuring an expansive glossary of terms that will be an invaluable resource for conservators, this publication promises to become a standard reference for the international conservation community.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -86,7 +86,7 @@ contributor:
 copyright: © 2023 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  name: Creative Commons Attribution‑NonCommercial 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
   scope: text-only # full | text-only | some-exceptions
