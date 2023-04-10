@@ -10,7 +10,7 @@ entries:
     aat: [300053004]
 
   - term: "acrylic resins"
-    definition: "Synthetic resins of a general formula where R1 and R2 are alkyl groups, or H. R1 is commonly CH~3~, which gives methyl methacrylate, ethyl methacrylate, and butyl methacrylate where *Ri* = CH~3~, C~2~H5, C~3~H7 etc. Some have a distinct tendency to cross-link, while for others there is no recorded tendency to do so. Solubility also varies widely. Examples of acrylic resins in conservation are polymethyl methacrylate, methylacrylate/ethyl methacrylate copolymer, and various other resins and emulsions."
+    definition: "Synthetic resins of a general formula where R1 and R2 are alkyl groups, or H. R1 is commonly CH<sub>3</sub>, which gives methyl methacrylate, ethyl methacrylate, and butyl methacrylate where *Ri* = CH<sub>3</sub>, C<sub>2</sub>H5, C<sub>3</sub>H7 etc. Some have a distinct tendency to cross-link, while for others there is no recorded tendency to do so. Solubility also varies widely. Examples of acrylic resins in conservation are polymethyl methacrylate, methylacrylate/ethyl methacrylate copolymer, and various other resins and emulsions."
     aat: [300014426]
 
   - term: "acrylic sheet"
@@ -496,7 +496,7 @@ entries:
     aat:
 
   - term: "glass transition temperature"
-    definition: "The glass-to-liquid transition, or glass transition, is the gradual and reversible transition in amorphous materials (or in amorphous regions within semicrystalline materials) from a hard and relatively brittle “glassy” state into a viscous or rubbery state as the temperature is increased. The glass-transition temperature (T~g~) of a material characterizes the range of temperatures over which this glass transition occurs. It is always lower than the melting temperature (T~m~) of the crystalline state of the material, if it has one."
+    definition: "The glass-to-liquid transition, or glass transition, is the gradual and reversible transition in amorphous materials (or in amorphous regions within semicrystalline materials) from a hard and relatively brittle “glassy” state into a viscous or rubbery state as the temperature is increased. The glass-transition temperature (T<sub>g</sub>) of a material characterizes the range of temperatures over which this glass transition occurs. It is always lower than the melting temperature (T<sub>m</sub>) of the crystalline state of the material, if it has one."
     aat: [300379613]
 
   - term: "glassine paper"
@@ -785,7 +785,7 @@ entries:
     aat:
 
   - term: "newton"
-    definition: "The newton (N) is a unit of force. It is defined as 1 kg⋅m/s^2^, the force that gives a mass of 1 kilogram an acceleration of 1 meter per second per second."
+    definition: "The newton (N) is a unit of force. It is defined as 1 kg⋅m/s<sup>2</sup>, the force that gives a mass of 1 kilogram an acceleration of 1 meter per second per second."
     aat:
 
   - term: "nylon"
