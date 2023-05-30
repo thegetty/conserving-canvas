@@ -208,14 +208,14 @@ figure_list:
     src: "figures/fig-4-4.jpg"
     zoom: true
     label: "Figure 4.4"
-    caption: "Meeting in July 2019 at the Prince Philip Maritime Collections Centre, Kidbrooke. The participants and experts are examining Saltzmann’s *German Fleet Manoeuvres on High Seas*, which was relined in 1992 using Beva 371 on polyester sailcloth."
-    Credit: "Image: Royal Museums Greenwich"
+    caption: "Meeting in July 2019 at the Prince Philip Maritime Collections Centre, Kidbrooke. Participants and experts examine Carl Saltzmann’s *German Fleet Manoeuvres on High Seas*, which was relined in 1992 using Beva 371 on polyester sailcloth."
+    credit: "Image: Royal Museums Greenwich"
 
   - id: "fig-4-5"
     src: "figures/fig-4-5.jpg"
     zoom: true
     label: "Figure 4.5"
-    caption: "Detail of the Lining Exhibition Gallery at the 1974 Comparative Lining Techniques conference. Philippe-Jacques de Loutherbourg, *Defeat of the Spanish Armada, 8 August 1588* (1796) is exhibited as an example of the low-pressure, prestretched, vacuum-envelope lining developed by the NMM conservation studio."
+    caption: "View of the Lining Exhibition Gallery at the 1974 Comparative Lining Techniques conference. At the back, Philippe-Jacques de Loutherbourg's *Defeat of the Spanish Armada, 8 August 1588* (1796) is exhibited as an example of the low-pressure, prestretched, vacuum-envelope lining developed by the NMM conservation studio."
     credit: "Image: Royal Museums Greenwich"
 
   - id: "fig-4-6"
@@ -244,7 +244,7 @@ figure_list:
     zoom: true
     label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
-    # credit: "Image: The Courtauld Gallery, London"
+    # credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
@@ -256,7 +256,7 @@ figure_list:
     zoom: true
     label: "Figure 4.10"
     caption: "Lining of Edgar Degas, *Lady with a Parasol*, with Fabri-Sil on the vacuum table. Courtauld Institute of Art conservators Caroline Villers (left) and Gerry Hedley (right), and student Alan Phenix (right, partial view)."
-    credit: "Image: Courtauld Institute of Art"
+    credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
 
   - id: "table-4-1"
     credit: "Table: Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
