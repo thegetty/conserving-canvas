@@ -33,14 +33,14 @@ figure_list:
     # zoom: true
     label: "Figure 1.2"
     caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (Daly Hartin et al. 2011)."
-    credit: "Image: Debra Daly Hartin, Eric Hagan, Stefan Michalski, and Mylène Choquette"
+    credit: "Image: Stephen Hackney"
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.png"
     # zoom: true
     label: "Figure 1.3"
     caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (Young and Hibberd 1999)."
-    credit: "Image: Christina R. T. Young and Roger D. Hibberd"
+    credit: "Image: Stephen Hackney"
 
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
@@ -54,7 +54,7 @@ figure_list:
     zoom: true
     label: "Figure 1.5"
     caption: "A painting made from three stretchers interwoven by strips of canvas, which presents a structural conservation challenge. Stephen Buckley, *Nice*, 1972. Acrylic on canvas, 81 × 90.2 × 5.1 cm (32 × 35 1/2 × 2 in.). Tate, London."
-    credit: "Image: Tate"
+    credit: "Image: © Stephen Buckley / Photo: Tate"
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.png"
