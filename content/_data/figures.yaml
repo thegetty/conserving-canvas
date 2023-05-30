@@ -315,7 +315,7 @@ figure_list:
     zoom: true
     label: "a"
     # caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
-    # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
+    # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Museo di Capodimonte, Centro Documentazione Restauro"
   
   - id: "fig-5-7-b"
     src: "figures/fig-5-7-b.jpg"
