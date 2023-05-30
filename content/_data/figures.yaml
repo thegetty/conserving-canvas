@@ -108,7 +108,7 @@ figure_list:
     # zoom: true
     label: "Figure 2.5"
     caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
-    Credit: "Image: (c) Government of Canada, Canadian Conservation Institute"
+    Credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.png"
