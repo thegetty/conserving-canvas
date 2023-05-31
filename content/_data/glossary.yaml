@@ -69,11 +69,11 @@ entries:
     aat: [300012891]
 
   - term: "batting"
-    definition: "A layer between the backing board and the back of the canvas in padded back boards, also referred to as backing boards. Can be made from a variety of fibers."
+    definition: "A layer between the backing board and the back of the canvas in back boards, also referred to as backing boards. Can be made from a variety of fibers."
     aat: [300227771]
 
   - term: "beeswax"
-    definition: "A secretion from honeybees from which the honeycomb is built. Natural beeswax is a yellowish-brown solid with a granular fracture, brittle when cold, plastic when warmed, and melting between 65°C and 68°C. It contains varying proportions of hydrocarbons, esters, free acids and other compounds, depending on where it was produced. Color and texture vary with origin. Bleaching is usually affected by (a) simple purifying and de-colorizing with charcoal or Fuller’s earth (or similar bleaching earth) or boiling with water; (b) bleaching via oxidation by exposure to air or by treatment with oxidizing agents, such as ozone, chlorine, permanganate, potassium dichromate. Use of strong oxidizing agents (e.g., dichromates or chlorine) produces a more brittle and crystalline product. Beeswaxes are widely used in hot­melt wax-resin lining and facing adhesives because of their stability, inertness, and relative impermeability to moisture."
+    definition: "A secretion from honeybees from which the honeycomb is built. Natural beeswax is a yellowish-brown solid with a granular fracture, brittle when cold, plastic when warmed, and melting between 65°C and 68°C. It contains varying proportions of hydrocarbons, esters, free acids and other compounds, depending on where it was produced. Color and texture vary with origin. Bleaching is usually affected by (a) simple purifying and de-colorizing with charcoal or Fuller’s earth (or similar bleaching earth) or boiling with water; (b) via oxidation by exposure to air or by treatment with oxidizing agents, such as ozone, chlorine, permanganate, potassium dichromate. Use of strong oxidizing agents (e.g., dichromates or chlorine) produces a more brittle and crystalline product. Beeswaxes are widely used in hot­melt wax-resin lining and facing adhesives because of their stability, inertness, and relative impermeability to moisture."
     aat: [300014588]
 
   - term: "benzine"
@@ -138,7 +138,7 @@ entries:
     aat:
 
   - term: "canvas"
-    definition: "A generic term for the fabric support for a painting and for the finished painting itself. Natural fibers were traditionally used, but use of synthetic fibers is increasing, either on their own or in combination with natural fibers."
+    definition: "A generic term for the fabric support for a painting and for the finished painting itself. Natural fibers were traditionally used, but use of synthetic fibers also occurs, either on their own or in combination with natural fibers."
     aat: [300014078]
 
   - term: "canvas pliers"
@@ -167,7 +167,7 @@ entries:
     aat:
 
   - term: "cleavage"
-    definition: "Separation between paint layers, paint and ground layers, or ground and support. Cleavage occurs where adhesion between layers has deteriorated and may often be found where a heavy glue layer has been placed between support and ground. Common treatment takes the form of local or total infusion with an appropriate adhesive; frequently this involves lining or relining and full impregnation with the lining mixture."
+    definition: "Separation between paint layers, paint and ground layers, or ground and support. Cleavage occurs where adhesion between layers has deteriorated and may often be found where a heavy glue layer has been placed between support and ground. Common treatment takes the form of local or total infusion with an appropriate adhesive; sometimes this involves lining or relining and full impregnation with the lining mixture."
     aat: [300220007]
 
   - term: "clippings"
@@ -180,7 +180,7 @@ entries:
     aat: [300228335]
 
   - term: "cohesion"
-    definition: "Sticking together. Force holding a solid or liquid together owing to attraction between the molecules."
+    definition: "Force holding a solid or liquid together owing to attraction between the molecules."
     aat:
 
   - term: "cohesive failure"
@@ -221,12 +221,12 @@ entries:
     aat:
 
   - term: "consolidant"
-    definition: "An adhesive used in consolidation. Examples used in the conservation of paintings are fish and animal glues, synthetic resins, and resin emulsions."
+    definition: "An adhesive used in consolidation. A few examples used in the conservation of paintings are fish and animal glues, synthetic resins, and resin emulsions."
     see_also: [consolidation]
     aat: [300379405]
 
   - term: "consolidation"
-    definition: "The use of an adhesive (consolidant) to readhere detached layers in a painting structure or to add cohesion to the layer."
+    definition: "The use of an adhesive (consolidant) to re-adhere detached layers in a painting structure or to add cohesion to the layer."
     aat:
 
   - term: "constant tension stretcher"
@@ -234,7 +234,7 @@ entries:
     aat:
 
   - term: "contact lining"
-    definition: "Contact lining is a lining process where the adhesive adhering the lining canvas to the original is applied to the lining canvas only, and occasionally a thin layer is applied to the original canvas without impregnation. The bond is achieved without any penetration of the adhesive into the structure of the original canvas. Typically done with low pressure."
+    definition: "Contact lining is a low-pressure lining process where the adhesive adhering the lining canvas to the original is applied to the lining canvas only, and occasionally a thin layer is applied to the original canvas without impregnation. The bond is achieved without any penetration of the adhesive into the structure of the original canvas."
     aat:
 
   - term: "contraction"
@@ -242,7 +242,7 @@ entries:
     aat: [300054118]
 
   - term: "convection crackle"
-    definition: "In a paint surface, a type of age crackle that predominates in areas affected by barriers (e.g., stretcher bars) or bottlenecks (e.g., behind keys) impeding the flow of moist warm air at the reverse of the painting. The buildup and consequent absorption by the canvas of moisture at these points induces local dimensional change and stress. The crackle will often be less or absent in the areas of the barriers themselves, where a more stable microclimate is maintained."
+    definition: "In a paint surface, a type of age crackle that predominates in areas affected by barriers (e.g., stretcher bars) or bottlenecks (e.g., behind keys) impeding the flow of air at the reverse of the painting. The buildup and consequent absorption by the canvas of moisture at these points induces differential local dimensional change and stress. The crackle will often be less or absent in the areas of the barriers themselves, where a more stable microclimate is maintained."
     see_also: [stretcher bar marks, convection patterns]
     aat: [300228342]
 
@@ -251,7 +251,7 @@ entries:
     aat:
 
   - term: "cooling iron"
-    definition: A large, heavy, unheated iron used in manual thermoplastic-adhesive lining processes to rapidly cool a surface where heat setting adhesives have been introduced, to quickly set the adhesive. The iron should be bulky, both to assist in pressing together the cooling canvases and adhesive and also to draw away heat as quickly as possible."
+    definition: "A large, heavy, unheated iron used in manual thermoplastic-adhesive lining processes to rapidly cool a surface where heat setting adhesives have been introduced, to quickly set the adhesive. The iron is bulky to assist in pressing together the cooling canvases and adhesive and also to draw away heat as quickly as possible."
     aat:
 
   - term: "copolymer"
@@ -259,7 +259,7 @@ entries:
     aat: [300266728]
 
   - term: "corner draws"
-    definition: "A series of undulations in the canvas radiating from a corner of the stretched canvas. These can be caused by the canvas at the corners becoming detached from excessive tensioning, from distortions in the stretcher construction (for example, protruding tenons), or by the canvas becoming slack on the stretcher or strainer."
+    definition: "A series of undulations in the canvas radiating from a corner of the stretched canvas. These can be caused by the canvas at the corners becoming detached from excessive tensioning, from distortions in the stretcher construction (for example, protruding tenons), or by the canvas becoming slack on the stretcher or strainer. See also *buckling* and *cockling*."
     aat:
 
   - term: "cotton"
@@ -275,7 +275,7 @@ entries:
     aat: [300228345]
 
   - term: "creep"
-    definition: "Plastic deformation (see elasticity) of materials under stress at room temperature. In lined pictures, *creep* refers to the gradual extension of a lining canvas impregnated with adhesive after the painting has been replaced on its stretcher. Over a period of time, this results in sagging of the painting under its own new total weight. Contrast with cold flow."
+    definition: "Plastic deformation (see elasticity) of materials under stress at room temperature. In lined pictures, *creep* refers to the gradual extension of a lining canvas impregnated with adhesive after the painting has been replaced on its stretcher. Over a period of time, this results in sagging of the painting under its own new total weight. Contrast with *cold flow*."
     aat: [300072979]
 
   - term: "cross linking"
@@ -283,7 +283,7 @@ entries:
     aat: [300214730]
 
   - term: "cupping"
-    definition: "Islands of aged paint, bounded by cracks, with upward curving edges forming saucer shapes; these often draw a weak canvas support with them. They are induced by slight shrinkage of the canvas support or by chemical contraction of the upper stratum of the paint and/or differential contraction of the paint and varnish films, which prevents the cracked paint from lying completely flat. Frequently, excess pressure and heat are used in an attempt to reduce cupping during the lining process, which can result in the tops of the cracks being crushed and the paint surface abraded."
+    definition: "Islands of aged paint, bounded by cracks, with upward curving edges forming saucer shapes; these often draw a less stiff canvas support with them. They are induced by slight shrinkage of the canvas support or by chemical contraction of the upper stratum of the paint and/or differential contraction of the paint and varnish films, which prevents the cracked paint from lying completely flat. Frequently, excess pressure and heat are used in an attempt to reduce cupping during the lining process, which can result in the tops of the cracks being crushed and the paint surface abraded."
     aat: [300220569]
 
   - term: "curing"
@@ -295,7 +295,7 @@ entries:
     aat:
 
   - term: "dammar"
-    definition: "A pale yellow, brittle natural resin, completely soluble in aromatic hydrocarbons and turpentine to give light-colored solutions. It melts at 100°C–l15°C and is used as a varnish in facing mixtures and wax-resin lining materials."
+    definition: "A pale yellow, brittle natural resin, completely soluble in aromatic hydrocarbons and turpentine to give light-colored solutions. It melts at 100°C–115°C and is used as a varnish, in facing mixtures and in wax-resin lining materials."
     aat: [300012922]
 
   - term: "denaturation"
@@ -319,7 +319,7 @@ entries:
     aat:
 
   - term: "double boiler"
-    definition: "A device based on the principle of the water bath for heating materials to the boiling temperature of water without danger of burning. An inner saucepan holds the material and fits into a larger pan containing boiling water. Also called *bain-marie*."
+    definition: "A device based on the principle of the water bath for heating materials to the boiling temperature of water without danger of burning. An inner saucepan holds the material and fits into a larger pan containing boiling water. Also called bain-marie."
     aat: [300196511]
 
   - term: "double lining"
@@ -336,7 +336,7 @@ entries:
     aat: [300056195]
 
   - term: "durability"
-    definition: "The capacity of a material to remain unchanged under all normal conditions."
+    definition: "The capacity of a material to remain unchanged under normal conditions."
     aat: [300191597]
 
   - term: "Dutch method"
@@ -349,7 +349,7 @@ entries:
     aat: [300391244]
 
   - term: "elasticity"
-    definition: "The property that enables a stretched or compressed body or material to return to its original shape and size when the forces acting on it are removed. The three stages a stretched material can experience are (1) elastic deformation, in which the material returns to its original size when the stress is removed; (2) plastic deformation, in which the material is irreversibly stretched; and (3) breaking point. (1) and (2) can happen simultaneously in some materials, notably canvases."
+    definition: "The property that enables a stretched or compressed body or material to return to its original shape and size when the forces acting on it are removed. The three stages a stretched material can experience are (1) elastic deformation, in which the material returns to its original size when the stress is removed; (2) plastic deformation, in which the material is irreversibly stretched and does not return to its original size; and (3) breaking point. (1) and (2) can happen simultaneously in some materials, notably canvases."
     aat: [300056196]
 
   - term: "elemi"
@@ -369,7 +369,7 @@ entries:
     see_also: [colloid]
     aat: [300015003]
 
-  - term: "emulsion (or dispersion)"
+  - term: "emulsion (or dispersion) glues"
     definition: "The well-known “emulsion-glues” are in fact not true emulsions but dispersions of solid globules of adhesive polymer in an aqueous matrix. Commercial emulsions may contain various additives unsuitable for use on paintings and have an unsatisfactory pH. Emulsion glues are commonly used as low-hold, nap-bond lining adhesives."
     aat:
 
@@ -398,12 +398,12 @@ entries:
     aat:
 
   - term: "facing"
-    definition: "A process whereby an adaptable material (very often a thin tissue such as Eltoline tissue, mulberry paper, sulfite paper, fine silk, very thin cartridge paper) is glued to the face of picture to protect the paint layer during lining or other treatment to the support. A chosen facing adhesive is applied either directly through the facing fabric onto the paint surface or separately to the tissue, which is then carefully applied to the paint to avoid wrinkling. In major support treatment, such as transfer, composite facings may be necessary, using different types of material and adhesive in successive layers."
+    definition: "A process whereby an adaptable material (very often a thin tissue such as Eltoline tissue, mulberry paper, sulfite paper, fine silk, very thin cartridge paper) is glued to the face of picture to protect the paint layer during lining or other mechanical manipulation of the support. A chosen facing adhesive is applied either directly through the facing fabric onto the paint surface or separately to the tissue, which is then carefully applied to the paint to avoid wrinkling. In major support treatment, such as transfer, composite facings may be necessary, using different types of material and adhesive in successive layers."
     see_also: [facing patterns]
     aat: [300386688]
 
   - term: "facing adhesives"
-    definition: "These adhesives (often mixtures) prepared for use in facing paintings or on other materials must be readily reversible. They include hot melts, resin solutions, and water-soluble glues."
+    definition: "These adhesives (often mixtures) prepared for use in facing paintings or on other materials must be readily reversible. They include hot melts, resin solutions or emulsions, and water-soluble glues."
     aat:
 
   - term: "facing patterns"
@@ -411,7 +411,7 @@ entries:
     aat:
 
   - term: "feathering"
-    definition: "In strip-lining and patching canvas pictures, the piece of canvas used for the repair should not have a hard edge, which could show through as a ridge on the front of the picture. Thus, some threads along each side are removed, leaving only perpendicular strands at the edges. This creates a soft frayed or feathered transition, similar to a slight chamfer. The edge is sometimes not straight to further diminish of it showing through."
+    definition: "In strip-lining and patching canvas pictures, the piece of canvas used for the repair should not have a hard edge, which could show through as a ridge on the front of the picture. Thus, some threads along each side are removed, leaving only perpendicular strands at the edges. This creates a soft frayed or feathered transition, similar to a slight chamfer. The edge is sometimes not straight to further diminish the risk of it showing through."
     aat:
 
   - term: "fiber"
@@ -492,7 +492,7 @@ entries:
     aat: [300014952]
 
   - term: "glass fiber woven fabric"
-    definition: "Blown or drawn glass that has been made into fibers when molten and subsequently woven. The fibers are usually lubricated to assist weaving (if a nondrying oil is used as the lubricant, it can reduce the bond strength of some lining adhesives). The resulting fabric may be obtained in a variety of weaves, weights, and textures, with the yarn locked or unlocked. As an inorganic fabric, it is inert and offers resistance to agents of organic decay, molds, and so forth. It provides a degree of permanence plus an even, smooth surface texture that cannot be matched by natural-fiber woven fabrics. Probably first used as a lining support in London in 1952, it initially found fairly wide use in conservation, especially to produce transparent linings in combination with hot-melt adhesives, but is rarely used today because the fabric is difficult to handle."
+    definition: "Blown or drawn glass that has been made into fibers when molten and subsequently woven. The fibers are usually lubricated to assist weaving (if a nondrying oil is used as the lubricant, it can reduce the bond strength of some lining adhesives). The resulting fabric may be obtained in a variety of weaves, weights, and textures, with the yarn locked or unlocked. As an inorganic fabric, it is inert and offers resistance to agents of organic decay, molds, and so forth. It provides a degree of permanence plus an even, smooth surface texture that cannot be matched by natural-fiber woven fabrics. Probably first used as a lining support in London in 1952, it initially found fairly wide use in conservation, especially to produce transparent linings in combination with hot-melt adhesives, but is rarely used today because the fabric is difficult and hazardous to handle."
     aat:
 
   - term: "glass transition temperature"
@@ -504,7 +504,7 @@ entries:
     aat: [300014140]
 
   - term: "glaze"
-    definition: "A layer of transparent or semitransparent paint through which the light passing to the surface beneath is reflected back such that the color of the glaze modifies that of the lighter underlying color. Essentially, a glaze uses transparent pigment—one with a low refractive index, such as lake, ultramarine, copper resinate, Prussian blue. Because of the low refractive index and, in most cases, the higher vehicle-pigment ratio and the often resinous content, glazes are affected by any excessive heat and pressure during lining; sometimes they will retain the imprint of facing paper fibers or joins in the facing material."
+    definition: "A layer of transparent or semitransparent paint through which the light passing to the surface beneath is reflected back such that the color of the glaze modifies that of the lighter underlying color. Essentially, a glaze uses transparent pigment—one with a low refractive index, such as lake, ultramarine, copper resinate, Prussian blue. Because of the higher vehicle-pigment ratio and the often resinous content, glazes can be affected by any excessive heat and pressure during lining; sometimes they will retain the imprint of facing paper fibers or joins in the facing material."
     aat: [300015091]
 
   - term: "glue paste"
@@ -538,7 +538,7 @@ entries:
     aat: [300254487]
 
   - term: "heat sources"
-    definition: "Depending on type of adhesive and method of lining required to effect impregnation and/or adhesion, the heat source may take the form of: (1) actual contact with the painting, or lining surfaces, passing by thermal conduction from irons, spatulas, heated rubber blankets, hot tables, and similar devices into the lining materials, or (2) radiant heat, derived from infrared lamps or heaters, hot air blowers, photographic light bulbs, or electric heating elements held at a distance from the lining area. Heat may be applied locally or over the whole area; usually the former will involve heat for a shorter time while the latter produces overall greater heat and often a much lengthier process. The heat may be applied from one or both sides alternately or simultaneously, depending on technique. With overall heating methods, such as hot tables, insulating layers (such as Melinex) may be employed to cut down heat loss to the surrounding air, thus enabling optimum temperatures for the lining process to be reached more quickly."
+    definition: "Depending on type of adhesive and method of lining required to effect impregnation and/or adhesion, the heat source may take the form of: (1) actual contact with the painting, or lining surfaces, passing by thermal conduction from irons, spatulas, heated rubber blankets, hot tables, and similar devices into the lining materials, or (2) radiant heat, derived from infrared lamps or heaters, hot air blowers, photographic light bulbs, or electric heating elements held at a distance from the lining area. Heat may be applied locally or over the whole area; usually the former will involve heat for a shorter time while the latter produces overall greater heat and often a much lengthier process. The heat may be applied from one or both sides alternately or simultaneously, depending on technique. With overall heating methods, such as hot tables, insulating layers (such as Melinex) may be employed to cut down heat loss to the surrounding air, thus enabling optimum temperatures for the lining process to be reached more quickly and in a controllable manner."
     aat:
 
   - term: "Heiber glue"
@@ -562,7 +562,7 @@ entries:
     aat: [300014076]
 
   - term: "honey"
-    definition: "Produced by the eight species of honeybee, which are native to Asia, Europe and Africa, but are now globally distributed. Composed of the sugars dextrose and levulose, and other compounds, with variable amounts of water. It retains moisture and is hence used as a humectant and tackifier in aqueous lining adhesives—an important component of Russian sturgeon-glue lining adhesive."
+    definition: "Produced by the eight species of honeybee, which are native to Asia, Europe and Africa, but are now globally distributed. Composed of the sugars dextrose and levulose, and other compounds, with variable amounts of water. It retains moisture and hence is used as a humectant and tackifier in aqueous lining adhesives—an important component of Russian sturgeon-glue lining adhesive."
     aat: [300191621]
 
   - term: "honeycomb paper"
@@ -618,7 +618,7 @@ entries:
     aat: [300253967]
 
   - term: "irons"
-    definition: "Hot irons used in lining often have a large surface area, even heat spread, and a reliable thermostat. Precisely temperature-regulated irons for designed for painting conservation are commercially available."
+    definition: "Hot irons used in lining often have a large surface area, even heat spread, and a reliable thermostat. Precisely temperature-regulated irons designed for painting conservation are commercially available."
     see_also: ["*Cooling iron*", tacking iron]
     aat: [300022712]
 
@@ -632,7 +632,7 @@ entries:
     aat:
 
   - term: "Japanese tissue"
-    definition: "Fine, strong long-fibered paper made by hand in Japan from fibers of the paper mulberry and other trees and plants. In lining it is used as an interleaf or facing material. It is also widely used as a backing support for works on paper."
+    definition: "Fine, strong long-fibered paper made by hand in Japan from fibers of the paper mulberry tree and other trees and plants. In lining it is used as an interleaf or facing material. It is also widely used as a backing support for works on paper."
     aat: [300014143]
 
   - term: "jute"
@@ -700,7 +700,7 @@ entries:
     aat: [300056197]
 
   - term: "marouflage"
-    definition: "The sticking of a canvas picture to a rigid support. Originally used to describe to murals on canvas attached to a wall with white lead in oil as the adhesive, but now encompassing a wide range of supports and adhesives."
+    definition: "The sticking of a canvas picture to a rigid support. Originally used to describe murals on canvas attached to a wall with white lead in oil as the adhesive, but now encompassing a wide range of supports and adhesives."
     see_also: [hardboard]
     aat: [300220940]
 
@@ -772,7 +772,7 @@ entries:
     aat: [300014087]
 
   - term: "Mylar"
-    definition: "Trade name for polyethylene terephthalate sheet. It is available in very thin films due to its high strength and in a range of thicker grades. It is highly resistant to solvents, light, and heat. It is used in lining as a general-purpose protective and nonstick insulating material—particularly when supplied with a silicone coating—and as a membrane in vacuum lining. It has also been used as a lining support for some synthetic adhesives. It has a low propagation tear strength and cannot therefore be tacked or stapled. Melinex is a similar product."
+    definition: "Trade name for polyethylene terephthalate sheet. It is available in very thin films due to its high strength and in a range of thicker grades. It is highly resistant to solvents, light, and heat. It is used in lining as a general-purpose protective and nonstick isolating material—particularly when supplied with a silicone coating—and as a membrane in vacuum lining. It has also been used as a lining support for some synthetic adhesives. It has a low propagation tear strength and cannot therefore be tacked or stapled. Melinex is a similar product."
     aat: [300014480]
 
   - term: "nap bond lining"
@@ -789,12 +789,12 @@ entries:
     aat:
 
   - term: "nylon"
-    definition: "Originally a trade name for a brand of a polyamide fabric. Now a generic term. Soluble nylon is also used as a term for polyamide weldong powder."
+    definition: "Originally a trade name for a brand of a polyamide fabric. Now a generic term. Soluble nylon is also used as a term for polyamide welding powder."
     see_also: [polyamide fabric]
     aat: [300014462]
 
   - term: "oleoresin"
-    definition: "(1) A natural combination of resinous substances and essential oils occurring in or exuding from plants. It is usually a soft semiliquid in which the resin is in solution in the essential oil. Four subgroups are classified: the varnish group, derived chiefly from plants of the Anarcardiaceae family; the copaiba group, sweet-smelling resins similar to the balsams; the turpentine group, from Coniferae soft resins; and the elemi group, which are soft resins containing above 10% ethereal oil. Among the oleoresins most common in pictorial painting are Venice turpentine and copaiba, both used in the older practice of picture restoration and in the compounding of some surface films. (2) Occasionally used to mean mixture of drying oil and resin (e.g., sandarac) which, according to literary sources were used from early times as constituents of glazes, but the use of oleoresin balsams in painting media is rarely mentioned before the mid-eighteenth century."
+    definition: "(1) A natural combination of resinous substances and essential oils occurring in or exuding from plants. It is usually a soft semiliquid in which the resin is in solution in the essential oil. Four subgroups are classified: the varnish group, derived chiefly from plants of the Anarcardiaceae family; the copaiba group, sweet-smelling resins similar to the balsams; the turpentine group, from Coniferae soft resins; and the elemi group, which are soft resins containing above 10% ethereal oil. Among the oleoresins most common in pictorial painting are Venice turpentine and copaiba, both used in the older practice of picture restoration and in the compounding of some surface films. (2) Occasionally used to mean a mixture of drying oil and resin (e.g., sandarac) which, according to literary sources were used from early times as constituents of glazes, but the use of oleoresin balsams in painting media is rarely mentioned before the mid-eighteenth century."
     see_also: [balsam]
     aat: [300012891]
 
@@ -823,7 +823,7 @@ entries:
     aat:
 
   - term: "patching"
-    definition: "A canvas with a tear or hole that otherwise does not need lining may be patched on the reverse side using a feathered piece of fine canvas and normal lining adhesive. However, this is not good practice as the adhesive used very often distorts the canvas in the region of the patch."
+    definition: "A canvas with a tear or hole that otherwise does not need lining may be patched on the reverse side using a feathered piece of fine canvas and normal lining adhesive. However, this is not good practice as it very often distorts the canvas in the region of the patch."
     see_also: [thread-by-thread tear mending]
     aat: [300379944]
 
@@ -848,7 +848,7 @@ entries:
     aat: [300438578]
 
   - term: "pigment-vehicle ratio"
-    definition: "In artists oil paint the proportion of pigment to vehicle varies widely, between dense, low­absorbent pigments (e.g., white lead requires 8% W/W vehicle) to more absorbent earth colors (e.g., raw sienna requires 35% vehicle; lakes, 55%) to the highly absorbent pigments (e.g., lamp black, 85%–100% vehicle; asphaltum, 150% vehicle). Paints with a high proportion of pigment to vehicle (usually the lighter parts of the picture) are more stable to heat and pressure than those paints with a higher vehicle content (found in the darker areas), which often show more signs of deformation (wrinkling, imprinting, flattening, cupping)."
+    definition: "In artists oil paint the proportion of pigment to vehicle varies widely, between dense, low ­absorbent pigments (e.g., white lead requires 8% W/W vehicle) to more absorbent earth colors (e.g., raw sienna requires 35% vehicle; lakes, 55%) to the highly absorbent pigments (e.g., lamp black, 85%–100% vehicle; asphaltum, 150% vehicle). Paints with a high proportion of pigment to vehicle (usually the lighter parts of the picture) are more stable to heat and pressure than those paints with a higher vehicle content (found in the darker areas), which often show more signs of deformation (wrinkling, imprinting, flattening, cupping)."
     see_also: [absorption]
     aat:
 
@@ -907,7 +907,7 @@ entries:
     aat: [300014509]
 
   - term: "pressure sources for lining"
-    definition: "(1) Various sources of positive pressure have been used in lining procedures, ranging from early heated tailors’ irons (mobile sources of local pressure), the modern vacuum hot table, and other pressure systems, such as vacuum envelopes and air vortices in low-pressure systems. Other systems include weighting with flexible water containers or sandbags over the entire surface of the lining composite. Flexible synthetic sheets can be used as adaptable pressure sources over paintings. Rollers (covered with foam, nylon, rubber, felt) can also provide auxiliary mobile pressure sources. The blister-laying spatula, though light, can bring high-pressure loads to bear on local areas. Cooling irons of between 6 and 30 pounds are commonly used in both glue- and wax-resin lining methods to maintain contact between the canvases as the lining adhesive is cooling and setting. (2) Positive pressure exerted during lining will be complemented by an equal amount of inverse pressure, the source of which usually takes the form of a flat, hard surface, such as a terrazzo floor, marble slab, composite board table, or hot table. Soft materials are often used as buffers between the painting and the pressure sources. Sandboxes, sawdust beds, and, more recently, silicone rubber molds have all been used to accommodate the relief of the painting within an overall firm support. A tensioned lining canvas during the lining process can also act as an inverse pressure source, the degree of flexibility being determined by the tautness. Other efforts to overcome the flatness characteristic of many of these inverse sources has led to the development of balanced pressure forms."
+    definition: "(1) Various sources of positive pressure have been used in lining procedures, ranging from early heated tailors’ irons (mobile sources of local pressure), the modern vacuum hot table, and other pressure systems, such as vacuum envelopes and air vortices in low-pressure systems. Other systems include weighting with flexible water containers or sandbags over the entire surface of the lining composite. Flexible synthetic sheets can be used as adaptable pressure sources over paintings. Rollers (covered with foam, nylon, rubber, felt) can also provide auxiliary mobile pressure sources. The heated spatula, though light, can bring high-pressure loads to bear on local areas. Cooling irons of between 6 and 30 pounds are commonly used in both glue- and wax-resin lining methods to maintain contact between the canvases as the lining adhesive is cooling and setting. (2) Positive pressure exerted during lining will be complemented by an equal amount of inverse pressure, the source of which usually takes the form of a flat, hard surface, such as a terrazzo floor, marble slab, composite board table, or hot table. Soft materials are often used as buffers between the painting and the pressure sources. Sandboxes, sawdust beds, and, more recently, silicone rubber molds have all been used to accommodate the relief of the painting within an overall firm support. A tensioned lining canvas during the lining process can also act as an inverse pressure source, the degree of flexibility being determined by the tautness. Other efforts to overcome the flatness characteristic of many of these inverse sources has led to the development of balanced pressure forms."
     see_also: [vacuum envelope]
     aat:
 
@@ -928,7 +928,7 @@ entries:
     aat: [300266365]
 
   - term: "raking light"
-    definition: "When an intense point-source lamp (incorporating a heat filter) is positioned with the beam at an acute angle across the surface of the painting any relief or deformation is accentuated and can be easily observed or photographed. The physical state of the painting and the causes of breakdown can thus be studied before, during, and after lining."
+    definition: "When an intense point-source lamp (incorporating a heat filter) is positioned with the beam at an acute angle across the surface of the painting any relief or deformation is accentuated and can be easily observed or photographed. The physical state of the painting can thus be studied before, during, and after lining."
     aat: [300224399]
 
   - term: "reflectance transformation imaging (RTI)"
@@ -936,11 +936,11 @@ entries:
     aat: [300390594]
 
   - term: "refractive index (RI)"
-    definition: "The RI of a medium is the ratio of the velocity of light in free space to that in the medium. Mathematically expressed as the sine of the angle of incidence divided by the sine of the angle of refraction, when light is traveling from a vacuum (or, as an approximation, air) into the medium. The importance of RI for paint films and lining techniques lies in the fact that the relative transparency or opacity of a paint film depends in part on the difference between the RI of the pigment and that of the suspending medium. A pigment with a high RI (such as titanium dioxide or vermilion) in oil will give an opaque film. Similarly, a pigment of comparatively low RI (such as whiting) will appear opaque in an aqueous medium and transparent in a medium of comparatively higher RI (such as oil). The increasing RI of oil with age increases the transparency of particular oil-pigment mixtures, producing the well-known phenomenon of pentimenti. In lining techniques, it is important not to soak a low RI ground with a relining adhesive of similar RI because it would reduce the opacity of the ground and lead to a general darkening in tone."
+    definition: "The RI of a medium is the ratio of the velocity of light in free space to that in the medium. Mathematically expressed as the sine of the angle of incidence divided by the sine of the angle of refraction, when light is traveling from a vacuum (or, as an approximation, air) into the medium. The importance of RI for paint films and lining techniques lies in the fact that the relative transparency or opacity of a paint film depends in part on the difference between the RI of the pigment and that of the suspending medium. A pigment with a high RI (such as titanium dioxide or vermilion) in oil will give an opaque film. Similarly, a pigment of comparatively low RI (such as whiting) will appear opaque in an aqueous medium and transparent in a medium of comparatively higher RI (such as oil). The increasing RI of oil with age increases the transparency of particular oil-pigment mixtures, producing the well-known phenomenon of pentimenti. In lining techniques, it is important not to saturate a low RI ground with a relining adhesive of similar RI because it would reduce the opacity of the ground and lead to a general darkening in tone."
     aat: [300379659]
 
   - term: "relative humidity (RH)"
-    see: [humidity.]
+    see: [humidity]
     aat: [300192097]
 
   - term: "relining"
@@ -980,11 +980,11 @@ entries:
     aat:
 
   - term: "rosin"
-    see: [colophony.]
+    see: [colophony]
     aat: [300012950]
 
   - term: "RTI"
-    see: [reflectance transformation imaging.]
+    see: [reflectance transformation imaging]
     aat: [300390594]
 
   - term: "sailcloth"
@@ -1000,7 +1000,7 @@ entries:
     aat:
 
   - term: "scalloping"
-    see: [cusping.]
+    see: [cusping]
     aat:
 
   - term: "secant modulus"
@@ -1069,11 +1069,11 @@ entries:
     aat: [300422596]
 
   - term: "stretcher bar lining"
-    see: [cami-lining.]
+    see: [cami-lining]
     aat: [300433993]
 
   - term: "stretcher bar marks"
-    definition: "The appearance on the paint surface of the form of the stretcher bars as cracks or ridges that follow the inner edges of the stretcher bars or both sides of stretcher cross bars. The area between these marks and the outer edge of the canvas has areas of relatively uncracked or uncupped paint (generally in a picture where the surface exhibits crackle. Indicative of the protective properties of any form of free, independent backing material behind the canvas; here the bars limit canvas movement by partially isolating the canvas from changes in the external climate and by guarding against accidental mechanical pressure or damage."
+    definition: "The appearance on the paint surface of the form of the stretcher bars as cracks or ridges that follow the inner edges of the stretcher bars or both sides of stretcher cross bars. The area between these marks and the outer edge of the canvas generally has areas of relatively uncracked or uncupped paint in a picture where the surface exhibits crackle. Indicative of the protective properties of any form of free, independent backing material behind the canvas; here the bars limit canvas movement by partially isolating the canvas from changes in the external climate and by guarding against accidental mechanical pressure or damage."
     aat:
 
   - term: "stretching"
@@ -1159,7 +1159,7 @@ entries:
     aat:
 
   - term: "transfer"
-    definition: "Removal of the support from the reverse of the paint and ground layers and subsequent mounting of these on a new support. Carried out when the condition of the canvas or panel has deteriorated so much that it cannot be further consolidated. In some cases, the ground is removed where it is in bad condition and a new ground is applied to the reverse of the paint film. This method was practiced widely in France from the middle of the eighteenth century, when many panel paintings were transferred to canvas, but was in use much earlier in Italy."
+    definition: "Removal of the support from the reverse of the paint and ground layers and subsequent mounting of these on a new support. Historically carried out when the condition of the canvas or panel has deteriorated so much that it cannot be further consolidated. In some cases, the ground is removed where it is in bad condition and a new ground is applied to the reverse of the paint film. This method was practiced widely in France from the middle of the eighteenth century, when many panel paintings were transferred to canvas, but was in use much earlier in Italy."
     aat:
 
   - term: "Trekker/Trecker"
@@ -1229,7 +1229,7 @@ entries:
     aat: [300379360]
 
   - term: "wax-resin lining"
-    definition: "A lining procedure using wax-resin adhesive. When heated wax-resin flows readily and penetrates porous materials. It has some resistance to moisture. The technique was commonly used in Holland from the mid-nineteenth century and linings from this time survive in good condition. It was widely used up to the 1970s when adhesives were developed to address the serious drawbacks of the procedure, such as its overall penetration when heated into the canvas and paint structure, its capacity to darken porous substrates by saturation and to make some paint films more soluble to solvents."
+    definition: "A lining procedure using wax-resin adhesive. When heated, wax-resin flows readily and penetrates porous materials. It has some resistance to moisture. The technique was commonly used in Holland from the mid-nineteenth century and linings from this time survive in good condition. It was widely used up to the 1970s when adhesives were developed to address the serious drawbacks of the procedure, such as its overall penetration when heated into the canvas and paint structure, its capacity to darken porous substrates by saturation and to make some paint films more soluble to solvents."
     aat: [300379360]
 
   - term: "weave"
@@ -1267,7 +1267,7 @@ entries:
     aat: [300266549]
 
   - term: "white spirit"
-    see: [mineral spirits.]
+    see: [mineral spirits]
     aat: [300015275]
 
   - term: "working stretcher"
