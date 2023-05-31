@@ -2401,7 +2401,7 @@ figure_list:
     # zoom: true
     label: "Figure 49.2"
     caption: "Amount (in grams) of the wax-resin mixture poulticed into each tissue after 1-, 5-, and 15-minute dwell times."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "table-49-1"
     credit: "Table: Julianna Ly"
@@ -2413,14 +2413,14 @@ figure_list:
     # zoom: true
     label: "Figure 49.3"
     caption: "Weight increase (in grams) after each iterative use."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "fig-49-4-a"
     src: "figures/fig-49-4-a.jpg"
     zoom: true
     label: "a"
     # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, &#40;c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137× by Dr. Judy Rudolph, volunteer conservation scientist, SRAL, Winterthur Museum."
-    # credit: "Images: Judy Rudolph"
+    # credit: "Images: Julianna Ly"
 
   - id: "fig-49-4-b"
     src: "figures/fig-49-4-b.jpg"
@@ -2442,14 +2442,14 @@ figure_list:
     # zoom: true
     label: "Figure 49.5"
     caption: "Increase in surface area (<sup>2</sup>/g) analyzed through BET."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "fig-49-6-a"
     src: "figures/fig-49-6-a.png"
     # zoom: true
     label: "a"
     # caption: "(a) Weight increases (in grams) for each tissue exposed to the solvents or mixtures tested. (b) Py‑GCMS analysis of the three solvents: solvent 1 is 100% acetone, solvent 2 is 1:1 acetone and petroleum benzine, and solvent 3 is 1:9 acetone and petroleum benzine. (Py-GCMS analysis conducted by Dr. W. Chris Petersen, Volunteer Conservation Scientist and Affiliated Associate Professor, Scientific Research and Analysis lab, Winterthur Museum, Garden and Library.) "
-    # credit: "Images: a: Julianna Ly and Tracy Liu; b: Chris Petersen, Tracy Liu"
+    # credit: "Images: Julianna Ly"
 
   - id: "fig-49-6-b"
     src: "figures/fig-49-6-b.png"
