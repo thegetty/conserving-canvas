@@ -2093,7 +2093,7 @@ figure_list:
     src: "figures/fig-43-1.jpg"
     zoom: true
     label: "Figure 43.1"
-    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 × 132.7 cm (37 1/3 × 52 1/4 in.). After cleaning. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
+    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 × 132.7 cm (37 1/3 × 52 1/4 in.). After treatment. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
     credit: "Image: Emma Kimmel"
 
   - id: "fig-43-2"
