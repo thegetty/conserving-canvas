@@ -2935,7 +2935,7 @@ figure_list:
     src: "figures/fig-62-2.jpg"
     zoom: true
     label: "Figure 62.2"
-    caption: "Cross sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVAc (VeoVa)–acrylic (BA-MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers; top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk); bottom: styrenated-acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVAc with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVAc (Py-GCMS)."
+    caption: "Cross sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVAc (VeoVa)–acrylic (BA-MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers; top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk); bottom: styrenated acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVAc with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVAc (Py-GCMS)."
     credit: "Images: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-62-3"
