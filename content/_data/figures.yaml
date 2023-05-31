@@ -2957,7 +2957,7 @@ figure_list:
     zoom: true
     label: "Figure 63.2"
     caption: "Canvas paintings just after the first rescue."
-    credit: "Image: JIJI PRESS/AFP via Getty Images"
+    credit: "Image: © *The Japanese Times*"
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"
