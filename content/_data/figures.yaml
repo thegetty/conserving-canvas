@@ -2569,35 +2569,35 @@ figure_list:
     # zoom: true
     label: "Figure 52.1"
     caption: "Diagram illustrating insert joint between the custom-fabricated stretcher and incised Gator Board panel insert."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-2"
     src: "figures/fig-52-2.jpg"
     zoom: true
     label: "Figure 52.2"
     caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–62. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
-    credit: "Image: Boston, Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-3"
     src: "figures/fig-52-3.jpg"
     zoom: true
     label: "Figure 52.3"
     caption: "View of the complete blind-panel stretcher system, verso, during alignment of canvases over loose-lining and stretcher."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-4"
     src: "figures/fig-52-4.jpg"
     zoom: true
     label: "Figure 52.4"
     caption: "Corner detail, installation of Gator Board panel inserted into stretcher bar (custom fabricated by Upper Canada Stretchers)."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-5"
     src: "figures/fig-52-5.jpg"
     zoom: true
     label: "Figure 52.5"
     caption: "Restretching of the original canvas of the *Rape of Europa* and historical lining fabric: attachment to the loose-lining and blind-panel stretcher with staples and tandem tensioning."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-53-1"
     src: "figures/fig-53-1.jpg"
