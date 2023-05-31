@@ -1824,7 +1824,7 @@ figure_list:
     src: "figures/fig-36-9.jpg"
     zoom: true
     label: "Figure 36.9"
-    caption: "Paintings displayed in the Government Museum Alwar after the conservation."
+    caption: "Paintings displayed in the Government Museum, Alwar, after conservation."
     credit: "Image: IGNCA, New Delhi / Achal Pandya"
 
   - id: "fig-37-1"
@@ -1832,49 +1832,49 @@ figure_list:
     zoom: true
     label: "Figure 37.1"
     caption: "Heating pattern of widely used handheld irons, regulated by an on-off switch that delivers fluctuating heat in a 30°C range."
-    credit: "Image: Laura Amorosi"
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-2"
     src: "figures/fig-37-2.jpg"
     zoom: true
     label: "Figure 37.2"
-    caption: "(1) IMAT system with flexible heating mat, (2) thermal sensor, (3) wireless Bluetooth thermocouple relay, (4) touch-control screen, (5, 6) connecting cables, (7) temperature control console, and (8) power input."
-    credit: "Image: The IMAT Project"
+    caption: "IMAT system with (1) flexible heating mat, (2) thermal sensor, (3) wireless Bluetooth thermocouple relay, (4) touch-control screen, (5, 6) connecting cables, (7) temperature control console, and (8) power input."
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-3"
     src: "figures/fig-37-3.jpg"
     zoom: true
     label: "Figure 37.3"
     caption: "IMAT technology touch-control screen showing the extremely steady heating pattern of the PID temperature controller and high-response carbon nanotube heating mats (compare to fig. 37.1)."
-    credit: "Image: The IMAT Project"
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-4"
     src: "figures/fig-37-4.jpg"
     zoom: true
     label: "Figure 37.4"
     caption: "Localized low-and-slow heat transfer treatment of the painting at 30°C for consolidation and remediation of cupping and planar distortions."
-    credit: "Image: Oregon Historical Society Museum"
+    credit: "Image: Oregon Historical Society Museum 75-1.72"
 
   - id: "fig-37-5"
     src: "figures/fig-37-5.jpg"
     zoom: true
     label: "Figure 37.5"
     caption: "Subsequent general treatment of the painting using a low-pressure vacuum envelope and mild heat transfer while supported by a custom platform to protect fragile tacking edges."
-    credit: "Image: Oregon Historical Society Museum"
+    credit: "Image: Oregon Historical Society Museum 75-1.72"
 
   - id: "fig-37-6"
     src: "figures/fig-37-6.jpg"
     zoom: true
     label: "Figure 37.6"
     caption: "Mild heat transfer used in localized repair of a large H-shape tear and treatment of multiple planar canvas distortions of the painting while on its stretcher."
-    credit: "Image: Hallie Ford Museum of Art"
+    credit: "Image: Collection of the Hallie Ford Museum of Art, Willamette University, Gift of the Maurice Hudkins Collection in memory of C. Ronald Hudkins and Betty-mae Hartung Hudkins, 2005.019.027"
 
   - id: "fig-37-7"
     src: "figures/fig-37-7.jpg"
     zoom: true
     label: "Figure 37.7"
     caption: "Relining treatment of the painting using a low-pressure envelope and IMAT heating mat to achieve the thermoplastic activation temperature of Beva adhesive section by section."
-    credit: "Image: Nasjonalmuseet Oslo"
+    credit: "Image: Nasjonalmuseet, Oslo, Norway"
 
   - id: "fig-38-1"
     src: "figures/fig-38-1.jpg"
