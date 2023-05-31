@@ -2539,8 +2539,8 @@ figure_list:
     src: "figures/fig-51-4-a.jpg"
     zoom: true
     label: "a"
-   # caption: "Detail of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
-   # credit: "Image: Courtesy of the research team"
+   # caption: "Details of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
+   # credit: "Images: Courtesy of the research team"
 
   - id: "fig-51-4-b"
     src: "figures/fig-51-4-b.jpg"
@@ -2562,7 +2562,7 @@ figure_list:
     # zoom: true
     label: "Figure 51.5"
     caption: "Star diagrams representing the risks for glue-paste linings as a function of the flour used. Considering that the five parameters tested are RH-related, the smaller the area covered, the less vulnerable the glue-paste lining is to RH; in other words, larger gray areas suggest the need for more restrictive environmental conditions to ensure the stability of the lined painting."
-    credit: "Images: Courtesy of the research team"
+    credit: "Image: Courtesy of the research team"
 
   - id: "fig-52-1"
     src: "figures/fig-52-1.png"
