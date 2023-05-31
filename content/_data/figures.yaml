@@ -1913,49 +1913,49 @@ figure_list:
     src: "figures/fig-39-1.jpg"
     zoom: true
     label: "Figure 39.1"
-    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax-resin extraction); under specular illumination. The Menil Collection, Houston."
+    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax-resin extraction), under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-2"
     src: "figures/fig-39-2.jpg"
     zoom: true
     label: "Figure 39.2"
-    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under specular illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-3"
     src: "figures/fig-39-3.jpg"
     zoom: true
     label: "Figure 39.3"
-    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under raking illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under raking illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-4"
     src: "figures/fig-39-4.jpg"
     zoom: true
     label: "Figure 39.4"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting before wax extraction with interleaf intact, under available illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting before wax extraction with interleaf intact, under available illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Desirae Dijkema"
 
   - id: "fig-39-5"
     src: "figures/fig-39-5.jpg"
     zoom: true
     label: "Figure 39.5"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, under normal illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, under normal illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-6"
     src: "figures/fig-39-6.jpg"
     zoom: true
     label: "Figure 39.6"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, detail. Notice the ground seeping through the canvas in the lower center. Light areas of blanched wax residue that correspond with cracks on the front are seen in the cross-shape form to the right of center and the elliptical shape near the center of the left edge."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, detail. Notice the ground seeping through the canvas in the lower center. Light areas of blanched wax residue that correspond with cracks on the front are seen in the cross-shape form to the right of center and the elliptical shape near the center of the left edge. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-7"
     src: "figures/fig-39-7.jpg"
     zoom: true
     label: "Figure 39.7"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction and edge-lining, UV induced visible fluorescence."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction and edge-lining, UV-induced visible fluorescence. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-40-1"
