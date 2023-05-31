@@ -2371,7 +2371,7 @@ figure_list:
     src: "figures/fig-48-4-a.jpg"
     zoom: true
     label: "a"
-    # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges were added for reinforcement."
+    # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges added for reinforcement."
     # credit: "Images: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-4-b"
