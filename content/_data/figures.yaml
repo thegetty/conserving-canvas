@@ -33,14 +33,14 @@ figure_list:
     # zoom: true
     label: "Figure 1.2"
     caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (Daly Hartin et al. 2011)."
-    credit: "Image: Debra Daly Hartin, Eric Hagan, Stefan Michalski, and Mylène Choquette"
+    credit: "Image: Stephen Hackney"
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.png"
     # zoom: true
     label: "Figure 1.3"
     caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (Young and Hibberd 1999)."
-    credit: "Image: Christina R. T. Young and Roger D. Hibberd"
+    credit: "Image: Stephen Hackney"
 
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
@@ -54,7 +54,7 @@ figure_list:
     zoom: true
     label: "Figure 1.5"
     caption: "A painting made from three stretchers interwoven by strips of canvas, which presents a structural conservation challenge. Stephen Buckley, *Nice*, 1972. Acrylic on canvas, 81 × 90.2 × 5.1 cm (32 × 35 1/2 × 2 in.). Tate, London."
-    credit: "Image: Tate"
+    credit: "Image: © Stephen Buckley / Photo: Tate"
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.png"
@@ -108,7 +108,7 @@ figure_list:
     # zoom: true
     label: "Figure 2.5"
     caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
-    Credit: "Image: (c) Government of Canada, Canadian Conservation Institute"
+    Credit: "Image: © Government of Canada, Canadian Conservation Institute"
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.png"
@@ -208,14 +208,14 @@ figure_list:
     src: "figures/fig-4-4.jpg"
     zoom: true
     label: "Figure 4.4"
-    caption: "Meeting in July 2019 at the Prince Philip Maritime Collections Centre, Kidbrooke. The participants and experts are examining Saltzmann’s *German Fleet Manoeuvres on High Seas*, which was relined in 1992 using Beva 371 on polyester sailcloth."
-    Credit: "Image: Royal Museums Greenwich"
+    caption: "Meeting in July 2019 at the Prince Philip Maritime Collections Centre, Kidbrooke. Participants and experts examine Carl Saltzmann’s *German Fleet Manoeuvres on High Seas*, which was relined in 1992 using Beva 371 on polyester sailcloth."
+    credit: "Image: Royal Museums Greenwich"
 
   - id: "fig-4-5"
     src: "figures/fig-4-5.jpg"
     zoom: true
     label: "Figure 4.5"
-    caption: "Detail of the Lining Exhibition Gallery at the 1974 Comparative Lining Techniques conference. Philippe-Jacques de Loutherbourg, *Defeat of the Spanish Armada, 8 August 1588* (1796) is exhibited as an example of the low-pressure, prestretched, vacuum-envelope lining developed by the NMM conservation studio."
+    caption: "View of the Lining Exhibition Gallery at the 1974 Comparative Lining Techniques conference. At the back, Philippe-Jacques de Loutherbourg's *Defeat of the Spanish Armada, 8 August 1588* (1796) is exhibited as an example of the low-pressure, prestretched, vacuum-envelope lining developed by the NMM conservation studio."
     credit: "Image: Royal Museums Greenwich"
 
   - id: "fig-4-6"
@@ -244,7 +244,7 @@ figure_list:
     zoom: true
     label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
-    # credit: "Image: The Courtauld Gallery, London"
+    # credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
@@ -256,7 +256,7 @@ figure_list:
     zoom: true
     label: "Figure 4.10"
     caption: "Lining of Edgar Degas, *Lady with a Parasol*, with Fabri-Sil on the vacuum table. Courtauld Institute of Art conservators Caroline Villers (left) and Gerry Hedley (right), and student Alan Phenix (right, partial view)."
-    credit: "Image: Courtauld Institute of Art"
+    credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
 
   - id: "table-4-1"
     credit: "Table: Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
@@ -315,7 +315,7 @@ figure_list:
     zoom: true
     label: "a"
     # caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
-    # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Napoli, Museo e Real Bosco di Capodimonte, Centro Documentazione Restauro"
+    # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Museo di Capodimonte, Centro Documentazione Restauro"
   
   - id: "fig-5-7-b"
     src: "figures/fig-5-7-b.jpg"
@@ -513,21 +513,21 @@ figure_list:
     zoom: true
     label: "Figure 11.1"
     caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 × 630 cm (190 1/2 × 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part folding wooden stretcher."
-    credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-2"
     src: "figures/fig-11-2.jpg"
     zoom: true
     label: "Figure 11.2"
     caption: "*Allegoria* during the restoration process. The painting is faced with Japanese paper; sheets fixed around the perimeter were glued to the worktop to prevent shrinkage as the glue dried."
-    credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-3"
     src: "figures/fig-11-3.jpg"
     zoom: true
     label: "Figure 11.3"
     caption: "Detail of a seam brought back to the correct position with the aid of tension (tie-beams) and moisture."
-    credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
 
   - id: "fig-11-4"
     src: "figures/fig-11-4.png"
@@ -676,49 +676,49 @@ figure_list:
     zoom: true
     label: "Figure 14.1"
     caption: "Room housing large paintings in the Kunsthistorisches Museum’s central storage facility, installed in 2011."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-2"
     src: "figures/fig-14-2.jpg"
     zoom: true
     label: "Figure 14.2"
     caption: "Titian (Italian, ca. 1488–1576), detail of *Ecce Homo*, 1543. Oil on canvas, 242 × 361 cm (95 1/3 × 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the 18th-century lining canvas were repaired."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     zoom: true
     label: "Figure 14.3"
     caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 × 249.5 cm (143 1/2 × 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting, seen here at upper left."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
     zoom: true
     label: "Figure 14.4"
     caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 × 345 cm (90 1/8 × 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed showing severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-5"
     src: "figures/fig-14-5.jpg"
     zoom: true
     label: "Figure 14.5"
     caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Il Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. Oil on canvas, 400 × 480 cm (157 1/2 × 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     zoom: true
     label: "Figure 14.6"
     caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 × 119 cm (99 3/5 × 46 7/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-14-7"
     src: "figures/fig-14-7.jpg"
     zoom: true
     label: "Figure 14.7"
     caption: "Libalt, *Still Life*. Detail of the right part (center) during treatment. The original canvas was repaired by inserting and weaving in new threads."
-    credit: "Image: © KHM Museumsverband"
+    credit: "Image: © Kunsthistorisches Museum Wien"
 
   - id: "fig-15-1"
     src: "figures/fig-15-1.jpg"
@@ -1587,57 +1587,57 @@ figure_list:
     src: "figures/fig-33-1.jpg"
     zoom: true
     label: "Figure 33.1"
-    caption: "Master of the St. Ursula Legend (German, active ca. 1485–1515), *The Martyrdom of St. Ursula and the 11,000 Virgins*, ca. 1492. Oil on canvas, 163 × 232.4 cm (65 × 91 1/2 in.). London, Victoria & Albert Museum, 5938-1857."
-    credit: "Image: Victoria & Albert Museum"
+    caption: "Master of the St. Ursula Legend (German, active ca. 1485–1515), *The Martyrdom of St. Ursula and the 11,000 Virgins*, ca. 1492. Oil on canvas, 163 × 232.4 cm (65 × 91 1/2 in.). London, Victoria and Albert Museum, 5938-1857."
+    credit: "Image: © Victoria and Albert Museum"
 
   - id: "fig-33-2"
     src: "figures/fig-33-2.jpg"
     zoom: true
     label: "Figure 33.2"
-    caption: "Johann Gottfried Steffan (Swiss, 1815–1905), *The Torrent*, 1844/1848. Oil on canvas, 80.6 × 118 cm (31 3/4 × 46 1/2 in.). Reverse of the frame showing a nineteenth-century painted canvas backing. London, Victoria & Albert Museum, 1545‑1869."
-    credit: "Image: Victoria & Albert Museum"
+    caption: "Johann Gottfried Steffan (Swiss, 1815–1905), *The Torrent*, 1844/1848. Oil on canvas, 80.6 × 118 cm (31 3/4 × 46 1/2 in.). Reverse of the frame showing a nineteenth-century painted canvas backing. London, Victoria and Albert Museum, 1545‑1869."
+    credit: "Image: © Victoria and Albert Museum / Photo: Nicola Costaras"
 
   - id: "fig-33-3"
     src: "figures/fig-33-3.jpg"
     zoom: true
     label: "Figure 33.3"
-    caption: "A view of the British Picture Gallery, South Kensington Museum, London, April 15, 1862. London, Victoria & Albert Museum, 67:234."
-    credit: "Image: Victoria & Albert Museum"
+    caption: "A view of the British Picture Gallery, South Kensington Museum, London, April 15, 1862. London, Victoria and Albert Museum, 67:234."
+    credit: "Image: © Victoria and Albert Museum"
 
   - id: "fig-33-4"
     src: "figures/fig-33-4.jpg"
     zoom: true
     label: "Figure 33.4"
-    caption: "Estimate from Haines & Sons, May 25, 1896. London, Victoria & Albert Museum."
-    credit: "Image: Victoria & Albert Museum / Photo: Nicola Costaras"
+    caption: "Estimate from Haines & Sons, May 25, 1896. London, Victoria and Albert Museum."
+    credit: "Image: © Victoria and Albert Museum / Photo: Nicola Costaras"
 
   - id: "fig-33-5"
     src: "figures/fig-33-5.jpg"
     zoom: true
     label: "Figure 33.5"
-    caption: "The Paintings Galleries at the V&A, Room 82, displaying works from the Sheepshanks, Dyce, Forster, and Townshend gifts and bequests, 2003. London, Victoria & Albert Museum."
-    credit: "Image: Victoria & Albert Museum / Photo: Peter Kelleher"
+    caption: "The Paintings Galleries at the V&A, Room 82, displaying works from the Sheepshanks, Dyce, Forster, and Townshend gifts and bequests, 2003. London, Victoria and Albert Museum."
+    credit: "Image: © Victoria and Albert Museum / Photo: Peter Kelleher"
 
   - id: "fig-33-6"
     src: "figures/fig-33-6.jpg"
     zoom: true
     label: "Figure 33.6"
-    caption: "Ch’ol Muk Ri (North Korean), *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 × 77 cm (31 7/8 × 30 1/3 in.) on stretcher. The canvas painting is returned to plane through moisture treatments while on a loom. London, Victoria & Albert Museum, FE.89‑2009."
-    credit: "Image: Victoria & Albert Museum / Photo: Nicola Costaras"
+    caption: "Ch’ol Muk Ri (North Korean), *Uri chungdae sosik*, 2005. Oil on cotton canvas, 81 × 77 cm (31 7/8 × 30 1/3 in.) on stretcher. The canvas painting is returned to plane through moisture treatments while on a loom. London, Victoria and Albert Museum, FE.89‑2009."
+    credit: "Image: © Victoria and Albert Museum / Photo: Nicola Costaras"
 
   - id: "fig-33-7"
     src: "figures/fig-33-7.jpg"
     zoom: true
     label: "Figure 33.7"
-    caption: "Clare Richardson and Susan Catcher strip-lining *Landscape with Double Rainbow* by John Constable (English, 1779–1837) using Japanese paper and wheat starch paste. Paintings Conservation Studio, V&A, London. Oil on paper and canvas, 33.7 × 38.4 cm (13 1/4 × 15 1/8 in.). Victoria & Albert Museum, London, 328‑1888."
-    credit: "Image: Victoria & Albert Museum / Photo: Nicola Costaras"
+    caption: "Clare Richardson and Susan Catcher strip-lining *Landscape with Double Rainbow* by John Constable (English, 1779–1837) using Japanese paper and wheat starch paste. Paintings Conservation Studio, V&A, London. Oil on paper and canvas, 33.7 × 38.4 cm (13 1/4 × 15 1/8 in.). Victoria and Albert Museum, London, 328‑1888."
+    credit: "Image: © Victoria and Albert Museum"
 
   - id: "fig-34-1-a"
     src: "figures/fig-34-1-a.jpg"
     zoom: true
     label: "a"
     # caption: "G. F. Barbieri, called Il Guercino (Italian, 1591–1666), *Flagellation*, 1657. Oil on canvas, 244 × 187.5 cm (96 × 73 4/5 in.). (a) Before lining. (b) After Podio’s 1947 lining."
-    # credit: "Images: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    # credit: "Images: Barberini Corsini National Galleries, Rome. (a) ICCD-Gabinetto Fotografico Nazionale, Fondo GFN, n. inv E47623, with authorization of Istituto Centrale per il Catalogo e la Documentazione, MiBACT, further reproduction not authorized / (b) Gallerie Nazionali di arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-1-b"
     src: "figures/fig-34-1-b.jpg"
@@ -1649,56 +1649,56 @@ figure_list:
     zoom: true
     label: "Figure 34.2"
     caption: "A. Pozzo (Italian, 1642–1709), *Glory of Saint Ignatius*, sketch for the ceiling of Saint Ignazio in Rome, 17th century, 324.5 × 171.5 cm (127 3/4 × 67 1/2 in.). Lined in 1884."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-3"
     src: "figures/fig-34-3.jpg"
     zoom: true
     label: "Figure 34.3"
     caption: "Guido Reni (Italian, 1575–1642), *Magdalen*, 1631–32. Oil on canvas, 234 × 151 cm (92 1/8 × 59 1/2 in.). Never lined but has an ancient strip-lining."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-4"
     src: "figures/fig-34-4.jpg"
     zoom: true
     label: "Figure 34.4"
     caption: "B. Cesari (Italian, 1571–1622), *Adoration of the Shepherds*, 1610–15. Oil on canvas, 44 × 55 cm (17 3/4 × 21 3/5 in.). The sprigs used to stretch the lining canvas are visible under the painted canvas edges."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-5"
     src: "figures/fig-34-5.jpg"
     zoom: true
     label: "Figure 34.5"
     caption: "*Adoration of the Shepherds*, verso, showing a lining dating from the 18th century attributed to D. Michelini."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-6"
     src: "figures/fig-34-6.jpg"
     zoom: true
     label: "Figure 34.6"
     caption: "Bolognese School, *Herodias*, 17th century. Oil on canvas, 64 × 49.5 cm (25 1/5 × 19 1/2 in.). The lining can be dated from the visible seal."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Alberto Novelli"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Alberto Novelli"
 
   - id: "fig-34-7"
     src: "figures/fig-34-7.jpg"
     zoom: true
     label: "Figure 34.7"
     caption: "M. Benefial (Italian, 1684–1764), *Hercules and Omphale*, 1735–40. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the wax-resin system."
-    credit: "Image: Rome, Barberini Corsini National Galleries / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-8"
     src: "figures/fig-34-8.jpg"
     zoom: true
     label: "Figure 34.8"
     caption: "M. Benefial (Italian, 1684–1764), *Pyramus and Thisbe*, 1735–40. Oil on canvas, 218 × 135 cm (85 4/5 × 53 1/8 in.). Lined with the glue-paste system."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "fig-34-9"
     src: "figures/fig-34-9.jpg"
     zoom: true
     label: "Figure 34.9"
     caption: "A. Sacchi (Italian, 1599–1661), *Vision of Saint Romualdo*, 17th century. Oil on canvas, 68 × 44 cm (26 3/4 × 17 3/4 in.). Delined."
-    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali d’ arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
+    credit: "Image: Barberini Corsini National Galleries, Rome / Gallerie Nazionali di arte antica (MiBACT)–Biblioteca Hertziana, Istituto Max Planck per la storia dell’arte/Enrico Fontolan"
 
   - id: "table-35-1"
     #credit: "Table: Dominique Martos-Levif"
@@ -1824,7 +1824,7 @@ figure_list:
     src: "figures/fig-36-9.jpg"
     zoom: true
     label: "Figure 36.9"
-    caption: "Paintings displayed in the Government Museum Alwar after the conservation."
+    caption: "Paintings displayed in the Government Museum, Alwar, after conservation."
     credit: "Image: IGNCA, New Delhi / Achal Pandya"
 
   - id: "fig-37-1"
@@ -1832,49 +1832,49 @@ figure_list:
     zoom: true
     label: "Figure 37.1"
     caption: "Heating pattern of widely used handheld irons, regulated by an on-off switch that delivers fluctuating heat in a 30°C range."
-    credit: "Image: Laura Amorosi"
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-2"
     src: "figures/fig-37-2.jpg"
     zoom: true
     label: "Figure 37.2"
-    caption: "(1) IMAT system with flexible heating mat, (2) thermal sensor, (3) wireless Bluetooth thermocouple relay, (4) touch-control screen, (5, 6) connecting cables, (7) temperature control console, and (8) power input."
-    credit: "Image: The IMAT Project"
+    caption: "IMAT system with (1) flexible heating mat, (2) thermal sensor, (3) wireless Bluetooth thermocouple relay, (4) touch-control screen, (5, 6) connecting cables, (7) temperature control console, and (8) power input."
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-3"
     src: "figures/fig-37-3.jpg"
     zoom: true
     label: "Figure 37.3"
     caption: "IMAT technology touch-control screen showing the extremely steady heating pattern of the PID temperature controller and high-response carbon nanotube heating mats (compare to fig. 37.1)."
-    credit: "Image: The IMAT Project"
+    credit: "Image: The IMAT Project, Università degli Studi, Firenze, EU FP&-ENV-NMP.2011.2.2-5"
 
   - id: "fig-37-4"
     src: "figures/fig-37-4.jpg"
     zoom: true
     label: "Figure 37.4"
     caption: "Localized low-and-slow heat transfer treatment of the painting at 30°C for consolidation and remediation of cupping and planar distortions."
-    credit: "Image: Oregon Historical Society Museum"
+    credit: "Image: Oregon Historical Society Museum 75-1.72"
 
   - id: "fig-37-5"
     src: "figures/fig-37-5.jpg"
     zoom: true
     label: "Figure 37.5"
     caption: "Subsequent general treatment of the painting using a low-pressure vacuum envelope and mild heat transfer while supported by a custom platform to protect fragile tacking edges."
-    credit: "Image: Oregon Historical Society Museum"
+    credit: "Image: Oregon Historical Society Museum 75-1.72"
 
   - id: "fig-37-6"
     src: "figures/fig-37-6.jpg"
     zoom: true
     label: "Figure 37.6"
     caption: "Mild heat transfer used in localized repair of a large H-shape tear and treatment of multiple planar canvas distortions of the painting while on its stretcher."
-    credit: "Image: Hallie Ford Museum of Art"
+    credit: "Image: Collection of the Hallie Ford Museum of Art, Willamette University, Gift of the Maurice Hudkins Collection in memory of C. Ronald Hudkins and Betty-mae Hartung Hudkins, 2005.019.027"
 
   - id: "fig-37-7"
     src: "figures/fig-37-7.jpg"
     zoom: true
     label: "Figure 37.7"
     caption: "Relining treatment of the painting using a low-pressure envelope and IMAT heating mat to achieve the thermoplastic activation temperature of Beva adhesive section by section."
-    credit: "Image: Nasjonalmuseet Oslo"
+    credit: "Image: Nasjonalmuseet, Oslo, Norway"
 
   - id: "fig-38-1"
     src: "figures/fig-38-1.jpg"
@@ -1913,49 +1913,49 @@ figure_list:
     src: "figures/fig-39-1.jpg"
     zoom: true
     label: "Figure 39.1"
-    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax-resin extraction); under specular illumination. The Menil Collection, Houston."
+    caption: "Georges Braque (French, 1882–1963), *Pitcher, Candlestick, and Black Fish* (*Vase et poisson noir*), 1943. Oil on canvas, 64.8 × 49.5 cm (25 1/2 × 19 1/2 in.). During treatment (after cleaning and lining removal, before wax-resin extraction), under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-2"
     src: "figures/fig-39-2.jpg"
     zoom: true
     label: "Figure 39.2"
-    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under specular illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under specular illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-3"
     src: "figures/fig-39-3.jpg"
     zoom: true
     label: "Figure 39.3"
-    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under raking illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* after treatment, under raking illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-4"
     src: "figures/fig-39-4.jpg"
     zoom: true
     label: "Figure 39.4"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting before wax extraction with interleaf intact, under available illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting before wax extraction with interleaf intact, under available illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Desirae Dijkema"
 
   - id: "fig-39-5"
     src: "figures/fig-39-5.jpg"
     zoom: true
     label: "Figure 39.5"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, under normal illumination."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, under normal illumination. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-6"
     src: "figures/fig-39-6.jpg"
     zoom: true
     label: "Figure 39.6"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, detail. Notice the ground seeping through the canvas in the lower center. Light areas of blanched wax residue that correspond with cracks on the front are seen in the cross-shape form to the right of center and the elliptical shape near the center of the left edge."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction, detail. Notice the ground seeping through the canvas in the lower center. Light areas of blanched wax residue that correspond with cracks on the front are seen in the cross-shape form to the right of center and the elliptical shape near the center of the left edge. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-39-7"
     src: "figures/fig-39-7.jpg"
     zoom: true
     label: "Figure 39.7"
-    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction and edge-lining, UV induced visible fluorescence."
+    caption: "*Pitcher, Candlestick, and Black Fish* during treatment, back of painting after wax extraction and edge-lining, UV-induced visible fluorescence. The Menil Collection, Houston."
     credit: "Image: © Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: Adam Neese"
 
   - id: "fig-40-1"
@@ -2059,41 +2059,41 @@ figure_list:
     zoom: true
     label: "Figure 42.1"
     caption: "Westby Percival-Prescott, who organized the Greenwich conference, photographed at IIC 1982, Washington, DC."
-    credit: "Image: Joyce Hill Stoner"
+    credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
 
   - id: "fig-42-2"
     src: "figures/fig-42-2.jpg"
     zoom: true
     label: "Figure 42.2"
     caption: "Gerry Hedley demonstrating a vacuum envelope at Winterthur / University of Delaware, 1981."
-    credit: "Image: Joyce Hill Stoner"
+    credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
 
   - id: "fig-42-3"
     src: "figures/fig-42-3.jpg"
     zoom: true
     label: "Figure 42.3"
     caption: "Andrea Rothe (right) with Umberto Baldini and Ornella Casazza at the J. Paul Getty Museum, 1985."
-    credit: "Image: Joyce Hill Stoner"
+    credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
 
   - id: "fig-42-4"
     src: "figures/fig-42-4.jpg"
     zoom: true
     label: "Figure 42.4"
     caption: "Mira and Gustav Berger at ICOM-CC, Edinburgh, 1996."
-    credit: "Image: Joyce Hill Stoner"
+    credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
 
   - id: "fig-42-5"
     src: "figures/fig-42-5.jpg"
     zoom: true
     label: "Figure 42.5"
     caption: "Robert Fieux (left) demonstrating electrostatic hold, Winterthur, 1977."
-    credit: "Image: Joyce Hill Stoner"
+    credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
 
   - id: "fig-43-1"
     src: "figures/fig-43-1.jpg"
     zoom: true
     label: "Figure 43.1"
-    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 × 132.7 cm (37 1/3 × 52 1/4 in.). After cleaning. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
+    caption: "Attributed to Francesco Bassano (Italian, 1549–1592), *Adoration of the Shepherds*, ca. 1580. Oil on canvas, 94.8 × 132.7 cm (37 1/3 × 52 1/4 in.). After treatment. Little Rock, Arkansas Arts Center, Gift of the Samuel H. Kress Foundation, 1934.001."
     credit: "Image: Emma Kimmel"
 
   - id: "fig-43-2"
@@ -2163,7 +2163,7 @@ figure_list:
     src: "figures/fig-45-2.jpg"
     zoom: true
     label: "Figure 45.2"
-    caption: "Jordaens, *David and Goliath*, 1664, detail, approximately 250 × 120 cm (98 2/5 × 47 1/4 in.)."
+    caption: "Jacob Jordaens, *David and Goliath*, 1664, detail, approximately 250 × 120 cm (98 2/5 × 47 1/4 in.)."
     credit: "Image: Emilie Froment"
 
   - id: "fig-45-3"
@@ -2185,14 +2185,14 @@ figure_list:
     zoom: true
     label: "Figure 45.5"
     caption: "Cross section (microphotograph in bright field) of an oil-bound ground reconstruction composed of a 4:1 ratio of lead white to chalk. The sample is taken from an area where the canvas weave was visible after wax-resin impregnation. The ground exhibits a layer thickness of 59–276 μm, depending on the texture of the canvas."
-    credit: "Image: Emilie Froment"
+    credit: "Image: J. Schlomoff"
 
   - id: "fig-45-6"
     src: "figures/fig-45-6.jpg"
     zoom: true
     label: "Figure 45.6"
     caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8. The left part is not impregnated with wax resin, while the right part is. Note the striking color difference. The upper and lower edges are bare canvas."
-    credit: "Image: J. Schlomoff"
+    credit: "Image: Emilie Froment"
 
   - id: "fig-45-7"
     src: "figures/fig-45-7.jpg"
@@ -2371,7 +2371,7 @@ figure_list:
     src: "figures/fig-48-4-a.jpg"
     zoom: true
     label: "a"
-    # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges were added for reinforcement."
+    # caption: "The tear area after removal of beeswax and overpaint followed by thread-by-thread mending with a 5% solution of polyvinyl butyral. (a) Front of painting. (b) Reverse of painting, showing threads from canvas edges added for reinforcement."
     # credit: "Images: Department of Scientific Conservation of Oil Paintings, State Research Institute for Restoration (GOSNIIR) / Photo: Anton Mikhailov"
 
   - id: "fig-48-4-b"
@@ -2401,7 +2401,7 @@ figure_list:
     # zoom: true
     label: "Figure 49.2"
     caption: "Amount (in grams) of the wax-resin mixture poulticed into each tissue after 1-, 5-, and 15-minute dwell times."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "table-49-1"
     credit: "Table: Julianna Ly"
@@ -2413,14 +2413,14 @@ figure_list:
     # zoom: true
     label: "Figure 49.3"
     caption: "Weight increase (in grams) after each iterative use."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "fig-49-4-a"
     src: "figures/fig-49-4-a.jpg"
     zoom: true
     label: "a"
     # caption: "SEM BSE images of unused tissue: (a) control, (b) after iteration 1, &#40;c) after iteration 2, (d) after iteration 3. (Surface morphology changes visualized in SEM BSE images captured at 137× by Dr. Judy Rudolph, volunteer conservation scientist, SRAL, Winterthur Museum."
-    # credit: "Images: Judy Rudolph"
+    # credit: "Images: Julianna Ly"
 
   - id: "fig-49-4-b"
     src: "figures/fig-49-4-b.jpg"
@@ -2442,14 +2442,14 @@ figure_list:
     # zoom: true
     label: "Figure 49.5"
     caption: "Increase in surface area (<sup>2</sup>/g) analyzed through BET."
-    credit: "Image: Julianna Ly and Tracy Liu"
+    credit: "Image: Julianna Ly"
 
   - id: "fig-49-6-a"
     src: "figures/fig-49-6-a.png"
     # zoom: true
     label: "a"
     # caption: "(a) Weight increases (in grams) for each tissue exposed to the solvents or mixtures tested. (b) Py‑GCMS analysis of the three solvents: solvent 1 is 100% acetone, solvent 2 is 1:1 acetone and petroleum benzine, and solvent 3 is 1:9 acetone and petroleum benzine. (Py-GCMS analysis conducted by Dr. W. Chris Petersen, Volunteer Conservation Scientist and Affiliated Associate Professor, Scientific Research and Analysis lab, Winterthur Museum, Garden and Library.) "
-    # credit: "Images: a: Julianna Ly and Tracy Liu; b: Chris Petersen, Tracy Liu"
+    # credit: "Images: Julianna Ly"
 
   - id: "fig-49-6-b"
     src: "figures/fig-49-6-b.png"
@@ -2460,7 +2460,7 @@ figure_list:
     src: "figures/fig-50-1.png"
     # zoom: true
     label: "Figure 50.1"
-    caption: "Various recipes of wax resin for lining used in Japan. Wax-resin linings were brought into Japan at the end of the 1960s, and the recipe of the lining adhesive had already been modified by the 1970s. (Note: colophony was referred to in interviews as “rosin.”) Sources: Institut Royal du Patrimoine Artistique: Messens 2003; New York University: Keck 1965; 1968 Tokyo University of the Arts: Utada and Morita 1968; 1968 Art Conservation Lab: Koyano 1968; 1969 National Museum of Western Art: Kuroe 1969; 1970 Conservation Studios A and B: interviews by author, 2018; 1975 National Museum of Western Art: Kuroe 1975; 1978 Tokyo University of the Arts: documents in the Tokyo University lab archives; 1978 Conservation Studio C: interviews by authors, 2018."
+    caption: "Various recipes of wax resin for lining used in Japan. Wax-resin linings were brought into Japan at the end of the 1960s, and the recipe of the lining adhesive had already been modified by the 1970s. (Note: colophony was referred to in interviews as “rosin.”) Sources: Institut Royal du Patrimoine Artistique: Messens 2003; New York University: Keck 1965; 1968 Tokyo University of the Arts: Utada and Morita 1968; Art Conservation Lab: Koyano 1968; 1969 National Museum of Western Art: Kuroe 1969; 1970 Conservation Studios A and B: interviews by author, 2018; 1975 National Museum of Western Art: Kuroe 1975; 1978 Tokyo University of the Arts: documents in the Tokyo University lab archives; 1978 Conservation Studio C: interviews by authors, 2018."
     credit: "Image: Saki Kunikata"
 
   - id: "table-50-1"
@@ -2479,14 +2479,14 @@ figure_list:
     src: "figures/fig-50-3.png"
     # zoom: true
     label: "Figure 50.3"
-    caption: "Materials for wax-resin adhesive: FTIR spectrum measurements of test samples (1800 c<sup>−1</sup> to 1600 c<sup>−1</sup>)."
+    caption: "Materials for wax-resin adhesive: FTIR spectrum measurements of test samples (1800 cm<sup>−1</sup> to 1600 cm<sup>−1</sup>)."
     credit: "Image: Saki Kunikata"
 
   - id: "fig-50-4"
     src: "figures/fig-50-4.png"
     # zoom: true
     label: "Figure 50.4"
-    caption: "FTIR spectrum measurements of wax-resin samples A–E (1800 cmsup>−1</sup> to 1600 cm<sup>−1</sup>). "
+    caption: "FTIR spectrum measurements of wax-resin samples A–E (1800 cm<sup>−1</sup> to 1600 cm<sup>−1</sup>). "
     credit: "Image: Saki Kunikata"
 
   - id: "fig-51-1"
@@ -2539,8 +2539,8 @@ figure_list:
     src: "figures/fig-51-4-a.jpg"
     zoom: true
     label: "a"
-   # caption: "Detail of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
-   # credit: "Image: Courtesy of the research team"
+   # caption: "Details of microbiological study. Binocular examination of contaminated samples at the end of the test (25× magnification), showing spores and mycelium of mold species that have contaminated the samples. (a) Rye T70, open-weave fabric. (b) Wheat T80, close-weave fabric."
+   # credit: "Images: Courtesy of the research team"
 
   - id: "fig-51-4-b"
     src: "figures/fig-51-4-b.jpg"
@@ -2562,42 +2562,42 @@ figure_list:
     # zoom: true
     label: "Figure 51.5"
     caption: "Star diagrams representing the risks for glue-paste linings as a function of the flour used. Considering that the five parameters tested are RH-related, the smaller the area covered, the less vulnerable the glue-paste lining is to RH; in other words, larger gray areas suggest the need for more restrictive environmental conditions to ensure the stability of the lined painting."
-    credit: "Images: Courtesy of the research team"
+    credit: "Image: Courtesy of the research team"
 
   - id: "fig-52-1"
     src: "figures/fig-52-1.png"
     # zoom: true
     label: "Figure 52.1"
     caption: "Diagram illustrating insert joint between the custom-fabricated stretcher and incised Gator Board panel insert."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-2"
     src: "figures/fig-52-2.jpg"
     zoom: true
     label: "Figure 52.2"
     caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–62. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
-    credit: "Image: Boston, Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-3"
     src: "figures/fig-52-3.jpg"
     zoom: true
     label: "Figure 52.3"
     caption: "View of the complete blind-panel stretcher system, verso, during alignment of canvases over loose-lining and stretcher."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-4"
     src: "figures/fig-52-4.jpg"
     zoom: true
     label: "Figure 52.4"
     caption: "Corner detail, installation of Gator Board panel inserted into stretcher bar (custom fabricated by Upper Canada Stretchers)."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-5"
     src: "figures/fig-52-5.jpg"
     zoom: true
     label: "Figure 52.5"
     caption: "Restretching of the original canvas of the *Rape of Europa* and historical lining fabric: attachment to the loose-lining and blind-panel stretcher with staples and tandem tensioning."
-    credit: "Image: Gianfranco Pocobene"
+    credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-53-1"
     src: "figures/fig-53-1.jpg"
@@ -2859,35 +2859,35 @@ figure_list:
     zoom: true
     label: "Figure 60.1"
     caption: "Antoine Dubost (French, 1769–1825), *The Sword of Damocles*, 1804. Oil on canvas, 228 × 258 cm (89 3/4 × 101 3/5 in.). Chhatrapati Shivaji Maharaj Vastu Sangrahalaya collection, Acc. No. 22.4544. After treatment."
-    credit: "Image: Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
+    credit: "Image: © Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-2"
     src: "figures/fig-60-2.jpg"
     zoom: true
     label: "Figure 60.2"
     caption: "Left: Backscatter SEM image of fungal infestation of size layer at 1123× magnification and 20 keV. Right: Mounted cross section showing fungal infestation leading to delamination between canvas and ground layer."
-    credit: "Images: CSMVS"
+    credit: "Images: © Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-3"
     src: "figures/fig-60-3.jpg"
     zoom: true
     label: "Figure 60.3"
     caption: "Top left: Consolidation of paint layer with Plextol B500 through a window of the 2004 glue facing. The facing here is the old facing given in 2006. Top right: Reconstruction of paint flakes on net. Bottom left: Facing with lens tissue and Beva 371. Bottom right: Removal of old lining cloth."
-    credit: "Image: CSMVS"
+    credit: "Images: © Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-4"
     src: "figures/fig-60-4.jpg"
     zoom: true
     label: "Figure 60.4"
     caption: "Top left: Local tear repair on verso using polyamide welding powder. Top right: Decrimping of new lining cloth. Bottom left: Lining. Bottom right: Removal of wax and dammar mixture, applied to further consolidation, from recto."
-    credit: "Image: CSMVS"
+    credit: "Images: © Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-60-5"
     src: "figures/fig-60-5.jpg"
     zoom: true
     label: "Figure 60.5"
     caption: "Sir Thomas Lawrence (British, 1769–1830), *Portrait of Henry Philip Hope*, ca. early 19th century. Oil on canvas, 261 × 155 cm (102 3/4 × 61 in.). CSMVS collection, Acc. No. 22.4614. Left: Before treatment. Right: After treatment."
-    credit: "Image: CSMVS"
+    credit: "Images: © Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)"
 
   - id: "fig-61-1"
     src: "figures/fig-61-1.jpg"
@@ -2935,7 +2935,7 @@ figure_list:
     src: "figures/fig-62-2.jpg"
     zoom: true
     label: "Figure 62.2"
-    caption: "Cross sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVAc (VeoVa)–acrylic (BA-MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers; top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk); bottom: styrenated-acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVAc with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated-acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVAc (Py-GCMS)."
+    caption: "Cross sections viewed in visible light. (a) Artfix polyester canvas with single priming layer of PVAc (VeoVa)–acrylic (BA-MMA)–styrene with titanium white, chalk, and talc. (b) Caravaggio linen canvas with double priming layers; top: acrylic (EA-EHA-EMA-MMA) with titanium white (no chalk); bottom: styrenated acrylic (EA-MMA) with kaolinite. &#40;c) Sydney Canvas Company cotton canvas with single priming layer of acrylic (BA-MMA)–PVAc with chalk and titanium white. (d) Phoenix cotton canvas with double priming layers. Surface: styrenated acrylic (ATR-FTIR). All: BA-MA-MMA-styrene-PVAc (Py-GCMS)."
     credit: "Images: Queensland Art Gallery, Gallery of Modern Art, Australia, and Heritage Conservation Centre (National Heritage Board), Singapore"
 
   - id: "fig-62-3"
@@ -2957,7 +2957,7 @@ figure_list:
     zoom: true
     label: "Figure 63.2"
     caption: "Canvas paintings just after the first rescue."
-    credit: "Image: JIJI PRESS/AFP via Getty Images"
+    credit: "Image: © *The Japanese Times*"
 
   - id: "fig-63-3"
     src: "figures/fig-63-3.png"
