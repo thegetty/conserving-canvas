@@ -3,7 +3,7 @@
 // Added optional group figure caption that is fed from shortcode and
 // displayed under all the figures in the group
 //
-const { oneLine } = require('~lib/common-tags')
+const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
 
@@ -39,16 +39,14 @@ module.exports = function (eleventyConfig, { page }) {
     //   logger.warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
     // }
 
-    
-
-    const classGroup = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
+    const classList = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
     const rows = Math.ceil(ids.length / columns)
     let figureTags = []
     for (let i=0; i < rows; ++i) {
       const startIndex = i * columns
       let row = ''
       for (let id of ids.slice(startIndex, columns + startIndex)) {
-        row += await figure(eleventyConfig, { page })(id, classGroup)
+        row += await figure(eleventyConfig, { page }).bind(this)(id, classList)
       }
       figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
@@ -57,9 +55,9 @@ module.exports = function (eleventyConfig, { page }) {
 
     const customClasses = classes ? classes : ''
 
-    return oneLine`
+    return html`
       <figure class="q-figure q-figure--group ${customClasses}">
-        ${figureTags}
+        ${figureTags.join('\n')}
         ${captionElement}
       </figure>
     `
