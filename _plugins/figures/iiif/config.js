@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Changed default print-image.jpg size, lines 114–115
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 

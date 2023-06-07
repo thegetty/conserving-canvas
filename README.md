@@ -76,14 +76,14 @@ Added keywords
 **_includes/components/copyright/licensing.js**
 Added a comma after "view a coopy of this license"
 
-**_includes/components/figure/media-embed-url.js**
-Updated Vimeo embed link format
-
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
 
 **_includes/components/page-header.js**
 Added page title element for PDF footer
+
+**_plugins/figures/iiif/config.js**
+Changed default print-image.jpg size
 
 **_plugins/filters/fullname.js**
 Joined contributor names with a non-breaking space
@@ -96,7 +96,3 @@ Refactored logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Add option to pass single caption for figuregroup
-
-**_plugins/transforms/outputs/pdf/write.js**
-**_plugins/transforms/outputs/pdf/layout.html**
-Add two needed out elements to pdf output, that have styles applied to them

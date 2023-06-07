@@ -54,7 +54,13 @@
       font-style: italic;
     }
 
-    h1, h2, h3, h4, h5, h6 { color: $quire-menu-text-color; }
+    h1, h2, h3, h4, h5, h6 { 
+      color: $quire-menu-text-color; 
+      font-family: $quire-headings-font;
+      @if $quire-headings-font == $ibm-sans {
+        letter-spacing: -0.025em;
+      }
+    }
 
   }
   
@@ -123,14 +129,11 @@
         margin-top: 0;
       }
       a {
-        padding: .5em;
+        padding: 0 1em 0 0;
         &:hover {
           background-color: inherit;
         }
       }
-    }
-    .quire-copyright {
-      padding: 0 .5em;
     }
   }
 
