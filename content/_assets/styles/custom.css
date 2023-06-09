@@ -387,24 +387,27 @@ table a,
 
 /* COPYRIGHT & ABOUT
 ============================================================================= */
-/* Columns */
-#print-copyright.quire-page .quire-page__content {
-  column-count: 2;
-  column-gap: .1875in;
-  max-width: 100%;
-  margin: 0;
-}
-/* Header */
-#print-copyright.quire-page .quire-page__header {
-  display: none;
-}
-/* Copyright Block */
-.quire-page__content .container .content .quire-copyright {
-  padding-left: 0;
-  margin-bottom: 1em;
-}
-.quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
-  display: none;
+@media screen {
+  .quire-page__content .content a.quire-copyright__icon__link,
+  .quire-page__content .content a.quire-copyright__icon__link:hover {
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+    display: none;
+  }
+  .quire-page__content .container .content .project-team ul,
+  .quire-page__content .container .content .cip-data ul {
+    margin-bottom: 1em;
+    margin-left: 0;
+  }
+  .quire-page__content .container .content .project-team ul li,
+  .quire-page__content .container .content .cip-data ul li {
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+  .quire-page__content .container .content .cip-data ul {
+    margin-top: 0;
+  }
 }
 /* Publisher */
 .quire-page__content .container .content .publisher p:first-child {
@@ -413,21 +416,9 @@ table a,
 /* Project Team */
 .quire-page__content .container .content .project-team ul {
   list-style-type: none;
-  margin-left: 0;
-  margin-bottom: 1em;
 }
-.quire-page__content .container .content .project-team ul * {
-  margin: 0;
-}
-.quire-page__content .container .content .project-team ul li::before {
-  content: none;
-}
-/* Don't add border to SVG icons link */
-.quire-page__content .content a.quire-copyright__icon__link {
-  border-bottom-width: 0 !important;
-}
-.quire-page__content .content a.quire-copyright__icon__link:hover {
-  border-bottom-width: 0 !important;
+.quire-page__content .container .content .project-team ul li p {
+  margin-bottom: 0;
 }
 /* LOC Cataloguing in Publication format */
 .quire-page__content .container .content .cip-data {
@@ -438,19 +429,11 @@ table a,
   margin-bottom: 0;
 }
 .quire-page__content .container .content .cip-data ul {
-  margin-left: 0;
-  margin-top: 0;
-  margin-bottom: .5rem;
   list-style-type: none;
 }
 .quire-page__content .container .content .cip-data ul li {
-  line-height: 1.6;
-  margin: 0;
   padding-left: 1.5em;
   text-indent: -1.5em;
-}
-.quire-page__content .container .content .cip-data ul li::before {
-  display: none;
 }
 
 /* FINE PRINT
@@ -516,32 +499,8 @@ table a,
     font-style: normal;
   }
   /* Style half title and title pages */
-  .half-title-page,
-  .title-page {
-    height: auto;
-    page: no-footer;
-  }
-  .title-page {
-    break-before: right;
-  }
-  .title-page {
-    padding-top: 2.25in;
-    padding-left: 0;
-    padding-right: .25in;
-  }
   .half-title-page {
-    padding-right: .25in;
-  }
-  .title-page .title-tp .title-large {
-    display: block;
-  }
-  .title-page .contributor {
-    max-width: 5.5in;
-    float: right;
-    clear: both;
-  }
-  .title-page .publisher {
-    right: 0.375in;
+    font-weight: 700;
   }
   /* TOCs */
   .quire-contents-list {
