@@ -54,8 +54,8 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 <div class="cover-image-credits">
 
 Front cover: Conservation of Anne-Louis Girodet-Trioson, *The Death of Camille*, 1785 (detail, fig. 35.1)
-Back cover:
+Back cover: A. Sacchi, Delined verso of *Vision of Saint Romualdo*, 17th century (detail, fig. 34.9) 
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>
