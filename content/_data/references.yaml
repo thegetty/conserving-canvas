@@ -1208,7 +1208,7 @@ entries:
   - id: "Nielsen and Landel 1994"
     full: "Nielsen, L. E., and R. F. Landel. 1994. *Mechanical Properties of Polymers and Composites*. 2nd ed. New York: Marcel Dekker."
   - id: "Nougaret and Leprince 1776"
-    full: "Nougaret, Pierre-Jean-Baptiste, and Nicolas-Thomas Leprince. 1776. *Anecdotes des beaux-arts . . . avec des notes par M&ast;&ast;&ast; . . . * Paris: J. F. Bastien."
+    full: "Nougaret, Pierre-Jean-Baptiste, and Nicolas-Thomas Leprince. 1776. <em>Anecdotes des beaux-arts . . . avec des notes par M&ast;&ast;&ast; . . . </em> Paris: J. F. Bastien."
   - id: "Oberthaler 2008"
     full: "Oberthaler, Elke. 2008. “Zur Restaurierung von Tizians Nymphe und Schäfer.” In *Technologische Studien*, vol. 5, 182–207. Vienna: Wilfried Seipel."
   - id: "Odlyha, Chan, and Pages 1995"
@@ -1397,6 +1397,7 @@ entries:
     full: "Roche, R. 1976. “New Materials for Lining.” In *Lining of Paintings—A Reassessment: Proceedings of a Seminar Held at the National Gallery of Canada, Ottawa, April 6–8, 1976*, edited by Mervyn Ruggles, 1–5. Ottawa: National Gallery of Canada."
   - id: "A. Roche 2003"
     full: "Roche, A. 2003. *Comportement mécanique des peintures sur toile. Dégradation et prevention*. Paris: CNRS Editions."
+    sort_as: "Roche"
   - id: "Rodrigues and Grossi 2007"
     full: "Rodrigues, J. Delgado, and Antonella Grossi. 2007. “Indicators and Ratings for the Compatibility Assessment of Conservation Actions.” *Journal of Cultural Heritage* 8, no. 1: 32–43."
   - id: "Romanov 2013"
@@ -1533,8 +1534,12 @@ entries:
     full: "Spicer, Gwen. 2019. *Magnetic Mounting Systems for Museums and Cultural Institutions*. Delmar, NY: Spicer Art Books."
   - id: "A. Spinosa 1979"
     full: "Spinosa, Aurora. 1979. “Ancora sul Laboratorio di Pietre dure e sull’Arazzeria: I documenti dell’Accademia di Belle Arti di Napoli.” In *Le arti figurative a Napoli nel Settecento (Documenti e ricerche)*, edited by Nicola Spinosa, 325–84. Naples: Società Editrice Napoletana."
+    sort_as: "Spinosa 1"
+  
   - id: "N. Spinosa 1979"
     full: "Spinosa, Nicola, ed. 1979. *Le arti figurative a Napoli nel Settecento (Documenti e ricerche)*. Naples: Società Editrice Napoletana."
+    sort_as: "Spinosa 2"
+
   - id: "Standeven 2011"
     full: "Standeven, H. 2011. *House Paints, 1900–1960: History and Use*. Los Angeles: Getty Conservation Institute."
   - id: "Standring 1988"
@@ -1595,8 +1600,8 @@ entries:
     full: "TAPPI (Technical Association of the Pulp and Paper Industry). 2007. *Zero-Span Breaking Strength of Pulp (Dry Zero-Span Tensile)*. T 231 cm-07. Atlanta: TAPPI."
   - id: "Tassiniari 2003"
     full: "Tassiniari, Enzo. 2003. “Characterisation of Lining Canvases.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 96–100. London: Archetype."
-  - id: "Tauber et al. 2019"
-    full: "Tauber, Gwen, S. Smelt, P. Noble, K. Kirsch, A. Siejek, K. Keune, H. van Keulen, S. Smulders-De Jong, and R. Erdman. 2019. “Evolon C<sup>®</sup>: Its Use from a Scientific and Practical Conservation Perspective.” *AIC Paintings Specialty Group Postprints* 31: 45–50."
+  - id: "Tauber et al. 2018"
+    full: "Tauber, Gwen, S. Smelt, P. Noble, K. Kirsch, A. Siejek, K. Keune, H. van Keulen, S. Smulders-De Jong, and R. Erdman. 2018. “Evolon C<sup>®</sup>: Its Use from a Scientific and Practical Conservation Perspective.” *AIC Paintings Specialty Group Postprints* 31: 45–50."
   - id: "Thickett et al. 2007"
     full: "Thickett, David, Phillip Fletcher, Andrew Calver, and Sarah Lambarth. 2007. “The Effect of Air Tightness on RH Buffering and Control.” In *Museum Microclimates: Contributions to the Copenhagen Conference, 19–23 November 2007*, edited by Timothy Padfield and Karen Borchersen, 245–51. Copenhagen: National Museum of Denmark."
   - id: "Timar-Balazsy and Eastop 1998"
@@ -1729,28 +1734,51 @@ entries:
     full: "Yashkina, Larisa. 2003. “Relining of Easel Oil Paintings with Sturgeon Glue.” In *Lining Paintings: Papers from the Greenwich Conference on Comparative Lining Techniques*, edited by Caroline Villers, 101–4. London: Archetype."
   - id: "Yashkina and Churakova 2013"
     full: "Yashkina, Larisa, and Maria Churakova. 2013. “Methods of Tear Mending, Filling Losses in Canvas and Edges on Easel Oil Paintings by Jointing Threads: 1978–2008.” In *Artistic Heritage: Storage, Research, Restoration* 27 (57)."
+ 
   - id: "Young 1996"
     full: "Young, Christina. 1996. “Biaxial Properties of Sized Cotton-Duck.” In *ICOM Committee for Conservation 11th Triennial Meeting, Edinburgh, 1–6 September 1996*, 322–31. London: James & James. http://eprints.gla.ac.uk/137319/."
+    sort_as: "Young 1"
+
   - id: "Young 1999"
     full: "Young, Christina. 1999. “Towards a Better Understanding of the Physical Properties of Lining Materials for Paintings: Interim Results.” *The Conservator* 23, no. 1: 83–91."
+    sort_as: "Young 2"
+
   - id: "Young 2003"
     full: "Young, Christina. 2003. “The Mechanical Requirements of Tear Mends.” In *Alternatives to Lining: Structural Treatment of Paintings on Canvas without Lining: A Conference Held Jointly by the British Association of Paintings Conservator-Restorers and the United Kingdom Institute for Conservation Paintings Section, 19 September 2003: Preprints*, edited by Mary Bustin and Tom Caley, 55–58. London: United Kingdom Institute for Conservation of Historic and Artistic Works."
+    sort_as: "Young 3"
+
   - id: "Young 2005"
     full: "Young, Christina. 2005. “Accelerated Aging of Fabric Supports: Is It Possible?” In *Scientific Analysis of Ancient and Historic Textiles: Informing Preservation, Display and Interpretation: Postprints*, edited by Rob Janaway and Paul Wyeth, 111–17. London: Archetype."
+    sort_as: "Young 4"
+
   - id: "Young 2012"
     full: "Young, Christina. 2012. “History of Fabric Supports.” In *Conservation of Easel Paintings*, edited by J. H. Stoner and R. A. Rushfield, 116–47. Abingdon-on-Thames, UK: Routledge."
+    sort_as: "Young 5"
+
   - id: "Young 2013"
     full: "Young, Christina. 2013. “The Use of 3D ESPI for the Structural Analysis of Paintings on Canvas.” In *LACONA IX: Lasers in the Conservation of Artworks*, edited by David Saunders, Matija Strlič, Capucine Korenberg, Naomi Luxford, and Karen Birkhölzer, 108–15. London: Archetype."
+    sort_as: "Young 6"
+
   - id: "Young and Ackroyd 2001"
     full: "Young, Christina, and Paul Ackroyd. 2001. “The Mechanical Behavior and Environmental Response of Paintings to Three Types of Lining Treatment.” *National Gallery Technical Bulletin* 22: 85–104."
+    sort_as: "Young 7"
+
   - id: "Young and Hibberd 1999"
     full: "Young, Christina R. T., and Roger D. Hibberd. 1999. “Biaxial Tensile Testing of Paintings on Canvas.” *Studies in Conservation* 44, no. 2: 129–41."
+    sort_as: "Young 8"
+
   - id: "Young and Hibberd 2000"
     full: "Young, Christina R. T., and Roger D. Hibberd. 2000. “The Role of Attachments in the Degradation and Strain Distribution of Canvas Paintings.” In *Tradition and Innovation: Advances in Conservation*, edited by Ashok Roy and Perry Smith, 212–20. London: International Institute for Conservation of Historic and Artistic Works."
+    sort_as: "Young 9"
+
   - id: "Young, Hibberd, and Ackroyd 2002"
     full: "Young, Christina, Roger Hibberd, and Paul Ackroyd. 2002. “An Investigation into the Adhesive Bond and Transfer of Tension in Lined Canvas Paintings.” In *13th ICOM-CC Triennial Meeting, Rio de Janeiro, Brazil, 22–27 September 2002*, 370–78. London: James & James."
+    sort_as: "Young 10"
+
   - id: "Young and Jardine 2012"
     full: "Young, Christina, and Suzanne Jardine. 2012. “Fabrics for the Twenty-First Century: As Artist Canvas and for the Structural Reinforcement of Easel Paintings on Canvas.” *Studies in Conservation* 57, no. 4: 237–53."
+    sort_as: "Young 11"
+
   - id: "Yushkevich 1995"
     full: "Yushkevich, Galina. 1995. “Repairing the Mechanical Damages on Easel Oil Paintings on Canvas without Lining.” In *Reposts of the State Tretyakov Gallery: Art of the Second Part of the 19th–20th Centuries: Issues on Conservation and Museology*, edited by L. I. Iovleva, 176–81. Moscow: State Tretyakov Gallery."
   - id: "Yurovetskaya 2016"
