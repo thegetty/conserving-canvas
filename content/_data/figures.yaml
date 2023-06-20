@@ -2987,13 +2987,6 @@ figure_list:
     caption: "Salinity concentration levels of the chloride test paper were measured after each application of water (see table 63.1)."
     credit: "Image: Research team"
 
-  - id: "fig-63-7"
-    src: "figures/fig-63-7.png"
-    # zoom: true
-    label: "Figure 63.7"
-    caption: "Graph of CI concentration change of the blotting paper used for desalination process of *Prologue: “Thinking in a Black Field”* (right side)."
-    credit: "Image: Research team"
-
   - id: "table-62-1"
     src: "tables/table-62-1.html"
     media_type: table
