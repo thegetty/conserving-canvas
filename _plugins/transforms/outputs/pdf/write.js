@@ -34,8 +34,11 @@ module.exports = (eleventyConfig) => {
     const dom = await JSDOM.fromFile(layoutPath)
     const { document } = dom.window
 
-    collection.forEach(({ outputPath, sectionElement }) => {
+    collection.forEach(({ outputPath, sectionElement, svgSymbolElements }) => {
       try {
+        svgSymbolElements.forEach((svgSymbolElement) => {
+          document.body.appendChild(svgSymbolElement)
+        })
         document.body.appendChild(sectionElement)
       } catch (error) {
         logger.error(`Eleventy transform for PDF error appending content for ${outputPath} to combined output. ${error}`)
@@ -74,9 +77,8 @@ module.exports = (eleventyConfig) => {
     try {
       const stylesDir = path.join(inputDir, '_assets', 'styles')
       const application = sass.compile(path.resolve(stylesDir, 'application.scss'), sassOptions)
-      const print = sass.compile(path.resolve(stylesDir, 'print.scss'), sassOptions)
       const custom = sass.compile(path.resolve(stylesDir, 'custom.css'), sassOptions)
-      fs.writeFileSync(path.join(outputDir, 'pdf.css'), application.css + print.css + custom.css)
+      fs.writeFileSync(path.join(outputDir, 'pdf.css'), application.css + custom.css)
     } catch (error) {
       logger.error(`Eleventy transform for PDF error compiling SASS. Error message: ${error}`)
     }
