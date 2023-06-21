@@ -56,3 +56,5 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."

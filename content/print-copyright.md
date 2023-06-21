@@ -1,6 +1,6 @@
 ---
 layout: page
-class: backmatter
+class: copyright-page
 order: 780
 toc: false
 menu: false
