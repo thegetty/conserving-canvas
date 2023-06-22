@@ -477,6 +477,11 @@ table a,
     display: inline-block;
     text-align: left;
   }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
   /* Fix font size on sub-section items */
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 8.5pt;
