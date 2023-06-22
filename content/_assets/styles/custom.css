@@ -662,4 +662,13 @@ table a,
   #dedication.quire-page.frontmatter {
     page: no-footer;
   }
+  /* Remove color accents to reduce print cost */
+  .quire-page__header .hero-body .label {
+    border-bottom-color: #000;
+    border-top-color: #000;
+  }
+  .q-figure--table table caption,
+  .quire-page__content .container .content table caption strong:first-of-type {
+    color: #000;
+  }
 }
