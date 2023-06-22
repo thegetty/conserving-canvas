@@ -3,7 +3,7 @@
 // Added optional group figure caption that is fed from shortcode and
 // displayed under all the figures in the group
 //
-const { html } = require('~lib/common-tags')
+const { oneLine } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
 
@@ -55,7 +55,7 @@ module.exports = function (eleventyConfig, { page }) {
 
     const customClasses = classes ? classes : ''
 
-    return html`
+    return oneLine`
       <figure class="q-figure q-figure--group ${customClasses}">
         ${figureTags.join('\n')}
         ${captionElement}
