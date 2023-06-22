@@ -592,8 +592,14 @@ table a,
     page-break-before: always;
   }
   .q-figure.pdf-85-percent-width img,
-  .q-figure.pdf-85-percent-width figcaption {
+  .q-figure.pdf-85-percent-width figure figcaption {
     max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .q-figure.pdf-70-percent-width img,
+  .q-figure.pdf-70-percent-width figure figcaption {
+    max-width: 70%;
     margin-left: auto;
     margin-right: auto;
   }
