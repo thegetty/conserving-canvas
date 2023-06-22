@@ -54,15 +54,17 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 1. Run `quire build`
 
-2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
+2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
-3. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+    ```
+    magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
 
-If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-```
-magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
-```
+4. In `_site/pdf.htmle` find `_assets/tables/` and replace with `_assets/`
+
+5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ## Customizations Made to 11ty Templates/Files
 
