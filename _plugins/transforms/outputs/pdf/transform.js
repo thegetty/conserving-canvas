@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Remove title trunctation for PDF footers
+//
 const jsdom = require('jsdom')
 const filterOutputs = require('../filter.js')
 const truncate = require('~lib/truncate')
@@ -24,8 +28,8 @@ module.exports = function(eleventyConfig, collections, content) {
    * @return {String} Formatted page or section title
    */
   const formatTitle = ({ label, short_title: shortTitle, title }) => {
-    const truncatedTitle = shortTitle || truncate(title, 35)
-    return pageTitle({ label, title: truncatedTitle })
+    // const truncatedTitle = shortTitle || truncate(title, 35)
+    return pageTitle({ label, title: shortTitle || title })
   }
 
   /**

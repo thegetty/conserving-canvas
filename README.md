@@ -56,10 +56,7 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-3. Open `_site/index.html` and copy the license svg icons. Paste thme in just below the `<body>`
-in `_site/pdf.html`
-
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+3. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
@@ -96,3 +93,6 @@ Refactored logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Add option to pass single caption for figuregroup
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Remove title trunctation for PDF footers
