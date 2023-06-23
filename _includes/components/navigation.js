@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add missing .nav-label span to hide labels on mobile, lines 76 and 108
+//
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
 
@@ -69,7 +73,7 @@ module.exports = function(eleventyConfig) {
                 <use xlink:href="#left-arrow-icon"></use>
               </switch>
             </svg>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
@@ -101,7 +105,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
             <svg data-outputs-exclude="epub,pdf">
               <switch>
                 <use xlink:href="#right-arrow-icon"></use>

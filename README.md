@@ -78,6 +78,9 @@ Added a comma after "view a coopy of this license"
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
 
+**_includes/components/navigation.js**
+Add missing .nav-label span to hide labels on mobile
+
 **_includes/components/page-header.js**
 Added page title element for PDF footer
 
