@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
-// Add missing .nav-label span to hide labels on mobile, lines 76 and 108
+// Add missing .nav-label span to hide labels on mobile, lines 77 and 109
+// And remove title truncation, line 42
 //
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
@@ -38,7 +39,7 @@ module.exports = function(eleventyConfig) {
     const isHomePage = currentPage.url === home
 
     const navBarLabel = ({ label, short_title, title }) => {
-      return pageTitle({ label, title: short_title || truncate(title, 34)})
+      return pageTitle({ label, title: short_title || title })
     }
 
     const navBarStartButton = () => {
