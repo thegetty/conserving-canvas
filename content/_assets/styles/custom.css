@@ -594,7 +594,8 @@ table a,
     padding-bottom: 0;
   }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
-  .q-figure.pdf-float-top {
+  .q-figure.pdf-float-top,
+  div.pdf-float-top {
     -prince-float: top;
     margin-top: 0 !important;
     margin-bottom: 1.5rem;
@@ -642,6 +643,9 @@ table a,
   .q-figure.q-figure--table {
     column-span: all;
     /* -prince-float: top; */
+  }
+  .q-figure.q-figure--table#table-16-1 {
+    column-span: none;
   }
   .q-figure.q-figure--table#table-51-1 img {
     max-width: 2in;
