@@ -623,6 +623,12 @@ table a,
     margin-left: auto;
     margin-right: auto;
   }
+  .pdf-1-column-group .q-figure--group__row.columns {
+    flex-direction: column;
+  }
+  .pdf-1-column-group .q-figure--group__row.columns .q-figure--group__item {
+    width: 100% !important;
+  }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
     display: none;
