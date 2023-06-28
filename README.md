@@ -62,7 +62,7 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-4. In `_site/pdf.htmle` find `_assets/tables/` and replace with `_assets/`
+4. In `_site/pdf.html` find `_assets/tables/` and replace with `_assets/`
 
 5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
@@ -79,7 +79,7 @@ Added a comma after "view a coopy of this license"
 Added contributor names to sidebar menu
 
 **_includes/components/navigation.js**
-Add missing .nav-label span to hide labels on mobile
+Add missing .nav-label span to hide labels on mobile, and remove title truncation
 
 **_includes/components/page-header.js**
 Added page title element for PDF footer
