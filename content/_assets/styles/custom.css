@@ -612,6 +612,10 @@ table a,
   .pdf-page-break-before{
     page-break-before: always;
   }
+  .q-figure.pdf-column-break-before,
+  .pdf-column-break-before{
+    column-break-before: always;
+  }
   .q-figure.pdf-85-percent-width img,
   .q-figure.pdf-85-percent-width figure figcaption {
     max-width: 85%;
@@ -629,6 +633,9 @@ table a,
   }
   .pdf-1-column-group .q-figure--group__row.columns .q-figure--group__item {
     width: 100% !important;
+  }
+  .pdf-one-and-quarter-inch-bottom-margin {
+    margin-bottom: 1.25in !important;
   }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
