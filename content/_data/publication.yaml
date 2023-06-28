@@ -97,20 +97,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (13.7 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/X.pdf
-  - type: other-format
-    name: EPUB (## MB)
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/X.epub
+    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.pdf
+  # - type: other-format
+  #   name: EPUB (## MB)
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/X.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/products/X
+    url: https://shop.getty.edu/products/conserving-canvas-978-1606068243
   - type: footer-link
     name: About
     link_relation: about
@@ -160,4 +160,4 @@ repository_url: https://github.com/thegetty/conserving-canvas
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover-promo.jpg
