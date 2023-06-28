@@ -268,6 +268,21 @@ nav.table-of-contents.menu-list + .content {
   font-size: 1.1em;
 }
 
+
+/* NAVBAR
+============================================================================= */
+/* Fix display of nav labels */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 900px) {
+  span.nav-label {
+    display: none !important;
+  }
+}
+
 /* MENU
 ============================================================================= */
 /* Make key menu items white */
@@ -477,6 +492,11 @@ table a,
     display: inline-block;
     text-align: left;
   }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
   /* Fix font size on sub-section items */
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 8.5pt;
@@ -574,7 +594,8 @@ table a,
     padding-bottom: 0;
   }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
-  .q-figure.pdf-float-top {
+  .q-figure.pdf-float-top,
+  div.pdf-float-top {
     -prince-float: top;
     margin-top: 0 !important;
     margin-bottom: 1.5rem;
@@ -591,11 +612,30 @@ table a,
   .pdf-page-break-before{
     page-break-before: always;
   }
+  .q-figure.pdf-column-break-before,
+  .pdf-column-break-before{
+    column-break-before: always;
+  }
   .q-figure.pdf-85-percent-width img,
-  .q-figure.pdf-85-percent-width figcaption {
+  .q-figure.pdf-85-percent-width figure figcaption {
     max-width: 85%;
     margin-left: auto;
     margin-right: auto;
+  }
+  .q-figure.pdf-70-percent-width img,
+  .q-figure.pdf-70-percent-width figure figcaption {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .pdf-1-column-group .q-figure--group__row.columns {
+    flex-direction: column;
+  }
+  .pdf-1-column-group .q-figure--group__row.columns .q-figure--group__item {
+    width: 100% !important;
+  }
+  .pdf-one-and-quarter-inch-bottom-margin {
+    margin-bottom: 1.25in !important;
   }
   /* Remove content from pages with `class: pdf-heading-only` */
   .pdf-heading-only .quire-page__content {
@@ -610,6 +650,9 @@ table a,
   .q-figure.q-figure--table {
     column-span: all;
     /* -prince-float: top; */
+  }
+  .q-figure.q-figure--table#table-16-1 {
+    column-span: none;
   }
   .q-figure.q-figure--table#table-51-1 img {
     max-width: 2in;
@@ -655,5 +698,14 @@ table a,
   #print-copyright.quire-page,
   #dedication.quire-page.frontmatter {
     page: no-footer;
+  }
+  /* Remove color accents to reduce print cost */
+  .quire-page__header .hero-body .label {
+    border-bottom-color: #000;
+    border-top-color: #000;
+  }
+  .q-figure--table table caption,
+  .quire-page__content .container .content table caption strong:first-of-type {
+    color: #000;
   }
 }

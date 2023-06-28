@@ -54,18 +54,17 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 1. Run `quire build`
 
-2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
+2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
-3. Open `_site/index.html` and copy the license svg icons. Paste thme in just below the `<body>`
-in `_site/pdf.html`
+    ```
+    magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
 
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+4. In `_site/pdf.html` find `_assets/tables/` and replace with `_assets/`
 
-```
-magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
-```
+5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ## Customizations Made to 11ty Templates/Files
 
@@ -78,6 +77,9 @@ Added a comma after "view a coopy of this license"
 
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
+
+**_includes/components/navigation.js**
+Add missing .nav-label span to hide labels on mobile, and remove title truncation
 
 **_includes/components/page-header.js**
 Added page title element for PDF footer
@@ -96,3 +98,6 @@ Refactored logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Add option to pass single caption for figuregroup
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Remove title trunctation for PDF footers

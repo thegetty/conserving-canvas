@@ -58,7 +58,7 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
-    const runningFeetLabel = label ? html`${markdownify(label)}${labelDivider}` : ''
+    const runningFeetLabel = label ? `${markdownify(label)}${labelDivider}` : ''
     const runningFeetTitle = shortTitle ? shortTitle : title
 
     return html`
