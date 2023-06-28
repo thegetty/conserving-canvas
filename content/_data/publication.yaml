@@ -131,6 +131,15 @@ subject:
   - type:
     name:
     identifer:
+  - type: bisac
+    name: ART / Conservation & Preservation
+    identifier: ART056000
+  - type: bisac
+    name: ART / Reference
+    identifier: ART025000
+  - type: bisac
+    name: ART / Museum Studies
+    identifier: ART059000
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
