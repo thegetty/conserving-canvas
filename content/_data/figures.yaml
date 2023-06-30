@@ -38,7 +38,7 @@ figure_list:
     label: "Figure 1.2"
     caption: "Long-term relaxation for several canvases and linings plotted logarithmically against time (Daly Hartin et al. 2011)."
     credit: "Image: Stephen Hackney"
-    alt: "A line graph showing depicting painting canvas relaxation versus time."
+    alt: "A line graph depicting painting canvas relaxation versus time. There are nine lines plotted, colored blue, grey, green, orange, red, and brown."
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.png"
@@ -46,7 +46,7 @@ figure_list:
     label: "Figure 1.3"
     caption: "Strain variations near the canvas edges associated with the use of tacks for attachment to the stretcher (Young and Hibberd 1999)."
     credit: "Image: Stephen Hackney"
-    alt: "Graph depicting canvas strain variations associated with stretching caused by tack."
+    alt: "A thermal graph depicting canvas strain variations in canvas. The edges of the graph are green with blue corners. The center of the graph is yellow, orange, and red, with the centermost section the warmest in tone."
 
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
@@ -54,7 +54,7 @@ figure_list:
     label: "Figure 1.4"
     caption: "Julius Caesar Ibbetson, *Smugglers on the Irish Coast*, 1808. Oil paint on canvas, 54.6 × 85.1 cm (21 1/2 × 32 in.). Glue-lined oil painting, possibly including megilp chosen by the artist for its fluidity (Ibbetson 1803). The raking light reveals flattened impasto and weave emphasis from glue lining."
     credit: "Image: Tate"
-    alt: "Black and white image in raking light of an oil painting."
+    alt: "Black and white image in raking light of a landscape oil painting. There are figures to the bottom half of the painting."
 
   - id: "fig-1-5"
     src: "figures/fig-1-5.jpg"
@@ -62,7 +62,7 @@ figure_list:
     label: "Figure 1.5"
     caption: "A painting made from three stretchers interwoven by strips of canvas, which presents a structural conservation challenge. Stephen Buckley, *Nice*, 1972. Acrylic on canvas, 81 × 90.2 × 5.1 cm (32 × 35 1/2 × 2 in.). Tate, London."
     credit: "Image: © Stephen Buckley / Photo: Tate"
-    alt: "Photograph of a painting of blue interwoven canvas."
+    alt: "Photograph of a painting of blue, grid-like interwoven canvas."
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.png"
@@ -70,7 +70,7 @@ figure_list:
     label: "Figure 1.6"
     caption: "Plot of molar mass distribution. A new canvas on the right with a range of very high molecular weights compared with two samples of a J. M. W. Turner loose-lining canvas (painting dated 1846). The peaks (modes) for the Turner canvas are at much less molar mass and there is a greater spread of molar masses than for the new canvas, indicating that the long cellulose molecules have been cleaved at many points. Also, the darker exposed parts are more degraded than the lighter parts behind the stretcher. Canvas samples analyzed at BOKU Vienna during the EU MEMORI project (Jeong et al. 2013)."
     credit: "Image: Myung-Joon Jeong, Manuel Becker, Antje Potthast, Susana López-Aparicio, and Stephen Hackney"
-    alt: "A plot graph depicting molar mass distribution in three different painting canvases."
+    alt: "A plot graph depicting molar mass distribution in three different painting canvases. The lines are curved, each colored black, green, and red. The black and green lines peak toward the center of the graph and the red line peaks higher to the right of the graph."
 
   - id: "fig-1-7-a"
     src: "figures/fig-1-7-a.jpg"
@@ -78,13 +78,13 @@ figure_list:
     label: "a"
     # caption: "Two separate studies showing that below 0.5–1.0 air exchanges per day, the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases (Thickett et al. 2007). (b) Various narrow painting frames and cases (Grøntoft et al. 2011). See Hackney 2016."
     # credit: "Image: Stephen Hackney"
-    alt: "A plot graph depicting display case air exchange per day versus acetic acid concentration."
+    alt: "A plot graph depicting display case air exchange per day versus acetic acid concentration. Two lines, blue and red, consist of various plots that crowd to the bottom left corner of the chart, forming downward curves that tread to the right of the graph."
 
   - id: "fig-1-7-b"
     src: "figures/fig-1-7-b.jpg"
     zoom: true
     label: "b"
-    alt: "A plot grpah epicting painting container air exchange rate per day versus acetic acid concentration."
+    alt: "A plot grpah depicting painting container air exchange rate per day versus acetic acid concentration. A single blue line of various plots curves downward and to the right, with some plots outside of the estimated line."
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.png"
@@ -377,7 +377,7 @@ figure_list:
     label: "Figure 8.1"
     caption: "Anthony van Dyck (Flemish, 1599–1641), *Equestrian Portrait of Charles I*, 1637–38. Oil on canvas, 368 × 292.5 cm (144 7/8 × 155 1/8 in.). Before treatment."
     credit: "Image: National Gallery, London"
-    alt: "Oil painting of an armored man riding a pale horse, both facing left. To the right, a man holds the rider's helmet."
+    alt: "An untreated oil painting of an armored man riding a pale horse, both facing left. To the right, a man holds the rider's helmet."
 
   - id: "fig-8-2"
     src: "figures/fig-8-2.jpg"
@@ -393,7 +393,7 @@ figure_list:
     label: "Figure 8.3"
     caption: "Van Dyck’s *Equestrian Portrait of Charles I*. Detail of the canvas reverse showing the splits at the sides during their repair with inserts of new primed canvas."
     credit: "Image: National Gallery, London"
-    alt: "Photograph close-up of hands atop a table. The right hand holds a pencil and traces the outline of a canvas."
+    alt: "Photograph close-up of hands atop a table. The right hand holds a pencil and traces the outline of a frayed canvas."
 
   - id: "fig-8-4"
     src: "figures/fig-8-4.jpg"
@@ -401,7 +401,7 @@ figure_list:
     label: "Figure 8.4"
     caption: "Van Dyck’s *Equestrian Portrait of Charles I*. Detail of the reverse of the lining canvas before treatment showing the uneven distribution of the wax-resin adhesive."
     credit: "Image: National Gallery, London"
-    alt: "Photograph close-up of  wax adhesive on a canvas."
+    alt: "Photograph close-up of untreated wax adhesive on a canvas."
 
   - id: "fig-8-5"
     src: "figures/fig-8-5.png"
@@ -409,7 +409,7 @@ figure_list:
     label: "Figure 8.5"
     caption: "Diagram showing the construction of the vacuum envelope used to treat Van Dyck’s *Equestrian Portrait of Charles I*."
     credit: "Image: National Gallery, London"
-    alt: "Diagram showing the the construction of a vauum envelope for canvas treatment."
+    alt: "Diagram showing the the construction of a vauum envelope for canvas treatment, with the steps numbered and listed below the drawing."
 
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
@@ -417,7 +417,7 @@ figure_list:
     label: "Figure 8.6"
     caption: "Relining of the Van Dyck painting inside a vacuum envelope using a Willard Multi-purpose Table as the heat source."
     credit: "Image: National Gallery, London"
-    alt: "Photograph of people standing around a large table. An encased painting sits atop the table."
+    alt: "Photograph of people standing around a large table. An encased painting sits atop the table as a few people examine it."
 
   - id: "fig-8-7"
     src: "figures/fig-8-7.jpg"
@@ -425,7 +425,7 @@ figure_list:
     label: "Figure 8.7"
     caption: "Van Dyck’s *Equestrian Portrait of Charles I* after relining and restoration."
     credit: "Image: National Gallery, London"
-    alt: "Oil painting of an armored man riding a pale horse, both facing left. To the right, a man holds the rider's helmet."
+    alt: "A now-treated oil painting of an armored man riding a pale horse, both facing left. To the right, a man holds the rider's helmet."
 
   - id: "fig-9-2"
     src: "figures/fig-9-2.jpg"
@@ -433,7 +433,7 @@ figure_list:
     label: "Figure 9.2"
     caption: "An open-weave linen canvas sprayed with an acrylic dispersion adhesive. Note the masked-out area, which is the exact dimensions of the painting that will be lined."
     credit: "Image: SRAL"
-    alt: "Photograph of painting canvas linen."
+    alt: "Photograph of a corner of white painting canvas linen."
 
   - id: "fig-9-1"
     src: "figures/fig-9-1.jpg"
@@ -441,7 +441,7 @@ figure_list:
     label: "Figure 9.1"
     caption: "Close-up of the open-network sprayed lining adhesive."
     credit: "Image: SRAL"
-    alt: "Photograph close-up of painting canvas linen."
+    alt: "Photograph close-up of  painting canvas linen."
 
   - id: "fig-9-3"
     src: "figures/fig-9-3.png"
@@ -458,7 +458,7 @@ figure_list:
     label: "Figure 9.4"
     caption: "Video still showing the mist-lining process."
     credit: "Video: SRAL"
-    alt: "Video showing conservators working on mist-lining a painting."
+    alt: "Video consisting of medium and close-up shots of conservators crowded over a table while working on mist-lining a painting."
 
   - id: "fig-9-5"
     src: "figures/fig-9-5.jpg"
@@ -466,7 +466,7 @@ figure_list:
     label: "Figure 9.5"
     caption: "Mist-Lining Workshop trainees practicing placing the solvent-delivery cloth to reactivate the lining adhesive."
     credit: "Image: Joanna Strombek"
-    alt: "Photograph of conservators who stand around a table, where a painting sits atop its center. They are placing a cloth atop the painting."
+    alt: "Photograph of people standing around painting that lays flat on a table. They are placing a blue-green cloth over painting."
 
   - id: "fig-9-6"
     src: "figures/fig-9-6.jpg"
@@ -474,7 +474,7 @@ figure_list:
     label: "Figure 9.6"
     caption: "Deaccessioned painting prior to lining. Note that the out-of-plane deformations are mitigated prior to lining using gentle tension and controlled humidification."
     credit: "Image: SRAL"
-    alt: "Photograph of a portrait painting prior to teratment. It has an aged, wrinkling canvas surface."
+    alt: "Photograph close-up of a portrait painting prior to treatment, which has an aged, wrinkling canvas surface."
 
   - id: "fig-9-7"
     src: "figures/fig-9-7.jpg"
@@ -482,7 +482,7 @@ figure_list:
     label: "Figure 9.7"
     caption: "The deaccessioned painting shown in figure 9.6 after lining. The strip-linings added to apply tension prior to lining were kept in situ. The lined painting is still mounted on the temporary working loom. Note that the raised horizontal deformations are reduced, but the craquelure pattern is still evident."
     credit: "Image: SRAL"
-    alt: "Photograph of a painting after lining treatment. The canvas has a smoother surface."
+    alt: "A wider photograph of a painting after lining treatment. The canvas has a smoother surface."
 
   - id: "fig-10-1"
     src: "figures/fig-10-1.jpg"
@@ -490,7 +490,7 @@ figure_list:
     label: "Figure 10.1"
     caption: "Close-up illustrating an overall loss of adhesion and the need for consolidation."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph close-up of a cracking oil painting."
+    alt: "Photograph close-up of a cracking oil painting. Blue paint is chipping off, revealing the browning canvas."
 
   - id: "fig-10-2"
     src: "figures/fig-10-2.jpg"
@@ -498,7 +498,7 @@ figure_list:
     label: "Figure 10.2"
     caption: "Removal of a 280-year-old lining. Adhesion was adequate after 300 years, but the lining was also easy to remove."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph of a yellowed painting lining."
+    alt: "Photograph of a yellowed painting lining that is being removed, revealing an artistic signature."
 
   - id: "fig-10-3"
     src: "figures/fig-10-3.jpg"
@@ -506,7 +506,7 @@ figure_list:
     label: "Figure 10.3"
     caption: "Bloom determination of different animal glues in a gel formulation, 1:3 in water."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph of various animal glues lined atop a table."
+    alt: "Photograph in a conservatino room of various animal glues lined atop a table."
 
   - id: "fig-10-4"
     src: "figures/fig-10-4.jpg"
@@ -514,7 +514,7 @@ figure_list:
     label: "Figure 10.4"
     caption: "Experimental samples of different water-based adhesive gels prepared for tests and workshops demonstrating the varied physical properties that can be tailored to the project with simple ingredients. They contain, in different concentrations, materials widely used in conservation that can be dissolved in water, including different flours (low and high W), starches (wheat and rice), CMC (Tylose 300), HPC (Klucel G), thickeners (Klucel G, carob seeds, Carbopol), as well as adhesives (Plextol B 500 acrylic dispersion) and animal gelatins (low/medium/high Bloom)."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph close-up of various painting lining adhesive gels."
+    alt: "Photograph close-up of various adhesive gels for paintings."
 
   - id: "fig-10-5"
     src: "figures/fig-10-5.jpg"
@@ -522,7 +522,7 @@ figure_list:
     label: "Figure 10.5"
     caption: "Lining preparation using a metal provisional expandable lining stretcher."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph of painting lining lain on a wooden floor. A metal lining stretcher is suspended to the wall with rope and hangs above the lining."
+    alt: "Photograph of painting lining lain on a wooden floor within a conservation room. A metal lining stretcher is suspended to the wall with rope and hangs above the lining."
 
   - id: "fig-10-6"
     src: "figures/fig-10-6.jpg"
@@ -530,7 +530,7 @@ figure_list:
     label: "Figure 10.6"
     caption: "Application of the selected adhesive mixture on the reverse of the painting."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph of conservators kneeling atop the back of a painting and applying adhesive."
+    alt: "Medium photograph of conservators kneeling atop the back of a painting and applying adhesive."
 
   - id: "fig-10-7"
     src: "figures/fig-10-7.jpg"
@@ -538,7 +538,7 @@ figure_list:
     label: "Figure 10.7"
     caption: "Application of adhesive through the selected lining canvas."
     credit: "Image: Matteo Rossi-Doria"
-    alt: "Photograph of a conservator kneeling atop the back of a lining canvas and applying adhesive."
+    alt: "Wide photograph of a conservator kneeling atop the back of a lining canvas and applying adhesive."
 
   - id: "fig-11-1"
     src: "figures/fig-11-1.jpg"
@@ -546,6 +546,7 @@ figure_list:
     label: "Figure 11.1"
     caption: "Alessandro Allori (Italian, 1535–1607), *Allegoria con il trionfo di Firenze*, 1589. Oil on canvas, 484 × 630 cm (190 1/2 × 248 in.). Florence, Medici Chapels. The painting before restoration, mounted on a three-part folding wooden stretcher."
     credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    alt: "Wide photograph of a large oil painting prior to restoration. The painting is faded with washed out colors."
 
   - id: "fig-11-2"
     src: "figures/fig-11-2.jpg"
@@ -553,6 +554,7 @@ figure_list:
     label: "Figure 11.2"
     caption: "*Allegoria* during the restoration process. The painting is faced with Japanese paper; sheets fixed around the perimeter were glued to the worktop to prevent shrinkage as the glue dried."
     credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    alt: "Wide photograph of the same painting, still laid flat on the floor but with treatment paper atop it."
 
   - id: "fig-11-3"
     src: "figures/fig-11-3.jpg"
@@ -560,6 +562,7 @@ figure_list:
     label: "Figure 11.3"
     caption: "Detail of a seam brought back to the correct position with the aid of tension (tie-beams) and moisture."
     credit: "Image: Laboratorio degli Angeli S.r.l., su concessione del Ministero per i beni e la attività culturali e per il turismo – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    alt: "Photograph close-up of the canvas seam lined with rubber bands."
 
   - id: "fig-11-4"
     src: "figures/fig-11-4.png"
@@ -567,6 +570,7 @@ figure_list:
     label: "Figure 11.4"
     caption: "The tub system used to reactivate a thermoplastic resin in a vacuum bag."
     credit: "Image: Barbara Lavorini and Luigi Orata"
+    alt: "Technical diagram with a black background depicting the layers and steps necessary for the painting's treatment. The diagram shows the consolidation and lining aspects separately."
 
   - id: "table-11-1"
     #credit: "Table: Barbara Lavorini and Luigi Orata"
@@ -585,6 +589,7 @@ figure_list:
     credit: "Video: Barbara Lavorini and Luigi Orata"
     media_type: "vimeo" 
     media_id: "801439551/7d9863ee77"
+    alt: "Technical video explaining the restoration process of a large painting. The beginning of the video depicts a woman talking, while the remainder of the footage is of a man kneeling near the painting and treating it."
 
   - id: "fig-11-6"
     src: "figures/fig-11-6.jpg"
@@ -592,6 +597,7 @@ figure_list:
     label: "Figure 11.6"
     caption: "*Allegoria con il trionfo di Firenze* after restoration."
     credit: "Image: Laboratorio degli Angeli S.r.l., courtesy Ministero della Cultura – Museo Nazionale del Bargello (prot. MIBACT_MN-BAR n.1446-P del 01/07/2020). No modification or further reproduction of the image is allowed."
+    alt: "Image of the oil painting after treatment, which depicts elaborate figures dressed in red and gold."
 
   - id: "fig-12-1"
     src: "figures/fig-12-1.jpg"
