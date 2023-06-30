@@ -1775,7 +1775,7 @@ figure_list:
     src: "figures/fig-36-2.jpg"
     zoom: true
     label: "Figure 36.2"
-    caption: "Paintings on display in the Government Museum Alwar prior to conservation."
+    caption: "Paintings on display in the Government Museum, Alwar, prior to conservation."
     credit: "Image: IGNCA, New Delhi / Jitender Kumar Chauhan"
 
   - id: "fig-36-3"

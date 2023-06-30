@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
-// Added a comma after "view a coopy of this license", line 36
+// Updated the image exclusions language, line 26
+// Added a comma after "view a coopy of this license", line 37
 //
 const { oneLine } = require('~lib/common-tags')
 
@@ -22,7 +23,7 @@ module.exports = function(eleventyConfig) {
       `
     } else if (license.scope === 'text-only') {
       licenseText += `
-        The text of this work is licensed under a ${licenseName}. Unless otherwise indicated, all illustrations are excluded from the ${licenseAbbreviation} license.
+        The text of this work is licensed under a ${licenseName}. All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the ${licenseAbbreviation} license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
       `
     } else {
       licenseText += `
