@@ -216,7 +216,7 @@ nav.table-of-contents.menu-list + .content {
 /* Figures
 ============================================================================= */
 /* Color the manually added figure labels in group captions */
-.q-figure__caption-content > strong:first-child {
+.q-figure--group .q-figure__label {
   color: var(--accent-color);
 }
 
