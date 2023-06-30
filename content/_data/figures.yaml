@@ -910,7 +910,6 @@ figure_list:
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
-    zoom: true
     label: "b"
 
   - id: "fig-18-6"
