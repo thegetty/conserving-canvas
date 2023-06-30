@@ -522,6 +522,9 @@ table a,
   .half-title-page {
     font-weight: 700;
   }
+  .quire-page.title-page {
+    page-break-before: right;
+  }
   /* TOCs */
   .quire-contents-list {
     padding: 0;
@@ -644,6 +647,7 @@ table a,
   @media print {
     .quire-page.pdf-heading-only {
       page: no-footer;
+      page-break-before: right;
     }
   }
   /* Make tables full-width and float to the top of the page */
