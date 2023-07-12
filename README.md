@@ -68,12 +68,16 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/abstract.js**
 **_layouts/essay.liquid**
 Added keywords
 
 **_includes/components/copyright/licensing.js**
-Added a comma after "view a coopy of this license"
+Updated the image exclusions language, and moved print/pdf statement to new location
 
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu

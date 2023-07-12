@@ -178,6 +178,16 @@
   border-bottom-width: 0px !important;
 }
 
+/* Dedication page */
+.quire-page#dedication .quire-page__header__title {
+  display: none;
+}
+@media print {
+  .quire-page#dedication .quire-page__header {
+    min-height: 183.2px;
+  }
+}
+
 /* GENERAL
 ============================================================================= */
 /*  Progress Bar */
@@ -502,6 +512,11 @@ table a,
     font-size: 8.5pt;
     line-height: 1.6;
   }
+  /* Remove TOC page numbering from sections */
+  .quire-contents-list .section-item > a::after,
+  .quire-contents-list .section-item.frontmatter-page > a::after {
+    content: '';
+  }
   /* Fix page breaks within biblios */
   .quire-page__content__references dt {
     break-after: avoid;
@@ -644,11 +659,9 @@ table a,
   .pdf-heading-only .quire-page__content {
     display: none;
   }
-  @media print {
-    .quire-page.pdf-heading-only {
-      page: no-footer;
-      page-break-before: right;
-    }
+  .quire-page.pdf-heading-only {
+    page: no-footer;
+    page-break-before: right;
   }
   /* Make tables full-width and float to the top of the page */
   .q-figure.q-figure--table {
@@ -711,5 +724,11 @@ table a,
   .q-figure--table table caption,
   .quire-page__content .container .content table caption strong:first-of-type {
     color: #000;
+  }
+  /* Don't let headings break across columns/pages */
+  .quire-page h2,
+  .quire-page h3,
+  .quire-page h4 {
+    break-inside: avoid;
   }
 }
