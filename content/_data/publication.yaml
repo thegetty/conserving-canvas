@@ -44,12 +44,12 @@ publisher:
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
-      [getty.edu/publications/](https://www.getty.edu/publications/)
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 project_team:
  - Rachel Barth, *Project Editor*
  - Leslie Tilley, *Manuscript Editor*
- - Greg Albers, *Digital Publications Manager*
+ - Greg Albers, *Digital Manager*
  - Kurt Hauser, *Cover Design*
  - Molly McGeehan, *Production*
  - Danielle Brink, *Image and Rights Acquisition*
@@ -83,7 +83,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2023 J. Paul Getty Trust
+copyright: "© 2023 J. Paul Getty Trust<br />Glossary © 2023 J. Paul Getty Trust and Archetype Publications Ltd"
 
 license:
   name: Creative Commons Attribution‑NonCommercial 4.0 International License

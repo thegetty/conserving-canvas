@@ -73,7 +73,7 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 Added keywords
 
 **_includes/components/copyright/licensing.js**
-Added a comma after "view a coopy of this license"
+Updated the image exclusions language, and moved print/pdf statement to new location
 
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
