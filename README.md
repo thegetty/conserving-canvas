@@ -68,6 +68,10 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/abstract.js**
 **_layouts/essay.liquid**
 Added keywords

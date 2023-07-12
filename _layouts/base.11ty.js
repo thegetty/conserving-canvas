@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// added snippet for Google Analytics 4 / Tag Manager
+//
 const path = require('path')
 const { html } = require('~lib/common-tags')
 
@@ -8,16 +12,20 @@ const { html } = require('~lib/common-tags')
  * @return     {Function}  Template render function
  */
 module.exports = async function(data) {
-  const { pageClasses, collections, content, pageData, publication } = data
+  const { pageClasses, collections, config, content, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const pageId = this.slugify(url) || path.parse(inputPath).name
+  const { googleId } = config.analytics
   const figures = pageData.page.figures
+
+  const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
 
   return html`
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
       <body>
+        ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">
