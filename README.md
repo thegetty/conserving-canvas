@@ -57,7 +57,7 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
-    magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
 3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
