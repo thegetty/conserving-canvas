@@ -251,6 +251,7 @@ nav.table-of-contents.menu-list + .content {
 .quire-cover__hero .title {
   color: var(--bright-orange);
   font-size: 5rem;
+  text-align: right;
 }
 /* Cover Contributor */
 .quire-cover__hero .contributor {
@@ -260,6 +261,22 @@ nav.table-of-contents.menu-list + .content {
 }
 .quire-cover__hero .contributor em {
   font-style: normal;
+}
+@media screen and (max-width:460px) {
+  .hero-body .container.is-fluid {
+    padding-right: 30px;
+  }
+  .quire-cover__hero .title {
+    font-size: 4rem;
+  }
+}
+@media screen and (max-width:360px) {
+  .quire-cover__hero .title {
+    font-size: 3rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1rem;
+  }
 }
 /* Cover More Arrow */
 .quire-cover__more .hero-more {
