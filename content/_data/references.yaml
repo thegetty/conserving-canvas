@@ -212,7 +212,7 @@ entries:
   - id: "Bottari 1822–25"
     full: "Bottari, G. 1822–25. *Raccolta di lettere sulla pittura, scultura ed architettura*, *Roma 1754–1773*, vol. III. Milan: S. Ticozzi."
   - id: "Bosetti 2012"
-    full: "Bosetti, Elisabeta. 2012. “A Comparative Study of the Use of Aquazol in Paintings Conservation.” *E-Conservation*, no. 24: 73–87. [https://issuu.com/elisabettabosetti/docs/a_comparative_study](%20https://issuu.com/elisabettabosetti/docs/a_comparative_study)."
+    full: "Bosetti, Elisabeta. 2012. “A Comparative Study of the Use of Aquazol in Paintings Conservation.” *E-Conservation*, no. 24: 73–87. https://issuu.com/elisabettabosetti/docs/a_comparative_study."
   - id: "Brachert 1965"
     full: "Brachert, T. 1965. “Probleme bei der Doublierung von Leinwandbildern.” *Maltechnik* 71, no. 3: 80–81."
   - id: "Brandi 2000"
@@ -605,7 +605,7 @@ entries:
   - id: "Gabler 1979"
     full: "Gabler, Wolfram. 1979. “Eine Möglichkeit der Restaurierung von Rissen in Leinwandgemälden ohne Doublierung, dargestellt am Beispiel des Gemäldes *Die Nacht* von Ferdinand Hodler.” *Mitteilungen Deutscher Restauratorenverband*, 22–25."
   - id: "Gamblin n.d."
-    full: "Gamblin. n.d. “Sizes and Grounds.” Accessed May 20, 2022. [https://gamblincolors.com/oil-painting/sizes-and-grounds/](about:blank)."
+    full: "Gamblin. n.d. “Sizes and Grounds.” Accessed May 20, 2022. https://gamblincolors.com/oil-painting/sizes-and-grounds/."
   - id: "García Castillo 2016"
     full: "García Castillo, Ana M. 2016. “Study of the Physical, Chemical and Mechanical Properties of Glue-Paste Lining Adhesives.” MA diss., Universitat Politècnica de València."
   - id: "Gardiner and Weber 2010"
@@ -1590,7 +1590,7 @@ entries:
     sort_as: "Tan 1"
 
   - id: "Tandon and Weng 1986"
-    full: "Tandon, G. P., and G. J. Weng. 1986. “Average Stress in the Matrix and Effective Moduli of Randomly Oriented Composites.” *Composites Science and Technology* 27, no. 2: 111–32. [https://doi.org/10.1016/0266-3538(86)90067-9](about:blank)."
+    full: "Tandon, G. P., and G. J. Weng. 1986. “Average Stress in the Matrix and Effective Moduli of Randomly Oriented Composites.” *Composites Science and Technology* 27, no. 2: 111–32. https://doi.org/10.1016/0266-3538(86)90067-9."
     sort_as: "Tan 2"
 
   - id: "Tantideeravit et al. 2013"
