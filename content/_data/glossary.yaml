@@ -2,7 +2,7 @@ entries:
 
   - term: "abrasion"
     definition: "Damaged area of paint, resulting from the scraping, rubbing down, or grinding away of the upper paint layers. A combination of an iron that is too hot plus careless application of pressure during hand lining will easily produce this form of damage, and frequently the excess heat, unevenly maintained in local areas, will succeed in softening, scorching, and burning the paint surface so that it adheres to any protective layers of paper and is subsequently removed with these facing layers after the lining is completed. On a smaller scale, an overheated spatula used for fixing down flaking paint will have a similar effect. Often seen as a regular pattern mirroring the canvas."
-    see_also: [weave enhancement]
+    see_also: [weave emphasis]
     aat: [300053077]
 
   - term: "absorption"
@@ -209,7 +209,7 @@ entries:
 
   - term: "compression hold"
     definition: "A type of surface deformation associated with impregnation lining systems (particularly hot-melt adhesive) using vacuum hold in conditions where the paint structure can be deformed by this pressure and set in that deformed configuration on chilling. The degree of compression hold that will be distributed throughout the lining complex is directly related to the amount of vacuum pressure and degree of impregnation employed. The use of an unimpregnated interleaf between painting and support can reduce compression hold distortion."
-    see_also: [nap bond]
+    see_also: [nap bond lining]
     aat:
 
   - term: "complex weaves"
@@ -484,7 +484,7 @@ entries:
 
   - term: "gelatin"
     definition: "The purest of the adhesives obtained from animal hide and bone."
-    see_also: [animal glues]
+    see_also: [animal glues (bone and hide)]
     aat: [300011812]
 
   - term: "gesso"
@@ -619,7 +619,7 @@ entries:
 
   - term: "irons"
     definition: "Hot irons used in lining often have a large surface area, even heat spread, and a reliable thermostat. Precisely temperature-regulated irons designed for painting conservation are commercially available."
-    see_also: ["*Cooling iron*", tacking iron]
+    see_also: [cooling iron, tacking iron]
     aat: [300022712]
 
   - term: "isinglass"
@@ -754,7 +754,7 @@ entries:
 
   - term: "moisture barrier"
     definition: "A layer with water vapor impermeability. Often applied as the last stage of treatment to the back of a glue-paste relining. Also applied to the reverse and edges of paintings to protect them from changes in atmospheric humidity. A layer of card or paper, or a rigid panel attached to the back of the stretcher can act in the same way."
-    see_also: [backing]
+    see_also: ["backing, backboards, backing boards"]
     aat:
 
   - term: "monomer"
@@ -984,7 +984,7 @@ entries:
     aat: [300012950]
 
   - term: "RTI"
-    see: [reflectance transformation imaging]
+    see: [reflectance transformation imaging (RTI)]
     aat: [300390594]
 
   - term: "sailcloth"
@@ -1107,7 +1107,7 @@ entries:
 
   - term: "surface texture, changes in"
     definition: "The original surface of a painting is affected by the weave textures of the fabric; the texture layers, such as brush marks, impasto, and crackle; and structure of the paint, ground, and/or varnish. Lining procedures may cause marked changes of various types in surface texture."
-    see_also: [pressure sources for lining, lumps, weave emphasis, pressure distortion]
+    see_also: [pressure sources for lining, lumps, weave emphasis]
     aat: [300219406]
 
   - term: "surfactant"
