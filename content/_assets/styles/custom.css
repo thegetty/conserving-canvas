@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   .quire-page::before {
-    content: "UNCORRECTED";
+    content: "PRESS";
     background-color: red;
     bottom: -115px;
     left: -115px;
   }
   .quire-page::after {
-    content: "PROOF";
+    content: "PREVIEW";
     bottom: -130px;
     left: -130px;
   }
@@ -179,7 +179,8 @@
 }
 
 /* Dedication page */
-.quire-page#dedication .quire-page__header__title {
+.quire-page#dedication .quire-page__header__title,
+.quire-page[data-page-id=dedication] .quire-page__header__title {
   display: none;
 }
 @media print {
