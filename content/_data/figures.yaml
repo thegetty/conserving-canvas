@@ -278,7 +278,7 @@ figure_list:
     label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
-    alt: "Black and white (raking light)photo of a seascape oil painting (a)."
+    alt: "Black and white (raking light) photo of a seascape oil painting (a)."
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
@@ -481,7 +481,7 @@ figure_list:
     label: "Figure 9.1"
     caption: "Close-up of the open-network sprayed lining adhesive."
     credit: "Image: SRAL"
-    alt: "Photograph close-up of  painting canvas linen."
+    alt: "Extreme close up of pale painting canvas linen, showing individual threads and fibers."
 
   - id: "fig-9-3"
     src: "figures/fig-9-3.png"
@@ -990,7 +990,7 @@ figure_list:
     label: "a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
-     alt: "Photo of a document with written in Spanish cursive."
+     alt: "Photo of a document with writing in Spanish cursive."
 
 
   - id: "fig-18-2-b"
@@ -1032,7 +1032,7 @@ figure_list:
     label: "a"
     #caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
     #credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
-    alt: "See figure 18.2 (a)."
+    alt: "Black and white photo of the cursive writing in figure 18.2 (a)."
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
@@ -1102,7 +1102,6 @@ figure_list:
     label: "Figure 20.1"
     caption: "Vishwa Mehra’s low-pressure suction table showing plenum, plenum openings and polyurethane foam pad on surface. At the end of the table is a mock-up of the nested three stretcher system."
     credit: "Image: Jim Coddington"
-    alt: ""
 
   - id: "fig-20-2"
     # src: "figures/fig-20-2.jpg"
@@ -1355,7 +1354,7 @@ figure_list:
     label: "Figure 25.4"
     caption: "Emman, *Mami Wata*, back, before treatment."
     credit: "Image: Emilie Desbarax"
-    alt: "Photo of the painting (25.3) backing, whcih appears to be a detailed fabric."
+    alt: "Photo of the painting (25.3) backing, which appears to be a detailed fabric."
 
 
   - id: "fig-25-5"
