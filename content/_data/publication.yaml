@@ -1,5 +1,3 @@
---- # ------------------------------------------------------------------------------
-
 # ==============================================================================
 # Publication.yml
 # ------------------------------------------------------------------------------
@@ -8,82 +6,91 @@
 # publication.
 
 # ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+# url: 'https://final-pages--conserving-canvas.netlify.app/'
+url: 'https://www.getty.edu/publications/conserving-canvas/'
+
+# ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Conserving Canvas
+subtitle:
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+  full: |
+    In 2019, Yale University, with the support of the Getty Foundation, held an international conference, where nearly four hundred attendees from more than twenty countries gathered to discuss a vital topic: the conservation of paintings on canvas. This was the first major symposium on the subject since 1974, when wax-resin and glue-paste lining reigned as the predominant conservation techniques. Over the past fifty years, such methods—often deemed destructive to artworks—have become less widely used in favor of more minimalist approaches to intervention. Recent decades have witnessed the reevaluation of traditional practices as well as focused research supporting significant new methodologies, procedures, and synthetic materials for the care and conservation of paintings on fabric supports.
+
+    *Conserving Canvas* compiles the proceedings of the conference, presenting a wide array of papers and posters that provide important global perspectives on the history, current state, and future needs of the field. Featuring an expansive glossary of terms that will be an invaluable resource for conservators, this publication promises to become a standard reference for the international conservation community.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2023-07-25 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
-  url:
+  isbn: "978-1-60606-825-0"
+  url: "https://www.getty.edu/publications/conserving-canvas/"
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Conservation Institute
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
+
+project_team:
+ - Rachel Barth, *Project Editor*
+ - Leslie Tilley, *Manuscript Editor*
+ - Greg Albers, *Digital Manager*
+ - Kurt Hauser, *Cover Design*
+ - Molly McGeehan, *Production*
+ - Danielle Brink, *Image and Rights Acquisition*
+ - Erin Cecele Dunigan and Chloe Millhauser, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Edited by Judith Keller, featuring photographs by Dorothea Lange and Walker Evans
+contributor_as_it_appears: "Edited by Cynthia Schwarz, Ian McClure, and Jim Coddington"
 
 contributor:
-  - id: jkeller
+  - id: "cschwarz"
+    first_name: "Cynthia"
+    last_name: "Schwarz"
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id: dlange
-    type: secondary
-    first_name: Dorothea
-    last_name: Lange
-    title: Photographer
-    affiliation: Farm Security Administration
-    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    url: https://en.wikipedia.org/wiki/Dorothea_Lange
-    pic: figures/lange.jpg
-  - id: wevans
-    type: secondary
-    first_name: Walker
-    last_name: Evans
-    title: Photograher
-    affiliation: Farm Security Administration
-    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    url: https://en.wikipedia.org/wiki/Walker_Evans
-    pic: figures/evans.jpg
+    bio: "Cynthia Schwarz is senior associate conservator Yale University Art Gallery."
+  - id: "imcclure"
+    first_name: "Ian"
+    last_name: "McClure"
+    type: primary
+    bio: "Ian McClure was formerly senior director of the Institute for the Preservation of Cultural Heritage and the Susan Morse Hilles Chief Conservator, Yale University Art Gallery."
+  - id: "jcoddington"
+    first_name: "Jim"
+    last_name: "Coddington"
+    type: primary
+    bio: "Jim Coddington is retired chief conservator, Museum of Modern Art, New York."
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: "© 2023 J. Paul Getty Trust<br />Glossary © 2023 J. Paul Getty Trust and Archetype Publications Ltd"
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution‑NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -91,20 +98,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (13.3 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (273 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.epub
   - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
+    name: Paperback
+    media_type: print
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: https://shop.getty.edu/products/conserving-canvas-978-1606068243
   - type: footer-link
     name: About
     link_relation: about
@@ -112,47 +119,55 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
-
+    url: https://www.getty.edu/legal/copyright.html
 # ------------------------------------------------------------------------------
 # Subjects
 # ------------------------------------------------------------------------------
 
 subject:
+  - type:
+    name:
+    identifer:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+    name: ART / Conservation & Preservation
+    identifier: ART056000
+  - type: bisac
+    name: ART / Reference
+    identifier: ART025000
+  - type: bisac
+    name: ART / Museum Studies
+    identifier: ART059000
+
+library_of_congress_cip: |
+  Library of Congress Cataloging-in-Publication Data
+  - Names: Conserving Canvas (Symposium) (2019 : Yale University), author. | Schwarz, Cynthia (Paintings conservator), editor. | McClure, Ian, editor. | Coddington, James, editor. | Institute for the Preservation of Cultural Heritage, organizer. | Getty Conservation Institute, issuing body.  
+  - Title: Conserving canvas / edited by Cynthia Schwarz, Ian McClure, and Jim Coddington.  
+  - Description: First edition. | Los Angeles : Getty Conservation Institute, 2023. | Proceedings of the symposium Conserving Canvas, organized by Institute for the Preservation of Cultural Heritage at Yale University and held at Yale University Art Gallery, October 14–17, 2019. | Includes bibliographical references. | Summary: "A collection of international case studies concerning the structural care and conservation of paintings on canvas, drawn from the proceedings of the October 2019 symposium Conserving Canvas"— Provided by publisher.  
+  - Identifiers: LCCN 2022060885 (print) | LCCN 2022060886 (ebook) | ISBN 9781606068243 (paperback) | ISBN 9781606068267 (adobe pdf) | ISBN 9781606068274 (epub) | ISBN 9781606068250  
+  - Subjects: LCSH: Painting—Conservation and restoration—Congresses. | Canvas relining—Congresses. | LCGFT: Conference papers and proceedings. 
+  - Classification: LCC ND1640 .C59 2019  (print) | LCC ND1640  (ebook) | DDC 751.6/2—dc23/eng/20230215 
+  - LC record available at https://lccn.loc.gov/2022060885
+  - LC ebook record available at https://lccn.loc.gov/2022060886
 
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: July 25, 2023
     summary:
+      - First edition
 
-repository_url:
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/conserving-canvas](https://github.com/thegetty/conserving-canvas), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/conserving-canvas
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover-promo.jpg

@@ -18,25 +18,35 @@
 
 // .q-figure
 // -----------------------------------------------------------------------------
+// overwrite bulma
 .content .q-figure {
-  text-align: unset; // overwrite bulma
+  text-align: unset;
+  &:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+  &:not(:first-child) {
+    margin-top: 2rem;
+  }
 }
 
 .q-figure {
   --atlas-z-index: 0;
 
   &:not(.q-figure--group__item) {
-    border-top: 1px solid $accent-color;
-    border-bottom: 1px solid $accent-color;
-    padding: 1em 0;
     margin-top: 0.5em;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  @if $theme == classic {
-    border: none;
-    padding: 0;
+    @if $theme == modern {
+      border-top: 1px solid $accent-color;
+      border-bottom: 1px solid $accent-color;
+      padding: 1rem 0;
+    } @else {
+      // figures shouldn't have borders or padding in 'classic' theme
+      // transparent border is to get around a bug with paged.js output
+      border-top: 1px solid transparent;
+      border-bottom: 1px solid transparent;
+      padding: 0;
+    }
   }
 
   > a {
@@ -73,26 +83,17 @@
     width: 100%;
   }
 
-  &__table {
-    &-wrapper {
+  &--table {
+    a {
+      color: currentColor;
     }
-  }
-
-  &__table {
     table {
-      margin: 0 !important;
       caption {
-        font-size: 1rem;
-        margin: 1rem;
-      }
-      tfoot {
-        ul {
-          li {
-            &:before {
-              content: "" !important;
-            }
-          }
+        @if $theme == modern {
+          color: $accent-color;
         }
+        font-size: 1rem;
+        margin: 0 1rem 1rem;
       }
     }
     th {
@@ -103,44 +104,41 @@
       border-left-width: 0px;
       border-bottom: 0;
     }
-    margin: 0 !important;
-    padding-bottom: 1em;
+  }
+  &.is-table-scale-1 {
+    font-size: 0.1rem;
+  }
+
+  &.is-table-scale-2 {
+    font-size: 0.2rem;
+  }
+
+  &.is-table-scale-3 {
+    font-size: 0.3rem;
+  }
+
+  &.is-table-scale-4 {
+    font-size: 0.4rem;
+  }
+
+  &.is-table-scale-5 {
+    font-size: 0.5rem;
+  }
+
+  &.is-table-scale-6 {
+    font-size: 0.6rem;
+  }
+
+  &.is-table-scale-7 {
+    font-size: 0.7rem;
+  }
+
+  &.is-table-scale-8 {
     font-size: 0.8rem;
-    &.q-table-scale-1 {
-      font-size: 0.1rem;
-    }
+  }
 
-    &.q-table-scale-2 {
-      font-size: 0.2rem;
-    }
-
-    &.q-table-scale-3 {
-      font-size: 0.3rem;
-    }
-
-    &.q-table-scale-4 {
-      font-size: 0.4rem;
-    }
-
-    &.q-table-scale-5 {
-      font-size: 0.5rem;
-    }
-
-    &.q-table-scale-6 {
-      font-size: 0.6rem;
-    }
-
-    &.q-table-scale-7 {
-      font-size: 0.7rem;
-    }
-
-    &.q-table-scale-8 {
-      font-size: 0.8rem;
-    }
-
-    &.q-table-scale-9 {
-      font-size: 0.9rem;
-    }
+  &.is-table-scale-9 {
+    font-size: 0.9rem;
   }
 
   .content & {
@@ -167,24 +165,23 @@
     }
     user-select: text;
     a {
-      line-height: 1.5;
+      line-height: 0;
     }
   }
 
-  &__credit {
-  }
-
-  // The figure label with figureLabelLocation: below
   &__label {
-    @if $theme == classic {
-      color: background-color-text-classic($content-background-color);
-    } @else {
-      color: $accent-color;
-    }
-    height: 1.2em;
+    display: inline-block;
+    height: 0;
     font-weight: 700;
+    line-height: 0;
     margin-right: .5rem;
-    margin-top: -.2em;
+    a {
+      @if $theme == classic {
+        color: background-color-text-classic($content-background-color);
+      } @else {
+        color: $accent-color;
+      }
+    }
     .q-figure__label-icon {
       display: inline-block;
       line-height: 1;
@@ -463,6 +460,10 @@
   }
 }
 
+.q-figure__caption-embed-link {
+  display: block;
+}
+
 /** VIDEO/AUDIO FALLBACK ELEMENTS **/
 
 div.multimedia {
@@ -567,8 +568,10 @@ div.multimedia {
 
   .q-figure__label--below & {
     display: inline;
-    color: $accent-color;
-    transition: color 0.35s;
+    @if $theme == modern {
+      color: $accent-color;
+      transition: color 0.35s;
+    }
 
     &:hover {
       color: link-hover-color($content-background-color);

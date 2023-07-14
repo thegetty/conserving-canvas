@@ -6,16 +6,12 @@ const { html } = require('~lib/common-tags')
  * @param      {Object}  eleventyConfig
  * @param      {Object}  globalData
  */
-module.exports = function (eleventyConfig, { page }) {
+module.exports = function (eleventyConfig) {
   const lightboxSlides = eleventyConfig.getFilter('lightboxSlides')
   const lightboxUI = eleventyConfig.getFilter('lightboxUI')
 
-  return async function (figures=page.figures) {
-    if (!figures) return;
-    figures = figures.map((figure) => ({
-      preset: 'zoom',
-      ...figure
-    }))
+  return async function (figures) {
+    if (!figures) return
 
     return html`
       <q-modal>
@@ -29,6 +25,6 @@ module.exports = function (eleventyConfig, { page }) {
           id="close-modal"
         ></button>
       </q-modal>
-    `;
+    `
   }
 }

@@ -1,0 +1,752 @@
+/* TEMPORARY -- Preview Banner */
+@media screen {
+  .quire-page::before,
+  .quire-page::after {
+    color: white;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .quire-page::before {
+    content: "PRESS";
+    background-color: red;
+    bottom: -115px;
+    left: -115px;
+  }
+  .quire-page::after {
+    content: "PREVIEW";
+    bottom: -130px;
+    left: -130px;
+  }
+}
+
+:root {
+  /* https://coolors.co/2b1d0b-b35c00-fbb041-f6f3f6-d3c5d3 */
+  /* These colors also being used in content/_assets/styles/variables.scss */
+  --bright-orange: #fbb041;
+  --accent-color: #b35c00;
+  --dark-brown: #2b1d0b;
+  --white: #fff;
+  --pale-lavendar: #f6f3f6;
+  --lavendar: #d3c5d3;
+
+  /* This is otherwise black by default, which can lead to issues:
+  https://github.com/thegetty/conserving-canvas/issues/40 */
+  --atlas-background: transparent;
+}
+
+/* UTILITY CLASSES
+============================================================================= */
+
+.no-break-container {
+  break-inside: avoid;
+}
+
+/* SPECIALS
+============================================================================= */
+/* Mathematical Formula */
+#paper-50-formula {
+  text-align: center;
+  font-size: .875rem;
+  margin-bottom: 1rem;
+}
+#paper-50-formula p:first-child {
+  margin-bottom: 0;
+}
+#paper-50-formula p:last-child {
+  border-top: 1px solid currentColor;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.quire-page__content .content blockquote {
+  font-style: normal;
+}
+.quire-page__content .content blockquote em {
+  font-style: italic;
+}
+/* Plain Blockquote (no ornament) */
+.quire-page__content .container .content blockquote.blockquote-plain p:first-child::before {
+  content: none;
+}
+
+/* Illustrated List (Papers 44 and 63) */
+/* counters markup from https://www.joshwcomeau.com/css/styling-ordered-lists-with-css-counters/ */
+@media screen {
+  .quire-page__content .content .illustrated-list ol {
+    list-style: none;
+    counter-reset: steps;
+    margin-left: 0;
+  }
+  .quire-page__content .content .illustrated-list ol li {
+    display: grid;
+    grid-template-columns: 5% 50% 40%;
+    grid-gap: 2.5%;
+    border-top: 1px solid currentColor;
+    margin-left: 0;
+    margin-bottom: 2rem;
+    counter-increment: steps;
+  }
+  .quire-page__content .content .illustrated-list ol li:before {
+    content: counter(steps) ".";
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  .quire-page__content .content .illustrated-list ol li .q-figure {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    border-width: 0;
+    padding: 0;
+    grid-column-start: 3;
+  }
+  .quire-page__content .content .illustrated-list ol li p {
+    margin-top: 1rem;
+  }
+  /* .quire-page__content .container .content .illustrated-list table {
+    font-size: .5rem;
+  } */
+  .quire-page__content .container .content .illustrated-list table caption {
+    font-size: .75rem;
+    line-height: 1.6;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+@media screen and (max-width:600px) {
+  .quire-page__content .content .illustrated-list ol li {
+    grid-template-columns: 10% 90%;
+    grid-gap:0;
+  }
+  .quire-page__content .content .illustrated-list ol li p,
+  .quire-page__content .content .illustrated-list ol li .q-figure {
+    grid-column-start: 2;
+  }
+}
+@media print {
+  .quire-page__content .content .illustrated-list ol li {
+    break-inside: avoid;
+  }
+  .quire-page__content .container .content .illustrated-list table {
+    font-size: .8125rem;
+  }
+  .quire-page__content .container .content .illustrated-list table caption {
+    font-size: .75rem;
+  }
+  .quire-page__content .content .illustrated-list ol li .q-figure {
+    border-top-width: 0;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+  .quire-page__content .content .illustrated-list.illustrated-list--narrow-figures ol li .q-figure {
+    width: 65%;
+  }
+}
+
+/* Glossary List */
+.quire-page__content .content dl.glossary-list {
+  margin-left: 0;
+}
+@media screen {
+  .quire-page__content .content dl.glossary-list {
+    line-height: 2;
+  }
+}
+.quire-page__content .content .glossary-navigation {
+  line-height: 2;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.quire-page__content .content .glossary-navigation > span {
+  color: var(--lavendar)
+}
+.quire-page__content .content .glossary-navigation > *:not(:last-child) {
+  margin-right: 1rem;
+}
+@media print {
+  .quire-page__content .content .glossary-navigation {
+    display: none;
+  }
+}
+.quire-page__content .content dl.glossary-list dt a,
+.quire-page__content .content dl.glossary-list dt a:hover {
+  border-bottom-width: 0px !important;
+}
+
+/* Dedication page */
+.quire-page#dedication .quire-page__header__title,
+.quire-page[data-page-id=dedication] .quire-page__header__title {
+  display: none;
+}
+@media print {
+  .quire-page#dedication .quire-page__header {
+    min-height: 183.2px;
+  }
+}
+
+/* GENERAL
+============================================================================= */
+/*  Progress Bar */
+.quire-progress-bar {
+  display: none;
+}
+
+/* Hide PDF footers */
+.quire-page .pdf-footers__title {
+  display: none;
+}
+
+/* Remove custom list markers */
+.quire-page__content .container .content ul {
+  list-style: initial;
+}
+.quire-page__content .container .content ul li::before {
+  content: none;
+}
+/* Adjust various list margins */
+.content ul {
+  margin-left: 1.5rem;
+}
+.quire-page__content .container .content li ul li {
+  margin-bottom: .5em;
+}
+.quire-page__content .container .content ul.quire-contributors-list {
+  list-style-type: none;
+}
+
+/* Fix for empty content areas that otherwise show up white */
+nav.table-of-contents.menu-list + .content {
+  background-color: transparent;
+}
+
+/* Figures
+============================================================================= */
+/* Color the manually added figure labels in group captions */
+.q-figure--group .q-figure__label {
+  color: var(--accent-color);
+}
+
+/* COVER
+============================================================================= */
+/* Cover Background Image */
+.quire-cover__overlay {
+  background-position-y: 80%;
+}
+/* Cover Title Area */
+.hero-body .container.is-fluid {
+  background: transparent;
+  left: auto;
+  margin-right: 0;
+  padding-left: 30px;
+  padding-right: 60px;
+  padding-top: 0;
+  right: 0;
+}
+/* Cover Title */
+.quire-cover__hero .title {
+  color: var(--bright-orange);
+  font-size: 5rem;
+  text-align: right;
+}
+/* Cover Contributor */
+.quire-cover__hero .contributor {
+  font-size: 1.2rem;
+  text-align: right;
+  text-transform: uppercase;
+}
+.quire-cover__hero .contributor em {
+  font-style: normal;
+}
+@media screen and (max-width:460px) {
+  .hero-body .container.is-fluid {
+    padding-right: 30px;
+  }
+  .quire-cover__hero .title {
+    font-size: 4rem;
+  }
+}
+@media screen and (max-width:360px) {
+  .quire-cover__hero .title {
+    font-size: 3rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1rem;
+  }
+}
+/* Cover More Arrow */
+.quire-cover__more .hero-more {
+  background: var(--bright-orange);
+}
+.quire-cover__more .hero-more svg {
+  fill: var(--dark-brown);
+}
+/* Cover Page Background */
+.quire:not(.no-js) .quire__primary main.quire-cover {
+  background-color: var(--dark-brown);
+}
+/* Cover Descriptive Text */
+.quire-cover .quire-page__content .container.is-fluid .content {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 1.1em;
+}
+
+
+/* NAVBAR
+============================================================================= */
+/* Fix display of nav labels */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 900px) {
+  span.nav-label {
+    display: none !important;
+  }
+}
+
+/* MENU
+============================================================================= */
+/* Make key menu items white */
+/* Book Title */
+.quire-menu__header h4.quire-menu__header__title {
+  color: var(--white);
+  font-size: 1.7rem;
+}
+/* Current Page */
+.quire-menu .page-item a.active,
+.quire-menu .section-item a.active,
+.quire-menu .page-item .page-item a.active,
+.quire-menu .section-item .page-item a.active,
+.quire-menu .page-item a.active *,
+.quire-menu .section-item a.active * {
+  border-left-color: var(--white) !important;
+  color: var(--white) !important;
+}
+/* Headings for Downloads and Citations */
+.quire-menu__formats h6 {
+  border-bottom-color: var(--white);
+  color: var(--white);
+}
+
+/* TABLES
+============================================================================= */
+/* Style tables as they appear on the page */
+.q-figure.q-figure--table {
+  border-width: 0;
+  padding: 0;
+}
+.quire-page__content .container .content table,
+.quire-page__content .container .content table th,
+.quire-page__content .container .content table td {
+  border: 1px solid var(--dark-brown);
+  border-collapse: collapse;
+}
+.quire-page__content .container .content table {
+  margin: 0;
+  line-height: 1.5;
+  text-align: left;
+}
+.quire-page__content .container .content table caption {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  text-align: left;
+}
+.quire-page__content .container .content table p {
+  margin-bottom: .25em;
+  line-height: 1.5;
+}
+.quire-page__content .container .content table ul {
+  list-style: initial;
+  padding-left: 0;
+  margin-left: .5em;
+  margin-top: 0;
+  margin-bottom: .5em;
+}
+.quire-page__content .container .content table ol {
+  padding-left: 0;
+  margin-left: 3em;
+  margin-top: 0;
+  margin-bottom: .5em;
+}
+.quire-page__content .container .content table ul li,
+.quire-page__content .container .content table ol li {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content table ul li::before {
+  content: none;
+}
+.quire-page__content .content .table-key {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  text-align: left;
+}
+.quire-page__content .container .content .table-key p,
+.quire-page__content .container .content .table-key ul {
+  margin-bottom: 0.25rem !important;
+}
+table a,
+.table-key a {
+  color: inherit;
+  border-bottom: 1px dotted var(--accent-color);
+}
+/* Fix an issue caused by too generalized selector for img elements */
+.q-lightbox-slides__element table img {
+  position: initial;
+  transform: none;
+}
+/* Add some margin in cases where a table figure contains multiple tables */
+.quire-page__content .container .content table + table,
+.q-lightbox-slides__element--table table + table {
+  margin-top: 1rem;
+}
+/* Adjust look of table captions */
+.quire-page__content .container .content table caption strong {
+  font-weight: normal;
+}
+.quire-page__content .container .content table caption strong:first-of-type {
+  color: var(--accent-color);
+  font-weight: bold;
+}
+/* Set units to rem so size maintains even when table text is scaled */
+.content figure .q-figure__caption {
+  font-size: .75rem;
+}
+
+/* HEADERS
+============================================================================= */
+/* Unitalicize text in H3 */
+.quire-page h3 em {
+  font-style: normal;
+}
+
+/* COPYRIGHT & ABOUT
+============================================================================= */
+@media screen {
+  .quire-page__content .content a.quire-copyright__icon__link,
+  .quire-page__content .content a.quire-copyright__icon__link:hover {
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+    display: none;
+  }
+  .quire-page__content .container .content .project-team ul,
+  .quire-page__content .container .content .cip-data ul {
+    margin-bottom: 1em;
+    margin-left: 0;
+  }
+  .quire-page__content .container .content .project-team ul li,
+  .quire-page__content .container .content .cip-data ul li {
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+  .quire-page__content .container .content .cip-data ul {
+    margin-top: 0;
+  }
+}
+/* Publisher */
+.quire-page__content .container .content .publisher p:first-child {
+  margin-bottom: 0;
+}
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+}
+.quire-page__content .container .content .project-team ul li p {
+  margin-bottom: 0;
+}
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  list-style-type: none;
+}
+.quire-page__content .container .content .cip-data ul li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+/* FINE PRINT
+============================================================================= */
+.quire-page__content .container .content figure .q-figure__caption,
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .container .content .quire-page__content__references dl,
+#print-copyright .quire-page__content .container .content {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+@media print {
+  #glossary .quire-page__content .container .content,
+  .quire-page__content .container .content .quire-page__content__references dl {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+}
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .content .quire-page__content__references dl {
+  margin-bottom: .375rem;
+}
+.quire-page__content .container .content .footnotes li p {
+  margin-bottom: 0;
+}
+
+/* PDF
+============================================================================= */
+@media print {
+  /* Break pages */
+  section.quire-page {
+    page-break-before: always;
+  }
+  /* Fix/set running feet */
+  .quire-page .pdf-footers__title {
+    flow: static(pagetitle);
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 7.5pt;
+    display: inline-block;
+    text-align: left;
+  }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
+  /* Fix font size on sub-section items */
+  .quire-contents-list .menu-list .section-item ol a {
+    font-size: 8.5pt;
+    line-height: 1.6;
+  }
+  /* Remove TOC page numbering from sections */
+  .quire-contents-list .section-item > a::after,
+  .quire-contents-list .section-item.frontmatter-page > a::after {
+    content: '';
+  }
+  /* Fix page breaks within biblios */
+  .quire-page__content__references dt {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+  .quire-page__content .content .quire-page__content__references dl dd {
+    margin-bottom: 0;
+  }
+  /* Add TOC dotted leaders back in since Prince supports them */
+  .quire-contents-list .page-item a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page);
+  }
+  .quire-contents-list .page-item.frontmatter-page a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+    font-style: normal;
+  }
+  /* Style half title and title pages */
+  .half-title-page {
+    font-weight: 700;
+  }
+  .quire-page.title-page {
+    page-break-before: right;
+  }
+  /* TOCs */
+  .quire-contents-list {
+    padding: 0;
+  }
+  .quire-contents-list .menu-list {
+    font-size: 1em;
+  }
+  /* Add margins for consistent spacing */
+  .quire-page__content .container .content p,
+  .quire-page__content .container .content ul {
+    margin-bottom: 1em;
+  }
+  /* Make Intro 2 column in PDF */
+  #intro.quire-page .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  /* Links */
+  .q-figure__modal-link {
+    border-bottom-width: 0;
+  }
+  .q-figure__label.q-figure__label--below .q-figure__modal-link {
+    line-height: 0;
+  }
+  /* Fix figure label positioning */
+  .q-figure__label {
+    line-height: 0;
+  }
+  /* Ensure blank pages don't get page numbers */
+  @page:blank {
+    @bottom-left {
+      content: none !important;
+    }
+    @bottom-right {
+      content: none !important;;
+    }
+  }
+  /* Ensure the intro breaks to a right-hand page*/
+  .quire-page.page-one {
+    page: page-one;
+    counter-reset: page 1;
+    page-break-before: right;
+  }
+  /* Image adjustments for print */
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  .q-figure.pdf-break-after {
+    break-after: always;
+    page-break-after: always;
+  }
+  .q-figure.pdf-stack-images .q-figure--group__row {
+    flex-direction: column;
+  }
+  .q-figure.pdf-stack-images .q-figure--group__row figure {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  .q-figure.pdf-no-top-border {
+    border-top-width: 0;
+    padding-top: 0;
+  }
+  .q-figure.pdf-no-bottom-border {
+    border-bottom-width: 0;
+    padding-bottom: 0;
+  }
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .q-figure.pdf-float-top,
+  div.pdf-float-top {
+    -prince-float: top;
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem;
+  }
+  .q-figure.pdf-float-bottom {
+    -prince-float: bottom;
+    margin-top: 1.5rem;
+    margin-bottom: 0 !important;
+  }
+  .q-figure.pdf-page-break-after {
+    page-break-after: always;
+  }
+  .q-figure.pdf-page-break-before,
+  .pdf-page-break-before{
+    page-break-before: always;
+  }
+  .q-figure.pdf-column-break-before,
+  .pdf-column-break-before{
+    column-break-before: always;
+  }
+  .q-figure.pdf-85-percent-width img,
+  .q-figure.pdf-85-percent-width figure figcaption {
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .q-figure.pdf-70-percent-width img,
+  .q-figure.pdf-70-percent-width figure figcaption {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .pdf-1-column-group .q-figure--group__row.columns {
+    flex-direction: column;
+  }
+  .pdf-1-column-group .q-figure--group__row.columns .q-figure--group__item {
+    width: 100% !important;
+  }
+  .pdf-one-and-quarter-inch-bottom-margin {
+    margin-bottom: 1.25in !important;
+  }
+  /* Remove content from pages with `class: pdf-heading-only` */
+  .pdf-heading-only .quire-page__content {
+    display: none;
+  }
+  .quire-page.pdf-heading-only {
+    page: no-footer;
+    page-break-before: right;
+  }
+  /* Make tables full-width and float to the top of the page */
+  .q-figure.q-figure--table {
+    column-span: all;
+    /* -prince-float: top; */
+  }
+  .q-figure.q-figure--table#table-16-1 {
+    column-span: none;
+  }
+  .q-figure.q-figure--table#table-51-1 img {
+    max-width: 2in;
+  }
+  .q-figure.q-figure--table#table-63-1 {
+    column-span: none;
+    -prince-float: none;
+    border-bottom: 1px solid var(--accent-color);
+    padding-bottom: 1rem;
+  }
+  .q-figure#fig-63-6 {
+    margin-bottom: 1rem;
+  }
+  /* Standardize table font sizes in PDF */
+  .q-figure.is-table-scale-5,
+  .q-figure.is-table-scale-6,
+  .q-figure.is-table-scale-7 {
+    font-size: .875rem;
+  }
+  /* Fix the abstract display */
+  .quire-page__abstract .container .content {
+    padding-bottom: 0;
+  }
+  .quire-page__abstract .container::after {
+    font-size: .5rem;
+  }
+  /* Hide keywords list in print */
+  .quire-page__abstract .keywords-list {
+    display: none;
+  }
+  /* Make pages with `class: backmatter` be 2 columns*/
+  .quire-page.backmatter .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  /* Image adjustments for print */
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  /* Remove page number from dedication */
+  #print-copyright.quire-page,
+  #dedication.quire-page.frontmatter {
+    page: no-footer;
+  }
+  /* Remove color accents to reduce print cost */
+  .quire-page__header .hero-body .label {
+    border-bottom-color: #000;
+    border-top-color: #000;
+  }
+  .q-figure--table table caption,
+  .quire-page__content .container .content table caption strong:first-of-type {
+    color: #000;
+  }
+  /* Don't let headings break across columns/pages */
+  .quire-page h2,
+  .quire-page h3,
+  .quire-page h4 {
+    break-inside: avoid;
+  }
+}

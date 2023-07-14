@@ -1,32 +1,50 @@
 const chalkFactory = require('~lib/chalk')
-const FigureFactory = require('./figure-factory')
+const FigureFactory = require('./figure/factory')
 const iiifConfig = require('./iiif/config')
-const { error, info } = chalkFactory('Figure Processing')
 
+const logger = chalkFactory('Figures', 'DEBUG')
+
+/**
+ * Figures Plugin
+ * Uses the FigureFactory to create Figure instances
+ * for all figures in `figures.yaml` and updates global data
+ */
 module.exports = function (eleventyConfig, options = {}) {
-  iiifConfig(eleventyConfig)
-
   eleventyConfig.on('eleventy.before', async () => {
-    const factory = new FigureFactory(eleventyConfig)
-    let { figure_list: figureList } = eleventyConfig.globalData.figures
-    figureList = await Promise.all(figureList.map((data) => {
-      const figure = factory.create(data)
-      return factory.process(figure)
-    }))
-    const figureErrors = figureList.filter(({ errors }) => !!errors.length)
+    const config = iiifConfig(eleventyConfig)
+    const figureFactory = new FigureFactory(config)
 
-    if (figureErrors.length) {
-      error(`There were errors processing the following images:`)
+    const { figure_list: figureList } = eleventyConfig.globalData.figures
+
+    const figures = await Promise.all(
+      figureList.map((data) => {
+        return figureFactory.create(data)
+      })
+    )
+    const errors = figureList.filter(({ errors }) => errors && !!errors.length)
+
+    if (errors.length) {
+      logger.error('There were errors processing the following images:')
       console.table(
-        figureErrors.map((figure) => {
-          return { ...figure, errors: figure.errors.join(' ')}
+        errors.map(({ errors, figure }) => {
+          return { id: figure.id, errors: errors.join(' ') }
         }),
         ['id', 'errors']
-      );
+      )
     }
-    const figureData = figureList.map(({ data }) => data)
-    Object.assign(eleventyConfig.globalData.figures.figure_list, figureData)
 
-    info(`Done`)
+    /**
+     * Add IIIFConfig to global data
+     */
+    eleventyConfig.globalData.iiifConfig = config
+
+    /**
+     * Update global figures data to only have properties for Quire shortcodes
+     */
+    Object.assign(
+      figureList,
+      figures.map(({ figure }) => figure.adapter()),
+    )
+    logger.info('Processing complete')
   })
 }

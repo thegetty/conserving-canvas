@@ -6,7 +6,7 @@ const path = require('path')
  *
  * @param      {Object} eleventyConfig  eleventy configuration
  * @param      {Object} figure          The figure object
- * 
+ *
  * @return     {String}  HTML containing  a `figureImageElement`, a caption and annotations UI
  */
 module.exports = function(eleventyConfig) {
@@ -17,24 +17,27 @@ module.exports = function(eleventyConfig) {
   const figureModalLink = eleventyConfig.getFilter('figureModalLink')
   const markdownify = eleventyConfig.getFilter('markdownify')
 
-  const { imageDir } = eleventyConfig.globalData.config.params
+  const { imageDir } = eleventyConfig.globalData.config.figures
 
-  return function(figure) {
-    const { 
+  return async function(figure) {
+    const {
       caption,
       credit,
       id,
-      isCanvas,
+      isSequence,
       label
     } = figure
 
-    const annotationsElement = annotationsUI(figure)
-    const labelElement = figureLabel({ caption, id, label })
+    const annotationsElement = !isSequence
+      ? annotationsUI({ figure })
+      : ''
+    const labelElement = figureLabel({ id, label, isSequence })
 
     /**
      * Wrap image in modal link
      */
-    const imageElement = figureModalLink({ content: figureImageElement(figure), id })
+    let imageElement = await figureImageElement(figure, { interactive: false })
+    imageElement = figureModalLink({ content: imageElement, id })
 
     const captionElement = figureCaption({ caption, content: labelElement, credit })
 

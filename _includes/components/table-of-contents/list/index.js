@@ -29,24 +29,27 @@ module.exports = function(eleventyConfig) {
       })
     }
 
+    const listItem = (page) => {
+      if (presentation !== 'brief' && page.children && page.children.length) {
+        const children = renderList(page.children)
+        return `${tableOfContentsItem({ children, page, presentation })}`
+      }
+      return `${tableOfContentsItem({ page, presentation })}`
+    }
+
     const renderList = (pages) => {
-      const otherPages = filterCurrentPage(pages);
+      const otherPages = filterCurrentPage(pages)
       return html`
-        <ol class="toc-list">
-          ${otherPages.map((page) => {
-            if (presentation !== 'brief' && page.children && page.children.length) {
-              const children = renderList(page.children)
-              return `${tableOfContentsItem({ children, page, presentation })}`
-            }
-            return `${tableOfContentsItem({ page, presentation })}`
-          })}
-        </ol>`
+        <ol class="table-of-contents-list">
+          ${otherPages.map(listItem)}
+        </ol>
+      `
     }
 
     return html`
-      <div class="menu-list">
+      <nav class="table-of-contents menu-list">
         ${renderList(navigation)}
-      </div>
+      </nav>
     `
   }
 }

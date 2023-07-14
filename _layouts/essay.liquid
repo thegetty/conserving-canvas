@@ -1,21 +1,25 @@
 ---
+## CUSTOMIZE FILE -- Conserving Canvas
+## Adds keywords
+##
 class: quire-essay
 layout: base.11ty.js
 description: Essay layout. This layout describes a single-page template that has been augmented with the ability to display a frontmatter-defined abstract (in markdown format) as well as bibliography references.
 ---
 
 {% pageHeader
-  contributor_byline=contributor_byline,
+  byline_format=byline_format,
   image=image,
   label=label,
   pageContributors=pageContributors,
+  short_title=short_title,
   subtitle=subtitle,
   title=title
 %}
 
 <section class="section quire-page__content">
   {% if abstract %}
-    {% abstract abstract=abstract %}
+    {% abstract abstract=abstract keywords=keywords %}
   {% endif %}
   <div class="container">
     <div class="content">

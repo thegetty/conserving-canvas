@@ -1,22 +1,27 @@
 const fs = require('fs-extra')
 const path = require('path')
-const Manifest = require('./index')
 
 module.exports = class ManifestWriter {
   constructor(iiifConfig) {
-    this.iiifConfig = iiifConfig
+    this.baseURI = iiifConfig.baseURI
+    this.outputRoot = iiifConfig.dirs.outputRoot
   }
 
   /**
-   * Write manifest to file system and global data
-   * 
-   * @param  {Object} figure   figure entry data
-   * @param  {Object} manifest JSON manifest
+   * Write an IIIF manifest to the file system
+   *
+   * @param  {Object} manifest  IIIF manifest
    */
-  write({ figure, manifest }) {
-    const { manifestFilename, outputDir, outputRoot } = this.iiifConfig
-    const outputPath = path.join(outputRoot, outputDir, figure.id, manifestFilename)
-    fs.ensureDirSync(path.parse(outputPath).dir)
-    fs.writeJsonSync(outputPath, manifest)
+  write(manifest) {
+    if (!manifest) return { errors: ['Error writing manifest. Manifest is undefined.'] }
+    const uriPathname = manifest.id.replace(this.baseURI, '')
+    const outputPath = path.join(this.outputRoot, uriPathname)
+    try {
+      fs.ensureDirSync(path.parse(outputPath).dir)
+      fs.writeJsonSync(outputPath, manifest, { spaces: 2 })
+      return { messages: [`Generated manifest ${outputPath}`] }
+    } catch(error) {
+      return { errors: [`Failed to write manifest. ${error}`] }
+    }
   }
 }

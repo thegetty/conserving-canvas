@@ -9,14 +9,13 @@
  */
 module.exports = function (eleventyConfig, items) {
   if (!items || !Array.isArray(items)) return null
-
+  const { defaultLocale } = eleventyConfig.globalData.config.localization
   const removeMarkdown = eleventyConfig.getFilter('removeMarkdown')
 
   /**
    * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator/Collator#locales
-   * @todo set locale using publication `config.languageCode`
    */
-  const locales = 'en'
+  const locales = defaultLocale
 
   /**
    * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator/Collator#options
@@ -31,9 +30,9 @@ module.exports = function (eleventyConfig, items) {
   }
 
   return items.sort((itemA, itemB) => {
-    const sortById = eleventyConfig.globalData.config.params.displayBiblioShort
-    let a = sortById ? itemA.id : itemA.sort_as || itemA.full
-    let b = sortById ? itemB.id : itemB.sort_as || itemB.full
+    const sortById = eleventyConfig.globalData.config.bibliography.displayShort
+    let a = sortById ? itemA.sort_as || itemA.id : itemA.sort_as || itemA.full
+    let b = sortById ? itemB.sort_as || itemB.id : itemB.sort_as || itemB.full
     a = removeMarkdown(a)
     b = removeMarkdown(b)
     return a.localeCompare(b, locales, options)

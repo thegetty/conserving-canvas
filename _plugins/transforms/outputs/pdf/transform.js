@@ -1,7 +1,11 @@
+//
+// CUSTOMIZED FILE
+// Remove title trunctation for PDF footers
+//
 const jsdom = require('jsdom')
 const filterOutputs = require('../filter.js')
 const truncate = require('~lib/truncate')
-const writeOutput = require('./write')
+const writer = require('./write')
 
 const { JSDOM } = jsdom
 
@@ -16,14 +20,16 @@ module.exports = function(eleventyConfig, collections, content) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
 
+  const writeOutput = writer(eleventyConfig)
+
   /**
    * Truncated page or section title for footer
    * @param  {Object} page
    * @return {String} Formatted page or section title
    */
   const formatTitle = ({ label, short_title: shortTitle, title }) => {
-    const truncatedTitle = shortTitle || truncate(title, 35)
-    return pageTitle({ label, title: truncatedTitle })
+    // const truncatedTitle = shortTitle || truncate(title, 35)
+    return pageTitle({ label, title: shortTitle || title })
   }
 
   /**
@@ -63,6 +69,7 @@ module.exports = function(eleventyConfig, collections, content) {
   if (pdfPages.includes(this.outputPath)) {
     const { document } = new JSDOM(content).window
     const mainElement = document.querySelector('main[data-output-path]')
+    const svgSymbolElements = document.querySelectorAll('body > svg')
     const pageIndex = pdfPages.findIndex((path) => path === this.outputPath)
 
     if (mainElement) {
@@ -72,26 +79,27 @@ module.exports = function(eleventyConfig, collections, content) {
 
         sectionElement.innerHTML = mainElement.innerHTML
 
-        for (className of mainElement.classList) {
+        for (const className of mainElement.classList) {
           sectionElement.classList.add(className)
         }
 
         setDataAttributes(currentPage, sectionElement)
 
         // set an id for anchor links to each section
-        sectionElement.setAttribute('id', mainElement.getAttribute('id'))
+        sectionElement.setAttribute('id', mainElement.dataset.pageId)
 
         // transform relative links to anchor links
         transformRelativeLinks(sectionElement)
 
         // remove non-pdf content
         filterOutputs(sectionElement, 'pdf')
+        collections.pdf[pageIndex].svgSymbolElements = Array.from(svgSymbolElements)
         collections.pdf[pageIndex].sectionElement = sectionElement
       }
 
       /**
        * Once this transform has been called for each PDF page
-       * every item in the collection will have `sectionConent`
+       * every item in the collection will have `sectionContent`
        */
       if (collections.pdf.every(({ sectionElement }) => !!sectionElement)) {
         writeOutput(collections.pdf)

@@ -5,6 +5,7 @@ const bracketedSpansPlugin = require('markdown-it-bracketed-spans')
 const defaults = require('./defaults')
 const deflistPlugin = require('markdown-it-deflist')
 const footnotePlugin = require('markdown-it-footnote')
+const { footnoteRef, footnoteTail } = require('./footnotes')
 const removeMarkdown = require('remove-markdown')
 
 /**
@@ -22,14 +23,17 @@ const removeMarkdown = require('remove-markdown')
 module.exports = function(eleventyConfig, options) {
   /**
    * @see https://github.com/valeriangalliat/markdown-it-anchor#usage
+   * To prevent duplicate element IDs from slugified headings, we are only generating anchor links for level 1 headings
    */
-  const anchorOptions = {}
+  const anchorOptions = {
+    level: [1]
+  }
 
   /**
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
   const attributesOptions = {
-    allowedAttributes: ['class', 'id'],
+    allowedAttributes: ['class', 'id', 'target'],
     leftDelimiter: '{',
     rightDelimiter: '}'
   }
@@ -74,7 +78,7 @@ module.exports = function(eleventyConfig, options) {
   }
 
   /**
-   * Override default renderer to remove brakcets from footnotes
+   * Override default renderer to remove brackets from footnotes
    */
   markdownLibrary.renderer.rules.footnote_caption = (tokens, idx) => {
     let n = Number(tokens[idx].meta.id + 1).toString()
@@ -84,18 +88,24 @@ module.exports = function(eleventyConfig, options) {
     return n
   }
 
+  /** 
+   * Use custom footnote_ref and footnote_tail definitions
+   */
+  markdownLibrary.inline.ruler.after('footnote_inline', 'footnote_ref', footnoteRef);
+  markdownLibrary.core.ruler.after('inline', 'footnote_tail', footnoteTail);
+
   eleventyConfig.setLibrary('md', markdownLibrary)
 
   /**
    * Add a universal template filter to render markdown strings as HTML
    * @see https://github.com/markdown-it/markdown-it#simple
    */
-  eleventyConfig.addFilter('markdownify', (content) => {
+  eleventyConfig.addFilter('markdownify', (content, options = {}) => {
     if (!content) return ''
 
-    return !content.match(/\n/)
-      ? markdownLibrary.renderInline(content)
-      : markdownLibrary.render(content)
+    return content.match(/\n/) || options.inline === false
+      ? markdownLibrary.render(content)
+      : markdownLibrary.renderInline(content) 
   })
 
   /**

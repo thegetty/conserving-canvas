@@ -28,11 +28,9 @@ module.exports = function(eleventyConfig) {
         caption,
         credit,
         id,
-        iiif,
+        isSequence,
         label,
-        media_type: mediaType,
-        preset,
-        src
+        mediaType
       } = figure
 
       const isAudio = mediaType === 'soundcloud'
@@ -43,12 +41,12 @@ module.exports = function(eleventyConfig) {
           case mediaType === 'soundcloud':
             return figureAudioElement(figure)
           case mediaType === 'table':
-            return await figureTableElement(figure)
+            return `<div class="overflow-container">${await figureTableElement(figure)}</div>`
           case isVideo:
             return figureVideoElement(figure)
           case mediaType === 'image':
           default:
-            return figureImageElement(figure)
+            return figureImageElement(figure, { preset: 'zoom' })
         }
       }
 
@@ -65,6 +63,9 @@ module.exports = function(eleventyConfig) {
             ${captionAndCreditSpan}
           </div>
         `
+        : ''
+      const annotationsElement = !isSequence
+        ? annotationsUI({ figure, lightbox: true })
         : ''
 
       const elementBaseClass = 'q-lightbox-slides__element'
@@ -86,7 +87,7 @@ module.exports = function(eleventyConfig) {
           </div>
           <div class="q-figure-slides__slide-ui">
             ${captionElement}
-            ${annotationsUI(figure)}
+            ${annotationsElement}
           </div>
         </div>
       `
@@ -94,7 +95,7 @@ module.exports = function(eleventyConfig) {
 
     const slideElements = async () => {
       let slides = ''
-      for (figure of figures) {
+      for (const figure of figures) {
         slides += await slideElement(figure)
       }
       return slides

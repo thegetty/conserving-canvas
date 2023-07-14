@@ -1,3 +1,7 @@
+//
+// CUTSOMIZED FILE
+// Added page title element for PDF footer; lines 28, 61–62, and 71
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -12,14 +16,16 @@ module.exports = function(eleventyConfig) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
 
-  const { imgDir, pageLabelDivider } = eleventyConfig.globalData.config.params
+  const { labelDivider } = eleventyConfig.globalData.config.pageTitle
+  const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function (params) {
     const {
-      contributor_byline,
+      byline_format: bylineFormat,
       image,
       label,
       pageContributors,
+      short_title: shortTitle,
       subtitle,
       title
     } = params
@@ -31,14 +37,14 @@ module.exports = function(eleventyConfig) {
     }
 
     const pageLabel = label
-      ? `<span class="label">${label}<span class="visually-hidden">${pageLabelDivider}</span></span>`
+      ? `<span class="label">${label}<span class="visually-hidden">${labelDivider}</span></span>`
       : ''
 
     const imageElement = image
       ? html`
           <section
             class="${classes} hero__image"
-           style="background-image: url('${path.join(imgDir, image)}');"
+           style="background-image: url('${path.join(imageDir, image)}');"
           >
           </section>
         `
@@ -47,10 +53,13 @@ module.exports = function(eleventyConfig) {
     const contributorsElement = pageContributors
       ? html`
           <div class="quire-page__header__contributor">
-            ${contributors({ context: pageContributors, format: contributor_byline })}
+            ${contributors({ context: pageContributors, format: bylineFormat })}
           </div>
         `
       : ''
+
+    const runningFeetLabel = label ? `${markdownify(label)}${labelDivider}` : ''
+    const runningFeetTitle = shortTitle ? shortTitle : title
 
     return html`
       <section class="${classes}">
@@ -59,10 +68,11 @@ module.exports = function(eleventyConfig) {
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
+          <span class="pdf-footers__title">${runningFeetLabel}${markdownify(runningFeetTitle)}</span>
           ${contributorsElement}
         </div>
       </section>
-      ${image}
+      ${imageElement}
     `
   }
 }

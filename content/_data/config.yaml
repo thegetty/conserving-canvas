@@ -1,36 +1,60 @@
-baseURL: "http://localhost:8080"
+accordion:
+  controls: arrow # arrow | plus-minus
+  copyButton:
+    ariaLabel: Copy page section link to clipboard
+    successText: Copied page section link to clipboard
+    symbol: §
+  globalControls:
+    collapseText: Collapse All
+    expandText: Expand All
 
-title: Quire Starter
-languageCode: en-us
-theme: default
-publishDir: site
+analytics:
+  googleId: 'GTM-NRDC63K'
 
-footnoteReturnLinkContents: '↩'
-GoogleAnalytics: ''
+bylineFormat: name-title # name | name-title | false
 
-pluralizeListTitles: true
-disableKinds:
-  - home
-  - section
-  - taxonomy
-  - term
+bibliography:
+  displayOnPage: false
+  displayShort: true
+  heading: Bibliography
 
-params:
-  biblioHeading: Bibliography
-  citationPageLocationDivider: ', '
-  citationPopupStyle: text # text | icon
-  contributorByline: name-title # name | name-title | false
-  displayBiblioShort: true
-  entryPageObjectLinkText: View in Collection
-  entryPageSideBySideLayout: false
-  figureModal: true
-  figureModalIcons: true
-  figureZoom: true
+citations:
+  divider: ', '
+  popupStyle: text # text | icon
+
+entryPage:
+  sideBySide: false
+  objectLinkText: View in Collection
+
+epub:
+  defaultCoverImage: 'cover-full.jpg'
+  outputDir: '_epub'
+
+footnotes:
+  backlinkSymbol: '↩'
+
+figures:
+  assetDir: '/_assets/'
+  enableModal: true
   imageDir: '/_assets/images'
-  licenseIcons: true
-  menuType: full
-  nextPageButtonText: Next
-  pageLabelDivider: '. '
-  prevPageButtonText: Back
-  searchEnabled: true
-  tocType: full
+
+licenseIcons: true
+
+localization:
+  defaultLocale: en-us
+
+menuType: full # full | brief
+
+navigation:
+  nextButtonText: Next
+  prevButtonText: Back
+
+pageTitle:
+  labelDivider: '. '
+
+searchEnabled: true
+
+tableOfContents:
+  contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."
