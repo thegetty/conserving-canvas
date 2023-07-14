@@ -88,6 +88,7 @@ outputs:
 
 Front cover: Conservation of Anne-Louis Girodet-Trioson, *The Death of Camille*, 1785 (detail, fig. 35.1)
 
+Illustration Credits
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>

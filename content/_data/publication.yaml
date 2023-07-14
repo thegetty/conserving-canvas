@@ -7,7 +7,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-pages--conserving-canvas.netlify.app/'
+# url: 'https://final-pages--conserving-canvas.netlify.app/'
+url: 'https://www.getty.edu/publications/conserving-canvas/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -44,12 +45,12 @@ publisher:
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
-      [getty.edu/publications/](https://www.getty.edu/publications/)
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 project_team:
  - Rachel Barth, *Project Editor*
  - Leslie Tilley, *Manuscript Editor*
- - Greg Albers, *Digital Publications Manager*
+ - Greg Albers, *Digital Manager*
  - Kurt Hauser, *Cover Design*
  - Molly McGeehan, *Production*
  - Danielle Brink, *Image and Rights Acquisition*
@@ -83,7 +84,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2023 J. Paul Getty Trust
+copyright: "© 2023 J. Paul Getty Trust<br />Glossary © 2023 J. Paul Getty Trust and Archetype Publications Ltd"
 
 license:
   name: Creative Commons Attribution‑NonCommercial 4.0 International License
@@ -97,15 +98,15 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (13.7 MB)
+    name: PDF (13.3 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.pdf
-  # - type: other-format
-  #   name: EPUB (## MB)
-  #   media_type: application/epub+zip
-  #   link_relation: alternate
-  #   url: /downloads/X.epub
+  - type: other-format
+    name: EPUB (273 MB)
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.epub
   - type: other-format
     name: Paperback
     media_type: print

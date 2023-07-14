@@ -57,7 +57,7 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
-    magick mogrify -profile _work-files/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
 3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
@@ -68,12 +68,16 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/abstract.js**
 **_layouts/essay.liquid**
 Added keywords
 
 **_includes/components/copyright/licensing.js**
-Added a comma after "view a coopy of this license"
+Updated the image exclusions language, and moved print/pdf statement to new location
 
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu

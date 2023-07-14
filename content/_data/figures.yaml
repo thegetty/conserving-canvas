@@ -123,7 +123,7 @@ figure_list:
     # zoom: true
     label: "Figure 2.5"
     caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
-    Credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    credit: "Image: © Government of Canada, Canadian Conservation Institute"
     alt: "Three plot graphs labeled (a) through (c). Graphs (a) and (b) have lines colored dark blue, light blue, green, and red. Graph (c) has one black line."
 
   - id: "fig-2-6"
@@ -496,7 +496,7 @@ figure_list:
     media_type: vimeo
     media_id: 762363049/f22edb5063
     label: "Figure 9.4"
-    caption: "Video still showing the mist-lining process."
+    caption: "Video showing the mist-lining process."
     credit: "Video: SRAL"
     alt: "Video consisting of medium and close-up shots of conservators crowded over a table while working on mist-lining a painting."
 
@@ -1035,7 +1035,6 @@ figure_list:
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
-    zoom: true
     label: "b"
     alt: "Close up photo of dried, yellowed glue paste."
 
@@ -1945,7 +1944,7 @@ figure_list:
     src: "figures/fig-36-2.jpg"
     zoom: true
     label: "Figure 36.2"
-    caption: "Paintings on display in the Government Museum Alwar prior to conservation."
+    caption: "Paintings on display in the Government Museum, Alwar, prior to conservation."
     credit: "Image: IGNCA, New Delhi / Jitender Kumar Chauhan"
 
   - id: "fig-36-3"
