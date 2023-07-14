@@ -84,7 +84,7 @@ figure_list:
     src: "figures/fig-1-7-b.jpg"
     zoom: true
     label: "b"
-    alt: "A plot grpah depicting painting container air exchange rate per day versus acetic acid concentration. A single blue line of various plots curves downward and to the right, with some plots outside of the estimated line."
+    alt: "A plot graph depicting painting container air exchange rate per day versus acetic acid concentration. A single blue line of various plots curves downward and to the right, with some plots outside of the estimated line."
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.png"
@@ -92,6 +92,7 @@ figure_list:
     label: "Figure 2.1"
     caption: "Stress-strain curves for a titanium white artists oil paint at different strain rates and temperatures in uniaxial tension."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "A line graph depicitng true train versus true stress. There are eight lines, four dotted blue lines (labeled 1a-4a) and solid red (labeled 1b-4b)."
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.png"
@@ -99,6 +100,7 @@ figure_list:
     label: "Figure 2.2"
     caption: "Tensile test data for a nine-year-old sample of Winsor & Newton Foundation White at 20°C, 50% RH, and a rate of 2100 μe/sec."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Three line graphs side-by-side, each with a single solid line. The first (to the left) is straight and the centermost and right lines are curved."
 
   - id: "fig-2-3"
     src: "figures/fig-2-3.png"
@@ -106,6 +108,7 @@ figure_list:
     label: "Figure 2.3"
     caption: "Stress-relaxation test performed on a nine-year-old sample of Winsor & Newton Foundation White: (a) strain history, (b) stress-strain curve, &#40;c) stress relaxation on a linear scale, (d) stress relaxation on a logarithmic scale. The red lines show a repeat test on the same sample after unloading and a twenty-four-hour recovery period."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Four line graphs arranged 2x2 and labeled (a) through (d). Each graph has a red and a blue line, with both lines very similar in progression."
 
   - id: "fig-2-4"
     src: "figures/fig-2-4.png"
@@ -113,6 +116,7 @@ figure_list:
     label: "Figure 2.4"
     caption: "Stress relaxation at 1 millistrain for a prepared model oil painting with different lining treatments."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "A line graph depicting time in hours versus tension. There are five lines on the graph (listed from bottom to top), colored red, black, green, brown, and blue."
 
   - id: "fig-2-5"
     src: "figures/fig-2-5.png"
@@ -120,6 +124,7 @@ figure_list:
     label: "Figure 2.5"
     caption: "Illustration of time-temperature superposition applied to tensile test data. (a) Secant modulus measured at four strain rates and four temperatures. (b) Data at each temperature shifted along the time axis to form a master curve at *T<sub>ref</sub>* = 20°C. &#40;c) Experimental shift factor values recorded versus temperature."
     Credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Three plot graphs labeled (a) through (c). Graphs (a) and (b) have lines colored dark blue, light blue, green, and red. Graph (c) has one black line."
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.png"
@@ -127,6 +132,7 @@ figure_list:
     label: "Figure 2.6"
     caption: "Deforming a curled flake of paint back into the plane of the painting. (a) Illustration of the curled paint layer of thickness, *h*, and radius, *r.* (b) Effect of temperature and rate of deformation on film stiffness. A→B: slower rate of deformation, same temperature; A→C: elevated temperature, same rate of deformation; A→D: slower rate of deformation and elevated temperature."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Two diagrams labeled (a) and (b). Diagram (a) depicts a curled paint layer as a blue line. Diagram (b) is a line graph with two lines, one solid black and one dotted red.
 
   - id: "fig-2-7"
     src: "figures/fig-2-7.png"
@@ -134,6 +140,7 @@ figure_list:
     label: "Figure 2.7"
     caption: "Deforming a curled flake of paint back into the plane of the painting. (a) Effect of reducing strain rate on failure criteria. (b) Effect of reducing strain rate and elevating temperature on failure criteria. Compare to figure 2.6."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Two line graphs labeled (a) and (b). Graph (a) has a solid black line curving downward. Graph (b) has two lines, one solid black and one dotted red, curving downward."
 
   - id: "fig-2-8"
     src: "figures/fig-2-8.png"
@@ -141,6 +148,7 @@ figure_list:
     label: "Figure 2.8"
     caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C. (a) Golden acrylic. (b) Winsor & Newton oil."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Two line graphs labeled (a) and (b). Graph (a) has a red line curved downward. Underneath the line it is green. Graph (b), appears similar though the line is straight.
 
   - id: "fig-3-1"
     src: "figures/fig-3-1.jpg"
@@ -148,6 +156,7 @@ figure_list:
     label: "Figure 3.1"
     caption: "The original statements (treatment options) from V. Mehra and B. Hacke, used in the thesis arguments for treatment principles and choices."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Scans of two typed pages written in courier font."
 
   - id: "table-3-1"
     #credit: "Table: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
@@ -165,6 +174,7 @@ figure_list:
     label: "Figure 3.2"
     caption: "The author (right) working on the thesis painting at the top of the new suction table, spring 1980."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Black and white photograph of a man (right) leaning over a table and painting with a woman (left) playing the recorder."
 
   - id: "fig-3-3"
     src: "figures/fig-3-3.jpg"
@@ -172,6 +182,7 @@ figure_list:
     label: "Figure 3.3"
     caption: "The new suction table, acquired in 1979."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Photo of a metal table with a blue, glassy top."
 
   - id: "fig-3-4"
     src: "figures/fig-3-4.jpg"
@@ -179,6 +190,7 @@ figure_list:
     label: "Figure 3.4"
     caption: "Cover of a summer school presentation from 1989."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Scan of a formal document with black text. A drawing of a building with many windows is at the top of the page."
 
   - id: "fig-3-5"
     src: "figures/fig-3-5.jpg"
@@ -186,6 +198,7 @@ figure_list:
     label: "Figure 3.5"
     caption: "Lecturers and participants in an exercise treatment at a summer workshop, 1988."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Photo of a group of people leaning over a table to examine a painting."
 
   - id: "fig-3-6"
     src: "figures/fig-3-6.jpg"
@@ -193,6 +206,7 @@ figure_list:
     label: "Figure 3.6"
     caption: "Lecturers and participants discussing the outcome of the treatment of two of the exercises in the painting workshop, 1988."
     credit: "Image: © Mikkel Scharff, Institute of Conservation, The Royal Danish Academy"
+    alt: "Bird's-eye view photograph of a group of people examining two paintings atop a table."
 
   - id: "fig-4-1"
     src: "figures/fig-4-1.png"
@@ -200,6 +214,7 @@ figure_list:
     label: "Figure 4.1"
     caption: "Trends in lining, strip-lining, loose-lining, and local reinforcing at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
+    alt: "Bar graph depicting yearly painting lining practices over time. There are four bar colors (blue, red, green, and yellow)."
 
   - id: "fig-4-2"
     src: "figures/fig-4-2.png"
@@ -207,6 +222,7 @@ figure_list:
     label: "Figure 4.2"
     caption: "Summary of adhesives used for lining and strip-lining at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
+    alt: "Bar graph depicting five number ranges, colored purple, blue, and green."
 
   - id: "fig-4-3"
     src: "figures/fig-4-3.png"
@@ -214,6 +230,7 @@ figure_list:
     label: "Figure 4.3"
     caption: "Summary of fabrics used for lining, strip-lining, and loose-lining at the National Maritime Museum, 1963–2000."
     credit: "Image: Camille Polkownik"
+    alt: "Similar bar graph to 4.2, though with 14 lines colored blue, yellow, purple, orange, and pink."
 
   - id: "fig-4-4"
     src: "figures/fig-4-4.jpg"
@@ -221,6 +238,7 @@ figure_list:
     label: "Figure 4.4"
     caption: "Meeting in July 2019 at the Prince Philip Maritime Collections Centre, Kidbrooke. Participants and experts examine Carl Saltzmann’s *German Fleet Manoeuvres on High Seas*, which was relined in 1992 using Beva 371 on polyester sailcloth."
     credit: "Image: Royal Museums Greenwich"
+    alt: "Photograph of people standing (left) while observing a seascape painting (right). A man stands and speaks in front of the painting."
 
   - id: "fig-4-5"
     src: "figures/fig-4-5.jpg"
@@ -228,6 +246,7 @@ figure_list:
     label: "Figure 4.5"
     caption: "View of the Lining Exhibition Gallery at the 1974 Comparative Lining Techniques conference. At the back, Philippe-Jacques de Loutherbourg's *Defeat of the Spanish Armada, 8 August 1588* (1796) is exhibited as an example of the low-pressure, prestretched, vacuum-envelope lining developed by the NMM conservation studio."
     credit: "Image: Royal Museums Greenwich"
+    alt: "Photo of the interior of a conservation studio. Paintings and photographs scatter the walls, with a table at the center of the room."
 
   - id: "fig-4-6"
     src: "figures/fig-4-6.jpg"
@@ -235,6 +254,7 @@ figure_list:
     label: "Figure 4.6"
     caption: "Rowland John Robb Langmaid (British, 1897–1956), *HMS* Dido, Ajax *and* Orion *in Action Off Crete, 21 May 1941*, mid-20th century. Oil on canvas, 35.5 × 69.8 cm (14 × 27 1/2 in.). Front (top) and reverse in normal light, current state (2020). The painting was lined in 1973 using Beva 371 and a black polypropylene fabric."
     credit: "Image: Royal Museums Greenwich, BHC0678"
+    alt: "Photo (top) of a seascape oil painting depicting a battle with sinking ships that line the horizon. Additional photo (bottom) of the black painting backing."
 
   - id: "fig-4-7"
     src: "figures/fig-4-7.png"
@@ -242,6 +262,7 @@ figure_list:
     label: "Figure 4.7"
     caption: "Summary of adhesives used for lining and strip-lining at the Courtauld Institute of Art, 1975–2000."
     credit: "Image: Camille Polkownik"
+    alt: "Similar bar graph to 4.2 and 4.3, though with 12 bars colored yellow, orange, blue, pink, purple and green."
 
   - id: "fig-4-8"
     src: "figures/fig-4-8.png"
@@ -249,6 +270,7 @@ figure_list:
     label: "Figure 4.8"
     caption: "Summary of lining fabrics used at the Courtauld Institute of Art, 1975–2000."
     credit: "Image: Camille Polkownik"
+    alt: "Similar bar graph to 4.7, though with 17 bars colored blue, yellow, orange, and green."
 
   - id: "fig-4-9-a"
     src: "figures/fig-4-9-a.jpg"
@@ -256,11 +278,13 @@ figure_list:
     label: "a"
     # caption: "Paul Cezanne (French, 1839–1906), *Turning Road (Route Tournante)*, ca. 1905. Oil on canvas, 73 × 92 cm (28 3/4 × 36 1/4 in.). The Samuel Courtauld Trust, The Courtauld Gallery, London, P.1978.PG.61. (a) Raking-light picture taken before treatment in 1980. (b) Current state of the painting photographed in normal light."
     # credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
+    alt: "Black and white (raking light)photo of a seascape oil painting (a)."
 
   - id: "fig-4-9-b"
     src: "figures/fig-4-9-b.jpg"
     zoom: true
     label: "b"
+    alt: "To the left (b), a photo of the same painting in normal light."
 
   - id: "fig-4-10"
     src: "figures/fig-4-10.jpg"
@@ -268,6 +292,7 @@ figure_list:
     label: "Figure 4.10"
     caption: "Lining of Edgar Degas, *Lady with a Parasol*, with Fabri-Sil on the vacuum table. Courtauld Institute of Art conservators Caroline Villers (left) and Gerry Hedley (right), and student Alan Phenix (right, partial view)."
     credit: "Image: The Courtauld, London (Samuel Courtauld Trust) / Photo: © The Courtauld"
+    alt: "Photograph of three people leaning over a table whilst fixing a painting lining."
 
   - id: "table-4-1"
     credit: "Table: Camille Polkownik, Clare Richardson, Maureen Cross, and Sarah Maisey"
@@ -280,11 +305,13 @@ figure_list:
     label: "a"
     # caption: "(a) Pietro Duranti (Italian, 1710–1791, *Allegoria dell’Aurora*, ca. 1768. Tapestry. (b) Giuseppe Bonito (Italian, 1707–1789), *Allegoria dell’Aurora* (model for tapestry), ca. 1768. Oil on canvas, 220 × 139 cm (86 3/5 × 54 3/4 in.)."
     # credit: "Images: (a) Napoli, Palazzo Reale; (b) Caserta, Palazzo Reale"
+    alt: "A long, golden tapestry embroidered with flowers, angels, and a woman in flowing fabric."
   
   - id: "fig-5-1-b"
     src: "figures/fig-5-1-b.jpg"
     zoom: true
     label: "b"
+    alt: "Oil painting of an angel in a garden. The figure is clothed in flowing blue and pink flowing fabric, similar to the figure in (a)."
 
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
@@ -292,6 +319,7 @@ figure_list:
     label: "Figure 5.2"
     caption: "Giovanni Ponticelli (Italian, 1829–1880), *Il cavalier Bajardo convalescente*, 1867. Oil on canvas, 77 × 103 cm (30 1/3 × 40 1/2 in.)."
     credit: "Image: Napoli, Collezione d'arte della Città Metropolitana di Napoli"
+    alt: "Oil painting of warm tones. It depicts five persons of nobility lounging in a living space."
 
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
@@ -299,6 +327,7 @@ figure_list:
     label: "Figure 5.3"
     caption: "Documents concerning the activity of members of the Chiariello family. At upper right, notice the letterhead of Pasquale Chiariello with the medals and royal crest."
     credit: "Image: Archivio Storico del Museo Nazionale di Napoli; Archivio Storico del Museo di Capodimonte"
+    alt: "Photos and scans of five documents written in Italian cursive."
 
   - id: "fig-5-4"
     src: "figures/fig-5-4.jpg"
@@ -306,6 +335,7 @@ figure_list:
     label: "Figure 5.4"
     caption: "Parmigianino (Italian, 1503–1540), *Sacra famiglia*, ca. 1528. Tempera on canvas, 159 × 131 cm (62 3/5 × 51 3/5 in.)."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
+    alt: "Painting of a clothed woman sitting under a tree. She looks down at a child as she carresses their face in her palm."
 
   - id: "fig-5-5"
     src: "figures/fig-5-5.jpg"
@@ -313,6 +343,7 @@ figure_list:
     label: "Figure 5.5"
     caption: "Jacopo Bertoja (Italian, 1544–1574), *Madonna col Bambino*, ca. 1565. Tempera on canvas, 100 × 76 cm (39 2/5 × 30 in.)."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
+    alt: "Painting of a woman clothed in white as she holds a baby to her chest. Her eyes are closed."
 
   - id: "fig-5-6"
     src: "figures/fig-5-6.jpg"
@@ -320,6 +351,7 @@ figure_list:
     label: "Figure 5.6"
     caption: "Detail of reverse of Bertoja’s *Madonna col Bambino*. Notice the not-glued new canvas beneath the original one, as well as the nails that fix both."
     credit: "Image: Courtesy of MIC – Museo e Real Bosco di Capodimonte"
+    alt: "Close-up photo of the worn lining of a painting canvas."
 
   - id: "fig-5-7-a"
     src: "figures/fig-5-7-a.jpg"
@@ -327,11 +359,13 @@ figure_list:
     label: "a"
     # caption: "(a) Fedele Fischetti (Italian, 1732–1792), *Noli me tangere*. Oil on canvas, 355 × 182 cm (139 3/4 × 71 5/8 in.), from the Church of Santa Caterina da Siena, Napoli (1766–67). (b) Diagram showing the boundary line between the lower part, which retains the original canvas, and the upper part, which has undergone the partial transfer (in black) and the areas affected by old “integrations” (in green)."
     # credit: "Image: (a) Ministero dell’Interno, Fondo Edifici di Culto (F.E.C.); (b) Museo di Capodimonte, Centro Documentazione Restauro"
+    alt: "Religious oil painting of Jesus Christ (left) with angels (right and top)."
   
   - id: "fig-5-7-b"
     src: "figures/fig-5-7-b.jpg"
     zoom: true
     label: "b"
+    alt: "Diagram outlining the figures and boundaries of figure 5.7 (a)."
 
   - id: "fig-6-1-a"
     src: "figures/fig-6-1-a.jpg"
@@ -339,11 +373,13 @@ figure_list:
     label: "a"
     #caption: "Unknown artist, *Conclusions of Field Marshall General Count B. H. Minikh on the Seizure of Ochakov*, 1737. Mixed techniques on silk, 172 × 143 сm (67 3/4 × 56 1/3 in.). (a) After removing old facings. (b) Detail of (a)."
     #credit: "Image: © State Historical Museum, Moscow"
+    alt: "Silk tapestry painted with dark and golden hues. It depicts angels (top) over a battle (bottom)."
 
   - id: "fig-6-1-b"
     src: "figures/fig-6-1-b.jpg"
     zoom: true
     label: "b"
+    alt: "Close up of a central soldier figure in 6.1 (a)."
 
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
@@ -351,6 +387,7 @@ figure_list:
     label: "Figure 6.2"
     caption: "Back side of the painting in fig. 6.1 after removing old facings; silk support in raking light."
     credit: "Image: © State Historical Museum, Moscow"
+    alt: "Photo of the back side of a painting. It is yellowed and worn."
 
   - id: "fig-6-3"
     src: "figures/fig-6-3.jpg"
@@ -358,6 +395,7 @@ figure_list:
     label: "Figure 6.3"
     caption: "Fragment of lining textile sprayed with adhesive A-45-K."
     credit: "Image: The State Research Institute for Restoration, Moscow"
+    alt: "Close up photo of a painting lining repaired with adhesive."
 
   - id: "fig-6-4-a"
     src: "figures/fig-6-4-a.jpg"
@@ -365,11 +403,13 @@ figure_list:
     label: "a"
     #caption: "*Conclusions of Field Marshall Minikh*. (a) After structural treatment. (b) Detail of (a)."
     #credit: "Image: © State Historical Museum, Moscow"
+    alt: "Photo of the painting in 6.1 (a) after repair. The colors have a greater depth."
 
   - id: "fig-6-4-b"
     src: "figures/fig-6-4-b.jpg"
     zoom: true
     label: "b"
+    alt: "Close up photo of the same detail in 6.1 (b). The figure is more visible."
 
   - id: "fig-8-1"
     src: "figures/fig-8-1.jpg"
@@ -605,6 +645,7 @@ figure_list:
     label: "Figure 12.1"
     caption: "Pierre Puvis de Chavannes (French, 1824–1898), *Philosophy*, 1895. Oil-on-canvas mural originally marouflaged onto plaster wall, 436 × 218 cm (171 5/8 × 85 7/8 in.). Boston Public Library. The mural is shown mounted onto new aluminum honeycomb panel and set into its niche after the 2016 conservation campaign."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Photo of an oil painting mural depicting ancient Greek figures in conversation. The men are clothed in colorful robes and stands near columns."
 
   - id: "fig-12-2"
     src: "figures/fig-12-2.jpg"
@@ -612,6 +653,7 @@ figure_list:
     label: "Figure 12.2"
     caption: "Puvis de Chavannes’s mural cycle above the grand staircase of the Boston Public Library."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Wide photo of a marbled staircase. Lion statues frame the stairwell and the mural in figure 12.1 is on the wall behind."
 
   - id: "fig-12-3"
     src: "figures/fig-12-3.jpg"
@@ -619,6 +661,7 @@ figure_list:
     label: "Figure 12.3"
     caption: "The mural faced with support panels and stiffening wood members."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Photo of the backing and structural elements of the painting in 12.1."
 
   - id: "fig-12-4"
     src: "figures/fig-12-4.jpg"
@@ -626,6 +669,7 @@ figure_list:
     label: "Figure 12.4"
     caption: "Lining system employed to marouflage *Philosophy*. The mural is shown on its aluminum honeycomb panel in a vacuum envelope suspended above an orange silicone rubber heat sheet."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Photo of a long, wodden table. The metal lining for the painting in figure 12.1 is atop the table."
 
   - id: "fig-12-5"
     src: "figures/fig-12-5.jpg"
@@ -633,6 +677,7 @@ figure_list:
     label: "Figure 12.5"
     caption: "A straight edge placed on the failed structural seam of the aluminum honeycomb panel, revealing the protrusion of the aluminum panel skin."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Close up photo of a hand (left) using a tool to examine the seams of the painting panel."
 
   - id: "fig-12-6"
     src: "figures/fig-12-6.jpg"
@@ -640,6 +685,7 @@ figure_list:
     label: "Figure 12.6"
     caption: "Conservators constructing a curved form to be used to roll the partially adhered section of the mural off of the aluminum honeycomb panel."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Wide photo of two conservators drilling into a curved wooden structure."
 
   - id: "fig-12-7"
     src: "figures/fig-12-7.jpg"
@@ -647,6 +693,7 @@ figure_list:
     label: "Figure 12.7"
     caption: "Technicians releasing the mural from the aluminum honeycomb panel curved form and block-and-tackle pulley system. Pairs of ropes at either end of the adhered section were used to control the lifting of the canvas from the panel."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Photo of three people rigging the wooden panel in 12.6 to a table."
 
   - id: "fig-12-8"
     src: "figures/fig-12-8.jpg"
@@ -654,6 +701,7 @@ figure_list:
     label: "Figure 12.8"
     caption: "Mock-ups made using different amounts of paraffin wax to find the best mixture to lower the melting point of Beva 371b."
     credit: "Image: Gianfranco Pocobene Studio"
+    alt: "Close up photo of hands testing wax on canvas."
 
   - id: "fig-13-1"
     src: "figures/fig-13-1.jpg"
@@ -661,6 +709,7 @@ figure_list:
     label: "Figure 13.1"
     caption: "Engelbert Zimmermann (German, 1807–1842), *Das Jüngste Gericht (The Last Judgment)*, 1839. Paint on canvas, 225 × 130 cm (88 3/5 × 51 1/5 in.). Wasserburg, Stadtmuseum Wasserburg. State of the painting before the preliminary treatment in 2012."
     credit: "Image: Stadtmusuem Wasserburg"
+    alt: "Photo of a torn religious painting. The top, curved half of the painting remainds intact while the bottom half drapes downward, torn."
 
   - id: "fig-13-2"
     src: "figures/fig-13-2.jpg"
@@ -668,6 +717,7 @@ figure_list:
     label: "Figure 13.2"
     caption: "Detail of the riblike weave of *The Last Judgment*."
     credit: "Image: Julia Brandt"
+    alt: "Close up photo of the canvas weaving for the painting in 13.1."
 
   - id: "fig-13-3"
     src: "figures/fig-13-3.jpg"
@@ -675,6 +725,7 @@ figure_list:
     label: "Figure 13.3"
     caption: "State of the painting after the preliminary treatment in 2012."
     credit: "Image: Stadtmusuem Wasserburg"
+    alt: "Photo of the painting in 13.1 slightly repaired. The canvas no longer drapes."
 
   - id: "fig-13-4"
     src: "figures/fig-13-4.jpg"
@@ -682,6 +733,7 @@ figure_list:
     label: "Figure 13.4"
     caption: "The authors forming the support back into plane."
     credit: "Image: Catharina Blänsdorf"
+    alt: "Photo of two conservators further repairing the painting under red light."
 
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
@@ -689,6 +741,7 @@ figure_list:
     label: "Figure 13.5"
     caption: "Painting with secured tears seen from the back."
     credit: "Image: Julia Brandt and Carina Volbracht"
+    alt: "Photo of the back of the painting (13.1) with its tears repaired."
 
   - id: "fig-13-6"
     src: "figures/fig-13-6.jpg"
@@ -696,6 +749,7 @@ figure_list:
     label: "Figure 13.6"
     caption: "Lining canvas fixed to the curved top segment with staples through acid-free cardboard."
     credit: "Image: Julia Brandt and Carina Volbracht"
+    alt: "Close up photo depicting the painting (13.1) lining, now secured with staples."
 
   - id: "fig-13-7-a"
     src: "figures/fig-13-7-a.jpg"
@@ -703,11 +757,13 @@ figure_list:
     label: "a"
     #caption: "*The Last Judgment* after treatment in 2014: (a) verso; and (b) recto."
     #credit: "Image: Julia Brandt and Carina Volbracht"
+    alt: "Photo of the painting (13.1) fully repaired. There are few visible tears."
 
   - id: "fig-13-7-b"
     src: "figures/fig-13-7-b.jpg"
     zoom: true
     label: "b"
+    alt: "Photo of the relined back of the painting, now pale with new lining."
 
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
@@ -715,6 +771,7 @@ figure_list:
     label: "Figure 14.1"
     caption: "Room housing large paintings in the Kunsthistorisches Museum’s central storage facility, installed in 2011."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Wide photo of people storing a large painting within a museum vault."
 
   - id: "fig-14-2"
     src: "figures/fig-14-2.jpg"
@@ -722,6 +779,7 @@ figure_list:
     label: "Figure 14.2"
     caption: "Titian (Italian, ca. 1488–1576), detail of *Ecce Homo*, 1543. Oil on canvas, 242 × 361 cm (95 1/3 × 142 1/8 in.). Vienna, Kunsthistorisches Museum, GG 73. Detail from the reverse during structural stabilization. Prior to strip-lining, localized areas of damage to the 18th-century lining canvas were repaired."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Close up photo of a worn painting canvas."
 
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
@@ -729,6 +787,7 @@ figure_list:
     label: "Figure 14.3"
     caption: "Caravaggio (Italian, 1571–1610), *Rosary Madonna*, ca. 1601. Oil on canvas, 364.5 × 249.5 cm (143 1/2 × 98 1/5 in.). Vienna, Kunsthistorisches Museum, GG 147. Detail from the reverse showing the format changes at the top of the painting, seen here at upper left."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Photo of painting canvas backing, slightly browned with age."
 
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
@@ -736,6 +795,7 @@ figure_list:
     label: "Figure 14.4"
     caption: "Salvator Rosa, *Battle of the Romans*, 1645. Oil on canvas, 229 × 345 cm (90 1/8 × 135 4/5 in.). Vienna, Kunsthistorisches Museum, GG 1641. Detail from the reverse after the stretcher was removed showing severely damaged lining canvas with insect infestation (*Stegobium paniceum*)."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Close up photo showing canvas lining that is worn and damaged."
 
   - id: "fig-14-5"
     src: "figures/fig-14-5.jpg"
@@ -743,6 +803,7 @@ figure_list:
     label: "Figure 14.5"
     caption: "Johann Franz Greippel, *Four Daughters of Maria Theresia Performing the Opera* Il Parnasso Confuso *by Christoph Willibald Gluck in 1765*, 1765. Oil on canvas, 400 × 480 cm (157 1/2 × 189 in.). Vienna, Kunsthistorisches Museum, GG 6826. Detail from the reverse during treatment. After partially opening the lining canvas in the damaged/torn area, the old tear in the original canvas was mended (thread to thread). Finally, the tear in the lining canvas was sewn closed and the bond between the canvases reestablished."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Close up photo of damaged painting lining mended with thread."
 
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
@@ -750,6 +811,7 @@ figure_list:
     label: "Figure 14.6"
     caption: "Gottfried Libalt, *Still Life with a Bust of Archduke Leopold Wilhelm*, 1660, before treatment. Oil on canvas, 253 × 119 cm (99 3/5 × 46 7/8 in.). Vienna, Kunsthistorisches Museum, GG 7795. Shown in raking light. The painting has been removed from the strainer and unfolded."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Photo of a dark, still-life oil painting of a statue bust. The canvas is worn and damaged."
 
   - id: "fig-14-7"
     src: "figures/fig-14-7.jpg"
@@ -757,6 +819,7 @@ figure_list:
     label: "Figure 14.7"
     caption: "Libalt, *Still Life*. Detail of the right part (center) during treatment. The original canvas was repaired by inserting and weaving in new threads."
     credit: "Image: © Kunsthistorisches Museum Wien"
+    alt: "Close up of the painting (14.6) mended with pale thread."
 
   - id: "fig-15-1"
     src: "figures/fig-15-1.jpg"
@@ -764,6 +827,7 @@ figure_list:
     label: "Figure 15.1"
     caption: "Cross section at 5× magnification of a 1930s British trade union banner: silk painted on both sides with size, oil paint, and silver leaf. University of Glasgow."
     credit: "Image: Christina Young"
+    alt: "Black and white magnified, spotty image of paint."
 
   - id: "fig-15-2"
     src: "figures/fig-15-2.png"
@@ -771,6 +835,7 @@ figure_list:
     label: "Figure 15.2"
     caption: "Measured weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
+    alt: "Single quadrant thermal graph. The graph is green and blue near the axes and more orange and yellow aroudn the center and top right."
 
   - id: "fig-15-3"
     src: "figures/fig-15-3.png"
@@ -778,6 +843,7 @@ figure_list:
     label: "Figure 15.3"
     caption: "Modeled weft strain distribution in one quadrant of a 30 cm<sup>2</sup> stretched canvas (red: 5.5 μm/mm)."
     credit: "Image: Christina Young"
+    alt: "Single quadrant thermal graph. It is completely green and blue near the y-axis, orange-yellow toward the top right, and red near the x-axis."
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.png"
@@ -785,6 +851,7 @@ figure_list:
     label: "Figure 15.4"
     caption: "Weft strain map (average strain) 3 μm/mm of a Heiber (thread-by-thread) tear mend on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
+    alt: "3D mapping graph. The axes and charted points are a vivid purple and blue. The mapped points form a wavy pattern."
 
   - id: "fig-15-5"
     src: "figures/fig-15-5.png"
@@ -792,6 +859,7 @@ figure_list:
     label: "Figure 15.5"
     caption: "Warp strain map (average strain) 3 μm/mm of a 3 cm tear with patch on a 20 mm tear (6 cm<sup>2</sup> central region of a 30 cm<sup>2</sup> canvas)."
     credit: "Image: Christina Young"
+    alt: "3D mapping graph similar to figure 15.4. The mapped points are relatively flat, though peak in greens and blues at the center."
 
   - id: "fig-15-6"
     src: "figures/fig-15-6.png"
@@ -799,6 +867,7 @@ figure_list:
     label: "Figure 15.6"
     caption: "Change in tension with 70% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
+    alt: "Line graph with four lines, colored yellow, grey, green, and orange. The yellow, grey, and green lines have positive slopes while the orange line is flat."
 
   - id: "fig-15-7"
     src: "figures/fig-15-7.png"
@@ -806,6 +875,7 @@ figure_list:
     label: "Figure 15.7"
     caption: "Change in tension with 65% RH inversion for a nineteenth-century primed loose-lining."
     credit: "Image: Christina Young"
+    alt: "Line graph with three lines, colored yellow, green, and grey. All lines have positive slopes."
 
   - id: "fig-16-1-a"
     src: "figures/fig-16-1-a.png"
@@ -813,11 +883,13 @@ figure_list:
     label: "a"
     # caption: "(a) Zero-span clamps of the tensile strength testing machine. (b) Schematic representation of the clamps and their dimensions, side view."
     # credit: "Images: Dirk Lichtblau (a); Theresa A. Bräunig (b)"
+    alt: "Close-up photo of metal, u-shaped clamps."
   
   - id: "fig-16-1-b"
     src: "figures/fig-16-1-b.png"
     # zoom: true
     label: "b"
+    alt: "Diagram version of figure 16.1 (a)."
 
   - id: "table-16-1"
     credit: "Table: Theresa A. Bräunig"
@@ -835,11 +907,13 @@ figure_list:
     label: "a"
     # caption: "(a) Yarn sections (5.0 mm long) derived from one original canvas. (b) Different representative ruptured samples from artificially aged fabrics and original canvases after zero-span tensile strength measurement."
     # credit: "Images: Theresa A. Bräunig"
+    alt: "Photo of 12 yarn pieces laid side-by-side atop a white table."
   
   - id: "fig-16-2-b"
     src: "figures/fig-16-2-b.png"
     # zoom: true
     label: "b"
+    alt: "6 photos of differnt yarn pieces, each with a cut in the middle."
 
   - id: "fig-16-3-a"
     src: "figures/fig-16-3-a.png"
@@ -847,11 +921,13 @@ figure_list:
     label: "a"
     # caption: "(a) Diameter-normalized maximum tensile strengths (*ƒ<sub>H</sub>*) of the measured samples, average of ten measurements. (b) Limiting viscosity numbers (GVZ) of the measured samples. Experiment temperatures: 18°C (light gray) and 19°C (dark gray). N0: new, N1: artificial aging, N2: longer artificial aging, H: original, K: warp, S: weft."
     # credit: "Images: Theresa A. Bräunig"
+    alt: "Bar graph with grey columns that peaks sharply toward the left of the graph."
   
   - id: "fig-16-3-b"
     src: "figures/fig-16-3-b.png"
     # zoom: true
     label: "b"
+    alt: "Bar graph with grey columbs that peaks toward the left of the graph, though with darker, shorter columns toward the left and right of the graph."
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.png"
@@ -859,6 +935,7 @@ figure_list:
     label: "Figure 16.4"
     caption: "Correlation of the diameter-normalized maximum tensile strength (*f<sub>H</sub>*) with the limiting viscosity number (GVZ) of the measured samples."
     credit: "Image: Theresa A. Bräunig"
+    alt: "Plot graph with grey dots forming dotted lined with positive slopes."
 
   - id: "table-17-1"
     #credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
@@ -871,6 +948,7 @@ figure_list:
     label: "Figure 17.1"
     caption: "FTIR spectra comparing *Sun Setting, Denmark* (top) and the re-created recipe SAAM 1 (bottom). The painting was lined in 1969 with “wax adhesive (Keck)” to Belgian linen. SAAM 1 was prepared in 2019 following the Keck recipe from the “Lab Formulas—Mixtures” binder (ca. 1967–74). Spectral similarity between these results indicates the success in reconstructing this historical wax-resin adhesive."
     credit: "Spectra: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
+    alt: "Spectral graph with two lines, red (top) and blue (bottom). Both lines peak toward the left center."
 
   - id: "fig-17-2"
     src: "figures/fig-17-2.png"
@@ -878,6 +956,7 @@ figure_list:
     label: "Figure 17.2"
     caption: "Total ion chromatograms (TICs) for the *Oak Trees* lining recipe as shown in GC/MSD (top) and Py-GC/MSD (bottom). *Oak Trees* was lined in 1983 with “1.5 p. Multiwax 445, 1.5 p. beeswax, 1 p. Zonarez B-85 resin” to fiberglass. In GC/MSD, microcrystalline wax was not detected (lack of even-numbered hydrocarbon peaks), and Zonarez B-85 was also not detected. In Py-GC/MSD, peaks span from C<sub>8</sub>H<sub>8</sub> to C<sub>35</sub>H<sub>72</sub>, indicating the presence of both Multiwax 445 and beeswax; additionally, Zonarez B-85 was detected at 136 m/z, 272 m/z, and 408 m/z."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
+    alt: "Two black and white spectral graphs."
 
   - id: "table-17-2"
     #credit: "Table: Amber Kerr, Gwen Manthey, Keara Teeter, Kristin DeGhetaldi, Brian Baade, W. Christian Petersen, and Catherine Matsen"
@@ -895,6 +974,7 @@ figure_list:
     label: "Figure 17.3"
     caption: "SAAM 5 extracted ion chromatograms (EICs) in GC/MSD (top) and Py-GC/MSD (bottom). Limonene in Piccolyte S-85 is detected as a monomer at 136 m/z, dimer at 272 m/z, and trimer at 408 m/z. GC/MSD barely detected the compound, as indicated by the jagged appearance of the baseline in all three EICs. Py-GC/MSD yielded better results, with clearly defined peaks for the compound."
     credit: "Chromatograms: SRAL, Winterthur Museum, Winterthur, Delaware / Composite image: SAAM, Washington, DC"
+    alt: "Two black and white spectal graphs, each with three lines of varying form."
 
   - id: "fig-18-1"
     src: "figures/fig-18-1.jpg"
@@ -902,6 +982,7 @@ figure_list:
     label: "Figure 18.1"
     caption: "Adhesive made with glue paste (*gacha*)."
     credit: "Image: Julia Betancor"
+    alt: "Close up photo of two containers (white and red) with yellowish glue and spoons. "
 
   - id: "fig-18-2-a"
     src: "figures/fig-18-2-a.jpg"
@@ -909,16 +990,20 @@ figure_list:
     label: "a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
+     alt: "Photo of a document with written in Spanish cursive."
+
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
     # zoom: true
     label: "b"
+    alt: "Black and white spectral graph with a single line that peaks toward the left."
 
   - id: "fig-18-2-c"
     src: "figures/fig-18-2-c.jpg"
     zoom: true
     label: "c"
+    alt: "Photo of scientific measurement tools atop a grey table."
 
   - id: "table-18-1"
     credit: "Table: Rita Gil"
@@ -931,6 +1016,7 @@ figure_list:
     label: "Figure 18.3"
     caption: "Order for materials made by the court painter Juan García de Miranda for lining and repairing the paintings damaged by the fire at the Real Alcázar de Madrid in 1734."
     credit: "Image: Archivo General de Palacio, Patrimonio Nacional de España"
+    alt: "Black and white scans of two documents with writing in Spanish cursive."
 
   - id: "fig-18-4"
     src: "figures/fig-18-4.jpg"
@@ -938,6 +1024,7 @@ figure_list:
     label: "Figure 18.4"
     caption: "Joseph Perovani (Italian, 1765–1835), *Portrait of George Washington*, 1796. Oil on canvas, 220 × 145 cm (86 5/8 × 57 1/16 in.)."
     credit: "Image: Real Academia de Bellas Artes de San Fernando de Madrid"
+    alt: "Oil painting of George Washington. He stands while wearing black clothes with pale hair. Red curtains drape in the background and his left arms rests atop a statue."
 
   - id: "fig-18-5-a"
     src: "figures/fig-18-5-a.jpg"
@@ -945,11 +1032,13 @@ figure_list:
     label: "a"
     #caption: "(a) Recipe for *gacha* used in 1955 by Tomás Pérez Alférez, liner at the Museo del Prado, on the painting shown in fig. 18.4. (b) Cross section of glue-paste lining, corresponding to the left sleeve. Layers from the bottom: (1) glue-paste, (2) ground, (3) black paint."
     #credit: "Images: (a) Archivo del Museo Nacional del Prado; (b) Real Academia de Bellas Artes de San Fernando de Madrid (E. Parra, Larco Química y Arte; conservation report: Silvia Viana, Ángeles Solís, and Judit Gasca)"
+    alt: "See figure 18.2 (a)."
 
   - id: "fig-18-5-b"
     src: "figures/fig-18-5-b.jpg"
     zoom: true
     label: "b"
+    alt: "Close up photo of dried, yellowed glue paste."
 
   - id: "fig-18-6"
     src: "figures/fig-18-6.jpg"
@@ -957,6 +1046,7 @@ figure_list:
     label: "Figure 18.6"
     caption: "Participants in the Applications of Traditional and Modern Lining Methods workshop, June 2019, at the Faculty of Fine Arts at the Complutense University of Madrid."
     credit: "Image: Julia Betancor"
+    alt: "Wide photo of a group of people standing inside a consservation workshop."
 
   - id: "fig-19-1"
     src: "figures/fig-19-1.png"
@@ -964,6 +1054,7 @@ figure_list:
     label: "Figure 19.1"
     caption: "(a) If the lining is much less stiff than any of the painting’s layers, the laminate cups at cracks in the painting due to stress alignment. Flaws in the painting are subject to the overall tension in the painting. (b) If the lining is much stiffer than any layer in the painting, stress alignment pulls the laminate flat, and flaws in the painting are not subject to the overall tension. (p) paint, (g) ground, (s) size, &#40;c) canvas, (L) lining."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Two diagrams, labeled (a) and (b), showing the various layers of painting lining. The layers (top top bottom) are colored green, grey, yellow, orange, and blue."
 
   - id: "fig-19-2"
     src: "figures/fig-19-2.png"
@@ -971,6 +1062,7 @@ figure_list:
     label: "Figure 19.2"
     caption: "Tension in paintings as RH varies (in the direction shown by the gray arrows in the legend). Mecklenburg, Hedley, and Andersen reported full cycles (hysteresis loops). (For clarity, only selected paths from low to high are shown.)"
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Single quadrant plot graph of many lines, colored green, red, orange, and black."
 
   - id: "fig-19-3"
     src: "figures/fig-19-3.jpg"
@@ -978,6 +1070,7 @@ figure_list:
     label: "Figure 19.3"
     caption: "Measurement of the free-hanging dimensional response due to changes in RH. A scale was photographed on 35 mm high-contrast film and attached to glass slides adhered to the end of each sample. The scales slid past the reference edge of a metal strip bolted to the rack."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Close up photo of a woman examining film through an inspection microscope."
 
   - id: "fig-19-4"
     src: "figures/fig-19-4.png"
@@ -985,6 +1078,7 @@ figure_list:
     label: "Figure 19.4"
     caption: "Results of peel tests by Élisabeth Forest (Centre de Conservation du Québec). Due to the unevenness of the hot table, Beva 371b samples were always lined at a temperature 1°C higher than Beva original samples. The red lines at top show an acceptable range in bond strength."
     credit: "Image: © Élisabeth Forest, Centre de Conservation du Québec, Ministère de la Culture et des Communications"
+    alt: "Bar graph comparing two film samples, colored blue and orange. There are 8 bars, 4 of each color."
 
   - id: "fig-19-5"
     src: "figures/fig-19-5.png"
@@ -992,6 +1086,7 @@ figure_list:
     label: "Figure 19.5"
     caption: "Master curves of selected lined paintings, compared to an unlined painting, at 50% RH, shown for various time periods at room temperature (lower scale) and at a cold temperature (upper scale). By the time of these measurements, the oil painting was twenty years old and the linings were eighteen years old. These master curves help us understand which layer is carrying the tension over long periods of time and during short events like a shock (from 1 millisecond to 100 years), and in cold and hot environments."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Line graph with six lines, each with a different color and sloping downward. The background of the graph has a blue to pink gradient (left to right)."
 
   - id: "fig-19-6"
     src: "figures/fig-19-6.png"
@@ -999,6 +1094,7 @@ figure_list:
     label: "Figure 19.6"
     caption: "The relative contribution of linen + wax and sailcloth + Beva linings to the tension in a lined oil painting. Calculated by subtracting the painting tension from the lined painting tension shown in fig. 19.5."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
+    alt: "Plot graph charting two lines, colored brown and black. The background has a similar gradient to figure 19.5."
 
   - id: "fig-20-1"
     # src: "figures/fig-20-1.jpg"
@@ -1006,6 +1102,7 @@ figure_list:
     label: "Figure 20.1"
     caption: "Vishwa Mehra’s low-pressure suction table showing plenum, plenum openings and polyurethane foam pad on surface. At the end of the table is a mock-up of the nested three stretcher system."
     credit: "Image: Jim Coddington"
+    alt: ""
 
   - id: "fig-20-2"
     # src: "figures/fig-20-2.jpg"
@@ -1058,6 +1155,7 @@ figure_list:
     label: "Figure 21.1"
     caption: "An example of star diagrams of risks for linings of an example painting. The smaller the area covered, the lower the risk for each treatment considered. Incidentally, in this case Mehra’s nap-bond lining was considered the option with the lowest risk and the wax-resin lining the highest risk, but this could change with a different painting in a different context. (Diagrams drawn using a radar plot in Microsoft Excel.)"
     credit: "Image: Cecil Krarup Andersen"
+    alt: "Four star diagrams colored blue."
 
   - id: "fig-22-1"
     src: "figures/fig-22-1.jpg"
@@ -1065,6 +1163,7 @@ figure_list:
     label: "Figure 22.1"
     caption: "Artemisia Gentileschi (Italian, 1593–1654), *Self-Portrait as Saint Catherine of Alexandria*, ca. 1615–17. Oil on canvas, 71.5 × 71 cm (28 1/8 × 28 in.). The National Gallery, London, NG6672. Before treatment."
     credit: "Image: The National Gallery, London"
+    alt: "Warm-toned portrait of a woman with a dark background. She is clothed in a red dress with her body turned left."
 
   - id: "fig-22-2"
     src: "figures/fig-22-2.jpg"
@@ -1072,6 +1171,7 @@ figure_list:
     label: "Figure 22.2"
     caption: "Gentileschi, *Self-Portrait*, before treatment. Detail of the seam, likely sewn by the artist."
     credit: "Image: The National Gallery, London"
+    alt: "Close up photo of the portrait in 22.1. It shows the wear on the canvas."
 
   - id: "fig-22-3"
     src: "figures/fig-22-3.jpg"
@@ -1079,6 +1179,7 @@ figure_list:
     label: "Figure 22.3"
     caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was faced with a piece of Eltoline tissue brushed over with the cold wax-resin facing mixture."
     credit: "Image: The National Gallery, London"
+    alt: "Photo of a conservator as they treat the same portrait. A white tissue is placed over the painting as the conservator brushes over it with resin."
 
   - id: "fig-22-4"
     src: "figures/fig-22-4.jpg"
@@ -1086,6 +1187,7 @@ figure_list:
     label: "Figure 22.4"
     caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was treated with moisture using the studio’s low-pressure suction table and additional pressure applied locally using a heated spatula."
     credit: "Image: The National Gallery, London"
+    alt: "Photo of the now-treated portrait laid flat on a table."
 
   - id: "fig-22-5"
     src: "figures/fig-22-5.jpg"
@@ -1093,6 +1195,7 @@ figure_list:
     label: "Figure 22.5"
     caption: "Gentileschi, *Self-Portrait*, during treatment. Applying glue paste to the back of the painting."
     credit: "Image: The National Gallery, London"
+    alt: "Photo of a conservator's hands as they brush the back of the portrait with adhesive."
 
   - id: "fig-22-6"
     src: "figures/fig-22-6.jpg"
@@ -1100,6 +1203,7 @@ figure_list:
     label: "Figure 22.6"
     caption: "Gentileschi, *Self-Portrait*, during treatment. The painting was ironed for a second time using the hand-held iron set at 50°C–55°C."
     credit: "Image: The National Gallery, London"
+    alt: "Photo of a conservator in a striped shirt ironing a painting during treatment."
 
   - id: "fig-22-7"
     src: "figures/fig-22-7.jpg"
@@ -1107,6 +1211,7 @@ figure_list:
     label: "Figure 22.7"
     caption: "Gentileschi, *Self-Portrait*, after treatment."
     credit: "Image: The National Gallery, London"
+    alt: "Photo of the same oil painting after treatment, now with more vivid colors and clearer details."
 
   - id: "fig-23-1"
     src: "figures/fig-23-1.jpg"
@@ -1114,6 +1219,7 @@ figure_list:
     label: "Figure 23.1"
     caption: "Roll 3 of the *Grand Panorama* on exhibition during the summer of 2018, after the conservation treatment was completed."
     credit: "Image: Courtesy of the New Bedford Whaling Museum"
+    alt: "Wide photo of a long, wood-paneled exhibition room. A long seascape painting canvas stands at the center of the room."
 
   - id: "fig-23-2"
     src: "figures/fig-23-2.jpg"
@@ -1121,6 +1227,7 @@ figure_list:
     label: "Figure 23.2"
     caption: "Panorama on tension frame during stabilization treatment. Both face and reverse of the panorama were accessible to conservators."
     credit: "Image: ConText Inc."
+    alt: "Photo of a conservator in black clothes treating the canvas (figure 23.1), which is rolled up."
 
   - id: "fig-23-3"
     src: "figures/fig-23-3.jpg"
@@ -1128,6 +1235,7 @@ figure_list:
     label: "Figure 23.3"
     caption: "Hole in roll 4, section 1, before treatment (left) and after (right)."
     credit: "Image: ConText Inc."
+    alt: "Close up photo of of a hole in the above painting (left) after it is mended (right)."
 
   - id: "fig-23-4"
     src: "figures/fig-23-4.jpg"
@@ -1135,6 +1243,7 @@ figure_list:
     label: "Figure 23.4"
     caption: "Small hole at the rope edge in roll 1, section 2, before treatment (left) and after (right)."
     credit: "Image: ConText Inc."
+    alt: "Close up photo of a small hole the edge of the painting (left) after it is mended (right)."
 
   - id: "fig-23-5"
     src: "figures/fig-23-5.jpg"
@@ -1142,6 +1251,7 @@ figure_list:
     label: "Figure 23.5"
     caption: "Holes and fabric weakness in roll 4, section 12, before treatment (left) and after (right)."
     credit: "Image: ConText Inc."
+    alt: "Close up photo showing two photos of a painting (23.1) detail of a man. To the left, there are numerous small holes in the canvas. The right photo shows the painting with the holes mended."
 
   - id: "fig-23-6"
     src: "figures/fig-23-6.jpg"
@@ -1149,6 +1259,7 @@ figure_list:
     label: "Figure 23.6"
     caption: "Details of weakness and scattered holes in roll 3, section 28, before treatment (left) and after stabilization with a dyed cotton underlay and dyed bobbinet overlay (right)."
     credit: "Image: ConText Inc."
+    alt: "Close up before (left) and after (right) photos of a paiting (23.1) detail. The painting depicts two figures walking along the shore."
 
   - id: "fig-23-7"
     src: "figures/fig-23-7.jpg"
@@ -1156,6 +1267,7 @@ figure_list:
     label: "Figure 23.7"
     caption: "Vertical cut A on roll 2, section 27, before treatment (left) and after (right)."
     credit: "Image: ConText Inc."
+    alt: "Two photos showing the treatment details of the painting (23.1)."
 
   - id: "fig-24-1"
     src: "figures/fig-24-1.jpg"
@@ -1163,6 +1275,7 @@ figure_list:
     label: "Figure 24.1"
     caption: "The conservation team lifting the loomed painting on its adapted strainer."
     credit: "Image: Yale University Art Gallery"
+    alt: "Wide photo of people in a conservation lab holding up a large, blue, circular painting."
 
   - id: "fig-24-2"
     src: "figures/fig-24-2.jpg"
@@ -1170,6 +1283,7 @@ figure_list:
     label: "Figure 24.2"
     caption: "Raking-light images of the painting before (left) and after (right) humidification and tensioning."
     credit: "Image: Yale University Art Gallery"
+    alt: "Before (left) and after (right) photos of the same painting (24.1). The first photo shows the painting as wrinkled and darker, and the second photo has brighter colors and the canvas is stretched. "
 
   - id: "fig-24-3"
     src: "figures/fig-24-3.jpg"
@@ -1177,6 +1291,7 @@ figure_list:
     label: "Figure 24.3"
     caption: "Cardboard templates, used to ensure that the attached looming strips established a radial line of tension."
     credit: "Image: Cynthia Schwarz"
+    alt: "Close up photo of a piece of cardboard being used to outline strips for the painting (24.1) canvas."
 
   - id: "fig-24-4"
     src: "figures/fig-24-4.jpg"
@@ -1184,6 +1299,7 @@ figure_list:
     label: "Figure 24.4"
     caption: "The painting during upright humidification treatment, using polycarbonate platforms as a flat surface and a variety of magnets as weights."
     credit: "Image: Cynthia Schwarz"
+    alt: "Wide photo of the painting (24.1) held up in a frame and platform in the lab."
 
   - id: "fig-24-5"
     src: "figures/fig-24-5.jpg"
@@ -1191,6 +1307,7 @@ figure_list:
     label: "Figure 24.5"
     caption: "Magnets holding a metal sheet on the verso of the painting during humidification (left) and the metal plates on verso (right)."
     credit: "Image: Cynthia Schwarz"
+    alt: "Close up photos of the front (left) and back (right) of the painting (24.1)."
 
   - id: "fig-24-6"
     src: "figures/fig-24-6.jpg"
@@ -1198,6 +1315,7 @@ figure_list:
     label: "Figure 24.6"
     caption: "Uniform edge-lining strips cut based on a template created from acrylic sheet using a CNC unit. The template was then traced onto the fabric, ensuring that the Trevira warp direction was always oriented radially from the center of the painting to the center of the middle tab."
     credit: "Image: Kelsey Wingel"
+    alt: "Close up photos of the template (left) and resulting canvas edge strips (right)."
 
   - id: "fig-24-7"
     src: "figures/fig-24-7.jpg"
@@ -1205,6 +1323,7 @@ figure_list:
     label: "Figure 24.7"
     caption: "The painting in normal light in its present state."
     credit: "Image: Yale University Art Gallery"
+    alt: "Photo of the painting (24.1) after treatment. It is a bright blue, circular, depicting numerous figures around the circumference of the painting."
 
   - id: "fig-25-1"
     src: "figures/fig-25-1.jpg"
@@ -1212,6 +1331,7 @@ figure_list:
     label: "Figure 25.1"
     caption: "Unknown Congolese artist, *Colonie Belge*, ca. 1960. Paint on canvas, 80 × 60 cm (31 1/2 × 23 3/5 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of a painting canvas atop a table. The painting depicts several human figures atop grass, with four figures chained around the neck. Two figures who appear to be guards stand above them."
 
   - id: "fig-25-2"
     src: "figures/fig-25-2.jpg"
@@ -1219,6 +1339,7 @@ figure_list:
     label: "Figure 25.2"
     caption: "Reverse of a late 20th-century painting. Paint on canvas, 70 × 50 cm (27 1/2 × 19 5/8 in.). Described as “African; found in Democratic Republic of Congo.” Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
+    alt: "Close up photo of the writing details behind the painting (25.1)."
 
   - id: "fig-25-3"
     src: "figures/fig-25-3.jpg"
@@ -1226,6 +1347,7 @@ figure_list:
     label: "Figure 25.3"
     caption: "Nkulu Tommy Emman (Congolese), *Mami Wata*, ca. 1960. Paint on canvas, 83 × 54 cm (32 5/8 × 21 1/4 in.). Described as “African; found in Kinshasa, in Democratic Republic of Congo.” Face, before treatment. Africa Museum, Tervuren, Belgium."
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of an unframed painting atop dark fabric. The painting depicts a mermaid with a snake wrapped around its tail."
 
   - id: "fig-25-4"
     src: "figures/fig-25-4.jpg"
@@ -1233,6 +1355,8 @@ figure_list:
     label: "Figure 25.4"
     caption: "Emman, *Mami Wata*, back, before treatment."
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of the painting (25.3) backing, whcih appears to be a detailed fabric."
+
 
   - id: "fig-25-5"
     src: "figures/fig-25-5.jpg"
@@ -1240,6 +1364,7 @@ figure_list:
     label: "Figure 25.5"
     caption: "Emman, *Mami Wata*, reverse, showing the transparent lining."
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of a conservator holding the clear lining of the painting."
 
   - id: "fig-25-6"
     src: "figures/fig-25-6.jpg"
@@ -1247,6 +1372,7 @@ figure_list:
     label: "Figure 25.6"
     caption: "Emman, *Mami Wata*, the transparent lining/canvas after treatment"
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of the back of the painting (25.3) with the lining."
 
   - id: "fig-25-7"
     src: "figures/fig-25-7.jpg"
@@ -1254,6 +1380,7 @@ figure_list:
     label: "Figure 25.7"
     caption: "Emman, *Mami Wata*, face, after treatment."
     credit: "Image: Emilie Desbarax"
+    alt: "Photo of the painting (25.3) with the transparent lining atop a white surface. The colors are more vivid and the fabric is stretched."
 
   - id: "fig-26-1"
     src: "figures/fig-26-1.jpg"
@@ -1261,6 +1388,7 @@ figure_list:
     label: "Figure 26.1"
     caption: "Interior of the Church of Saint Francis of Assisi Atizapan with four of the Apostolate series flanking the altar."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+    alt: "Photo of a gold church altar adorned with flowers, paintings, and small statues."
 
   - id: "fig-26-2"
     src: "figures/fig-26-2.jpg"
@@ -1268,6 +1396,7 @@ figure_list:
     label: "Figure 26.2"
     caption: "*Saint Simon* painting with part of the Apostles’ Creed in the lower right corner."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+        alt: "Long oil painting of a male figure clothed in red and blue fabric, draped across his shuolders and waist."
 
   - id: "fig-26-3"
     src: "figures/fig-26-3.jpg"
@@ -1275,6 +1404,7 @@ figure_list:
     label: "Figure 26.3"
     caption: "Canvas and strainer of the *Saint Simon* painting."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+    alt: "Photo of the back of a painting canvas (26.2)."
 
   - id: "fig-26-4"
     src: "figures/fig-26-4.jpg"
@@ -1282,6 +1412,7 @@ figure_list:
     label: "Figure 26.4"
     caption: "*Saint Simon* painting with fabric formed by 12 × 11 threads/c<sup>2</sup>."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+    alt: "Extreme close up of painting (26.2) canvas fabric."
 
   - id: "fig-26-5"
     src: "figures/fig-26-5.jpg"
@@ -1289,6 +1420,7 @@ figure_list:
     label: "Figure 26.5"
     caption: "*Saint Simon* canvas showing ferro-gallic ink marks and patterns of perforations."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+    alt: "Photo of the back of the painting (26.2) canvas that has vague marks."
 
   - id: "fig-26-6-a"
     src: "figures/fig-26-6-a.jpg"
@@ -1296,11 +1428,13 @@ figure_list:
     label: "a"
     # caption: "*Saint Matthew* painting: canvas with iron gall ink marks. (a) Before treatment. (b) After treatment."
     # credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
+    alt: "Close up photo of the canvas (26.2) back with visible marks."
 
   - id: "fig-26-6-b"
     src: "figures/fig-26-6-b.jpg"
     zoom: true
     label: "b"
+    alt: "Close up photo of the same marks (26.6.a), though the canvas is now brighter and the marks/writing are clearer."
 
   - id: "fig-27-1"
     src: "figures/fig-27-1.png"
