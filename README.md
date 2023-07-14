@@ -50,8 +50,6 @@ nvm install 17.5.0
 
 ## Creating a PDF Version
 
-While the paged.js work is ongoing, a PDF of French Silver should be created with PrinceXML (First pages was created using Prince 14.2.)
-
 1. Run `quire build`
 
 2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
@@ -65,6 +63,24 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 4. In `_site/pdf.html` find `_assets/tables/` and replace with `_assets/`
 
 5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+
+## Creating an EPUB Version
+
+As of the first publication date (July 2023) Quire's EPUB functionality was outputting invalid EPUB files. For this publication, that output was taken and manually fixed. Any changes that need to be made to the EPUB will have to be done manually to those fixed source files. The files (`_epub-src`) can be found on the department server with the final e-book files. 
+
+1. Copy the `_epub-src` directory to the project repo and change the name to `_epub`.
+
+2. Make any necessary changes within the `_epub` files.
+
+3. Run `quire epub` to create the EPUB file.
+
+4. Validate:
+
+    ```
+    java -jar path/to/local/epubcheck-5.0.0/epubcheck.jar path/to/local/quire-project/epubjs.epub
+    ```
+
+5. Resave the updated `_epub` directory as `_epub-src` to the department server.
 
 ## Customizations Made to 11ty Templates/Files
 
@@ -105,3 +121,6 @@ Add option to pass single caption for figuregroup
 
 **_plugins/transforms/outputs/pdf/transform.js**
 Remove title trunctation for PDF footers
+
+**content/_assets/styles/epub.scss**
+Completely custom css for the EPUB output
