@@ -132,7 +132,7 @@ figure_list:
     label: "Figure 2.6"
     caption: "Deforming a curled flake of paint back into the plane of the painting. (a) Illustration of the curled paint layer of thickness, *h*, and radius, *r.* (b) Effect of temperature and rate of deformation on film stiffness. A→B: slower rate of deformation, same temperature; A→C: elevated temperature, same rate of deformation; A→D: slower rate of deformation and elevated temperature."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
-    alt: "Two diagrams labeled (a) and (b). Diagram (a) depicts a curled paint layer as a blue line. Diagram (b) is a line graph with two lines, one solid black and one dotted red.
+    alt: "Two diagrams labeled (a) and (b). Diagram (a) depicts a curled paint layer as a blue line. Diagram (b) is a line graph with two lines, one solid black and one dotted red."
 
   - id: "fig-2-7"
     src: "figures/fig-2-7.png"
@@ -148,7 +148,7 @@ figure_list:
     label: "Figure 2.8"
     caption: "Failure strain master curves for two titanium white artists paint films at *T<sub>ref</sub>* = 20°C. (a) Golden acrylic. (b) Winsor & Newton oil."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
-    alt: "Two line graphs labeled (a) and (b). Graph (a) has a red line curved downward. Underneath the line it is green. Graph (b), appears similar though the line is straight.
+    alt: "Two line graphs labeled (a) and (b). Graph (a) has a red line curved downward. Underneath the line it is green. Graph (b), appears similar though the line is straight."
 
   - id: "fig-3-1"
     src: "figures/fig-3-1.jpg"
@@ -990,8 +990,7 @@ figure_list:
     label: "a"
      # caption: "(a) A recipe for *gacha* used in 1948 by Tomás Pérez Alférez, liner at the Museo del Prado for the lining of an unspecified painting of the Church of San Martín. (b) Fourier transform infrared spectroscopy (FTIR) analysis of the adhesive used to line *El sueño del Patricio Juan,* (*Juan the Patrician's Dream*) by Bartolomé Esteban Murillo. &#40;c) Measure of viscosity in a *gacha* recipe taken during the experimental study in the project."
      # credit: "Images: (a) Archivo del Museo Nacional del Prado, (b) Laboratorio de Análisis del Museo Nacional del Prado, &#40;c) Lining Project HAR 2011-24217 and Universidad Politècnica de València."
-     alt: "Photo of a document with writing in Spanish cursive."
-
+    alt: "Photo of a document with writing in Spanish cursive."
 
   - id: "fig-18-2-b"
     src: "figures/fig-18-2-b.png"
@@ -1395,7 +1394,7 @@ figure_list:
     label: "Figure 26.2"
     caption: "*Saint Simon* painting with part of the Apostles’ Creed in the lower right corner."
     credit: "Image: Claudia Garza / Archdiocese of Tlalnepantla"
-        alt: "Long oil painting of a male figure clothed in red and blue fabric, draped across his shuolders and waist."
+    alt: "Long oil painting of a male figure clothed in red and blue fabric, draped across his shoulders and waist."
 
   - id: "fig-26-3"
     src: "figures/fig-26-3.jpg"
