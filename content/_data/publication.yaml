@@ -7,7 +7,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-pages--conserving-canvas.netlify.app/'
+# url: 'https://final-pages--conserving-canvas.netlify.app/'
+url: 'https://www.getty.edu/publications/conserving-canvas/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
