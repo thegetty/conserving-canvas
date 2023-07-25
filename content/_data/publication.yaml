@@ -101,12 +101,12 @@ resource_link:
     name: PDF (13.3 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.pdf
+    url: /_assets/downloads/SchwartzMcClureCoddington_ConservingCanvas.pdf
   - type: other-format
     name: EPUB (273 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/SchwartzMcClureCoddington_ConservingCanvas.epub
+    url: /_assets/downloads/SchwartzMcClureCoddington_ConservingCanvas.epub
   - type: other-format
     name: Paperback
     media_type: print
