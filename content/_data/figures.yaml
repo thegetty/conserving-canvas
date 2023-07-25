@@ -309,7 +309,6 @@ figure_list:
   
   - id: "fig-5-1-b"
     src: "figures/fig-5-1-b.jpg"
-    zoom: true
     label: "b"
     alt: "Oil painting of an angel in a garden. The figure is clothed in flowing blue and pink flowing fabric, similar to the figure in (a)."
 
@@ -1000,7 +999,6 @@ figure_list:
 
   - id: "fig-18-2-c"
     src: "figures/fig-18-2-c.jpg"
-    zoom: true
     label: "c"
     alt: "Photo of scientific measurement tools atop a grey table."
 
@@ -2232,7 +2230,6 @@ figure_list:
 
   - id: "fig-42-2"
     src: "figures/fig-42-2.jpg"
-    zoom: true
     label: "Figure 42.2"
     caption: "Gerry Hedley demonstrating a vacuum envelope at Winterthur / University of Delaware, 1981."
     credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
@@ -2246,7 +2243,6 @@ figure_list:
 
   - id: "fig-42-4"
     src: "figures/fig-42-4.jpg"
-    zoom: true
     label: "Figure 42.4"
     caption: "Mira and Gustav Berger at ICOM-CC, Edinburgh, 1996."
     credit: "Image: Joyce Hill Stoner, PhD, Director, Preservation Studies Doctoral Program, University of Delaware"
@@ -2344,7 +2340,6 @@ figure_list:
 
   - id: "fig-45-4"
     src: "figures/fig-45-4.jpg"
-    zoom: true
     label: "Figure 45.4"
     caption: "Ground reconstruction composed of chalk in animal glue before (left) and after (right) wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.). The canvas weave became visible after impregnation."
     credit: "Image: J. Schlomoff"
@@ -2358,7 +2353,6 @@ figure_list:
 
   - id: "fig-45-6"
     src: "figures/fig-45-6.jpg"
-    zoom: true
     label: "Figure 45.6"
     caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8. The left part is not impregnated with wax resin, while the right part is. Note the striking color difference. The upper and lower edges are bare canvas."
     credit: "Image: Emilie Froment"
@@ -2557,7 +2551,6 @@ figure_list:
 
   - id: "fig-49-1-b"
     src: "figures/fig-49-1-b.jpg"
-    zoom: true
     label: "b"
 
   - id: "fig-49-1-c"
@@ -2742,28 +2735,24 @@ figure_list:
 
   - id: "fig-52-2"
     src: "figures/fig-52-2.jpg"
-    zoom: true
     label: "Figure 52.2"
     caption: "Preparation of lining canvas with strip-lining reinforcements prior to restretching. Titian (Italian, ca. 1488–1576), *Rape of Europa*, 1560–62. Oil on canvas, 179.8 × 202.4 cm (70 3/4 × 79 5/8 in.). Boston, Isabella Stewart Gardner Museum."
     credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-3"
     src: "figures/fig-52-3.jpg"
-    zoom: true
     label: "Figure 52.3"
     caption: "View of the complete blind-panel stretcher system, verso, during alignment of canvases over loose-lining and stretcher."
     credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-4"
     src: "figures/fig-52-4.jpg"
-    zoom: true
     label: "Figure 52.4"
     caption: "Corner detail, installation of Gator Board panel inserted into stretcher bar (custom fabricated by Upper Canada Stretchers)."
     credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
 
   - id: "fig-52-5"
     src: "figures/fig-52-5.jpg"
-    zoom: true
     label: "Figure 52.5"
     caption: "Restretching of the original canvas of the *Rape of Europa* and historical lining fabric: attachment to the loose-lining and blind-panel stretcher with staples and tandem tensioning."
     credit: "Image: Isabella Stewart Gardner Museum / Photo: Gianfranco Pocobene"
@@ -3116,7 +3105,6 @@ figure_list:
 
   - id: "fig-63-1"
     src: "figures/fig-63-1.jpg"
-    zoom: true
     label: "Figure 63.1"
     caption: "Photo showing the tsunami that attacked Tohoku in March 2011."
     credit: "Image: Jiji Press/AFP via Getty Images"
