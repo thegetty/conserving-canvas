@@ -8,6 +8,7 @@
  */
 
 // Stylesheets
+import '../../fonts/index.scss';
 import '../../styles/application.scss'
 import '../../styles/custom.css'
 
@@ -359,7 +360,10 @@ window.addEventListener('load', () => {
     goToFigureState({
       figureId: window.location.hash.replace(/^#/, ''),
       annotationIds: params['annotation-id'],
-      region: params['region'] ? params['region'][0] : null
+      region: params['region'] ? params['region'][0] : null,
+      sequence: {
+        index: params['sequence-index'] ? params['sequence-index'][0] : null,
+      },
     })
   }
 })

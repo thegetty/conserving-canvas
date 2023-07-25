@@ -1,5 +1,4 @@
 const path = require('path')
-const getSequenceFiles = require('./get-sequence-files')
 const Annotation = require('../annotation')
 
 /**
@@ -12,15 +11,17 @@ const Annotation = require('../annotation')
  * @return {Sequence}
  */
 module.exports = class Sequence {
-  constructor(figure, sequence) {
-    const { iiifConfig } = figure
-    this.behavior = sequence.behavior
-    this.dir = sequence.id
+  constructor(figure, sequence, files) {
+    const { behavior, id, regex, start, transition, viewing_direction } = sequence
+    this.behavior = behavior
+    this.dir = id
     this.figure = figure
-    this.files = getSequenceFiles(sequence, iiifConfig)
-    this.regex = sequence.regex
-    this.start = sequence.start
-    this.viewingDirection = sequence.viewing_direction
+    this.transition = transition // @todo calculate from number of files
+    this.files = files
+    this.id = id
+    this.regex = regex
+    this.start = start
+    this.viewingDirection = viewing_direction || sequence.viewingDirection
   }
 
   get items() {

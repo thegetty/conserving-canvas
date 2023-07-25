@@ -12,7 +12,7 @@
 if (!window.customElements.get('image-sequence')) {
   window.customElements.define('image-sequence', class extends HTMLElement {
     static get observedAttributes() {
-      return ['index'];
+      return ['index', 'rotate-to-index'];
     }
 
     get allImagesLoaded() {
@@ -20,21 +20,42 @@ if (!window.customElements.get('image-sequence')) {
     }
 
     get images() {
-      return this.root.querySelectorAll('img:not(.placeholder)');
+      if (!this.root) return [];
+      return Array.from(this.root.querySelectorAll('img:not(.placeholder)'));
     }
 
     get index() {
-      return parseInt(this.getAttribute('index')) || 0;
+      return parseInt(this.getAttribute('index'));
     }
 
     set index(value) {
       this.setAttribute('index', value);
     }
 
+    get rotateToIndex() {
+      const value = parseInt(this.getAttribute('rotate-to-index'));
+      return Number.isInteger(value) && value;
+    }
+
+    set rotateToIndex(value) {
+      const newValue = parseInt(value);
+      (Number.isInteger(newValue))
+        ? this.setAttribute('rotate-to-index', value)
+        : this.removeAttribute('rotate-to-index');
+    }
+
+    get transition() {
+      const value = parseInt(this.getAttribute('transition'));
+      return Number.isInteger(value) && value;
+    }
+
     attributeChangedCallback(name, oldValue, newValue) {
       switch (name) {
         case 'index':
-          this.updateCurrentSequenceImage(newValue, oldValue);
+          this.onIndexChange(oldValue, newValue);
+          break;
+        case 'rotate-to-index':
+          this.onRotateToIndex(oldValue, newValue);
           break;
         default:
           break;
@@ -54,6 +75,7 @@ if (!window.customElements.get('image-sequence')) {
       const { description, fadeIn, interactive, loading, overlay, placeholder, visible } = this.classNames;
       this.description = 'Click and drag horizontally to rotate image';
       this.items = this.getAttribute('items').split(',');
+      this.oldIndex = null;
       this.oldX = null;
       this.imagesLoaded = 0;
       this.isContinuous = this.getAttribute('continuous') === 'true';
@@ -297,19 +319,25 @@ img.${placeholder} {
       };
     }
 
+    getClampedIndex(index) {
+      if (!this.items) return 0;
+      return Math.max(Math.min(index, this.items.length - 1), 0);
+    }
+
     handleMouseMove({ buttons, clientX }) {
       if (buttons) {
         this.hideOverlays();
         if (this.oldX) {
           const deltaX = clientX - this.oldX;
+          const deltaIndex = Math.floor(Math.log(Math.abs(deltaX))) || 1;
           if (deltaX > 0) {
             this.isReversed
-              ? this.previousCanvas(deltaX)
-              : this.nextCanvas(deltaX);
+              ? this.previousCanvas(deltaIndex)
+              : this.nextCanvas(deltaIndex);
           } else if (deltaX < 0) {
             this.isReversed
-              ? this.nextCanvas(deltaX)
-              : this.previousCanvas(deltaX);
+              ? this.nextCanvas(deltaIndex)
+              : this.previousCanvas(deltaIndex);
           }
         }
         this.oldX = clientX;
@@ -339,11 +367,15 @@ img.${placeholder} {
       this.root.querySelector(`.${this.classNames.overlay}.${this.classNames.overlay}`).classList.remove(this.classNames.visible);
     }
 
-    nextCanvas(deltaX) {
-      const deltaIndex = Math.floor(Math.log(Math.abs(deltaX))) || 1;
-      const newIndex = this.index + deltaIndex >= this.totalCanvases
-        ? this.index + deltaIndex - this.totalCanvases
-        : this.index + deltaIndex;
+    /**
+     * Set the sequence canvas to the index `n` steps after the current index
+     * 
+     * @param {Integer} n Number of steps between start index and end index
+     */
+    nextCanvas(n=1) {
+      const newIndex = this.index + n >= this.totalCanvases
+        ? this.index + n - this.totalCanvases
+        : this.index + n;
       this.setSequenceIndex(newIndex);
     }
 
@@ -358,11 +390,68 @@ img.${placeholder} {
       }
     }
 
-    previousCanvas(deltaX) {
-      const deltaIndex = Math.floor(Math.log(Math.abs(deltaX))) || 1;
-      const newIndex = this.index - deltaIndex < 0
-        ? this.totalCanvases + this.index - deltaIndex
-        : this.index - deltaIndex;
+    onIndexChange(oldValue, newValue) {
+      newValue = parseInt(newValue);
+      const isInit = newValue && !oldValue;
+      if (isInit) {
+        this.updateCurrentSequenceImage(newValue);
+        return;
+      }
+
+      oldValue = parseInt(oldValue);
+      this.oldIndex = !isNaN(oldValue)
+        ? this.getClampedIndex(oldValue)
+        : null;
+      const isInvalidIndex = isNaN(newValue) && !isNaN(oldValue);
+      if (isInvalidIndex) {
+        console.error(`Index '${newValue}' is not a valid sequence index`);
+        this.setSequenceIndex(oldValue);
+      }
+
+      const newIndex = !isNaN(newValue)
+        ? this.getClampedIndex(newValue)
+        : this.index;
+      if (newIndex !== this.oldIndex) {
+        this.setSequenceIndex(newIndex);
+        this.updateCurrentSequenceImage(newIndex);
+      }
+    }
+
+    /**
+     * Animates a rotation by stepping through canvases from the current index to the provided `newValue`
+     */
+    onRotateToIndex(oldValue, newValue) {
+      const newIndex = parseInt(newValue);
+      if (this.index === newIndex || isNaN(newIndex) || oldValue === newValue) return;
+      const interval = setInterval(() => {
+        /**
+         * Set rotateToIndex to false when rotation is done
+         */
+        if (this.index === newIndex) {
+          this.rotateToIndex = false;
+        }
+        /**
+         * Clear the interval if user has triggered another rotation or if the rotation is complete
+         */
+        if (this.rotateToIndex !== newIndex) {
+          clearInterval(interval);
+          return;
+        }
+        /**
+         * Step through canvases
+         */
+        this.nextCanvas();
+      }, this.transition);
+    }
+
+    /**
+     * Set the sequence canvas to the index `n` indices before the current index
+     * @param {Integer} n Number of steps between start index and end index
+     */
+    previousCanvas(n=1) {
+      const newIndex = this.index - n < 0
+        ? this.totalCanvases + this.index - n
+        : this.index - n;
       this.setSequenceIndex(newIndex);
     }
 
@@ -374,8 +463,10 @@ img.${placeholder} {
     }
 
     setSequenceIndex(newIndex) {
-      this.index = newIndex;
-      this.synchronizeSequenceInstances();
+      if (newIndex !== this.index) {
+        this.index = newIndex;
+        this.synchronizeSequenceInstances();
+      }
     }
 
     showImage(imageElement, shouldFadeIn) {
@@ -388,21 +479,23 @@ img.${placeholder} {
       this.updateTimer = setTimeout(() => {
         const sequenceInstances = document.querySelectorAll(`image-sequence[sequence-id="${this.sequenceId}"]`);
         sequenceInstances.forEach((sequence) => {
-          sequence.setAttribute('index', this.index);
+          if (parseInt(sequence.getAttribute('index')) !== this.index) {
+            sequence.setAttribute('index', this.index);
+          }
         });
       }, 250);
     }
 
-    updateCurrentSequenceImage(newValue, oldValue) {
+    updateCurrentSequenceImage(newIndex) {
       if (!this.root) return;
-      const newIndex = parseInt(newValue);
-      if (!isNaN(newIndex)) {
-        /* add `fadeIn` class if we are seeing an image for the first time (if ther is no old value) */
-        this.showImage(this.images[newIndex], !oldValue);
-      }
-      const oldIndex = parseInt(oldValue);
-      if (oldIndex !== newIndex && !isNaN(oldIndex)) {
-        this.hideImage(this.images[oldIndex]);
+      /* add `fadeIn` class if we are seeing an image for the first time (if there is no old value) */
+      this.showImage(this.images[newIndex], isNaN(parseInt(this.oldIndex)));
+      if (
+        !isNaN(this.oldIndex) &&
+        newIndex !== this.oldIndex &&
+        this.images[this.oldIndex]
+      ) {
+        this.hideImage(this.images[this.oldIndex]);
       }
     }
 

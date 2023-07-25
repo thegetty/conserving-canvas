@@ -11,6 +11,8 @@ const logger = chalkFactory('_plugins:epub:manifest')
  */
 module.exports = (eleventyConfig) => {
   const removeHTML = eleventyConfig.getFilter('removeHTML')
+  const sortByKeys = eleventyConfig.getFilter('sortByKeys')
+
   const { assets, readingOrder } = eleventyConfig.globalData.epub
 
   const {
@@ -27,7 +29,6 @@ module.exports = (eleventyConfig) => {
     title
   } = eleventyConfig.globalData.publication
   const { epub, figures: { imageDir } } = eleventyConfig.globalData.config
-  const { url } = eleventyConfig.globalData.publication
 
   /**
    * Contributor name, filtered by type
@@ -103,11 +104,12 @@ module.exports = (eleventyConfig) => {
   }
 
   const coverUrl = cover()
+  resources.push({
+    url: coverUrl,
+    rel: 'cover-image'
+  })
   for (const asset of assets) {
     let item = { url: asset }
-    if (asset === coverUrl) {
-      item.rel = 'cover-image'
-    }
     resources.push(item)
   }
 
@@ -123,14 +125,13 @@ module.exports = (eleventyConfig) => {
     ],
     conformsTo: 'https://www.w3.org/TR/pub-manifest/',
     contributors: contributors('secondary'),
-    cover: coverUrl,
     creators: contributors('primary'),
     dateModifed: pubDate,
     description: publicationDescription,
     id: isbn,
     languages: language,
     publisher: publisherNameAndLocations(),
-    readingOrder: readingOrder.sort(),
+    readingOrder: readingOrder.sort(sortByKeys(['url'])),
     resources: resources,
     rights: copyright,
     title: pubTitle(),
