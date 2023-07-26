@@ -2340,6 +2340,7 @@ figure_list:
 
   - id: "fig-45-4"
     src: "figures/fig-45-4.jpg"
+    zoom: true
     label: "Figure 45.4"
     caption: "Ground reconstruction composed of chalk in animal glue before (left) and after (right) wax-resin impregnation. Detail, approximately 9 × 5 cm (3 1/2 × 2 in.). The canvas weave became visible after impregnation."
     credit: "Image: J. Schlomoff"
@@ -2353,6 +2354,7 @@ figure_list:
 
   - id: "fig-45-6"
     src: "figures/fig-45-6.jpg"
+    zoom: true
     label: "Figure 45.6"
     caption: "Oil-bound ground reconstruction composed of clay and quartz in a ratio of 4.2:0.8. The left part is not impregnated with wax resin, while the right part is. Note the striking color difference. The upper and lower edges are bare canvas."
     credit: "Image: Emilie Froment"
