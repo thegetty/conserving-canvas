@@ -54,15 +54,15 @@ git clone --recursive https://github.com/thegetty/conserving-canvas.git
 
 ### Creating a PDF Version
 
-1. Run `quire build`
+1. Switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
-2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+2. Run `quire build`
+
+3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
-
-3. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
 4. In `_site/pdf.html` find `_assets/tables/` and replace with `_assets/`
 
