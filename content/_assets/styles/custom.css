@@ -716,6 +716,11 @@ table a,
   .quire-page__content .container .content table caption strong:first-of-type {
     color: #000;
   }
+  .quire-page__content .container .content table,
+  .quire-page__content .container .content table th,
+  .quire-page__content .container .content table td {
+    border-color: #000;
+  }
   /* Don't let headings break across columns/pages */
   .quire-page h2,
   .quire-page h3,
