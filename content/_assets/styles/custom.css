@@ -10,7 +10,7 @@
 
   /* This is otherwise black by default, which can lead to issues:
   https://github.com/thegetty/conserving-canvas/issues/40 */
-  --atlas-background: transparent;
+  /* --atlas-background: transparent; */
 }
 
 /* UTILITY CLASSES
