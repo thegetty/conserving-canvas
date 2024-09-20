@@ -14,7 +14,7 @@ figure_list:
     label: "Figure 0.2"
     caption: "The Yale Art Gallery auditorium was filled with hundreds of attendees from around the world."
     credit: "Image: Mikkel Scharff"
-    alt: "An auditorium filled with attendees watch a presentation."
+    alt: "An auditorium filled entirely with attendees who watch a presentation."
 
   - id: "fig-0-3"
     src: "figures/fig-0-3.jpg"
