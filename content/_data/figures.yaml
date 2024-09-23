@@ -92,7 +92,7 @@ figure_list:
     label: "Figure 2.1"
     caption: "Stress-strain curves for a titanium white artists oil paint at different strain rates and temperatures in uniaxial tension."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
-    alt: "A line graph depicitng true train versus true stress. There are eight lines, four dotted blue lines (labeled 1a-4a) and solid red (labeled 1b-4b)."
+    alt: "A line graph depicting true strain versus true stress. There are eight lines, four dotted blue lines (labeled 1a-4a) and solid red (labeled 1b-4b)."
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.png"
@@ -100,7 +100,7 @@ figure_list:
     label: "Figure 2.2"
     caption: "Tensile test data for a nine-year-old sample of Winsor & Newton Foundation White at 20°C, 50% RH, and a rate of 2100 μe/sec."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
-    alt: "Three line graphs side-by-side, each with a single solid line. The first (to the left) is straight and the centermost and right lines are curved."
+    alt: "Three line graphs side-by-side, each with a single solid line. The first (to the left) is straight, and the centermost and right lines are curved."
 
   - id: "fig-2-3"
     src: "figures/fig-2-3.png"
@@ -1050,7 +1050,7 @@ figure_list:
     label: "Figure 19.1"
     caption: "(a) If the lining is much less stiff than any of the painting’s layers, the laminate cups at cracks in the painting due to stress alignment. Flaws in the painting are subject to the overall tension in the painting. (b) If the lining is much stiffer than any layer in the painting, stress alignment pulls the laminate flat, and flaws in the painting are not subject to the overall tension. (p) paint, (g) ground, (s) size, &#40;c) canvas, (L) lining."
     credit: "Image: © Government of Canada, Canadian Conservation Institute"
-    alt: "Two diagrams, labeled (a) and (b), showing the various layers of painting lining. The layers (top top bottom) are colored green, grey, yellow, orange, and blue."
+    alt: "Two diagrams, labeled (a) and (b), showing the various layers of painting lining. The layers (top to bottom) are colored green, grey, yellow, orange, and blue."
 
   - id: "fig-19-2"
     src: "figures/fig-19-2.png"
@@ -1437,6 +1437,7 @@ figure_list:
     label: "Figure 27.1"
     caption: "The three nanocellulose-based treatments developed and tested for canvas consolidation: pure nanocellulose dispersions (from Chalmers University of Technology, Gothenburg, Sweden), CNC nanocomposites (from Zentrum fur Bucherhaltung (ZFB), Leipzig, Germany), and multilayered nanoparticles (from Chalmers University of Technology, Gothenburg, Sweden, and CSGI, Florence, Italy)."
     credit: "Image: Alexandra Bridarolli"
+    alt: "Circles representing the canvas treatments filled with various degrees of shading. The shadings of the three types of pure nanocellulose are each distinct." 
 
   - id: "table-27-1"
     src: "tables/table-27-1.html"
@@ -1449,6 +1450,7 @@ figure_list:
     label: "Figure 27.2"
     caption: "SEM images of the modes of deposition for the consolidation treatments. Presence of interfibrillar bridges is indicated by red markings. (w) water; (h) heptane."
     credit: "Image: Alexandra Bridarolli and Oleksandr Nechyporchuk"
+    alt: "Different levels of magnification of the untreated canvas and each treatment. Red markings are present in Mc+CNC (w) and Sil-PEI-CMC on enlarged magnification."
 
   - id: "fig-27-3"
     src: "figures/fig-27-3.png"
@@ -1456,6 +1458,7 @@ figure_list:
     label: "Figure 27.3"
     caption: "Mechanical response of untreated and treated degraded cotton canvases subjected to RH cycling (20% to 80% to 20%, 25°C). (w) water; (h) heptane."
     credit: "Image: Alexandra Bridarolli"
+    alt: "A line graph depicting time in minutes versus storage modulus (*E’*) of canvas untreated and treated with some samples. Percentage of relative humidity is plotted at the top."
 
   - id: "table-27-2"
     src: "tables/table-27-2.html"
@@ -1468,6 +1471,7 @@ figure_list:
     label: "Figure 27.4"
     caption: "Percentage increase in storage modulus (*E'*) measured at 30% RH and 25°C resulting from the application of 9 g/<sup>2</sup> of treatment on historical lining canvas. The impact of the different solvents used with the treatments (water, 50:50 water + ethanol, and heptane) was also tested separately. The results are grouped by solvent: water (orange), 50:50 water + ethanol (blue), and heptane (green). For each category, five samples were measured. (w) water; (h) heptane; (w + e) water + ethanol."
     credit: "Image: Alexandra Bridarolli"
+    alt: "A horizontal bar graph showing the treatments’ percentage increase in storage modulus (*E’*) of canvas."
 
   - id: "table-27-3"
     src: "tables/table-27-3.html"
