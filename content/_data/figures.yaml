@@ -1540,6 +1540,7 @@ figure_list:
     label: "Figure 29.1"
     caption: "Adherends and various bonding techniques."
     credit: "Image: Hannah Flock, 2019"
+    alt: "An illustration showing how two different types of canvas damage can be treated. On the left, a cut thread is shown treated with a butt joint, both with and without a bridging thread. On the right, a torn thread is shown treated with an overlap joint, both with and without intermingled fibers."
 
   - id: "table-29-1"
     credit: "Table: Hannah Flock"
@@ -1557,6 +1558,7 @@ figure_list:
     label: "Figure 29.2"
     caption: "Maximum tensile forces (Fmax [N]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force (N) of each of the four bonding techniques, using each of the four adhesives. The graph includes both a low and high average measured value of N for every bonding technique."
 
   - id: "fig-29-3"
     src: "figures/fig-29-3.png"
@@ -1564,6 +1566,7 @@ figure_list:
     label: "Figure 29.3"
     caption: "Coefficients of variation (CV of Fmax [%]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph with the same X-axis as Figure 29.2 but now showing each adherent-treatment pair’s variation coefficient of Fmax as a percentage."
 
   - id: "fig-29-4"
     src: "figures/fig-29-4.png"
@@ -1571,6 +1574,7 @@ figure_list:
     label: "Figure 29.4"
     caption: "Butt joints with different adhesives: F<sub>max</sub> N of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force (N) of butt joints with four different adhesives. Each adhesive has two measurements, showing the lowest and highest mean values."
 
   - id: "fig-29-5"
     src: "figures/fig-29-5.png"
@@ -1578,6 +1582,7 @@ figure_list:
     label: "Figure 29.5"
     caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> [N] of uniaxially tested canvas strips with bonds."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force (N) of butt joints using five different lengths of Arbocel cellulose fibers combined with 25% sturgeon-glue solution."
 
   - id: "fig-29-6"
     src: "figures/fig-29-6.jpg"
@@ -1585,6 +1590,7 @@ figure_list:
     label: "Figure 29.6"
     caption: "The Consolidation Pen Winnie."
     credit: "Image: Petra Demuth, 2019"
+    alt: "A device for applying adhesive. One portion is an applicator with a syringe-like design, attached by wire to a solder unit that allows a selection of temperatures from 100 to 400 degrees celsius."
 
   - id: "fig-29-7"
     src: "figures/fig-29-7.jpg"
@@ -1592,6 +1598,7 @@ figure_list:
     label: "Figure 29.7"
     caption: "Working under a microscope using the Consolidation Pen Winnie."
     credit: "Image: Petra Demuth, 2019"
+    alt: "A pair of hands working on canvas, the left hand using the syringe-like applicator of the Consolidation Pen Winnie and the right hand holding a pointed tool."
 
   - id: "fig-30-1"
     src: "figures/fig-30-1.jpg"
