@@ -1484,6 +1484,7 @@ figure_list:
     label: "Figure 28.1"
     caption: "Adhesive meshes with square and more recent honeycomb structures."
     credit: "Image: Mona Konietzny"
+    alt: "A magnified view of adhesive meshes showing a square pattern (top); a honeycomb pattern (bottom); and further magnification of the honeycomb pattern (right)."
 
   - id: "fig-28-2"
     src: "figures/fig-28-2.jpg"
@@ -1491,6 +1492,7 @@ figure_list:
     label: "Figure 28.2"
     caption: "Removing a dried methyl cellulose mesh from a laser-cut silicone mold."
     credit: "Image: Mona Konietzny"
+    alt: "A layer of adhesive mesh peeled back from a silicone mold that has a honeycomb pattern imprinted on it."
 
   - id: "fig-28-3"
     src: "figures/fig-28-3.jpg"
@@ -1498,6 +1500,7 @@ figure_list:
     label: "Figure 28.3"
     caption: "Otto Möller (German, 1883–1964), *Untitled*, ca. 1900–1950. Oil on canvas, 68.3 × 54.5 cm (26 7/8 × 21 1/2 in.). Private collection. Placing a nonwoven strip with activated methyl cellulose mesh on the tacking margin for strip-lining."
     credit: "Image: Estate of Otto Möller / Photo: Jonathan Debik"
+    alt: "An oil painting on canvas lying flat on a white sheet. A pair of hands in latex gloves stretches a mesh strip over the sheet at the top of the painting." 
 
   - id: "fig-28-4"
     src: "figures/fig-28-4.jpg"
@@ -1505,6 +1508,7 @@ figure_list:
     label: "Figure 28.4"
     caption: "Preparation for strip-lining: placing a methyl cellulose mesh (Benecel A4C) on nonwoven polyester strips."
     credit: "Image: Jonathan Debik"
+    alt: "A gloved hand delicately places a strip of adhesive mesh on top of a larger, nonwoven polyester strip."
 
   - id: "fig-28-5"
     src: "figures/fig-28-5.png"
@@ -1512,6 +1516,7 @@ figure_list:
     label: "Figure 28.5"
     caption: "Activation and application of adhesive meshes for readily accessible bonding surfaces (strip-lining with sandwich of nonwoven polyester and adhesive mesh)."
     credit: "Image: Mona Konietzny"
+    alt: "Illustrations demonstrating the four steps of the bonding process: spraying water on the meshes and strips; covering them; applying them to each side of the canvas; and, lastly, adding weight on top."
 
   - id: "fig-28-6"
     src: "figures/fig-28-6.jpg"
@@ -1519,6 +1524,7 @@ figure_list:
     label: "Figure 28.6"
     caption: "Inserting a methyl cellulose mesh (Methocel A15LV) between detached canvas layers."
     credit: "Image: Mona Konietzny"
+    alt: "Tweezers slide a small piece of honeycomb-patterned mesh between the original and lining canvas."
 
   - id: "fig-28-7"
     src: "figures/fig-28-7.png"
@@ -1526,6 +1532,7 @@ figure_list:
     label: "Figure 28.7"
     caption: "Application of adhesive meshes to poorly accessible bonding surface by means of a nonwoven capillary fabric."
     credit: "Image: Mona Konietzny"
+    alt: "Illustrations demonstrating the four steps of bonding when there is minimal access to the bonding surface. This is similar to the process outlined in Figure 28.5 but with the use of nonwoven capillary fabric added on top of the adhesive mesh from the beginning of the process." 
 
   - id: "fig-29-1"
     src: "figures/fig-29-1.png"
