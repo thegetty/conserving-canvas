@@ -1606,6 +1606,7 @@ figure_list:
     label: "Figure 30.1"
     caption: "Heiber (right, at microscope) demonstrating his tear-mending technique at a 2004 workshop at the J. Paul Getty Museum."
     credit: "Image: Robert Proctor"
+    alt: "A group of people are centered around a man in a conservation lab, watching him work with his hands under a microscope."
 
   - id: "fig-30-2"
     src: "figures/fig-30-2.png"
@@ -1613,6 +1614,7 @@ figure_list:
     label: "Figure 30.2"
     caption: "Modification of Heiber’s work stretcher attachment to maintain tacking margins without flattening. (a) Diagram illustrating the process of modification. (b) Detail of a painting attached to a work stretcher using this modified method. Since the tension is equilibrial, the tacking margins will remain at a right angle (see figs. 30.2 [a] and 30.3 [b])."
     credit: "Image: Robert Proctor"
+    alt: "(a) A drawing showing the three-step process of attaching a painting to a particular type of work stretcher using wooden blocks and nylon straps. (b) A photo showing the final result of attaching a painting’s tacking margins to this type of work stretcher."
 
   - id: "fig-30-3"
     src: "figures/fig-30-3.jpg"
@@ -1620,6 +1622,7 @@ figure_list:
     label: "Figure 30.3"
     caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. A stretcher can be assembled to “hug” the three unaffected sides—either clamped together or held with mending plates (see b). &#40;c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
     credit: "Image: Robert Proctor"
+    alt: "(a) View underneath of a painting held by a standard wooden stretcher showing tacking margins held by numerous bulldog clips. (b) View underneath a stretcher holding a painting using clamps and a mending plate, with space to access the lower part of the painting. (c) A mock-up showing the placement of various elements placed on top of one another, including Hollytex, mat board, beva film, and package tape."
 
   - id: "fig-30-4"
     src: "figures/fig-30-4.jpg"
@@ -1627,6 +1630,7 @@ figure_list:
     label: "Figure 30.4"
     caption: "The author using a spoon and light bulb (inset) to employ the modified burnt finger technique."
     credit: "Image: Renate Poggendorf"
+    alt: "A man sits in a conservation lab holding a spoon tool up to a large painting on canvas with a lightbulb shining on the reverse side of the canvas. There is a detail showing the spoon and lightbulb being pressed at the same point on either side of the canvas."
 
   - id: "fig-30-5"
     src: "figures/fig-30-5.jpg"
@@ -1634,6 +1638,7 @@ figure_list:
     label: "Figure 30.5"
     caption: "Setup for technique with watch glass to set down cupped paint. (a) Detail of glass with twill tape for manipulating placement. (b) The author setting down paint with hot air and a silicone shaper using this watch glass support setup under the painting."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "(a) A large piece of board laid out on a table with two lengths of tape adhered to it vertically and horizontally. Underneath the point where the strips of tape intersect is a piece of glass with Mylar placed over it; there is also a detail of this intersection. (b) A man with a headlamp hunched over a painting that is placed on the surface of the board with attached glass from (a). He carefully works on the painting using a device that supplies hot air in one hand and a silicone shaper in his other."
 
   - id: "fig-30-6"
     src: "figures/fig-30-6.png"
@@ -1641,6 +1646,7 @@ figure_list:
     label: "Figure 30.6"
     caption: "Final step in watch glass support setup. (a) Detail of the reptile warming mat over recently consolidated area. (b) Detail under raking light before treatment of an area treated using this method. &#40;c) Detail under raking light of same area after consolidation treatment and relaxation of paint using this watch glass support setup."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "(a) A rectangular reptile warming mat with a sandbag on top of it lies on a small part of a painting. (b) A detail of canvas that has visible ridges and bumps on it, with a reference color palette and ruler below it. (c) The same canvas but now with the ridges and imperfections in the canvas smoothed out."
 
   - id: "fig-30-7"
     src: "figures/fig-30-7.jpg"
@@ -1648,6 +1654,7 @@ figure_list:
     label: "Figure 30.7"
     caption: "Various views of suction platen designed by the author. The platen can attach to a tripod like the one shown at right for ease of placement and alignment on the reverse of the canvas."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "(Left) Three views (top, side, and bottom) of a suction platen, a device comprised of a metal plate with a suction device and clamp attached to its rear. (Right) A tripod with its arm attached to the rear of the suction platen. There is also a pipe-like device attached to the suction device on the back of the suction platen that extends downward."
 
   - id: "fig-30-8"
     src: "figures/fig-30-8.png"
@@ -1655,6 +1662,7 @@ figure_list:
     label: "Figure 30.8"
     caption: "(a) Example of a setup using aluminum edging on a stretcher and minimal floss/thread attachments to close the gap in an existing tear on a canvas. Note the mending plate (circled in red) used to anchor to the crossbar of the stretcher when only one thread was required for tensioning. (b) Mock-up of possible tensioning mechanisms of screws and pushpins with clamped attachment to stretcher."
     credit: "Image: Robert Proctor"
+    alt: "(a) A rear view of a painting on canvas attached to a stretcher. An aluminum corner brace attaches the stretcher to the canvas surrounded by blue tape, which is circled. (b) A wooden beam of a stretcher held together by two clamps, embedded with numerous screws and pushpins."
 
   - id: "fig-30-9"
     src: "figures/fig-30-9.jpg"
@@ -1662,6 +1670,7 @@ figure_list:
     label: "Figure 30.9"
     caption: "Before-treatment details of a complex tear; the condition is as the painting arrived in the studio. Partial image of the reverse showing the relative size and location of the tear. Inset details the front and reverse of the tear."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "A rear view of a large canvas painting. An inset detail of one section shows a tear in the canvas that is taped over in the back of the canvas, while another inset detail shows the front view of this tear which is untreated."
 
   - id: "fig-30-10"
     src: "figures/fig-30-10.jpg"
@@ -1669,6 +1678,7 @@ figure_list:
     label: "Figure 30.10"
     caption: "Details at the tear site after retensioning showing the progression of filling and stabilization. (a) Front before filling. (b) Front after filling. &#40;c) Reverse with fill in voids. (d) Reverse after Stabiltex with Beva has been applied."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "Four images of a tear in canvas showing the progression of treatment from (a) a front view of the original tear, (b) a front view of the tear filled with white material, (c) a reverse view of the filled-in tear, and (d) the reverse view of the canvas, with the tear in the canvas now mended and covered with a mesh fabric."
 
   - id: "fig-30-11"
     src: "figures/fig-30-11.jpg"
@@ -1676,6 +1686,7 @@ figure_list:
     label: "Figure 30.11"
     caption: "Comparison of details at the tear site before treatment (top) and after (bottom)."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "A tear in the front side of canvas showing a small hole and other ruptures (top), and the same spot of canvas now mended with abrasion marks barely visible (bottom)."
 
   - id: "fig-31-1"
     src: "figures/fig-31-1.jpg"
