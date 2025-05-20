@@ -1484,6 +1484,7 @@ figure_list:
     label: "Figure 28.1"
     caption: "Adhesive meshes with square and more recent honeycomb structures."
     credit: "Image: Mona Konietzny"
+    alt: "A magnified view of adhesive meshes showing a square pattern, top, a honeycomb pattern, bottom, and further magnification of the honeycomb pattern, right."
 
   - id: "fig-28-2"
     src: "figures/fig-28-2.jpg"
@@ -1491,6 +1492,7 @@ figure_list:
     label: "Figure 28.2"
     caption: "Removing a dried methyl cellulose mesh from a laser-cut silicone mold."
     credit: "Image: Mona Konietzny"
+    alt: "A layer of adhesive mesh peeled back from a silicone mold that has a honeycomb pattern imprinted on it."
 
   - id: "fig-28-3"
     src: "figures/fig-28-3.jpg"
@@ -1498,6 +1500,7 @@ figure_list:
     label: "Figure 28.3"
     caption: "Otto Möller (German, 1883–1964), *Untitled*, ca. 1900–1950. Oil on canvas, 68.3 × 54.5 cm (26 7/8 × 21 1/2 in.). Private collection. Placing a nonwoven strip with activated methyl cellulose mesh on the tacking margin for strip-lining."
     credit: "Image: Estate of Otto Möller / Photo: Jonathan Debik"
+    alt: "An oil painting on canvas lying flat on a white sheet. A pair of hands in latex gloves stretches a mesh strip over the sheet at the top of the painting." 
 
   - id: "fig-28-4"
     src: "figures/fig-28-4.jpg"
@@ -1505,6 +1508,7 @@ figure_list:
     label: "Figure 28.4"
     caption: "Preparation for strip-lining: placing a methyl cellulose mesh (Benecel A4C) on nonwoven polyester strips."
     credit: "Image: Jonathan Debik"
+    alt: "A gloved hand delicately places a strip of adhesive mesh on top of a larger, nonwoven polyester strip."
 
   - id: "fig-28-5"
     src: "figures/fig-28-5.png"
@@ -1512,6 +1516,7 @@ figure_list:
     label: "Figure 28.5"
     caption: "Activation and application of adhesive meshes for readily accessible bonding surfaces (strip-lining with sandwich of nonwoven polyester and adhesive mesh)."
     credit: "Image: Mona Konietzny"
+    alt: "Illustrations demonstrating the four steps of the bonding process. 1, spraying water on the meshes and strips. 2, covering them. 3, applying them to each side of the canvas. And four, adding weight on top."
 
   - id: "fig-28-6"
     src: "figures/fig-28-6.jpg"
@@ -1519,6 +1524,7 @@ figure_list:
     label: "Figure 28.6"
     caption: "Inserting a methyl cellulose mesh (Methocel A15LV) between detached canvas layers."
     credit: "Image: Mona Konietzny"
+    alt: "Tweezers slide a small piece of honeycomb-patterned mesh between the original and lining canvas."
 
   - id: "fig-28-7"
     src: "figures/fig-28-7.png"
@@ -1526,6 +1532,7 @@ figure_list:
     label: "Figure 28.7"
     caption: "Application of adhesive meshes to poorly accessible bonding surface by means of a nonwoven capillary fabric."
     credit: "Image: Mona Konietzny"
+    alt: "Illustrations demonstrating the four steps of bonding when there is minimal access to the bonding surface. This is similar to the process outlined in Figure 28.5 but with the use of nonwoven capillary fabric added on top of the adhesive mesh from the beginning of the process." 
 
   - id: "fig-29-1"
     src: "figures/fig-29-1.png"
@@ -1533,6 +1540,7 @@ figure_list:
     label: "Figure 29.1"
     caption: "Adherends and various bonding techniques."
     credit: "Image: Hannah Flock, 2019"
+    alt: "An illustration showing how two different types of canvas damage can be treated. On the left, a cut thread is shown treated with a butt joint, both with and without a bridging thread. On the right, a torn thread is shown treated with an overlap joint, both with and without intermingled fibers."
 
   - id: "table-29-1"
     credit: "Table: Hannah Flock"
@@ -1550,6 +1558,7 @@ figure_list:
     label: "Figure 29.2"
     caption: "Maximum tensile forces (Fmax [N]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force, labeled as N, of each of the four bonding techniques, using each of the four adhesives. The graph includes both a low and high average measured value of N for every bonding technique."
 
   - id: "fig-29-3"
     src: "figures/fig-29-3.png"
@@ -1557,6 +1566,7 @@ figure_list:
     label: "Figure 29.3"
     caption: "Coefficients of variation (CV of Fmax [%]) of uniaxially tested canvas strips with bonds. BJ: butt joint, BJ+BR: butt joint with bridging thread, OV: simple overlap joints, OV+IN: overlap joints with intermingled fibers of the thread ends."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph with the same X-axis as Figure 29.2 but now showing each adherent-treatment pair’s variation coefficient of F max as a percentage."
 
   - id: "fig-29-4"
     src: "figures/fig-29-4.png"
@@ -1564,6 +1574,7 @@ figure_list:
     label: "Figure 29.4"
     caption: "Butt joints with different adhesives: F<sub>max</sub> N of uniaxially tested canvas strips with bonds. The lowest and highest mean values of the different adhesives and bonding techniques from all test series until 2019 are presented."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force, labeled as N, of butt joints with four different adhesives. Each adhesive has two measurements, showing the lowest and highest mean values."
 
   - id: "fig-29-5"
     src: "figures/fig-29-5.png"
@@ -1571,6 +1582,7 @@ figure_list:
     label: "Figure 29.5"
     caption: "Butt joints with sturgeon glue–cellulose fiber mixtures: F<sub>max</sub> [N] of uniaxially tested canvas strips with bonds."
     credit: "Image: Hannah Flock, 2019"
+    alt: "A vertical bar graph showing the average maximum tensile force, labeled as N, of butt joints using five different lengths of Arbocel cellulose fibers combined with 25 percent sturgeon-glue solution."
 
   - id: "fig-29-6"
     src: "figures/fig-29-6.jpg"
@@ -1578,6 +1590,7 @@ figure_list:
     label: "Figure 29.6"
     caption: "The Consolidation Pen Winnie."
     credit: "Image: Petra Demuth, 2019"
+    alt: "A device for applying adhesive. One portion is an applicator with a syringe-like design, attached by wire to a solder unit that allows a selection of temperatures from 100 to 400 degrees celsius."
 
   - id: "fig-29-7"
     src: "figures/fig-29-7.jpg"
@@ -1585,6 +1598,7 @@ figure_list:
     label: "Figure 29.7"
     caption: "Working under a microscope using the Consolidation Pen Winnie."
     credit: "Image: Petra Demuth, 2019"
+    alt: "A pair of hands working on canvas, the left hand using the syringe-like applicator of the Consolidation Pen Winnie and the right hand holding a pointed tool."
 
   - id: "fig-30-1"
     src: "figures/fig-30-1.jpg"
@@ -1592,6 +1606,7 @@ figure_list:
     label: "Figure 30.1"
     caption: "Heiber (right, at microscope) demonstrating his tear-mending technique at a 2004 workshop at the J. Paul Getty Museum."
     credit: "Image: Robert Proctor"
+    alt: "A group of people are centered around a man in a conservation lab, watching him work with his hands under a microscope."
 
   - id: "fig-30-2"
     src: "figures/fig-30-2.png"
@@ -1599,6 +1614,7 @@ figure_list:
     label: "Figure 30.2"
     caption: "Modification of Heiber’s work stretcher attachment to maintain tacking margins without flattening. (a) Diagram illustrating the process of modification. (b) Detail of a painting attached to a work stretcher using this modified method. Since the tension is equilibrial, the tacking margins will remain at a right angle (see figs. 30.2 [a] and 30.3 [b])."
     credit: "Image: Robert Proctor"
+    alt: "Image labeled A is a drawing showing the three-step process of attaching a painting to a particular type of work stretcher using wooden blocks and nylon straps. Image labeled B is a photo showing the final result of attaching a painting’s tacking margins to this type of work stretcher."
 
   - id: "fig-30-3"
     src: "figures/fig-30-3.jpg"
@@ -1606,6 +1622,7 @@ figure_list:
     label: "Figure 30.3"
     caption: "Examples of different methods of suspending a painting in a work stretcher while maintaining the tacking margins without flattening. (a) Painting in a standard stretcher with tacking margins preserved using bulldog clips. (b) Painting suspended in a new stretcher to allow access only to the lower edge of the painting; note the clamping and mending plates from the reverse. A stretcher can be assembled to “hug” the three unaffected sides—either clamped together or held with mending plates (see b). &#40;c) Mock-up illustrating how to attach Hollytex and tape to suspend the painting in the stretcher."
     credit: "Image: Robert Proctor"
+    alt: "Image labeled A is a view underneath of a painting held by a standard wooden stretcher showing tacking margins held by numerous bulldog clips. Image b shows a view underneath a stretcher holding a painting using clamps and a mending plate, with space to access the lower part of the painting. Image C is a mock-up showing the placement of various elements placed on top of one another, including Hollytex, mat board, beva film, and package tape."
 
   - id: "fig-30-4"
     src: "figures/fig-30-4.jpg"
@@ -1613,6 +1630,7 @@ figure_list:
     label: "Figure 30.4"
     caption: "The author using a spoon and light bulb (inset) to employ the modified burnt finger technique."
     credit: "Image: Renate Poggendorf"
+    alt: "A man sits in a conservation lab holding a spoon tool up to a large painting on canvas with a lightbulb shining on the reverse side of the canvas. There is a detail showing the spoon and lightbulb being pressed at the same point on either side of the canvas."
 
   - id: "fig-30-5"
     src: "figures/fig-30-5.jpg"
@@ -1620,6 +1638,7 @@ figure_list:
     label: "Figure 30.5"
     caption: "Setup for technique with watch glass to set down cupped paint. (a) Detail of glass with twill tape for manipulating placement. (b) The author setting down paint with hot air and a silicone shaper using this watch glass support setup under the painting."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "Image A shows a large piece of board laid out on a table with two lengths of tape adhered to it vertically and horizontally. Underneath the point where the strips of tape intersect is a piece of glass with Mylar placed over it; there is also a detail of this intersection. Image B shows a man with a headlamp hunched over a painting that is placed on the surface of the board with the attached glass from image A. He carefully works on the painting using a device that supplies hot air in one hand and a silicone shaper in his other."
 
   - id: "fig-30-6"
     src: "figures/fig-30-6.png"
@@ -1627,6 +1646,7 @@ figure_list:
     label: "Figure 30.6"
     caption: "Final step in watch glass support setup. (a) Detail of the reptile warming mat over recently consolidated area. (b) Detail under raking light before treatment of an area treated using this method. &#40;c) Detail under raking light of same area after consolidation treatment and relaxation of paint using this watch glass support setup."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "Image A shows a rectangular reptile warming mat with a sandbag on top of it lies on a small part of a painting. Image B shows a detail of canvas that has visible ridges and bumps on it, with a reference color palette and ruler below it. Image C appears like the canvas from B but it now has the ridges and imperfections in the canvas smoothed out."
 
   - id: "fig-30-7"
     src: "figures/fig-30-7.jpg"
@@ -1634,6 +1654,7 @@ figure_list:
     label: "Figure 30.7"
     caption: "Various views of suction platen designed by the author. The platen can attach to a tripod like the one shown at right for ease of placement and alignment on the reverse of the canvas."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "The left image shows three views, top, side, and bottom, of a suction platen, which is a device comprised of a metal plate with a suction device and clamp attached to its rear. The right image shows a tripod with its arm attached to the rear of the suction platen. There is also a pipe-like device attached to the suction device on the back of the suction platen that extends downward."
 
   - id: "fig-30-8"
     src: "figures/fig-30-8.png"
@@ -1641,6 +1662,7 @@ figure_list:
     label: "Figure 30.8"
     caption: "(a) Example of a setup using aluminum edging on a stretcher and minimal floss/thread attachments to close the gap in an existing tear on a canvas. Note the mending plate (circled in red) used to anchor to the crossbar of the stretcher when only one thread was required for tensioning. (b) Mock-up of possible tensioning mechanisms of screws and pushpins with clamped attachment to stretcher."
     credit: "Image: Robert Proctor"
+    alt: "Image A is a rear view of a painting on canvas attached to a stretcher. An aluminum corner brace attaches the stretcher to the canvas surrounded by blue tape, which is circled. Image B is a wooden beam of a stretcher held together by two clamps, embedded with numerous screws and pushpins."
 
   - id: "fig-30-9"
     src: "figures/fig-30-9.jpg"
@@ -1648,6 +1670,7 @@ figure_list:
     label: "Figure 30.9"
     caption: "Before-treatment details of a complex tear; the condition is as the painting arrived in the studio. Partial image of the reverse showing the relative size and location of the tear. Inset details the front and reverse of the tear."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "A rear view of a large canvas painting. An inset detail of one section shows a tear in the canvas that is taped over in the back of the canvas, while another inset detail shows the front view of this tear which is untreated."
 
   - id: "fig-30-10"
     src: "figures/fig-30-10.jpg"
@@ -1655,6 +1678,7 @@ figure_list:
     label: "Figure 30.10"
     caption: "Details at the tear site after retensioning showing the progression of filling and stabilization. (a) Front before filling. (b) Front after filling. &#40;c) Reverse with fill in voids. (d) Reverse after Stabiltex with Beva has been applied."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "Four images of a tear in canvas showing the progression of treatment from image A, which is a front view of the original tear, image B, which is a front view of the tear filled with white material, image C, which is a reverse view of the filled-in tear, and lastly image D, which is the reverse view of the canvas, with the tear in the canvas now mended and covered with a mesh fabric."
 
   - id: "fig-30-11"
     src: "figures/fig-30-11.jpg"
@@ -1662,6 +1686,7 @@ figure_list:
     label: "Figure 30.11"
     caption: "Comparison of details at the tear site before treatment (top) and after (bottom)."
     credit: "Image: Whitten & Proctor Fine Art Conservation"
+    alt: "A tear in the front side of canvas showing a small hole and other ruptures, top, and the same spot of canvas now mended with abrasion marks barely visible, bottom."
 
   - id: "fig-31-1"
     src: "figures/fig-31-1.jpg"
