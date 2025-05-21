@@ -99,6 +99,9 @@ Added keywords
 **_includes/components/copyright/licensing.js**
 Updated the image exclusions language, and moved print/pdf statement to new location
 
+**_includes/components/head.js**
+Remove noindex,nofollow tag
+
 **_includes/components/menu/item.js**
 Added contributor names to sidebar menu
 
